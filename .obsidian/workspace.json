@@ -11,14 +11,14 @@
             "id": "fd86958343eedf4a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "book/План книги по принципам программирования.md",
-                "bFile": "book/План книги по принципам программирования.md",
-                "aRef": ""
+                "file": "A2/Lesson 15 - Present Perfect - Общий смысл.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: План книги по принципам программирования"
+              "icon": "lucide-file",
+              "title": "Lesson 15 - Present Perfect - Общий смысл"
             }
           }
         ]
@@ -173,12 +173,13 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "fd86958343eedf4a",
+  "active": "49c0274e3b506652",
   "lastOpenFiles": [
-    "A2/Lesson 15 - Present Perfect.md",
+    "A2/Lesson 15 - Present Perfect - Общий смысл.md",
     "Добро пожаловать.md",
     "A2"
   ]
