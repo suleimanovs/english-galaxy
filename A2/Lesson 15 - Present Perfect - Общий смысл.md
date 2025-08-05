@@ -1,69 +1,103 @@
-#### 1. Введение 
-Right, its about the past, but we use Present Perfect when there is a connection with the present  
-*Верно, это о прошлом, но мы используем Present Perfect когда есть связь с настоящим* 
+# English Galaxy - A2 | Lesson 15: Present Perfect - Общий смысл
 
-I / We / You / They + have + 3-я форма глагола
-He / She / It + has + + 3-я форма глагола
-
----
-1. I can't find my keys, i think i **have** lost them
-2. He has a bad news, He **has** lost his job  
-3. I have lost my wallet, i can't find it
+**Уровень:** A2  
+**Тема:** Present Perfect - Общий смысл  
+**Дата изучения:** 05.08.2025  
+**Статус:** Пройден
 
 ---
-##### 2. Временные указатели
- Когда не понятно когда использовать Present Perfect, то нужно смотреть на временные указатели, например:
- 
- **already - уже**:
 
-1. I **have** *already* **done** it
-2. I **have** *already* **been** there
-3. I have already booked the tickets
+## Основная концепция
 
-**just - только что:**
+**Present Perfect** используется для связи прошлого с настоящим.
 
-1. I have just called him
-2. I have just understood it
-3. He has just confirmed our meeting
+> *"Right, it's about the past, but we use Present Perfect when there is a connection with the present"*
 
-**many times, three times, twice:**
-1. I have watched this movie many times
-2. I have been <u>to</u> this city many times
-3. I have been to England three times
-4. I have been to the USA twice
+### Формула построения
+- **I / We / You / They** + **have** + 3-я форма глагола
+- **He / She / It** + **has** + 3-я форма глагола
 
-**this week, this, month, this year:**
-1. She has called me this week
+---
 
-ever - когда либо:
+## Временные указатели
 
-1. Have you **ever** been to England?
+**already** - уже
+- I **have** *already* **done** it
+- I **have** *already* **been** there
+- I have already booked the tickets
 
-never - никогда:
-1. I have never been to England
+**just** - только что
+- I have just called him
+- I have just understood it
+- He has just confirmed our meeting
 
-always - всегда:
+**many times, three times, twice** - много раз, три раза, дважды
+- I have watched this movie many times
+- I have been **to** this city many times
+- I have been to England three times
+- I have been to the USA twice
 
-1. I have always wanted to do something
-2. I have always wanted to visit this place 
+**this week, this month, this year** - на этой неделе, в этом месяце, в этом году
+- She has called me this week
 
-since - c (какого-то времени)
-1. I have known him since last year
+**ever** - когда-либо
+- Have you **ever** been to England?
 
-for - на протяжений какого-то времени
+**never** - никогда
+- I have never been to England
 
-1. We have known each other for two years
+**always** - всегда
+- I have always wanted to do something
+- I have always wanted to visit this place
 
+**since** - с (какого-то времени)
+- I have known him since last year
 
-#### 3. Более сложные предложения 
+**for** - на протяжении какого-то времени
+- We have known each other for two years
+
+**yet** - еще (в отрицательных предложениях)
+- I have not been to America yet, but it is my dream to visit the United States one day
+
+---
+
+## Примеры предложений
+
+**Базовые примеры:**
+1. I can't find my keys, I think I **have** lost them
+2. He has bad news, He **has** lost his job  
+3. I have lost my wallet, I can't find it
+
+**Сложные примеры:**
 1. I have just finished working on this project
-2. Have you ever interested in business?
+2. Have you ever been interested in business?
 3. I have always wanted to be able to speak in English
-4. Have you ever been to an English speaking country
+4. Have you ever been to an English speaking country?
 
+---
 
-yet - еще:
-1. I have not been to Amerika yet, but it is my dream to visit the United States one day
+## Важные заметки
+
+- Present Perfect всегда связывает прошлое с настоящим
+- Обращать внимание на временные указатели
+- **been to** = побывать где-то
+- **yet** используется только в отрицательных предложениях
+
+---
+
+## Быстрый поиск
+
+**Формула:** have/has + V3  
+**Временные указатели:** already, just, ever, never, always, since, for, yet  
+**Ключевые слова:** connection with present, past experience, recent actions
+
+---
+
+## Связанные темы
+
+- [ ] Past Simple vs Present Perfect
+- [ ] Present Perfect Continuous
+- [ ] Present Perfect with for/since
 
 
 
