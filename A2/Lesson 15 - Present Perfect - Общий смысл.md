@@ -1,9 +1,7 @@
 # English Galaxy - A2 | Lesson 15: Present Perfect - Общий смысл
 
 **Уровень:** A2  
-**Тема:** Present Perfect - Общий смысл  
 **Дата изучения:** 05.08.2025  
-**Статус:** Пройден
 
 ---
 

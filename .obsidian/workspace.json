@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИНСТРУКЦИЯ_ДЛЯ_УРОКОВ.md",
+                "file": "A2/Lesson 16 - Present Perfect vs Past Simple.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ИНСТРУКЦИЯ_ДЛЯ_УРОКОВ"
+              "title": "Lesson 16 - Present Perfect vs Past Simple"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 237.5,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -173,13 +174,13 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "fd86958343eedf4a",
   "lastOpenFiles": [
     "A2/Lesson 15 - Present Perfect - Общий смысл.md",
+    "A2/Lesson 16 - Present Perfect vs Past Simple.md",
     "ИНСТРУКЦИЯ_ДЛЯ_УРОКОВ.md",
     "_lesson_template.md",
     "README_шаблон_уроков.md",
