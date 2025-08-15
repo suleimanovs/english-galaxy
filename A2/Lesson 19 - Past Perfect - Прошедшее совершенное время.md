@@ -25,6 +25,9 @@ When I came home, he had already done his home work - Когда я пришел
 When he came back home, she had already cooked dinner  - Когда он вернулся домой, она уже приготовила ужин.
 When he arrived, the party had already started.
 
-When he came in, we had 
+When he came in, we had already discussed everything
+
+I came back home because i had left my wallet - второе утверждение произошло раньше, по этому оно Past Perfect
+
 
 
