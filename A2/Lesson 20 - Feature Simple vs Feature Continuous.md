@@ -6,79 +6,142 @@
 
 ## Введение в тему
 
-**Past Perfect** - это время, которое показывает действие, произошедшее раньше другого действия в прошлом. Оно помогает нам правильно выстроить последовательность событий в прошлом.
+**Future Simple vs Future Continuous** - важная тема для понимания различий между простыми будущими действиями и действиями, которые будут происходить в определенный момент в будущем. Ключ к пониманию - это осознание того, что Future Simple показывает завершенные действия, а Future Continuous показывает процесс.
 
-### Когда использовать Past Perfect?
+### Когда использовать Future Simple?
+- Предсказания и прогнозы
+- Спонтанные решения
+- Обещания и предложения
+- Действия, которые произойдут в будущем
 
+### Когда использовать Future Continuous?
+- Действия, которые будут происходить в определенный момент в будущем
+- Действия, которые будут происходить в течение определенного периода в будущем
+- Вежливые вопросы о планах
+- Действия, которые уже запланированы
 
 ### Ключевая идея:
-
+- **Future Simple** = "что произойдет" (результат)
+- **Future Continuous** = "что будет происходить" (процесс)
 
 ---
 
 ## 1. Основная концепция
 
-> **Формула:** Will be + глагол + ing
+**→ Ключевое правило:** Future Continuous показывает процесс действия в будущем, а Future Simple показывает завершенное действие или намерение.
 
-### Примеры в косвенной речи:
+### Формула построения:
+- **Future Simple:** will + V (базовая форма глагола)
+- **Future Continuous:** will + be + V-ing
 
-I will think about your offer - Feature Simple 
-I will be thinking about your offer - Feature Continuous
+### Сравнение примеров:
+I will think about your offer - *→ Future Simple - я подумаю о твоем предложении*
+*Объяснение: Показывает намерение или завершенное действие*
 
-I will wait for you
-I will be waiting for you
-I will be waiting for your message
-I will be waiting for your answer
-I will be waiting for your call
-I will be waiting for the news
+I will be thinking about your offer - *→ Future Continuous - я буду думать о твоем предложении*
+*Объяснение: Показывает процесс мышления в определенный момент*
 
+I will wait for you - *→ Future Simple - я подожду тебя*
+*Объяснение: Показывает намерение ждать*
 
+I will be waiting for you - *→ Future Continuous - я буду ждать тебя*
+*Объяснение: Показывает процесс ожидания в определенный момент*
+
+I will be waiting for your message - *→ Future Continuous - я буду ждать твоего сообщения*
+*Объяснение: Показывает процесс ожидания*
+
+I will be waiting for your answer - *→ Future Continuous - я буду ждать твоего ответа*
+*Объяснение: Показывает процесс ожидания*
+
+I will be waiting for your call - *→ Future Continuous - я буду ждать твоего звонка*
+*Объяснение: Показывает процесс ожидания*
+
+I will be waiting for the news - *→ Future Continuous - я буду ждать новостей*
+*Объяснение: Показывает процесс ожидания*
 
 ---
 
-### 2. Future Continuous - более точное указание времени:
+## 2. Future Continuous - более точное указание времени
 
-They will be having a meeting at ten am tomorrow
-I will be having a rest tomorrow at ten o'clock in the morning
-What will you be doing tomorrow at ten pm?
-What will you be doing tomorrow at ten o'clock in the evening?
+**→ Ключевое правило:** Future Continuous часто используется с точным указанием времени, когда действие будет происходить.
 
-I will be studying tomorrow at this time
+### Примеры с точным временем:
+They will be having a meeting at ten am tomorrow - *→ Future Continuous - они будут проводить встречу завтра в 10 утра*
+*Объяснение: Показывает процесс, который будет происходить в конкретное время*
 
-I will be learning English tomorrow all day
-I will be having a rest all day tomorrow
-I will be working all day tomorrow
+I will be having a rest tomorrow at ten o'clock in the morning - *→ Future Continuous - я буду отдыхать завтра в 10 часов утра*
+*Объяснение: Показывает процесс отдыха в конкретное время*
+
+What will you be doing tomorrow at ten pm? - *→ Future Continuous - что ты будешь делать завтра в 10 вечера?*
+*Объяснение: Вопрос о процессе в конкретное время*
+
+What will you be doing tomorrow at ten o'clock in the evening? - *→ Future Continuous - что ты будешь делать завтра в 10 часов вечера?*
+*Объяснение: Вопрос о процессе в конкретное время*
+
+I will be studying tomorrow at this time - *→ Future Continuous - я буду учиться завтра в это время*
+*Объяснение: Показывает процесс учебы в конкретное время*
+
+### Примеры с периодом времени:
+I will be learning English tomorrow all day - *→ Future Continuous - я буду изучать английский весь день завтра*
+*Объяснение: Показывает процесс в течение всего дня*
+
+I will be having a rest all day tomorrow - *→ Future Continuous - я буду отдыхать весь день завтра*
+*Объяснение: Показывает процесс отдыха в течение всего дня*
+
+I will be working all day tomorrow - *→ Future Continuous - я буду работать весь день завтра*
+*Объяснение: Показывает процесс работы в течение всего дня*
 
 ---
-### 3. Future Continuous - While:
 
-While they are having a rest, we will be working
-While we are working, they will be having a rest
+## 3. Future Continuous - While
 
-### 4. Future Continuous - When + Present Simple:
+**→ Ключевое правило:** Future Continuous используется для показа параллельных действий в будущем.
 
-When дает ограничение
+While they are having a rest, we will be working - *→ Future Continuous - пока они будут отдыхать, мы будем работать*
+*Объяснение: Показывает параллельные процессы в будущем*
 
-When she comes back home, he will be cooking
-When i come back home, they will be having  dinner
+While we are working, they will be having a rest - *→ Future Continuous - пока мы будем работать, они будут отдыхать*
+*Объяснение: Показывает параллельные процессы в будущем*
+
+---
+
+## 4. Future Continuous - When + Present Simple
+
+**→ Ключевое правило:** "When" с Present Simple создает временное ограничение для действия в Future Continuous.
+
+**• Важно:** When дает ограничение
+
+When she comes back home, he will be cooking - *→ Future Continuous - когда она вернется домой, он будет готовить*
+*Объяснение: Приготовление будет происходить в момент ее возвращения*
+
+When i come back home, they will be having dinner - *→ Future Continuous - когда я вернусь домой, они будут ужинать*
+*Объяснение: Ужин будет происходить в момент моего возвращения*
+
+---
 
 ## Сводка правил
 
-**Используйте Past Perfect когда:**
-- Нужно показать, что одно действие произошло раньше другого в прошлом
-- Передаете косвенную речь
-- Описываете события в хронологическом порядке
-- Говорите о действиях, завершившихся до определенного момента в прошлом
+**Используйте Future Simple когда:**
+- Делаете предсказания или прогнозы
+- Принимаете спонтанные решения
+- Даете обещания или предложения
+- Говорите о действиях, которые произойдут в будущем
+
+**Используйте Future Continuous когда:**
+- Действие будет происходить в определенный момент в будущем
+- Действие будет происходить в течение определенного периода
+- Задаете вежливые вопросы о планах
+- Показываете параллельные действия в будущем
 
 **⚠ Частые ошибки:**
-- Не путайте с Present Perfect (связь с настоящим vs связь с прошлым)
-- Запомните: Past Perfect всегда требует контекста другого действия в прошлом
-- "Had done" ≠ "have done" (прошлое до прошлого ≠ связь с настоящим)
+- Не путайте Future Simple с Future Continuous (результат vs процесс)
+- Запомните: Future Continuous часто требует указания времени
+- "Will do" ≠ "will be doing" (завершенное действие ≠ процесс)
 
-**• Структура предложений с Past Perfect:**
-1. Действие в Past Perfect (раньше)
-2. Действие в Past Simple (позже)
-*Пример: I had finished work when she called.*
+**• Структура предложений с Future Continuous:**
+1. Действие в Future Continuous (процесс)
+2. Временное указание или параллельное действие
+*Пример: I will be working when you arrive.*
 
 
 
