@@ -30,6 +30,7 @@ I will be waiting for you
 I will be waiting for your message
 I will be waiting for your answer
 I will be waiting for your call
+I will be waiting for the news
 
 
 
@@ -52,57 +53,15 @@ I will be working all day tomorrow
 ### 3. Future Continuous - While:
 
 While they are having a rest, we will be working
-While we are 
+While we are working, they will be having a rest
 
-## 3. Past Perfect - By
+### 4. Future Continuous - When + Present Simple:
 
-**→ Ключевое правило:** "By" указывает на момент времени, к которому действие уже завершилось.
+When дает ограничение
 
-### Использование "by" + время:
-*"By" показывает, что действие было завершено к определенному моменту*
+When she comes back home, he will be cooking
+When i come back home, they will be having  dinner
 
-I had finished my work **by** five - *→ Я закончил работу к пяти часам*
-*Объяснение: Работа была завершена до 5 часов*
-
-They had completed the task by two o'clock - *→ Они завершили задачу к двум часам*
-*Объяснение: Задача была выполнена до 2 часов*
-
-I had returned home by six - *→ Я вернулся домой к шести часам*
-*Объяснение: Возвращение произошло до 6 часов*
-
-I had corrected this mistake by that time - *→ Я исправил эту ошибку к тому времени*
-*Объяснение: Ошибка была исправлена до указанного момента*
-
-She had not finished this report by Friday - *→ Она не закончила этот отчет к пятнице*
-*Объяснение: Отчет не был завершен до пятницы*
-
-### Использование "By the time":
-*"By the time" = "к тому времени, как..." - показывает завершение действия до другого события*
-
-By the time i called her, she had already written that report - *→ К тому времени, как я ей позвонил, она уже написала тот отчет*
-*Объяснение: Написание отчета произошло раньше, чем звонок*
-
-By the time he arrived at the party, all the guests had already left - *→ К тому времени, как он пришел на вечеринку, все гости уже ушли*
-*Объяснение: Уход гостей произошел раньше, чем его прибытие*
-
-I noticed that he had left his bag - *→ Я заметил, что он оставил свою сумку*
-*Объяснение: Оставление сумки произошло раньше, чем обнаружение*
-
-### Использование "find out":
-*"Find out" = "выяснить, обнаружить" - часто используется с Past Perfect для показа последовательности событий*
-
-He found out that he had lost the keys - *→ Он выяснил, что потерял ключи*
-*Объяснение: Потеря ключей произошла раньше, чем обнаружение этого факта*
-
-I found out that i had left the keys somewhere - *→ Я выяснил, что оставил ключи где-то*
-*Объяснение: Оставление ключей произошло раньше, чем осознание этого*
-
-I had managed to finish my work by five - *→ Мне удалось закончить работу к пяти часам*
-*Объяснение: Завершение работы произошло до 5 часов*
-
-recently - недавно
-
-She said that She had seen  one of our friends recently
 ## Сводка правил
 
 **Используйте Past Perfect когда:**
