@@ -5,69 +5,160 @@
 
 ## Введение в тему
 
-Zero Conditional - If
-If + Present Simple + Present Simple
-If i have free time, i usually go somewhere with my friends
+**First Conditional** - это условное предложение, которое показывает реальную возможность в будущем. Оно используется, когда мы говорим о возможных событиях, которые могут произойти в будущем.
 
-If i do exercises  on a regularly basis, i feel  real progress
+### Когда использовать First Conditional?
+- Когда говорим о реальных возможностях в будущем
+- Когда описываем планы, которые зависят от определенных условий
+- Когда даем обещания или предупреждения
+- Когда обсуждаем вероятные результаты действий
 
-on a regularly basis - на регулярной основе 
+### Ключевая идея:
+First Conditional показывает "если это произойдет, то это случится" - реальная возможность в будущем.
 
+---
 
-First Conditional - If
+## 1. Основная концепция
 
-If i see it, i will tell you
+**• Формула:** If + Present Simple + will + инфинитив
+*Запомните: В условной части (после if) всегда используется Present Simple, даже если речь идет о будущем*
 
-Хоть на русском "если я увижу это" является будущим временем в англиском это present Simple, почему?
+### Почему Present Simple в условной части?
+Хотя на русском "если я увижу это" является будущим временем, в английском это Present Simple. Это происходит потому, что условная часть показывает условие, которое должно быть выполнено в момент принятия решения.
 
-If the weather is good , we will go to this place.
-If he is not busy tomorrow, he will go to the party
-If it  rains, i will stay at home
+### Примеры базовой структуры:
+If I see it, I will tell you - *→ Если я увижу это, я скажу тебе.*
+*Объяснение: Условие (увидеть) → результат (сказать)*
 
-If it rains, we will not go to the park
-If i don't  hurry up, i will be late
-If we don't hurry up, we will miss the bus
+If the weather is good, we will go to this place - *→ Если погода будет хорошей, мы пойдем в это место.*
+*Объяснение: Условие (хорошая погода) → результат (пойти)*
 
-First Conditional - When
+If he is not busy tomorrow, he will go to the party - *→ Если он не будет занят завтра, он пойдет на вечеринку.*
+*Объяснение: Условие (не быть занятым) → результат (пойти на вечеринку)*
 
-When she hears it, she will be shocked
+If it rains, I will stay at home - *→ Если пойдет дождь, я останусь дома.*
+*Объяснение: Условие (дождь) → результат (остаться дома)*
 
-When she calls me , i will tell her about it
-He will buy it, when he has this opportunity
+---
 
-If, When дают ограничения и мы используем именно Present SImple
+## 2. First Conditional - Отрицательные предложения
 
-Другие фразы и слова дающие ограничения
+**→ Ключевое правило:** Отрицание может быть как в условной части, так и в главной части предложения.
 
-First Conditional - Before
+### Отрицание в главной части:
+If it rains, we will not go to the park - *→ Если пойдет дождь, мы не пойдем в парк.*
+*Объяснение: Условие (дождь) → отрицательный результат (не пойти)*
 
-I need to get to the bank, before it clothes
+If I don't hurry up, I will be late - *→ Если я не потороплюсь, я опоздаю.*
+*Объяснение: Условие (не поторопиться) → результат (опоздать)*
 
-First Conditional - After
+If we don't hurry up, we will miss the bus - *→ Если мы не поторопимся, мы пропустим автобус.*
+*Объяснение: Условие (не поторопиться) → результат (пропустить автобус)*
 
-I will be able to do it after i solve this problem
+### Отрицание в условной части:
+If you don't mind, I will do it - *→ Если ты не возражаешь, я сделаю это.*
+*Объяснение: Условие (не возражать) → результат (сделать)*
 
-First Conditional - In case - в случае, если
+---
 
-What will we do in case he refuses?
+## 3. First Conditional - When
 
+**→ Ключевое правило:** "When" используется вместо "if", когда событие точно произойдет, а не является условным.
 
-First Conditional - till, until
+### Использование "when":
+*"When" показывает, что событие произойдет точно, а не возможно*
 
-I will be at home until you call me
-I will be at work, till she calls me
+When she hears it, she will be shocked - *→ Когда она услышит это, она будет шокирована.*
+*Объяснение: "Услышит" произойдет точно, результат - шок*
 
-First Conditional - as soon as - как только
-I will tell you this information as soon as i know
+When she calls me, I will tell her about it - *→ Когда она позвонит мне, я расскажу ей об этом.*
+*Объяснение: "Позвонит" произойдет точно, результат - рассказ*
 
-I will let you know, **when** she tells me about it
+He will buy it, when he has this opportunity - *→ Он купит это, когда у него будет такая возможность.*
+*Объяснение: "Будет возможность" произойдет точно, результат - покупка*
 
-let you know - дам тебе знать
+I will let you know, when she tells me about it - *→ Я дам тебе знать, когда она расскажет мне об этом.*
+*Объяснение: "Расскажет" произойдет точно, результат - сообщение*
 
-I will do it , if you dont mind
+*let you know = дам тебе знать*
 
-if you dont mind - если ты не возражаешь/против
-I will suppose that i wil manage to buy it when i have such an opportunity
+---
+
+## 4. First Conditional - Другие временные маркеры
+
+**→ Ключевое правило:** Существуют другие слова и фразы, которые дают ограничения и требуют использования Present Simple в условной части.
+
+### Использование "before":
+*"Before" = "до того, как" - показывает действие, которое должно произойти раньше*
+
+I need to get to the bank, before it closes - *→ Мне нужно добраться до банка, до того как он закроется.*
+*Объяснение: Прибытие должно произойти раньше закрытия*
+
+### Использование "after":
+*"After" = "после того, как" - показывает действие, которое произойдет после*
+
+I will be able to do it after I solve this problem - *→ Я смогу сделать это после того, как решу эту проблему.*
+*Объяснение: Способность появится после решения проблемы*
+
+### Использование "in case":
+*"In case" = "в случае, если" - показывает подготовку к возможной ситуации*
+
+What will we do in case he refuses? - *→ Что мы будем делать в случае, если он откажется?*
+*Объяснение: Планирование действий на случай отказа*
+
+### Использование "till/until":
+*"Till/until" = "до тех пор, пока" - показывает продолжительность действия*
+
+I will be at home until you call me - *→ Я буду дома до тех пор, пока ты мне не позвонишь.*
+*Объяснение: Пребывание дома продолжится до звонка*
+
+I will be at work, till she calls me - *→ Я буду на работе до тех пор, пока она мне не позвонит.*
+*Объяснение: Пребывание на работе продолжится до звонка*
+
+### Использование "as soon as":
+*"As soon as" = "как только" - показывает немедленное действие после события*
+
+I will tell you this information as soon as I know - *→ Я расскажу тебе эту информацию, как только узнаю.*
+*Объяснение: Рассказ произойдет сразу после получения информации*
+
+---
+
+## 5. Дополнительные примеры и выражения
+
+### Полезные выражения:
+I will suppose that I will manage to buy it when I have such an opportunity - *→ Я предполагаю, что мне удастся купить это, когда у меня будет такая возможность.*
+*Объяснение: Предположение о будущей покупке при наличии возможности*
+
+*on a regularly basis = на регулярной основе*
+
+If I do exercises on a regularly basis, I feel real progress - *→ Если я делаю упражнения на регулярной основе, я чувствую реальный прогресс.*
+*Объяснение: Регулярные упражнения приводят к прогрессу*
+
+If I have free time, I usually go somewhere with my friends - *→ Если у меня есть свободное время, я обычно куда-то хожу с друзьями.*
+*Объяснение: Наличие свободного времени приводит к походу с друзьями*
+
+---
+
+## Сводка правил
+
+**Используйте First Conditional когда:**
+- Говорите о реальных возможностях в будущем
+- Описываете планы, зависящие от условий
+- Даете обещания или предупреждения
+- Обсуждаете вероятные результаты действий
+
+**⚠ Частые ошибки:**
+- Не используйте will в условной части (после if/when)
+- Запомните: Present Simple в условной части, will + инфинитив в главной
+- Не путайте "if" (возможность) и "when" (уверенность)
+
+**• Структура предложений с First Conditional:**
+1. If/When + Present Simple (условие)
+2. will + инфинитив (результат)
+*Пример: If it rains, I will stay at home.*
+
+**• Временные маркеры, требующие Present Simple:**
+- if, when, before, after, in case, till, until, as soon as
 
 
 
