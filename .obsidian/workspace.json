@@ -179,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5,
-    "collapsed": true
+    "width": 509.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02493f0b8bbbed59",
+  "active": "49c0274e3b506652",
   "lastOpenFiles": [
     "A2/Lesson 20 - Feature Simple vs Feature Continuous.md",
     "A2/Lesson 21 - Первое условное, наклонение First Conditional if when.md",
