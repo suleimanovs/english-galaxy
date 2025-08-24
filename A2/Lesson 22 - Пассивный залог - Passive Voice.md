@@ -39,5 +39,36 @@ The meeting was cancelled
 The flight was delayed
 Our flight was delayed 
 
+A new house was built in this area
+
+The road was repared
+
+All the food was eaten
+The mistake was corrected
+
+The mistakes were corrected
+The book was written by him
+
+I was invited to this party
 
 
+4.Future Simple Passive
+will be + + 3-я форма глагола
+
+It will be checked 
+
+This work will be done on time
+
+All the mistakes will be corrected
+
+It will be  announced later 
+
+Too little  is done to solve this problem
+
+Too much is said, but too little is done
+
+They say that it can  happen 
+
+It is said that it can happen
+
+English is spoken by all the wol
