@@ -5,70 +5,171 @@
 
 ## Введение в тему
 
-Passive Voice - Когда действие совершается кем-то или чем-то, 
+**Passive Voice (Пассивный залог)** - это грамматическая конструкция, которая показывает, что действие совершается над предметом или лицом, а не самим предметом или лицом. В пассивном залоге акцент делается на результате действия, а не на том, кто его выполняет.
 
-1.Пассивный залог - общий смысл и оброзование
-форма to be + 3-я форма глагола
+### Когда использовать Passive Voice?
+- Когда не важно, кто выполняет действие
+- Когда исполнитель действия неизвестен
+- Когда акцент делается на результате действия
+- Когда говорим о процессах, технологиях, общих фактах
+- Когда исполнитель действия очевиден из контекста
 
-It is made in China
-It was made in China
-It will be made in Japan
+### Ключевая идея:
+Passive Voice показывает "что происходит с объектом", а не "кто что делает".
 
+---
 
-2.Present Simple Passive
+## 1. Основная концепция
 
-am/ is / are + 3-я форма глагола
+**• Формула:** to be + Past Participle (3-я форма глагола)
+*Запомните: Пассивный залог всегда состоит из формы глагола "to be" + 3-я форма основного глагола*
 
-This wine is produced in Italy
-Everything is controlled - само, кем-то чем-то 
-She is often criticized 
+### Общие примеры:
+It is made in China - *→ Это сделано в Китае.*
+*Объяснение: Акцент на месте производства, а не на производителе*
 
+It was made in China - *→ Это было сделано в Китае.*
+*Объяснение: Прошлое действие, акцент на месте производства*
 
-3.Past Simple Passive
+It will be made in Japan - *→ Это будет сделано в Японии.*
+*Объяснение: Будущее действие, акцент на месте производства*
 
-was/were + 3-я форма глагола
+---
 
-Their letter was received 
-Your payment was received
-Her bag was stolen 
+## 2. Present Simple Passive
 
-I was informed 
-We were informed
+**→ Ключевое правило:** am/is/are + Past Participle (3-я форма глагола)
 
-The meeting was cancelled 
-The flight was delayed
-Our flight was delayed 
+### Примеры Present Simple Passive:
+This wine is produced in Italy - *→ Это вино производится в Италии.*
+*Объяснение: Общий факт о производстве вина*
 
-A new house was built in this area
+Everything is controlled - *→ Все контролируется.*
+*Объяснение: Самоконтроль или контроль кем-то/чем-то*
 
-The road was repared
+She is often criticized - *→ Ее часто критикуют.*
+*Объяснение: Акцент на результате критики, а не на критиках*
 
-All the food was eaten
-The mistake was corrected
+English is spoken all over the world - *→ Английский язык говорят по всему миру.*
+*Объяснение: Общий факт о распространении языка*
 
-The mistakes were corrected
-The book was written by him
+Spanish is spoken in many countries - *→ Испанский язык говорят во многих странах.*
+*Объяснение: Общий факт о распространении языка*
 
-I was invited to this party
+Too little is done to solve this problem - *→ Слишком мало делается для решения этой проблемы.*
+*Объяснение: Акцент на недостаточности действий*
 
+Too much is said, but too little is done - *→ Слишком много говорится, но слишком мало делается.*
+*Объяснение: Контраст между словами и действиями*
 
-4.Future Simple Passive
-will be + + 3-я форма глагола
+---
 
-It will be checked 
+## 3. Past Simple Passive
 
-This work will be done on time
+**→ Ключевое правило:** was/were + Past Participle (3-я форма глагола)
 
-All the mistakes will be corrected
+### Примеры Past Simple Passive:
+Their letter was received - *→ Их письмо было получено.*
+*Объяснение: Акцент на факте получения, а не на получателе*
 
-It will be  announced later 
+Your payment was received - *→ Ваша оплата была получена.*
+*Объяснение: Акцент на факте получения оплаты*
 
-Too little  is done to solve this problem
+Her bag was stolen - *→ Ее сумка была украдена.*
+*Объяснение: Акцент на результате кражи, исполнитель неизвестен*
 
-Too much is said, but too little is done
+I was informed - *→ Мне сообщили.*
+*Объяснение: Акцент на факте информирования*
 
-They say that it can  happen 
+We were informed - *→ Нам сообщили.*
+*Объяснение: Акцент на факте информирования группы*
 
-It is said that it can happen
+The meeting was cancelled - *→ Встреча была отменена.*
+*Объяснение: Акцент на результате отмены*
 
-English is spoken by all the wol
+The flight was delayed - *→ Рейс был задержан.*
+*Объяснение: Акцент на результате задержки*
+
+Our flight was delayed - *→ Наш рейс был задержан.*
+*Объяснение: Акцент на результате задержки*
+
+A new house was built in this area - *→ Новый дом был построен в этом районе.*
+*Объяснение: Акцент на результате строительства*
+
+The road was repaired - *→ Дорога была отремонтирована.*
+*Объяснение: Акцент на результате ремонта*
+
+All the food was eaten - *→ Вся еда была съедена.*
+*Объяснение: Акцент на результате потребления*
+
+The mistake was corrected - *→ Ошибка была исправлена.*
+*Объяснение: Акцент на результате исправления*
+
+The mistakes were corrected - *→ Ошибки были исправлены.*
+*Объяснение: Акцент на результате исправления множественных ошибок*
+
+The book was written by him - *→ Книга была написана им.*
+*Объяснение: Исполнитель указан через "by"*
+
+I was invited to this party - *→ Я был приглашен на эту вечеринку.*
+*Объяснение: Акцент на факте приглашения*
+
+---
+
+## 4. Future Simple Passive
+
+**→ Ключевое правило:** will be + Past Participle (3-я форма глагола)
+
+### Примеры Future Simple Passive:
+It will be checked - *→ Это будет проверено.*
+*Объяснение: Акцент на будущем результате проверки*
+
+This work will be done on time - *→ Эта работа будет сделана вовремя.*
+*Объяснение: Акцент на будущем результате выполнения*
+
+All the mistakes will be corrected - *→ Все ошибки будут исправлены.*
+*Объяснение: Акцент на будущем результате исправления*
+
+It will be announced later - *→ Это будет объявлено позже.*
+*Объяснение: Акцент на будущем результате объявления*
+
+---
+
+## 5. Особые случаи и выражения
+
+### Использование "They say" vs "It is said":
+They say that it can happen - *→ Говорят, что это может произойти.*
+*Объяснение: Активная форма с неопределенным подлежащим*
+
+It is said that it can happen - *→ Говорят, что это может произойти.*
+*Объяснение: Пассивная форма, более формальный стиль*
+
+### Общие выражения с Passive Voice:
+*Эти выражения часто используются в пассивном залоге для описания общих фактов и процессов*
+
+---
+
+## Сводка правил
+
+**Используйте Passive Voice когда:**
+- Не важно, кто выполняет действие
+- Исполнитель действия неизвестен
+- Акцент делается на результате действия
+- Говорите о процессах, технологиях, общих фактах
+- Исполнитель действия очевиден из контекста
+
+**⚠ Частые ошибки:**
+- Не путайте активный и пассивный залог
+- Запомните: всегда to be + 3-я форма глагола
+- Не забывайте о согласовании времени (Present/Past/Future)
+
+**• Структура предложений с Passive Voice:**
+1. Подлежащее (объект действия)
+2. to be + Past Participle
+3. Дополнения (by + исполнитель - опционально)
+*Пример: The letter was written by John.*
+
+**• Временные формы Passive Voice:**
+- Present Simple: am/is/are + Past Participle
+- Past Simple: was/were + Past Participle  
+- Future Simple: will be + Past Participle
