@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A2/Lesson 22 - Пассивный залог - Passive Voice.md",
+                "file": "A2/Lesson 23 - Пассивный и активный залог.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 22 - Пассивный залог - Passive Voice"
+              "title": "Lesson 23 - Пассивный и активный залог"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -180,14 +181,15 @@
   },
   "active": "02493f0b8bbbed59",
   "lastOpenFiles": [
-    "A2/Lesson 21 - Первое условное, наклонение First Conditional if when.md",
     "A2/Lesson 22 - Пассивный залог - Passive Voice.md",
+    "A2/Lesson 23 - Пассивный и активный залог.md",
+    "A2/Lesson 21 - Первое условное, наклонение First Conditional if when.md",
+    "Времена в англиском.md",
     "A2/Lesson 18 - Present Perfect Continues - Настоящее совершенное время.md",
     "A2/Lesson 19 - Past Perfect - Прошедшее совершенное время.md",
     "A2/Lesson 20 - Feature Simple vs Feature Continuous.md",
     "A2/Lesson 16 - Present Perfect - Общий смысл.md",
     "A2/Lesson 17 - Present Perfect vs Past Simple.md",
-    "Времена в англиском.md",
     "ИНСТРУКЦИЯ_ДЛЯ_УРОКОВ.md",
     "Паттерны.md",
     "_lesson_template.md",
