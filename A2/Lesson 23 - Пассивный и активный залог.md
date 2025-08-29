@@ -37,4 +37,17 @@ Active vs Passive Voice in Feature Simple
 He will complete the task soon
 The task will be completed soon
 This work will be finished soon
+I will finish this work soon
 
+People speak English all over the world 
+We all see that English is spoken all over the world
+
+I dont understand why these problems are ignored
+
+Nothing is done to improve these conditions
+
+closely connected - тесно связаны
+
+These things are closely connected with each - other
+
+I see that these two things are closely connected with each other
