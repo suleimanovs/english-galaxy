@@ -39,3 +39,23 @@ We were lying on the beach, Time was passing very slowly
 
 6. Present Perfect
 Have you ever been to America? 
+
+I have just come home
+
+7.Present Perfect Continuous
+for, since, how long
+
+How long have you been learning English?
+
+I have been learning English for about three years
+How long have you known each other?
+
+We have known each other for a very long time -  know не употребляется в Present Perfect Continuous
+
+8. Past Perfect
+
+He said that, he had already answered her letter
+9. Feature continuous
+
+I will be waiting for your answer
+I will be waiting for the next videos 
