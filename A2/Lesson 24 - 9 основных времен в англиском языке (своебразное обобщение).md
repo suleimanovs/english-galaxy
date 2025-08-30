@@ -5,6 +5,13 @@
 
 ## Введение в тему
 
+### Ключевая идея
+Краткое обобщение 9 основных времён: когда использовать, формулы и характерные маркеры. Ниже сохранены все твои оригинальные заметки; добавлены только структурные заголовки и сводка.
+
+---
+
+## 1. Основная концепция
+
 1.Present Simple - есть два основных случая - есть глагол / нет глагола
 
 когда есть глагол:
@@ -59,3 +66,22 @@ He said that, he had already answered her letter
 
 I will be waiting for your answer
 I will be waiting for the next videos 
+
+---
+
+## Сводка правил
+
+- **Present Simple**: факты, привычки; be/мн. число без вспомогательных в утверждениях.
+- **Present Continuous**: действие сейчас; be + V-ing; маркеры now, at the moment, look.
+- **Future Simple**: will + V; спонтанные решения, обещания, прогнозы.
+- **Past Simple**: завершённое прошлое; yesterday, last, ago, when + Past Simple.
+- **Past Continuous**: процесс в прошлом; was/were + V-ing; while, when (фон/вставка).
+- **Present Perfect**: связь с настоящим; have/has + 3-я форма глагола (Past Participle); already, just, ever, never, since, for, yet.
+- **Present Perfect Continuous**: процесс до настоящего; have/has been + V-ing; for, since, how long, lately, all day.
+- **Past Perfect**: «прошлое до прошлого»; had + 3-я форма глагола (Past Participle); by, by the time, when (ранее действие).
+- **Future Continuous**: процесс в будущем; will be + V-ing; at 10 tomorrow, all day tomorrow.
+
+**⚠ Частые ошибки**
+- Путаница времён Present Simple vs Present Continuous (состояние vs процесс).
+- Использование will в придаточном времени после if/when/as soon as.
+- Смешение маркеров ago/last с Present Perfect.
