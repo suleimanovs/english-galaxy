@@ -21,13 +21,37 @@ Have/ Has + been + verb + ing
 
 He has been learning English for three years
 
-Present Perfect - действие начавшегося в прошлом но имеет связь с настощим
+Present Perfect -  Действия, произошедшие в прошлом, но результат важен сейчас
 
 He has just come home
 
 I have never been to the USA, but i want to go there one day
 
-I have alreafy done it
+I have already finished it
+
+Past Perfect - Действия, произошедшие раньше других действий в прошлом
+
+She said that she had bought a very fashionable dress
+
+Feature Simple
+
+If the weather doesnt change , i will stay at home
+If  дает ограничение, по этому после If использкем present simple
+
+I will tell you my opinion after i read this article
+after дает ограничение, по этому после after использкем present simple
+
+Future Continuous
+will be + verb + ing
+
+I will be waiting for your message
+
+
+
+
+
+
+
 
 
 
