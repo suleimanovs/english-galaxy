@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english words/Intro.md",
+                "file": "Времена в англиском.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "Времена в англиском"
             }
           }
         ]
@@ -178,10 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fc422490737c0b3",
+  "active": "02493f0b8bbbed59",
   "lastOpenFiles": [
-    "english words/Глаголы + предлог (50 шт) 1fb6624924a2806fbe0bd0d1e72d7bcc.md",
     "english words/Intro.md",
+    "Времена в англиском.md",
+    "english words/Глаголы + предлог (50 шт) 1fb6624924a2806fbe0bd0d1e72d7bcc.md",
     "english words/verb_preposition_phrases.csv",
     "english words/noun_preposition_phrases.csv",
     "english words/adjective_preposition_phrases.csv",
@@ -196,7 +197,6 @@
     "A2/Lesson 23 - Пассивный и активный залог.md",
     "A2/Lesson 22 - Пассивный залог - Passive Voice.md",
     "A2/Lesson 21 - Первое условное, наклонение First Conditional if when.md",
-    "Времена в англиском.md",
     "A2/Lesson 18 - Present Perfect Continues - Настоящее совершенное время.md",
     "A2/Lesson 19 - Past Perfect - Прошедшее совершенное время.md",
     "A2/Lesson 20 - Feature Simple vs Feature Continuous.md",
