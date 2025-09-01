@@ -59,6 +59,13 @@ When did you lose it?
 
 He came home a minute ago
 
+He passed the test because he had prepared form it very thoroughly 
+
+It was a very difficult choice for all of us
+I will call you as soon as i finish it 
+
+
+I am thinking about it at the moment
 
 
 
