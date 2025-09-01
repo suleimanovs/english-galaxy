@@ -46,6 +46,22 @@ will be + verb + ing
 
 I will be waiting for your message
 
+Смешанная практика.
+I know it now.
+
+While she was sleeping, he was writing a report
+
+I'm extremely exhausted, because i have been working all day
+
+I was having  dinner, when he called me
+
+When did you lose it? 
+
+He came home a minute ago
+
+
+
+
 
 
 
