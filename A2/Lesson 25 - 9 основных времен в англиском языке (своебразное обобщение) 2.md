@@ -75,7 +75,7 @@ What were you doing yesterday  at six oclock in the evening?
 
 He cant asnwer now, because he is having a shower
 
-The shop was closed so
+The shop was closed so we went to go to another place
 
 
 
