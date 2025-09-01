@@ -67,7 +67,15 @@ I will call you as soon as i finish it
 
 I am thinking about it at the moment
 
+I was in this city two days ago
 
+What did you do yesterday? 
+
+What were you doing yesterday  at six oclock in the evening?
+
+He cant asnwer now, because he is having a shower
+
+The shop was closed so
 
 
 
