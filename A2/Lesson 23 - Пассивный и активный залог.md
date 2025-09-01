@@ -4,76 +4,89 @@
 ---
 
 ## Введение в тему
+Пассивный залог фокусируется на объекте и результате действия (to be + 3-я форма глагола, Past Participle), активный — на исполнителе действия.
+
+### Когда использовать Active Voice?
+- Когда важен исполнитель действия
+- Когда даём инструкции, описываем процессы шаг за шагом
+- Когда нужен более прямой и живой стиль
+
+### Когда использовать Passive Voice?
+- Когда исполнитель неизвестен или неважен
+- Когда важен результат/объект действия
+- Когда говорим о правилах, технологиях, фактах
 
 ### Ключевая идея
-Пассивный залог фокусируется на объекте и результате действия (to be + 3-я форма глагола (Past Participle), например: write–wrote–written → written), активный — на исполнителе действия.
+Active: "кто что делает" → Passive: "что сделано (кем)".
 
 ---
 
 ## 1. Основная концепция
 
-### 1.1 Present Simple — Active vs Passive
- 
-Active vs Passive Voice in Present Simple
+**• Формулы:**
+- Active: Subject + Verb + Object
+- Passive: Object + to be (в нужном времени) + V3 (+ by Subject — опционально)
 
-Active Voice - Это как мы обычно говорим?
+**• Преобразование Active → Passive:**
+Object → подлежащее, глагол → V3, глагол to be ставим в то же время, что и смысловой глагол был в Active.
 
-The company produces these goods in China
+---
 
-Passive Voice - используем когда дейсвтие совершается кем-то или чем-то
+## 2. Present Simple — Active vs Passive
 
-форма глагола to be + 3-я форма глагола (Past Participle, например: written)
+The company produces these goods in China → These goods are produced in China  
+*Акцент на товаре/месте производства, а не на компании*
 
-These goods are produced China
+They often criticize her → She is often criticized  
+*Акцент на результате (критикуют её)*
 
-She is often criticized 
+People speak English all over the world → English is spoken all over the world  
+*Общий факт, пассив звучит естественно*
 
-They often criticize her
+---
 
-### 1.2 Past Simple — Active vs Passive
+## 3. Past Simple — Active vs Passive
 
-Active vs Passive Voice in Past Simple
+They stole this money → This money was stolen (by them)  
+*Исполнитель неважен/очевиден*
 
-They stole this money
-This money was stolen by them
-He canceled the meeting unexpectedly
+He cancelled the meeting unexpectedly → The meeting was cancelled unexpectedly  
+*Сфокусированы на событии — отмене*
 
-The meeting was canceled unexpectedly
-He wrote a new book
-A new book was written by him
+He wrote a new book → A new book was written by him  
+*Исполнитель указывается через by (необязательно)*
 
+---
 
-### 1.3 Future Simple — Active vs Passive
+## 4. Future Simple — Active vs Passive
 
-Active vs Passive Voice in Feature Simple
+He will complete the task soon → The task will be completed soon  
+*Будущий результат*
 
-He will complete the task soon
-The task will be completed soon
-This work will be finished soon
-I will finish this work soon
+I will finish this work soon → This work will be finished soon  
+*Будущий результат*
 
-People speak English all over the world 
-We all see that English is spoken all over the world
+---
 
-I dont understand why these problems are ignored
+## 5. Полезные конструкции
 
-Nothing is done to improve these conditions
-
-closely connected - тесно связаны
-
-These things are closely connected with each - other
-
-I see that these two things are closely connected with each other
+I don't understand why these problems are ignored.  
+Nothing is done to improve these conditions.  
+These things are closely connected with each other.
 
 ---
 
 ## Сводка правил
 
-- **Когда использовать Passive Voice**: когда неважен или неизвестен исполнитель, когда акцент на результате.
-- **Формула Passive**: соответствующая форма to be + 3-я форма глагола (Past Participle).
-- **Настоящее**: am/is/are + 3-я форма глагола (Past Participle); **Прошедшее**: was/were + 3-я форма глагола (Past Participle); **Будущее**: will be + 3-я форма глагола (Past Participle).
-- **Active → Passive**: объект активного становится подлежащим пассивного; исполнитель — через by (опционально).
+**Используйте Active Voice когда:** важен исполнитель, стиль должен быть прямым.  
+**Используйте Passive Voice когда:** важен результат/объект, исполнитель неизвестен/неважен.
 
-**⚠ Частые ошибки**
-- Путаница времён в to be (is/was/will be) при преобразовании.
-- Опускание 3-й формы глагола в пассиве.
+**Формула Passive:** to be (в нужном времени) + V3.  
+**Временные формы to be:** am/is/are; was/were; will be.
+
+**Active → Passive:** объект становится подлежащим; исполнитель — через by (опционально).
+
+**⚠ Частые ошибки:**
+- Неверная форма to be (is/was/will be)
+- Отсутствует V3 (3-я форма глагола) в пассиве
+- Лишний by, когда исполнитель очевиден/неважен
