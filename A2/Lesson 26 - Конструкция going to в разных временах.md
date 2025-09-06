@@ -53,6 +53,7 @@ He wasn't  going to say it
 
 I was going to call you
 
+More difficult :
 What is she going to do **in case** it happens? -  in case дает ограничение на future simple, по этому используется Present SImple
 
 What are you going to do **if** this thing happens? - if дает ограничение на future simple, по этому используется Present SImple
@@ -61,7 +62,14 @@ I'm going to find out what he knows
 
 I'm going to find out what happened
 
-How i see, it is going to rain
+As i see, it is going to rain
+
+Who is going to come?
+
+I'm going to do it next time
+
+I'm gonna do it next time
+
 
 
 
