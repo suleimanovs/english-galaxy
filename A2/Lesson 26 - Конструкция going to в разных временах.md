@@ -22,4 +22,22 @@ in advance - заранее, так же beforehand
 I'm going to book these tickets in advance
 
 
-I'm going to book 
+I'm going to book this room beforehand
+
+I'm not going to waste my time on it
+
+She is going to come to us
+I'm going to talk to him
+
+
+I'm not going to talk to him
+I'm going to finish my work soon
+
+I'm going to train much more intensively
+I'm going to do it tomorrow
+
+What are you going to do?
+
+What are you going to do tonight ?
+
+What are you going to do in this situation?
