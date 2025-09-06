@@ -41,3 +41,27 @@ What are you going to do?
 What are you going to do tonight ?
 
 What are you going to do in this situation?
+
+What are you going to do with it?
+
+Past Simple
+Was/ Were + going to + verb
+
+He was going to come to us
+
+He wasn't  going to say it
+
+I was going to call you
+
+What is she going to do **in case** it happens? -  in case дает ограничение на future simple, по этому используется Present SImple
+
+What are you going to do **if** this thing happens? - if дает ограничение на future simple, по этому используется Present SImple
+
+I'm going to find out what he knows
+
+I'm going to find out what happened
+
+How i see, it is going to rain
+
+
+
