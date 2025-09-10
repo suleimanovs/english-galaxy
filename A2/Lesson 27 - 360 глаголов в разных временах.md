@@ -45,7 +45,21 @@ I would do the same in your place
 
 How did you manage to resolve this conflict 
 
-I believe that a solution 
+I believe that a solution to this problem exists
+
+You need to multiply ten by five to get this figure
+
+I'm sure that i will be able to reach the next level
+
+I have been reading this article for about ten minutes
+
+They often argue for no reason
+
+
+
+She  spent all day cooking and cleaning
+
+His flight wa
 
 
 
