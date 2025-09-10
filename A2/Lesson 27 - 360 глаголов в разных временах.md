@@ -32,6 +32,21 @@ measure - измеорять
 
 I try to measure my progress quite often
 
+If you don't have enough  practice you will forget it very quickly
+
+chat - болтать
+
+
+They were sitting on the floor and chatting about something
+
+We have been walking in the park for about half an hour
+
+I would do the same in your place
+
+How did you manage to resolve this conflict 
+
+I believe that a solution 
+
 
 
 
