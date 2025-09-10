@@ -59,7 +59,7 @@ They often argue for no reason
 
 She  spent all day cooking and cleaning
 
-His flight wa
+His flight was delayed  
 
 
 
