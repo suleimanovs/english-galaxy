@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A2/Lesson 27 - 360 глаголов в разных временах.md",
+                "file": "A2/Lesson 28 - 360 глаголов в разных временах 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 27 - 360 глаголов в разных временах"
+              "title": "Lesson 28 - 360 глаголов в разных временах 2"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -195,9 +196,10 @@
   },
   "active": "b72647286f109688",
   "lastOpenFiles": [
-    "times/Прошедшие времена (Past).md",
     "A2/Lesson 27 - 360 глаголов в разных временах.md",
+    "A2/Lesson 28 - 360 глаголов в разных временах 2.md",
     "A2/Lesson 26 - Конструкция going to в разных временах.md",
+    "times/Прошедшие времена (Past).md",
     "times/Настоящие времена (Present).md",
     "A2/Lesson 25 - 9 основных времен в англиском языке (своебразное обобщение) 2.md",
     "english words/Существительные + предлог (50 шт) 1fb6624924a280218baef5ef1b4aed8c.md",
@@ -229,7 +231,6 @@
     "ИНСТРУКЦИЯ_ДЛЯ_УРОКОВ.md",
     "Паттерны.md",
     "_lesson_template.md",
-    "README_шаблон_уроков.md",
     "A2"
   ]
 }
