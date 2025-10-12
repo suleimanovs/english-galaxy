@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "New"
             }
+          },
+          {
+            "id": "0a6482333f19cf56",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.9.14"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b72647286f109688",
+  "active": "0a6482333f19cf56",
   "lastOpenFiles": [
     "english words/Intro.md",
     "english words/New.md",
