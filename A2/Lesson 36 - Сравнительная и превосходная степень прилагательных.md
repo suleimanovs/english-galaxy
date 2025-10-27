@@ -35,3 +35,36 @@ the most expensive - самый дорогой
 
 This ticket is more expensive
 It is the most expensive thing
+
+---
+
+effective - эффективный
+more effective - эффективнее
+the most effective - самый эффективный
+
+This method is more effective
+It is the most effective method
+
+---
+good - хороший
+better - лучше
+the best - лучший
+
+It is better
+It is the best price
+
+---
+bad - плохой
+worse - хуже
+the worst - самый плохой
+
+The quality of this product is worse
+It is the worst choice
+
+---
+old - старый
+older - старше
+
+He is older mer
+
+---
