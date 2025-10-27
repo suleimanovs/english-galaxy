@@ -83,3 +83,22 @@ This idea is more interesting
 It is a more interesting idea
 
 ---
+
+than me - чем я
+than him - чем он
+than her - чемо на
+
+He knows it better than me
+I know it better than him
+
+This thing is more expensive than that one
+That hotel is much more than this one
+I dont think that it is much easier 
+
+---
+
+In my opinion, it is the best choice
+From my point of view it is the most beautiful place in the world
+Definitely, it is better 
+
+---
