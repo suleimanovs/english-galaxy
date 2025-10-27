@@ -64,7 +64,22 @@ It is the worst choice
 ---
 old - старый
 older - старше
+My elder brother - мой старший брат
 
-He is older mer
+He is older than me
+He is three years older than me
+He is my elder brother
+
+---
+
+This way is much shorter
+These tickets are much cheaper
+It is much more expensive 
+
+---
+
+It is a cheaper hotel
+This idea is more interesting 
+It is a more interesting idea
 
 ---
