@@ -34,6 +34,15 @@ He is the same age as me
 It can happen in the near future
 It might happen in the near future 
 It may happen in the near future 
+I am waiting for further instructions
+This test is much easier than the  previous one
+This test is much more difficult than that one 
 
+It is one of the most important things
+He is one of the richest people in the world 
+It is one of the biggest cities in England
+It is one of the most difficult things for understanding 
+
+It is one of the most effective ways of learning English
 
 
