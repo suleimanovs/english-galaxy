@@ -44,5 +44,9 @@ It is one of the biggest cities in England
 It is one of the most difficult things for understanding 
 
 It is one of the most effective ways of learning English
+It is one of the best movies i  have ever watched 
+It is one of the most interesting books i have ever read
+It is the most beautiful place i  have ever seen
+It is one of the most beautiful places i  have ever visited
 
 
