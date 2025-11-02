@@ -49,9 +49,16 @@ The box is big enough
 ### 5. few / a few
 
 few - если далее множестсенное число
-a few - если далее единственное число исчислямое
+a few - несколько
 
 He has few friends
+I  have a few good friends
+I have a few questions 
+He made some mistakes
+She made a few mistakes 
+Unfortunately, few people understand it
+Unfortunately, not so many people understand it
 
-
+I want to make fewer mistakes  
+I feel much more confidence and i make much fewer mistakes than 
 
