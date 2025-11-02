@@ -60,5 +60,7 @@ Unfortunately, few people understand it
 Unfortunately, not so many people understand it
 
 I want to make fewer mistakes  
-I feel much more confidence and i make much fewer mistakes than 
+I feel much more confidence and i make much fewer mistakes than before
+It was such a pleasure to meet you
 
+It was such a pleasure to meet you at last
