@@ -33,4 +33,25 @@ I have lots of friends
 He has lots of interesting ideas 
 She has lots of energy 
 
-### 3. so much /  a lot of / lots of - много
+### 3. so much /  so many - так много
+
+I have so many questions
+He has so many problems.
+You have so much enthusiasm 
+He has so much money 
+
+### 4. enough - достаточно
+These lessons are good enough 
+The quality of this product is good enough
+The box is big enough
+
+
+### 5. few / a few
+
+few - если далее множестсенное число
+a few - если далее единственное число исчислямое
+
+He has few friends
+
+
+
