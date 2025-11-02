@@ -1,4 +1,4 @@
-**Дата изучения:** 30.10.2025  
+**Дата изучения:** 02.11.2025  
 
 ---
 
@@ -17,4 +17,20 @@ I really like such weather
 I really like such food.
 
 Such a thing can happen
-Such a theory exists 
+Such a theory exists
+Why did he say such a thing? 
+
+It was such a cold day
+It is such a useful resource 
+It is such a useful application 
+
+### 3. many /  a lot of / lots of - много
+
+I have many friends.
+I have a lot of friends
+I have lots of friends
+
+He has lots of interesting ideas 
+She has lots of energy 
+
+### 3. so much /  a lot of / lots of - много
