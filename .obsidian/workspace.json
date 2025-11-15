@@ -20,35 +20,8 @@
               "icon": "lucide-file",
               "title": "Lesson 42 - 230 самых важных прилагательных в разных временах - часть 4"
             }
-          },
-          {
-            "id": "f8c35f70ef500786",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.10.3"
-            }
-          },
-          {
-            "id": "4f04c62b6a91c528",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://github.com/obsidianmd/obsidian-api/commit/359ffc30309077aa45954b9203fd30e5ac3da837",
-                "title": "Initial update for v1.10.0. · obsidianmd/obsidian-api@359ffc3 · GitHub",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Initial update for v1.10.0. · obsidianmd/obsidian-api@359ffc3 · GitHub"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f04c62b6a91c528",
+  "active": "1c10e0e00bb30805",
   "lastOpenFiles": [
     "A2/Lesson 41 - 230 самых важных прилагательных в разных временах - часть 3.md",
     "A2/Lesson 42 - 230 самых важных прилагательных в разных временах - часть 4.md",
