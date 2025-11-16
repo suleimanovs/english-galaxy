@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5ca5eb6e980b8640",
+        "id": "7475245ce4a3836a",
         "type": "tabs",
         "children": [
           {
-            "id": "1c10e0e00bb30805",
+            "id": "d174745fc9b0d7f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A2/Lesson 43 - 230 самых важных прилагательных в разных временах - часть 5.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lesson 43 - 230 самых важных прилагательных в разных временах - часть 5"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 237.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -179,10 +174,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c10e0e00bb30805",
+  "active": "6fc422490737c0b3",
   "lastOpenFiles": [
-    "A2/Lesson 41 - 230 самых важных прилагательных в разных временах - часть 3.md",
+    "Без названия",
     "A2/Lesson 43 - 230 самых важных прилагательных в разных временах - часть 5.md",
+    "A2/Lesson 41 - 230 самых важных прилагательных в разных временах - часть 3.md",
     "A2/Lesson 42 - 230 самых важных прилагательных в разных временах - часть 5.md",
     "A2/Lesson 42 - 230 самых важных прилагательных в разных временах - часть 4.md",
     "A2/Lesson 40 - 230 самых важных прилагательных в разных временах - часть 2.md",
@@ -206,7 +202,6 @@
     "A2/Lesson 27 - 360 глаголов в разных временах.md",
     "A2/Lesson 26 - Конструкция going to в разных временах.md",
     "A2/Lesson 25 - 9 основных времен в англиском языке (своебразное обобщение) 2.md",
-    "english words/Существительные + предлог (50 шт) 1fb6624924a280218baef5ef1b4aed8c.md",
     "times",
     "english words/verb_preposition_phrases.csv",
     "english words/noun_preposition_phrases.csv",
