@@ -6,7 +6,10 @@ instead - вместо
 can't - не мочь, не уметь
 could - мог, мог бы
 must - должен
-should
+have/has to - должен( в силу абстоятельсв)
+may - возможно
+might - возможно
+should- следует
 
 
 get rid of - избавиться от
@@ -24,6 +27,20 @@ I could do it it all day
 We could do it right now
 Could you help me, please? 
 I must do it
-I feel that i must 
+I feel that I must get rid of these unnecessary mistakes
+She must be very tired 
+He must be very smart if he can understand it so quickly 
+He has to wear a school uniform
+He may come to the party tomorrow
+It might happen 
+
+I think you should do it 
+I think you shouldn't do it  
+
+
+
+
+
+
 
 
