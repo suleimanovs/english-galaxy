@@ -6,7 +6,7 @@ instead - вместо
 can't - не мочь, не уметь
 could - мог, мог бы
 must - должен
-have/has to - должен( в силу абстоятельсв)
+have/has to - должен( в силу абстоятельсв), приходится
 may - возможно
 might - возможно
 should- следует
@@ -45,11 +45,13 @@ You need to be much more careful
 She knows that she needs to do it later
 I would buy it right now
 I would do it in your place
-I'd like to watch this programm tonight
-
-
-
-
-
+I'd like to watch this program tonight
+I have to get up very early every day
+I had to do it again
+You will have to do it sooner or later 
+He will have to do it in any case 
+You dont need to do it again
+I dont have to get up so early today
+you dont need to worry about it ha-ha ha ha ha ha ha h
 
 
