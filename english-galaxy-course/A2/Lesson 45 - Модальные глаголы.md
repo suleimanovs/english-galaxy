@@ -10,6 +10,7 @@ have/has to - должен( в силу абстоятельсв)
 may - возможно
 might - возможно
 should- следует
+ought to - следует
 
 
 get rid of - избавиться от
@@ -35,7 +36,8 @@ He may come to the party tomorrow
 It might happen 
 
 I think you should do it 
-I think you shouldn't do it  
+I think you shouldn't do it
+
 
 
 
