@@ -17,3 +17,5 @@ dedicated
 Simplicity
 either
 simplify
+barely - едва, еле
+noticeable
