@@ -11,7 +11,7 @@ may - возможно
 might - возможно
 should- следует
 ought to - следует
-
+be able - мочь,уметь
 
 get rid of - избавиться от
 
@@ -37,8 +37,15 @@ It might happen
 
 I think you should do it 
 I think you shouldn't do it
-
-
+I suppose they ought to take more radical measures
+I will be able to do it 
+I will be able to help you 
+I need to do it somehow
+You need to be much more careful
+She knows that she needs to do it later
+I would buy it right now
+I would do it in your place
+I'd like to watch this programm tonight
 
 
 
