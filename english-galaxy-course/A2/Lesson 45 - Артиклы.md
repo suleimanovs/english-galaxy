@@ -26,10 +26,34 @@ There are two armchairs in the room
 There was a problem - Там была проблема / Была проблема
 There was a very serious problem
 
-### 5. There were ... - Имелось.../Там было.. (множественное число)
+### 6. There were ... - Имелось.../Там было.. (множественное число)
 
 There were so many guests
 There were so many people
 
-### 5. There will be ... - Будет... (множественное число)
+### 7. There will be ... - Будет... 
+
+There will be more than ten people at the party
+There will be another opportunity
+Don't worry, there will be another chance
+
+### 8. Устойчивые фразы
+
+a good sense of humour - хорошее чусвто юмора
+out of order - неисправен, вышел из строя, не работает 
+
+He has a good sense of humour
+You have a very good sense of humor 
+The printer is out of order
+The lift is out of order
+The coffee machine is out of order
+
+I think that knowledge is very important
+Knowledge is power
+As they say knowledge is power
+I think 
+
+
+
+
 
