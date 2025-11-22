@@ -41,6 +41,8 @@ Don't worry, there will be another chance
 
 a good sense of humour - хорошее чусвто юмора
 out of order - неисправен, вышел из строя, не работает 
+I firmly believe - Я твердо верю
+similar -  похожий
 
 He has a good sense of humour
 You have a very good sense of humor 
@@ -51,7 +53,11 @@ The coffee machine is out of order
 I think that knowledge is very important
 Knowledge is power
 As they say knowledge is power
-I think 
+I think that happiness is more than money
+I firmly believe that happiness is much more than just money
+There are so many people with the same problems - Существует так много людей с такими же проблемами
+
+There are many people with similar problems
 
 
 
