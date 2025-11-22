@@ -50,6 +50,10 @@ She hasn't got any experience
 I have a similar point of view
 He has a similar opinion
 I have serious doubts about it 
+He has serious doubts about the success of this project 
+Have you got any friends who are abroad? 
+Do you have any friends who live abroad? 
+
 
 
 
