@@ -33,6 +33,24 @@ Have you got a car?
 Do you have any plans for tonight?
 Have you got any plans for tonight? 
 
+Have you got any questions?
+Do you have any questions?
+
+Do you have any discounts? 
+Have you got any discounts? 
+
+He has got such plans
+She's got such intentions
+
+He hasn't got any work experience
+I've got one very interesting idea
+Have you got a minute? 
+She hasn't got any experience 
+
+I have a similar point of view
+He has a similar opinion
+I have serious doubts about it 
+
 
 
 
