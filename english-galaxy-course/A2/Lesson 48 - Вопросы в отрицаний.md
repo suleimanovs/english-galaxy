@@ -52,4 +52,26 @@ Wasn't i right?
 
 ### 5. Feature Simple 
 
-Won't you go there 
+Won't ...?
+
+Won't you go there yesterday? 
+Why won't refuse to do it ?
+
+### 6. Wouldn't you like ...? - Разве ты бы не хотел?
+
+Wouldn't you like to try it? - Разве ты бы не хотел попробовать это?
+Wouldn't you like to visit this place? - Разве ты бы не хотел посетить это место?
+
+### 7. Can't ...?
+
+Can't he understand it? 
+Why can't he do it ?
+Why can't we do it ?
+
+Why can't he say it ?
+
+
+### 8. Более сложные предложения
+
+Don't you have a friend who 
+
