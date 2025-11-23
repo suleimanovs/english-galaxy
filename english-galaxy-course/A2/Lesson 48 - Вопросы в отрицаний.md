@@ -70,8 +70,22 @@ Why can't we do it ?
 
 Why can't he say it ?
 
+### 8.Shouldn't I + глагол ...?   
 
-### 8. Более сложные предложения
+Shouldn't i do it?
 
-Don't you have a friend who 
+### 9. Более сложные предложения
+
+Don't you have a friend who lives in England ?
+Don't you have a friend who lives in the USA? 
+Can't he explain it to us ?
+Don't you know that it is true?
+
+
+10.Present Continuous
+
+Aren't +   I / we / you / they + глагол + ing ...?
+
+Aren;t
+
 
