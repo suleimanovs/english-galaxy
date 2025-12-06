@@ -31,3 +31,12 @@ He didn't go there, did he?
 She didn't help you, did she?
 
  4.Past Simple -форма глагол to be- wasn't/weren't
+She was late for the meeting, wasn't she? 
+You were late for the meeting, weren't you?
+You weren't late, were you? 
+
+
+5.Feature Simple - обычный глагол - won't
+
+He will be with you, won't he?
+We won't know about it, will we?
