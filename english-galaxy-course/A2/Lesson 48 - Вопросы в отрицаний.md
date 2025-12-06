@@ -86,6 +86,16 @@ Don't you know that it is true?
 
 Aren't +   I / we / you / they + глагол + ing ...?
 
-Aren;t
+Aren't you waiting for it?
+
+11.Present Perfect 
+
+Haven't you + 3 verb
+
+Haven't you done it yet? 
+Haven't you seen it yet? 
+Haven't you watched this movie yet? 
+
+
 
 
