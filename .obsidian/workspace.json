@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-galaxy-course/A2/Lesson 47 - Have got.md",
+                "file": "english-galaxy-course/A2/Lesson 49 - Tag Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 47 - Have got"
+              "title": "Lesson 49 - Tag Questions"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -180,9 +181,10 @@
   },
   "active": "d174745fc9b0d7f8",
   "lastOpenFiles": [
+    "times/Настоящие времена (Present).md",
     "english-galaxy-course/A2/Lesson 49 - Tag Questions.md",
-    "english-galaxy-course/A2/Lesson 48 - Вопросы в отрицаний.md",
     "english-galaxy-course/A2/Lesson 47 - Have got.md",
+    "english-galaxy-course/A2/Lesson 48 - Вопросы в отрицаний.md",
     "english-galaxy-course/A2/Lesson 46 - Модальные глаголы.md",
     "english-galaxy-course/A2/Lesson 45 - Артиклы.md",
     "english words/New.md",
@@ -205,7 +207,6 @@
     "english-galaxy-course/A2/Lesson 34 - 360 глаголов в разных временах 8.md",
     "english-galaxy-course/A2/Lesson 33 - 360 глаголов в разных временах 7.md",
     "times/Прошедшие времена (Past).md",
-    "times/Настоящие времена (Present).md",
     "english-galaxy-course/A2/Lesson 32 - 360 глаголов в разных временах 6.md",
     "english-galaxy-course/A2/Lesson 31 - 360 глаголов в разных временах 5.md",
     "english-galaxy-course/A2/Lesson 30 - 360 глаголов в разных временах 4.md",

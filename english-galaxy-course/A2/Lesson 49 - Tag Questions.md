@@ -40,3 +40,18 @@ You weren't late, were you?
 
 He will be with you, won't he?
 We won't know about it, will we?
+
+
+6.Have got / has got
+
+You have got a car, haven't you? 
+He has got a car, hasn't he? 
+
+7.Present Perfect - haven't hasn't
+
+You have already been there, haven't you?
+You have never been to this place, have you? 
+
+8.Present Perfect Continuous- haven't been hasn't been
+
+
