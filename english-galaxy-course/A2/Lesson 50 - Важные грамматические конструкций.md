@@ -27,3 +27,16 @@ Something is wrong
 Something worries him 
 I feel that something worries her
 Someone is waiting for you
+Someone is calling you
+Many of my friends simply ignore it 
+Many of these things are well known
+Most of us things so
+Most of my friends understand it
+Most of my friends support me
+ Some of The students were uppsent
+ Some of them have another opinion
+ Some of them thing differently 
+
+Nothing helps her 
+Nothing can stop him
+Nothing really worried me 
