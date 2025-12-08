@@ -40,3 +40,7 @@ Most of my friends support me
 Nothing helps her 
 Nothing can stop him
 Nothing really worried me 
+Nothing has changed since that time
+
+Nobody wants it
+Nobody knows this secret 
