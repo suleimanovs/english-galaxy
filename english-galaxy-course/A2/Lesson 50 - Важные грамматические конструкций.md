@@ -44,3 +44,9 @@ Nothing has changed since that time
 
 Nobody wants it
 Nobody knows this secret 
+
+No one is interested in it
+
+none of them - никто из них / ничего из них
+
+None of them doesn't want it
