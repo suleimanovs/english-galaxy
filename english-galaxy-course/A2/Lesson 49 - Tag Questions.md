@@ -52,6 +52,16 @@ He has got a car, hasn't he?
 You have already been there, haven't you?
 You have never been to this place, have you? 
 
-8.Present Perfect Continuous- haven't been hasn't been
+8.Present Perfect Continuous- haven't hasn't
 
+You have been working all day, haven't you? 
 
+9.Should / shouldn't
+
+I shouldn't do it, should I?
+
+10.Let's - shall we
+
+Let's(Let us) do it, shall we?
+Let's go there together, shall we? 
+Let's take a taxi, shall we?
