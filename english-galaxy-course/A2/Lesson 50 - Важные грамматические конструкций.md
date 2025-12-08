@@ -49,4 +49,17 @@ No one is interested in it
 
 none of them - никто из них / ничего из них
 
-None of them doesn't want it
+None of them <u>wants</u> it - единстенное число
+None of them <u>want</u> it - множественное число
+
+None of these things interests me
+None of this information was useful / None of the information was useful
+
+He never goes there 
+They never pay attention to it
+
+It has never interested me 
+I have never been interested in it
+
+To be honest - честно/ честно говоря / если быть честным
+To be honnest, i have never been interested in it
