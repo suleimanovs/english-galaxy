@@ -48,10 +48,36 @@ sensitive to - чувствителен к
 Some of my colleagues are very sensitive to criticism 
 
 capable of - способен сделать что-то
-
+incapable of - не способен сделать что-то
 He isn't capable of doing such a thing
 
+He is incapable of doing such a thing
 
+
+fed up with - сыть по горло чем-то
+
+She is fed up with this routine 
+
+used to - привык к чему-то
+
+I'm used to it
+
+accustomed to - привык к чему-то
+
+I'm accustomed to it
+
+I'm used to doing it
+
+I'm not used to doing it
+I'm not used to being late for work
+
+I'm accustomed  to doing it
+I'm not accustomed to doing it
+I'm not accustomed to getting up so early
+
+get used to - привыкнуть к чему-то
+
+I'm get used to
 
 
 
