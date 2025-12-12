@@ -77,7 +77,13 @@ I'm not accustomed to getting up so early
 
 get used to - привыкнуть к чему-то
 
-I'm get used to
+I got used to it soon
+
+ I got accustomed to it soon
+I got accustomed to these conditions soon
+
+
+I got accustomed to working in these conditions soon
 
 
 
