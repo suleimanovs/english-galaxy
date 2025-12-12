@@ -13,4 +13,9 @@ I'm particularly keen on foreign languages
 I'm particularly keen on learning foreign languages 
 
 related to - относящееся к чему-то, связанное с чем-то
-Let's discuss some things are related to this problem
+Let's discuss some things related to this problem
+
+concerning - касательно
+
+Let's discuss some things concerning this problem
+I need to say something concerning our last meeting
