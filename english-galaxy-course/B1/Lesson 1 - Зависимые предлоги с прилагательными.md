@@ -19,3 +19,6 @@ concerning - касательно
 
 Let's discuss some things concerning this problem
 I need to say something concerning our last meeting
+
+related to each other - связаны с друг-другом 
+ These things are closely related to each-other
