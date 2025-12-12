@@ -62,4 +62,7 @@ It has never interested me
 I have never been interested in it
 
 To be honest - честно/ честно говоря / если быть честным
-To be honnest, i have never been interested in it
+To be honest, i have never been interested in it
+I have never been in England
+To be honest, i have never been to England, but it is my greatest dream to visit it one day
+
