@@ -34,6 +34,30 @@ I'm dissatisfied with the quality of this service
 suitable for - подходящий для
 
 This book is suitable for beginners 
-
-
 inspired by - вдохновлен чем-то
+I was really inspired by this speech
+
+I was really inspired by my friend's achievements
+
+I was really inspired by the achievements of my friend
+
+close to - близко к
+
+It is close to this place 
+
+interested in - интеросоваться чем-то
+
+What are you interested in ?
+
+worried about - взволнован чем-то
+
+What are you worried about?
+I don't worry about my results
+
+What are you keen on? 
+
+afraid of - бояться чего-то/кого-то
+
+What are you afraid of? 
+
+angry aboit
