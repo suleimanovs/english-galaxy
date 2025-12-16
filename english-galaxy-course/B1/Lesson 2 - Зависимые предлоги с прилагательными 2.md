@@ -60,4 +60,10 @@ afraid of - бояться чего-то/кого-то
 
 What are you afraid of? 
 
-angry aboit
+angry about - зол на что-то
+
+What is he angry about? 
+
+surprised by / at - удивлен чем-то
+
+What are they surprised by? 
