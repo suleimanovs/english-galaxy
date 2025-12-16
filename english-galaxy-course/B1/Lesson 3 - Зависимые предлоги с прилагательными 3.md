@@ -34,4 +34,23 @@ I'm allergic to this food
 
 short of - не хватает чего-то
 
+I'm short of time 
+He is short of money 
+She is short of cash
+absent from - отсутствующий где-то
+present at - присутствующий где-то
 
+He was absent from work 
+I was absent from the meeting
+She was absent from school
+
+He was present at the meeting
+She was present at the lesson
+bored with - наскучило, надоело что-то
+
+He is bored with this format of education
+She is bored with this job
+
+nice of - мило с чьей -то стороны
+
+It is very nice of 
