@@ -18,7 +18,8 @@ in the end - в конце
 in the beginning - в начале
 at the end of something - в конце чего-то
 at the end of beginning - в начале чего-то
-lead to - 
+lead to - привести к чему-то
+I firmly believe - я твердо верю
 
 It will depend on him
 How did you answer it?
@@ -34,13 +35,19 @@ These events influenced my decision
 He devotes too <u>much</u> time to this hobby
 What is he looking for?
 How did she react to your words? 
+
 He arrived in the end
 She mentioned it in the beginning
-
 He arrived at the end of the party
 She mentioned it at the beginning of the lecture 
 
+I firmly believe that hard work can lead us to success 
+I had to adapt to those conditions 
+I have already adapted to these conditions
 
-
+What does it depend on?
+What will it depend on?
+What music do you listen to ?
+What kind of music do you listen to? 
 
 
