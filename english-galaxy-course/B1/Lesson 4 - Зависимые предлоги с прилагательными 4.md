@@ -1,0 +1,26 @@
+**Дата изучения:** 18.12.2025  
+
+---
+
+depend on - зависет от 
+answer something - отчечать на что-то
+reply to - отвечать на (более формально)
+explain to - обьяснять кому-то
+arrive  - прибывать, приезжать
+arrive <u>at</u> the party - приехать на вечеринку
+arrive <u>at</u> the meeting - приехать на встречу
+arrive <u>at</u> the airport - приехать в аэропорт
+influence - влиять , влиять на, повлиять на
+
+It will depend on him
+How did you answer it?
+How did you answer this question?
+Did she reply to your letter?
+Can you explain it to me?
+I can explain this thing to you
+He arrived <u>at</u> the conference an hour later
+It influenced me a lot
+It influenc
+
+
+
