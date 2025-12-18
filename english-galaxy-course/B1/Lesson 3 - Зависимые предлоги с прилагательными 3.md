@@ -53,4 +53,16 @@ She is bored with this job
 
 nice of - мило с чьей -то стороны
 
-It is very nice of 
+It is very nice of you 
+
+It was very nice of you to offer it
+
+get acquainted with - познакомиться с кем-то
+
+to be acquainted with - быть знаком с кем-то
+
+I want to get acquainted with him
+
+Are you acquainted with her? 
+
+
