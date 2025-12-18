@@ -11,6 +11,14 @@ arrive <u>at</u> the party - приехать на вечеринку
 arrive <u>at</u> the meeting - приехать на встречу
 arrive <u>at</u> the airport - приехать в аэропорт
 influence - влиять , влиять на, повлиять на
+devote to - посвящать чему-то
+look for - искать
+react to - реагировать на
+in the end - в конце
+in the beginning - в начале
+at the end of something - в конце чего-то
+at the end of beginning - в начале чего-то
+lead to - 
 
 It will depend on him
 How did you answer it?
@@ -20,7 +28,19 @@ Can you explain it to me?
 I can explain this thing to you
 He arrived <u>at</u> the conference an hour later
 It influenced me a lot
-It influenc
+It influenced my life greatly
+
+These events influenced my decision 
+He devotes too <u>much</u> time to this hobby
+What is he looking for?
+How did she react to your words? 
+He arrived in the end
+She mentioned it in the beginning
+
+He arrived at the end of the party
+She mentioned it at the beginning of the lecture 
+
+
 
 
 
