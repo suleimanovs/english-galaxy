@@ -13,6 +13,14 @@ answer something -  answer как глагол
 answer to something - answer как существительное
 reason for - причина чего-то
 recover from  - выздороветь после /. оправиться от
+alternative to - алтернатива чего-то
+demand - спрос
+demand for - спрос на
+solution to - решение чкго-то
+refer to - ссылаться на
+quote - цитата
+source - источник
+insist on - настаивать на 
 
 What is your attitude to it ?
 He has a very negative attitude to smoking
@@ -34,9 +42,16 @@ It is the best answer to that question
 What is the reason for it? 
 
 It will take hime some time to recover from the operation
+It seems to me, it is a good alternative to that offer
+It is a good alternative to this method
+The demand for this product is very high
+The demand for this product became/got lower 
+It is the best solution to these problems
+I think that it is the best solution to such a difficult problem
+He often refers to these quotes
+He always refers to these sources
 
-
-
+He insisted on doin
 
 
 
