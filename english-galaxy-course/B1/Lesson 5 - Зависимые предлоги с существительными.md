@@ -6,12 +6,15 @@ attitude to / towards - отношение к
 influence something - влиять на что-то - глагол
 influence on something - влияние на что-то - существительнон
 lack something - не хватать чего-то
+a lack something - недостаток, нехватка чего-то
 
 What is your attitude to it ?
 He has a very negative attitude to smoking
 This event influenced my life greatly 
 This event had a very great influence on my life
 
-She 
+She lacks work experience 
+He lacks confidence 
+
 
 
