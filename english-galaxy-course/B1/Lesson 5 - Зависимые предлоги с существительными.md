@@ -15,6 +15,8 @@ This event had a very great influence on my life
 
 She lacks work experience 
 He lacks confidence 
+He has a lack of  experience
+He has lack of confi
 
 
 
