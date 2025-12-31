@@ -14,6 +14,9 @@ in theory - в теории
 in practice - на практике
 with a view of - c видом на что-то
 by the way - Кстати
+For example - например
+make a career -сделать карьеру
+for a start - для начала
  
 I need to stay there **for a while**.
 I improve my English **with the help of** these lessons
@@ -29,3 +32,7 @@ It is very good only **in theory** but not **in practice**
 I would like to have a room with a view of the sea
 By the way, what are going to do in this situation?
 By the way, why did you choose this hotel? 
+For example, if you want to make a career, you can start working there for a start
+
+
+
