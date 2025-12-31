@@ -22,7 +22,8 @@ for ages - целую вежность
 at once - сразу
 in vain - напрасно
 at a loss - в растерянности
-to a certain extent - в какой-то степени, в некоторой степени, в опеределнной степени
+to a certain extent / to a certain extent - в какой-то степени, в некоторой степени, в определенной степени
+for sure - точно
 
 I need to stay there **for a while**.
 I improve my English **with the help of** these lessons
@@ -46,4 +47,8 @@ He decided to do it at once
 All his efforts were in vain
 I was really at a loss
 I'm really at a loss
-She is 
+She is right to a certain extent 
+I was right to a certain extent
+I can agree with you to a certain degree
+I know it for sure
+That is for sure. - это точно
