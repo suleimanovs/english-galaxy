@@ -14,6 +14,7 @@ answer to something - answer как существительное
 reason for - причина чего-то
 recover from  - выздороветь после /. оправиться от
 alternative to - алтернатива чего-то
+I come to the conclusion that - я прихожу к выводу что
 demand - спрос
 demand for - спрос на
 solution to - решение чкго-то
@@ -21,6 +22,7 @@ refer to - ссылаться на
 quote - цитата
 source - источник
 insist on - настаивать на 
+way of - способ чего-то
 
 What is your attitude to it ?
 He has a very negative attitude to smoking
@@ -51,9 +53,10 @@ I think that it is the best solution to such a difficult problem
 He often refers to these quotes
 He always refers to these sources
 
-He insisted on doin
+He insisted on doing it
 
-
+It is one of the most effective ways of learning foreign languages 
+I come to the conclusion that it is the most effective way of learning foreign languages 
 
 
 
