@@ -20,7 +20,8 @@ for the time being - пока, на данный момент
 In addition to it -  в добавление к этому
 in good condition -  в хорошем состояний
 in a good mood - в хорошем настроений
-take it for granted - принимать как д
+take it for granted - принимать это как должное
+On the contrary - Наоборот
 
 In general, it is an interesting offer.
 In general, it is quite an interesting offer
@@ -45,9 +46,12 @@ In other words, this thing also deserves our attention
 I often go there on foot
 
 I want to concentrate/focus on this problem for the time being
-In addition to it, it may lead to more serious problems
+In addition to it, it can lead to more serious problems
 The car is in good condition
 I'm in a good mood
+You can't take it for granted
+Most people take it for granted 
+On the contrary we need to pay attention to it
 
 
 
