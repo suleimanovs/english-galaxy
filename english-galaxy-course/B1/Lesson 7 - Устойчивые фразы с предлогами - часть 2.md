@@ -14,7 +14,13 @@ take it into account - принимать это во внимание
 in doubt - в сомнении
 doubts about - сомнения по поводу чего-то
 in a hurry - топориться/ спешить 
-in other words
+in other words - другими словами
+on foot - пешком
+for the time being - пока, на данный момент
+In addition to it -  в добавление к этому
+in good condition -  в хорошем состояний
+in a good mood - в хорошем настроений
+take it for granted - принимать как д
 
 In general, it is an interesting offer.
 In general, it is quite an interesting offer
@@ -34,7 +40,18 @@ I was in doubt
 I'm in doubt now 
 I have some doubts about it 
 Are you in a harry ?
-In other words you can also do it
+In other words, you can also do it
+In other words, this thing also deserves our attention
+I often go there on foot
+
+I want to concentrate/focus on this problem for the time being
+In addition to it, it may lead to more serious problems
+The car is in good condition
+I'm in a good mood
+
+
+
+
 
 
 
