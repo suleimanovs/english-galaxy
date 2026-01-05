@@ -27,7 +27,10 @@ Your English is getting better and better
 ##### Глаголы состояния
 Важно так же обращать внимание на глаголы состояния
 
-understand - в Continuous не употребляется
+understand , wants, concern- в Continuous не употребляются
 
 I perfectly understand it now
+Each of us wants to do the same now
+It concerns each of us now
+Such an important th
 
