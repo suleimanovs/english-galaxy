@@ -27,10 +27,19 @@ Your English is getting better and better
 ##### Глаголы состояния
 Важно так же обращать внимание на глаголы состояния
 
-understand , wants, concern- в Continuous не употребляются
+understand , wants, concern, depend - в Continuous не употребляются
 
 I perfectly understand it now
 Each of us wants to do the same now
 It concerns each of us now
-Such an important th
+Such an important thing concerns each of us now
+What does it depend on now?
+
+##### Present Continuous in Future
+Используется когда мы говорим о наших планах но с указанием времени
+I'm having a very important meeting tomorrow
+We are meeting tomorrow at six
+I'm leaving the city tomorrow
+I'm flying to the USA next week
+
 
