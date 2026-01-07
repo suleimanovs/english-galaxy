@@ -25,6 +25,13 @@ What were you doing yesterday at eight o'clock in the evening? (<font color="#bf
 No one was listening to him when he was trying to explain it 
 
 
-I was 
+I was writing a letter when the phone rang
+I was at home, when she came 
+When she came home we were having dinner
+He was driving a car when someone called him
+What were you doing when he called you? 
+What were you doing, while you were waiting for it? 
+When she was saying it, no one believed her
+
 
 
