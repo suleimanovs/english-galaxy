@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "times/Прошедшие времена (Past).md",
+                "file": "english-galaxy-course/B1/Lesson 9 - Past Simple vs Past Continuous.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Прошедшие времена (Past)"
+              "title": "Lesson 9 - Past Simple vs Past Continuous"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -180,8 +181,8 @@
   },
   "active": "d174745fc9b0d7f8",
   "lastOpenFiles": [
-    "english-galaxy-course/B1/Lesson 9 - Past Simple vs Past Continuous.md",
     "times/Прошедшие времена (Past).md",
+    "english-galaxy-course/B1/Lesson 9 - Past Simple vs Past Continuous.md",
     "english-galaxy-course/B1/Lesson 8 - Present Simple vs Present Continuous.md",
     "times/Настоящие времена (Present).md",
     "times/Будущие времена (Future).md",
