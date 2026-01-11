@@ -31,3 +31,14 @@ When did you leave home? -  When не используется в Present Perfec
 I haven't reached this level yet, but i suppose i will do it quite soon -  yet указыввает на Present Perfect
 I haven't been to this country yet, but it is in my plans
 I have never been to this country - never тут верно по настоящее время, по этому Present Perfect
+Have you ever been to this city ? - ever указывает на Present Perfect
+I have lost my key, and i'm trying to find it
+I have lost my key and i don't know what to do 
+I have never heard about it  - never если верно по настоящее время Present Perfect 
+I have never thought about it so seriously  - never если верно по настоящее время Present Perfect 
+
+It is the best book i have ever read - ever указывает на Present Perfect
+It is the best movie i have ever watched - ever указывает на Present Perfect
+It is the most beautiful place i have ever seen - ever указывает на Present Perfect
+I haven't seen him since i graduated from university - since указывает на Present Perfect
+
