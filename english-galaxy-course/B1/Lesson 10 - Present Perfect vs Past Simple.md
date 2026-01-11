@@ -24,4 +24,10 @@ He has lost all his money so he can't buy this thing - Он потерял де�
 
 ### Past Simple vs Present Simple ?
 
-I haven't finished 
+I haven't finished reading this book yet - yet указыввает на Present Perfect
+He was extremely exhausted, when he worked there - Общие факты о прошлом, используется Past Simple, к тому же when не используется в Present Perfect
+We have already finished working on this project - already указыввает на Present Perfect
+When did you leave home? -  When не используется в Present Perfect
+I haven't reached this level yet, but i suppose i will do it quite soon -  yet указыввает на Present Perfect
+I haven't been to this country yet, but it is in my plans
+I have never been to this country - never тут верно по настоящее время, по этому Present Perfect
