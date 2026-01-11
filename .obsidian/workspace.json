@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-galaxy-course/B1/Lesson 9 - Past Simple vs Past Continuous.md",
+                "file": "english-galaxy-course/B1/Lesson 10 - Present Perfect vs Past Simple.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 9 - Past Simple vs Past Continuous"
+              "title": "Lesson 10 - Present Perfect vs Past Simple"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -180,13 +181,14 @@
   },
   "active": "d174745fc9b0d7f8",
   "lastOpenFiles": [
-    "times/Прошедшие времена (Past).md",
-    "english-galaxy-course/B1/Lesson 9 - Past Simple vs Past Continuous.md",
-    "english-galaxy-course/B1/Lesson 8 - Present Simple vs Present Continuous.md",
     "times/Настоящие времена (Present).md",
+    "english-galaxy-course/B1/Lesson 10 - Present Perfect vs Past Simple.md",
+    "english-galaxy-course/B1/Lesson 7 - Устойчивые фразы с предлогами - часть 2.md",
+    "english-galaxy-course/B1/Lesson 8 - Present Simple vs Present Continuous.md",
+    "english-galaxy-course/B1/Lesson 9 - Past Simple vs Past Continuous.md",
+    "times/Прошедшие времена (Past).md",
     "times/Будущие времена (Future).md",
     "times/Времена в английском.md",
-    "english-galaxy-course/B1/Lesson 7 - Устойчивые фразы с предлогами - часть 2.md",
     "english-galaxy-course/B1/Lesson 6 - Устойчивые фразы с предлогами - часть 1.md",
     "english-galaxy-course/B1/Lesson 5 - Зависимые предлоги с существительными.md",
     "english-galaxy-course/B1/Lesson 4 - Зависимые предлоги с прилагательными 4.md",
@@ -206,7 +208,6 @@
     "english-galaxy-course/A2/Lesson 44 - 230 самых важных прилагательных в разных временах - часть 6.md",
     "english-galaxy-course/A2/Lesson 43 - 230 самых важных прилагательных в разных временах - часть 5.md",
     "english-galaxy-course/A2/Lesson 42 - 230 самых важных прилагательных в разных временах - часть 5.md",
-    "express-course/A0/Lesson 1.md",
     "express-course/A0",
     "english-galaxy-course",
     "express-course",
