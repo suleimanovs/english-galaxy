@@ -1,7 +1,7 @@
 **Дата изучения:** 11.01.2026  
 
 ---
-
+a cure for this disease - лекарство от этой болезни
 
 ### Past Simple:
 
@@ -29,7 +29,7 @@ He was extremely exhausted, when he worked there - Общие факты о пр
 We have already finished working on this project - already указыввает на Present Perfect
 When did you leave home? -  When не используется в Present Perfect
 I haven't reached this level yet, but i suppose i will do it quite soon -  yet указыввает на Present Perfect
-I haven't been to this country yet, but it is in my plans
+I haven't been to this country yet, but it is in my plans -  yet указыввает на Present Perfect
 I have never been to this country - never тут верно по настоящее время, по этому Present Perfect
 Have you ever been to this city ? - ever указывает на Present Perfect
 I have lost my key, and i'm trying to find it
@@ -41,4 +41,8 @@ It is the best book i have ever read - ever указывает на Present Perf
 It is the best movie i have ever watched - ever указывает на Present Perfect
 It is the most beautiful place i have ever seen - ever указывает на Present Perfect
 I haven't seen him since i graduated from university - since указывает на Present Perfect
+I haven't heard about him since i finished school - since указывает на Present Perfect
+
+Scientists haven't found a cure for this disease yet  -  yet указыввает на Present Perfect
+She has changed a lot since i saw her last time - since указывает на Present Perfect
 
