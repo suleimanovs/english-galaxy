@@ -56,4 +56,6 @@ They have already solved their problems
 I have never been there 
 Have you ever been here?
 How long has he been working there? 
-I have been using
+I have been using this app for about half a year, and i find really useful
+They haven't solved this problem yet
+They haven't found a solution to this problem yet
