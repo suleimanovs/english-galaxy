@@ -42,6 +42,18 @@ She hasn't seen him for such a long time – **see** тоже статическ
 
 То есть с этими глаголами нельзя сказать **I am knowing** или **I am seeing**, только Present Perfect или Present.
 
+How long have known him? -  тут тоже самое, должен быть Present perfect Continuous, но known не используется в Continuous времени
 
+### Present Perfect /  Present Perfect Continuous
 
-
+How long have you been staying here? 
+How long have been here? - to be в Present Perfect Continuous не употребляется
+I have been working all day
+She has been very busy lately - to be в Present Perfect Continuous не употребляется
+How long have you known each other? - known не употребляется в Continuous
+We have known each other since school - known не употребляется в Continuous
+They have already solved their problems 
+I have never been there 
+Have you ever been here?
+How long has he been working there? 
+I have been using
