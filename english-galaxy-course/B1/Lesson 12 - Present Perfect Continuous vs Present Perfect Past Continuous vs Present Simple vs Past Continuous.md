@@ -40,7 +40,12 @@ He said that he had been waiting for it for a long time
 
 She told me that she had been waiting for it for a very long time - past perfect continuous
 When i called him, he was driving a car
-When i came there i noticed 
-
-
+When i came there i noticed his absence 
+He said that he had already been there
+He was typing a message when he heard a call
+When they met they decided to do it immediately
+He said that he had managed to overcome all these difficulties on his way
+He had finished whatching this movie by six 
+I was very happy to hear that i had won
+I 
 
