@@ -47,5 +47,12 @@ When they met they decided to do it immediately
 He said that he had managed to overcome all these difficulties on his way
 He had finished whatching this movie by six 
 I was very happy to hear that i had won
-I 
+I had reached this level by last year
+What were you doing when it happened?
+To be honest, it has never interested me
+To be honest, i have never been interested in it
+I said that i had never been interested in it
+
+I told him that i had never been interested in it
+
 
