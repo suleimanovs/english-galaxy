@@ -8,7 +8,27 @@ She was staying at work all day - all day в прошлом времени ук�
 He was learning english all day yesterday - all day в прошлом времени указывает на Past Continuous
 
 
-### Past simple
+### Past Simple
 
-She decided to make a career so she 
+potential threat - потенциальная угроза
+
+She decided to make a career so she continued working there 
+They knew that it was a very serious potential threat 
+
+### Present Perfect
+
+I have never been to this place
+
+### Present Perfect Continuous
+
+I have been waiting for it all my life
+She has been learning English all day
+How long have been waiting?
+
+### Past Perfect
+
+She said that they had known each other for a very long time
+She told me that she had never thought about it seriously 
+She told me that it hadn't happened yet 
+
 
