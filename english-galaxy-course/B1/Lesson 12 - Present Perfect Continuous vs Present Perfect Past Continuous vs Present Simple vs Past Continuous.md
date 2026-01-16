@@ -31,4 +31,16 @@ She said that they had known each other for a very long time
 She told me that she had never thought about it seriously 
 She told me that it hadn't happened yet 
 
+### Past Perfect Continuous
+
+When i saw him she had already been waiting for her for twenty minutes
+He said that he had been waiting for it for a long time
+
+### Смешанная практика
+
+She told me that she had been waiting for it for a very long time - past perfect continuous
+When i called him, he was driving a car
+When i came there i noticed 
+
+
 
