@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-galaxy-course/B1/Lesson 12 - Present Perfect Continuous vs Present Perfect Past Continuous vs Present Simple vs Past Continuous.md",
+                "file": "times/Прошедшие времена (Past).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 12 - Present Perfect Continuous vs Present Perfect Past Continuous vs Present Simple vs Past Continuous"
+              "title": "Прошедшие времена (Past)"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 237.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -181,9 +180,9 @@
   },
   "active": "d174745fc9b0d7f8",
   "lastOpenFiles": [
+    "english-galaxy-course/B1/Lesson 12 - Present Perfect Continuous vs Present Perfect Past Continuous vs Present Simple vs Past Continuous.md",
     "times/Прошедшие времена (Past).md",
     "times/Настоящие времена (Present).md",
-    "english-galaxy-course/B1/Lesson 12 - Present Perfect Continuous vs Present Perfect Past Continuous vs Present Simple vs Past Continuous.md",
     "english-galaxy-course/B1/Lesson 11 - Present Perfect Continuous vs Present Perfect Past Continuous vs Present Simple.md",
     "english-galaxy-course/B1/Lesson 10 - Present Perfect vs Past Simple.md",
     "english-galaxy-course/B1/Lesson 9 - Past Simple vs Past Continuous.md",
