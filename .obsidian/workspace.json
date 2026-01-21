@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Lesson 13 - Future Simple vs Future Perfect vs Future Perfect Continuous"
             }
+          },
+          {
+            "id": "c6a6875b3038df55",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 237.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -179,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d174745fc9b0d7f8",
+  "active": "c6a6875b3038df55",
   "lastOpenFiles": [
     "times/Будущие времена (Future).md",
     "english-galaxy-course/B1/Lesson 13 - Future Simple vs Future Perfect vs Future Perfect Continuous.md",
