@@ -40,7 +40,6 @@ I will have finished doing it <font color="#c0504d">by</font> the end of the mon
 #### Future Perfect Continuous
 
 will have been + verb + ing
-by + for
 
 I will have been working here <font color="#4bacc6">for</font> three years <font color="#4bacc6">by</font>  next month 
 He will have been living in the city <font color="#4bacc6">for</font> ten years <font color="#4bacc6">by</font> next year
