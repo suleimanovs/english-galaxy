@@ -13,54 +13,23 @@ I firmly believe that it will happen sooner or later
 
 ### Future Continuous
 
-I will waiting for your confirmation - Я буду ждать (а не просто я подожд)
+will + be + verb + ing
+
+I will be waiting for your confirmation - Я буду ждать (а не просто я подожду), потому и Continuous
+We will be lying on the beach in the sun this time tomorrow   - Есть уточнение времени в будущем
+I will be waiting for your decision
 
 
-### Past Simple
+### Future Perfect
 
-potential threat - потенциальная угроза
+will have + Verb 3
 
-She decided to make a career so she continued working there 
-They knew that it was a very serious potential threat 
-
-### Present Perfect
-
-I have never been to this place
-
-### Present Perfect Continuous
-
-I have been waiting for it all my life
-She has been learning English all day
-How long have been waiting?
-
-### Past Perfect
-
-She said that they had known each other for a very long time
-She told me that she had never thought about it seriously 
-She told me that it hadn't happened yet 
-
-### Past Perfect Continuous
-
-When i saw him she had already been waiting for her for twenty minutes
-He said that he had been waiting for it for a long time
-
-### Смешанная практика
-
-She told me that she had been waiting for it for a very long time - past perfect continuous
-When i called him, he was driving a car
-When i came there i noticed his absence 
-He said that he had already been there
-He was typing a message when he heard a call
-When they met they decided to do it immediately
-He said that he had managed to overcome all these difficulties on his way
-He had finished whatching this movie by six 
-I was very happy to hear that i had won
-I had reached this level by last year
-What were you doing when it happened?
-To be honest, it has never interested me
-To be honest, i have never been interested in it
-I said that i had never been interested in it
-
-I told him that i had never been interested in it
+I will have finished it by four 
+She will have graduated from university by next year
+He will  have earned ten thousand dollars by the end of the year
 
 
+
+### Future Perfect Continuous
+
+will have been + verb + ing
