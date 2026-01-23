@@ -25,12 +25,14 @@
             "id": "c6a6875b3038df55",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "english-galaxy-course/B1/Lesson 13 - Future Simple vs Future Perfect vs Future Perfect Continuous.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.11.5"
+              "icon": "lucide-file",
+              "title": "Lesson 13 - Future Simple vs Future Perfect vs Future Perfect Continuous"
             }
           }
         ],
