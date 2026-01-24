@@ -25,4 +25,18 @@ The criminals <font color="#b2a2c7">were arrested </font>
 #### Future Simple Passive
 
 It <font color="#76923c">will be</font> <font color="#76923c">done</font> on time 
-This problem will be siol
+This problem <font color="#76923c">will be solved</font>
+These mistakes <font color="#76923c">will be corrected </font>
+
+#### Смешанная практика
+
+He <font color="#b2a2c7">was seen</font> at the party 
+These workers<font color="#b2a2c7"> were replaced </font>
+He <font color="#b2a2c7">was invited</font> to the party
+All the participants <font color="#b2a2c7">were awarded </font>
+This mistake <font color="#b2a2c7">was corrected </font>
+The mistakes <font color="#b2a2c7">were corrected</font>
+The keys <font color="#b2a2c7">were found</font> later
+It <font color="#4f81bd">is expected</font> that he will <font color="#ff0000">approve of</font>  this idea
+It is reported that two people were injured during the accident 
+It 
