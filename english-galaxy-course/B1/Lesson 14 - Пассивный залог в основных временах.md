@@ -38,5 +38,14 @@ This mistake <font color="#b2a2c7">was corrected </font>
 The mistakes <font color="#b2a2c7">were corrected</font>
 The keys <font color="#b2a2c7">were found</font> later
 It <font color="#4f81bd">is expected</font> that he will <font color="#ff0000">approve of</font>  this idea
-It is reported that two people were injured during the accident 
-It 
+It <font color="#4f81bd">is reported</font> that two people were injured during the accident 
+Too little <font color="#4f81bd">is done</font> to improve the situation 
+Nothing <font color="#b2a2c7">was corrected</font>
+Not enough <font color="#4f81bd">is done</font> to resolve this conflict 
+Too little <font color="#b2a2c7">was done</font> to resolve this conflict 
+Not enough <font color="#b2a2c7">was done</font> to improve the situation
+It <font color="#4f81bd">is expected</font> that they will win 
+It <font color="#4f81bd">is expected</font> that they will find a solution to this problem
+Spanish <font color="#4f81bd">is spoken</font> in some countries
+Our flight<font color="#b2a2c7"> was delayed</font>
+He is often critisized 
