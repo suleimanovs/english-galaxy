@@ -48,4 +48,5 @@ It <font color="#4f81bd">is expected</font> that they will win
 It <font color="#4f81bd">is expected</font> that they will find a solution to this problem
 Spanish <font color="#4f81bd">is spoken</font> in some countries
 Our flight<font color="#b2a2c7"> was delayed</font>
-He is often critisized 
+He is often criticized for it 
+I'm sure that it <font color="#76923c">will be</font> <font color="#76923c">done</font> 
