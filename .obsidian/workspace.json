@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-galaxy-course/B1/Lesson 13 - Future Simple vs Future Perfect vs Future Perfect Continuous.md",
+                "file": "english-galaxy-course/B1/Lesson 15 - Пассивный залог в более сложных временах.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 13 - Future Simple vs Future Perfect vs Future Perfect Continuous"
+              "title": "Lesson 15 - Пассивный залог в более сложных временах"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-galaxy-course/B1/Lesson 15 - Пассивный залог в более сложных временах.md",
+                "file": "times/Будущие времена (Future).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 15 - Пассивный залог в более сложных временах"
+              "title": "Будущие времена (Future)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,17 +193,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6a6875b3038df55",
+  "active": "d174745fc9b0d7f8",
   "lastOpenFiles": [
     "times/Будущие времена (Future).md",
+    "english-galaxy-course/B1/Lesson 15 - Пассивный залог в более сложных временах.md",
+    "english-galaxy-course/B1/Lesson 13 - Future Simple vs Future Perfect vs Future Perfect Continuous.md",
     "times/Времена в английском.md",
     "times/Настоящие времена (Present).md",
     "times/Прошедшие времена (Past).md",
     "english words/New.md",
     "english words/Intro.md",
-    "english-galaxy-course/B1/Lesson 15 - Пассивный залог в более сложных временах.md",
     "english-galaxy-course/B1/Lesson 14 - Пассивный залог в основных временах.md",
-    "english-galaxy-course/B1/Lesson 13 - Future Simple vs Future Perfect vs Future Perfect Continuous.md",
     "english-galaxy-course/B1/Lesson 12 - Present Perfect Continuous vs Present Perfect Past Continuous vs Present Simple vs Past Continuous.md",
     "english-galaxy-course/B1/Lesson 11 - Present Perfect Continuous vs Present Perfect Past Continuous vs Present Simple.md",
     "english-galaxy-course/B1/Lesson 10 - Present Perfect vs Past Simple.md",

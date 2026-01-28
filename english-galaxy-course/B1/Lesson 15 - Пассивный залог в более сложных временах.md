@@ -9,6 +9,7 @@
 
 It <font color="#9bbb59">has</font> already <font color="#9bbb59">been</font> <font color="#9bbb59">said</font> 
 As It <font color="#9bbb59">has</font> already <font color="#9bbb59">been mentioned</font> it deserves our attention
+As it has been 
 
 ---
 #### Present Continuous Passive
@@ -30,13 +31,21 @@ These problems <font color="#4f81bd">were being solved</font> yesterday at three
 
 She said that all the files <font color="#f79646">had</font> already <font color="#f79646">been downloaded</font>
 She said that the letter <font color="#f79646">had</font> already <font color="#f79646">been sent</font>
+He said that those problems <font color="#f79646">had already been solved</font>
 
 ---
-#### Feature Perfect Passive
-*had been + 3 форма глагола*
+#### Future Perfect Passive
+*will have been + 3 форма глагола*
 
-She said that all the files <font color="#f79646">had</font> already <font color="#f79646">been downloaded</font>
-She said that the letter <font color="#f79646">had</font> already <font color="#f79646">been sent</font>
+This work <font color="#938953">will have been done</font> by tomorrow
+His new house <font color="#938953">will have been built</font> by next month
+
+---
+#### Future Simple Passive
+*will  be + 3 форма глагола*
+
+This house <font color="#a5a5a5">will be built</font>  next month
+
 
 
 ---
@@ -45,7 +54,6 @@ She said that the letter <font color="#f79646">had</font> already <font color="#
 
 It <font color="#ffff00">is forbidden</font> to do it - <font color="#ffff00">Present Simple Passive</font>
 It <font color="#ffff00">is</font> often <font color="#ffff00">said</font> very formally - <font color="#ffff00">Present Simple Passive</font>
-
 
 It <font color="#9bbb59">hasn't been done</font> yet - Present Perfect Passive
 This work <font color="#9bbb59">hasn't been checked </font>yet - Present Perfect Passive
@@ -60,5 +68,6 @@ These problems<font color="#c0504d"> are being solved</font> now - <font color="
 This house is being sold now - <font color="#c0504d">Present Continuous Passive</font>
 A new cottage<font color="#c0504d"> is being built</font> now. - <font color="#c0504d">Present Continuous Passive</font>
 This work <font color="#c0504d">is being checked</font> now - <font color="#c0504d">Present Continuous Passive</font>
+It <font color="#c0504d">is being discussed</font> now - <font color="#c0504d">Present Continuous Passive</font>
 
 
