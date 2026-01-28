@@ -3,8 +3,8 @@
 ---
 форма глагола to be + 3 форма глагола
 
-#### Present Perfect Passive
 ---
+#### Present Perfect Passive
 *have / has been + 3 форма глагола*
 
 It <font color="#9bbb59">has</font> already <font color="#9bbb59">been</font> <font color="#9bbb59">said</font> 
@@ -30,3 +30,18 @@ These problems <font color="#4f81bd">were being solved</font> yesterday at three
 
 She said that all the files <font color="#f79646">had</font> already <font color="#f79646">been downloaded</font>
 She said that the letter <font color="#f79646">had</font> already <font color="#f79646">been sent</font>
+
+---
+#### Смешанная практика
+
+A new cottage<font color="#c0504d"> is being built</font> now. - Present Continuous Passive
+It <font color="#ffff00">is forbidden</font> to do it - Present Simple Passive
+It <font color="#31859b">was forbidden</font> to do it - Past Simple Passive
+It <font color="#9bbb59">hasn't been done</font> yet - Present Perfect Passive
+This work <font color="#9bbb59">hasn't been checked </font>yet - Present Perfect Passive
+This problem <font color="#9bbb59">hasn't been discussed</font> yet - Present Perfect Passive
+It <font color="#31859b">was said</font> very politely - Past Simple Passive
+These problems<font color="#c0504d"> are being solved</font> now - <font color="#c0504d">Present Continuous Passive</font>
+This house is 
+
+
