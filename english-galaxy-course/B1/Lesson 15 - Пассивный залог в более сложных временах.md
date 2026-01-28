@@ -9,7 +9,8 @@
 
 It <font color="#9bbb59">has</font> already <font color="#9bbb59">been</font> <font color="#9bbb59">said</font> 
 As It <font color="#9bbb59">has</font> already <font color="#9bbb59">been mentioned</font> it deserves our attention
-As it has been 
+As it <font color="#9bbb59">has</font> just <font color="#9bbb59">been said</font> it is really important for all of us
+As it <font color="#9bbb59">has</font> already <font color="#9bbb59">been pointed out</font> it is really important for each of us
 
 ---
 #### Present Continuous Passive
@@ -45,7 +46,6 @@ His new house <font color="#938953">will have been built</font> by next month
 *will  be + 3 форма глагола*
 
 This house <font color="#a5a5a5">will be built</font>  next month
-
 
 
 ---
