@@ -39,6 +39,7 @@ The right conclusion was made
 They found the correct decision 
 It was <font color="#d83931">found out</font>  only yesterday
 I suppose that the house will be sold soon 
+Look! A new building is being built now
 
 
 
