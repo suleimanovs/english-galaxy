@@ -28,7 +28,17 @@ He corrected the mistake - Past Simple Active
 The mistake was corrected by him - Past Simple Passive
 He said that it was produced <font color="#d83931">all over the world</font>
 When he came back she was cooking something 
-When he came home the food 
+When he came home the food was being cooked 
+He explains it very clearly
+These files will be deleted 
+Someone broke the mirror
+The mirror was broken
+I suppose someone will buy this house soon 
+They made the correct <font color="#d83931">conclusion</font>  
+The right conclusion was made
+They found the correct decision 
+It was <font color="#d83931">found out</font>  only yesterday
+I suppose that the house will be sold soon 
 
 
 
