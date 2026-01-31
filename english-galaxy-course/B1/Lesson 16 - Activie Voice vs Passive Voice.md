@@ -19,7 +19,18 @@ A solution to this problem hasn't been found yet -  Present Perfect Passive
 
 #### Смешанная практика
 
-He has just said it -  
+He has just said it -  Present Perfect Active
 It is based on real facts - Present Simple Passive
+I will have finished this course by next year - Future Perfect Active
+Something delayed the flight - Past Simple Active
+This story was based on real facts - Past Simple Passive
+He corrected the mistake - Past Simple Active
+The mistake was corrected by him - Past Simple Passive
+He said that it was produced <font color="#d83931">all over the world</font>
+When he came back she was cooking something 
+When he came home the food 
+
+
+
 
 
