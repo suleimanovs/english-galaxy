@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english words/Intro.md",
+                "file": "english-galaxy-course/B1/Lesson 17 - двенадцать времен в английском языке.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "Lesson 17 - двенадцать времен в английском языке"
             }
           },
           {
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -194,6 +195,7 @@
   },
   "active": "d174745fc9b0d7f8",
   "lastOpenFiles": [
+    "english words/Intro.md",
     "english words/New.md",
     "english words/Устойчивые выражения (Fixed Phrases).md",
     "english words/Существительные + предлог (50 шт).md",
@@ -211,7 +213,7 @@
     "english-galaxy-course/B1/Lesson 20.md",
     "english-galaxy-course/B1/Lesson 18.md",
     "english-galaxy-course/B1/Lesson 15 - Пассивный залог в более сложных временах.md",
-    "english-galaxy-course/B1/Lesson 17.md",
+    "english-galaxy-course/B1/Lesson 17 - двенадцать времен в английском языке.md",
     "english-galaxy-course/B1/Lesson 16 - Activie Voice vs Passive Voice.md",
     "english-galaxy-course/B1/Lesson 48.md",
     "english-galaxy-course/B1/Lesson 45.md",
@@ -219,7 +221,6 @@
     "english-galaxy-course/B1/Lesson 43.md",
     "english-galaxy-course/B1/Lesson 42.md",
     "english-galaxy-course/B1/Lesson 40.md",
-    "english-galaxy-course/B1/Lesson 39.md",
     "english-galaxy-course/B1",
     "express-course/A0",
     "english-galaxy-course",
