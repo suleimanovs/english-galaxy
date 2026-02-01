@@ -30,4 +30,25 @@ He came to me while i was reading an article about it
 
 ---
 #### Future Continuous
+
 I will be doing my homework tomorrow at five o'clock in the evening 
+
+---
+#### Present Perfect
+
+I have never heard this expression 
+It is the most interesting book i have ever read 
+
+---
+#### Past Perfect
+
+He said that he had already solved this problem 
+
+---
+#### Future Perfect
+
+I will have completed this course by next month
+I will have passed this test by tomorrow 
+
+---
+
