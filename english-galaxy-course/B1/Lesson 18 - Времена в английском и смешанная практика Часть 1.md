@@ -7,6 +7,10 @@ She said that she had bought a new dress - ✔️
 They had discussed everything <font color="#c0504d">by</font> four - ❌
 He told me that he had won this tournament - ✔️
 
+
+#### Past Perfect 
+I wasn't tired at all because i hadn't been working all day 
+
 ----
 #### Past Simple
 
@@ -38,6 +42,13 @@ I'm having a business meeting tonight
 ----
 #### Past Continuous
 When i called him he was sleeping
+
+#### Future Continuous 
+
+This time tomorrow i will be doing the shopping 
+
+
+
 
 
 
