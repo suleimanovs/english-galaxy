@@ -5,17 +5,32 @@
 due to - из-за 
 because of
 due to bad weather - из-за плохой погоды
+a sense of admiration - чувство восхищения
 
 ---
+**Present SImple**
 
+I don't often do it 
+He doesn't often go there
+
+---
 **Present Perfect Continuous**
 He has been living in New-York for <font color="#9bbb59">the last five years</font>
 How long have you been living abroad? 
+I have been waiting for his call since morning
 
 ---
 
 **Past Continuous**
 The sun was shinning and it was very warm
+He was doing his home work while his brother was playing a computer game
+
+---
+
+**Past Simple**
+He said it with a sense of admiration
+What stopped him?
+I had to do it in any case
 
 ---
 
@@ -39,3 +54,5 @@ I expect that i will have reached the next level by next month
 She is talking on the phone right now
 
 ---
+
+I will have finished this letter for instance 
