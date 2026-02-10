@@ -3,7 +3,7 @@
 ---
 
 due to - из-за 
-because of
+because of - из-за 
 due to bad weather - из-за плохой погоды
 a sense of admiration - чувство восхищения
 
@@ -18,12 +18,16 @@ He doesn't often go there
 He has been living in New-York for <font color="#9bbb59">the last five years</font>
 How long have you been living abroad? 
 I have been waiting for his call since morning
+How long have you been playing this game?
 
 ---
 
 **Past Continuous**
 The sun was shinning and it was very warm
 He was doing his home work while his brother was playing a computer game
+When the teacher was trying to explain something no one was listening to her 
+We were watching this program, when we heard a strange noise
+I home that i wil
 
 ---
 
@@ -31,6 +35,9 @@ He was doing his home work while his brother was playing a computer game
 He said it with a sense of admiration
 What stopped him?
 I had to do it in any case
+I was in Spain many years ago
+I saw a great movie yesterday
+I don't know what to start with 
 
 ---
 
@@ -42,6 +49,7 @@ I have never been there before
 
 **Past Simple Passive**
 Their flight was delayed due to bad weather
+His flight was cancelled due to bad weather conditions
 
 ---
 
@@ -55,4 +63,6 @@ She is talking on the phone right now
 
 ---
 
-I will have finished this letter for instance 
+**Future Simple**
+I will finish writing this letter in about five minutes
+
