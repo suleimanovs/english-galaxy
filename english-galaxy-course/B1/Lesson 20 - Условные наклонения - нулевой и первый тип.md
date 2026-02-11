@@ -47,3 +47,4 @@ If i have enough money i will buy this thing
 I will call you in case i need your help
 He says that if it rains he will stay at home
 What will you do if this thing happens? 
+When he finishes working on this project he will go home
