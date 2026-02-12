@@ -19,4 +19,13 @@ If I was rich I could travel around the world
 If it was cheaper I would buy it
 What would you do if you were in my place?
 What would you do if you had one billion dollars? 
+I wish I had more money
+I wish you were here 
+If I was in your place I wouldn't worry about it so much 
+I wish I had more free time
+If I had enough money I would buy this car
+If I was you I would do the same 
+If I was you I would do another thing
+If I had one million dollars I would buy a new house
+What would you do if you had two million dorll
 
