@@ -27,5 +27,6 @@ If I had enough money I would buy this car
 If I was you I would do the same 
 If I was you I would do another thing
 If I had one million dollars I would buy a new house
-What would you do if you had two million dorll
+What would you do if you had two million dollars? 
+I wish I had a higher salary 
 
