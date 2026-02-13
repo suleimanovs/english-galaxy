@@ -12,7 +12,10 @@ If it rains I won't go to the park
 I'll tell you when I'm ready
 He'll be very surprised when he knows it
 If he earns enough money he will go to America
-
+If you are busy I won't <font color="#c0504d">disturb</font> you
+If you need my help let me know
+If you need my support let me know
+What will you do if it happens?
 #### Second Conditional
 *If + Past Simple + would/could + verb*
 If only + Past Simple - если бы только + Past Simple
@@ -25,6 +28,12 @@ If only I knew it
 If only I had more free time
 If only I had this knowledge
 If I were rich my life would be <font color="#c0504d">completely different</font>
+I wish I could do it 
+If only you were here
+I wish there were twenty five hours in a day 
+If only I had one more chance 
+If only I could <font color="#c0504d">afford</font> to buy it
+
 
 
 
