@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-galaxy-course/B1/Lesson 21 -  Условные наклонения - второе условное наклонение(Conditional 2).md",
+                "file": "english-galaxy-course/B1/Lesson 22 -Условные наклонения - первое и второе условное наклонение.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 21 -  Условные наклонения - второе условное наклонение(Conditional 2)"
+              "title": "Lesson 22 -Условные наклонения - первое и второе условное наклонение"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -180,8 +181,9 @@
   },
   "active": "c6a6875b3038df55",
   "lastOpenFiles": [
-    "english-galaxy-course/B1/Lesson 20 - Условные наклонения - нулевой и первый тип.md",
     "english-galaxy-course/B1/Lesson 21 -  Условные наклонения - второе условное наклонение(Conditional 2).md",
+    "english-galaxy-course/B1/Lesson 20 - Условные наклонения - нулевой и первый тип.md",
+    "english-galaxy-course/B1/Lesson 22 -Условные наклонения - первое и второе условное наклонение.md",
     "english-galaxy-course/B1/Lesson 18 - Времена в английском и смешанная практика Часть 2.md",
     "english-galaxy-course/B1/Lesson 19 - Времена в английском и смешанная практика Часть 1.md",
     "english-galaxy-course/B1/Lesson 17 - Двенадцать времен в английском языке.md",
@@ -208,7 +210,6 @@
     "english-galaxy-course/B1/Lesson 15 - Пассивный залог в более сложных временах.md",
     "english-galaxy-course/B1/Lesson 16 - Activie Voice vs Passive Voice.md",
     "english-galaxy-course/B1/Lesson 48.md",
-    "english-galaxy-course/B1/Lesson 45.md",
     "english-galaxy-course/B1",
     "express-course/A0",
     "english-galaxy-course",

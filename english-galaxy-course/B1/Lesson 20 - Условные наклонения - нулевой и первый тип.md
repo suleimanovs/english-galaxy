@@ -6,7 +6,7 @@
 <font color="#9bbb59">get free - освободиться </font>
 <font color="#9bbb59">hurry up - торопиться</font>
 ##### **Conditional 0** 
-*Мы используем тогда когда говорим о том что вообще(в целом происходит)*
+*Мы используем тогда когда говорим о том что вообще(в целом) происходит*
 *If + Present Simple, Present Simple*
 
 If I'm tired i go to bed early
