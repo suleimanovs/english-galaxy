@@ -37,4 +37,8 @@ When does the restaurant open?
 Do you know when the restaurant is open?
 Why were you late for work?
 It is interesting why the flight was delayed?
-How long is the meeting 
+How long will the meeting last?
+How long will the meeting be?
+What was the reason for it? 
+Do you know what it means?
+I don't know why he was late for work
