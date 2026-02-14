@@ -19,4 +19,16 @@ Do you know where it is?  - косвенный вопрос
 Do you know why it happened?
 Could you tell me where the station is?
 Do you know what time the shop opens?
+Do you know when this shop is open?
+I see how effective this course is
+He doesn't understand how important it is
+I don't know what the reason was
 
+##### Смешанная практика
+
+Do you know where the nearest supermarket is
+I don't know where it is
+Do you know what he is doing
+Do you know how far this place is
+I don't know how much it can cost
+They don't really realize that how important it is 
