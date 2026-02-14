@@ -32,3 +32,9 @@ Do you know what he is doing
 Do you know how far this place is
 I don't know how much it can cost
 They don't really realize that how important it is 
+When is the restaurant open?
+When does the restaurant open?
+Do you know when the restaurant is open?
+Why were you late for work?
+It is interesting why the flight was delayed?
+How long is the meeting 
