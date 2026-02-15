@@ -1,6 +1,6 @@
 **Дата изучения:** 15.02.2026
 
-<iframe title="Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 24" src="https://www.youtube.com/embed/gfkTV6fh-hA?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
+https://youtu.be/gfkTV6fh-hA?si=qFj7O3Te0d4nmgIR
 
 ---
 #### Предложения с if 

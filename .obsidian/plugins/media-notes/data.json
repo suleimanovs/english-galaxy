@@ -1,0 +1,20 @@
+{
+  "seekSeconds": 10,
+  "verticalPlayerHeight": 40,
+  "horizontalPlayerWidth": 40,
+  "defaultSplitMode": "Vertical",
+  "pauseOnTimestampInsert": false,
+  "displayProgressBar": true,
+  "displayTimestamp": true,
+  "timestampOffsetSeconds": 6,
+  "backgroundColor": "#000000",
+  "progressBarColor": "#FF0000",
+  "timestampTemplate": "[{ts}]({link})\n",
+  "mediaData": {
+    "gfkTV6fh-hA": {
+      "mediaLink": "https://www.youtube.com/watch?v=gfkTV6fh-hA",
+      "lastUpdated": "2026-02-15T10:15:50.225Z",
+      "lastTimestampSeconds": 0
+    }
+  }
+}

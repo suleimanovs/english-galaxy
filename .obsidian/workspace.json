@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7475245ce4a3836a",
+        "id": "7996e1a784ca51a3",
         "type": "tabs",
         "children": [
           {
-            "id": "c6a6875b3038df55",
+            "id": "6f1d7f63205dd7bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,12 +73,47 @@
               "icon": "lucide-bookmark",
               "title": "Закладки"
             }
+          },
+          {
+            "id": "efc5025e17f72a76",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "gfkTV6fh-hA",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=gfkTV6fh-hA"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    }
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 24"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 734.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -175,11 +210,16 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "media-extended:Open external media": false
     }
   },
-  "active": "c6a6875b3038df55",
+  "active": "efc5025e17f72a76",
   "lastOpenFiles": [
+    "english-galaxy-turquoise-course/B1/Lesson 24 - Indirect question 2, Future in the Past.md",
+    "media-lib/url-pe95uh87.md",
+    "media-lib/url-z1r4zq64.md",
+    "media-lib",
     "learn-5000-english-words",
     "english-galaxy-turquoise-course/B1/Lesson 23 - Indirect questiion.md",
     "english-galaxy-turquoise-course/B1/Lesson 22 -Условные наклонения - первое и второе условное наклонение.md",
@@ -207,16 +247,12 @@
     "english-galaxy-turquoise-course/B1/Lesson 37.md",
     "english-galaxy-turquoise-course/B1/Lesson 29.md",
     "english-galaxy-turquoise-course/B1/Lesson 26.md",
-    "english-galaxy-turquoise-course/B1/Lesson 24 - Indirect question 2, Future in the Past.md",
-    "english-galaxy-turquoise-course/B1/Lesson 15 - Пассивный залог в более сложных временах.md",
     "english-galaxy-turquoise-course/B1",
     "express-course/A0",
     "english-galaxy-turquoise-course",
     "express-course",
     "times",
     "english words/verb_preposition_phrases.csv",
-    "english words/noun_preposition_phrases.csv",
-    "english words/adjective_preposition_phrases.csv",
-    "english words/j/verb_preposition_phrases.csv"
+    "english words/noun_preposition_phrases.csv"
   ]
 }
