@@ -4,50 +4,90 @@
     "type": "split",
     "children": [
       {
-        "id": "ce779bd9ebb1967c",
-        "type": "tabs",
+        "id": "d2dbec4b7b0a2b42",
+        "type": "split",
         "children": [
           {
-            "id": "68992421e0981f28",
-            "type": "leaf",
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "/Users/osman/Projects/obsidian/english-galaxy",
-                  "focus": false,
-                  "profile": {
-                    "args": [
-                      "--login"
-                    ],
-                    "executable": "/bin/zsh",
-                    "followTheme": true,
-                    "name": "",
-                    "platforms": {
-                      "darwin": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
+            "id": "ce779bd9ebb1967c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "68992421e0981f28",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "english-galaxy-titanium-course/A0/Lesson 11.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "serial": null
+                  "icon": "lucide-file",
+                  "title": "Lesson 11"
                 }
               },
-              "icon": "terminal",
-              "title": "Terminal: ✳ Playlist Management"
-            }
+              {
+                "id": "318b97987e24fe8f",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Новая вкладка"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "864c0dd99d6e80e1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "75995a412aa869a7",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/osman/Projects/obsidian/english-galaxy",
+                      "focus": false,
+                      "profile": {
+                        "args": [
+                          "--login"
+                        ],
+                        "executable": "/bin/zsh",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: ✳ YouTube плейлист ссылки"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -206,34 +246,35 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "68992421e0981f28",
+  "active": "75995a412aa869a7",
   "lastOpenFiles": [
-    "english-galaxy-titanium-course/B1/Lesson 2.md",
-    "english-galaxy-titanium-course/B1/Lesson 50.md",
-    "english-galaxy-titanium-course/B1/Lesson 1.md",
-    "english-galaxy-turquoise-course/B2/Lesson 11.md",
-    "english-galaxy-titanium-course/A1/Lesson 50.md",
-    "english-galaxy-titanium-course/A1/Lesson 14.md",
-    "english-galaxy-titanium-course/A1/Lesson 10.md",
-    "english-galaxy-titanium-course/A1/Lesson 7.md",
-    "english-galaxy-titanium-course/A1/Lesson 5.md",
-    "english-galaxy-titanium-course/A1/Lesson 4.md",
-    "english-galaxy-titanium-course/A1/Lesson 3.md",
-    "english-galaxy-titanium-course/A1/Lesson 1.md",
-    "english-galaxy-titanium-course/A1/Lesson 2.md",
-    "english-galaxy-titanium-course/С1/Lesson 50.md",
-    "english-galaxy-titanium-course/С1/Lesson 49.md",
-    "english-galaxy-titanium-course/С1/Lesson 48.md",
-    "english-galaxy-titanium-course/С1/Lesson 47.md",
-    "english-galaxy-titanium-course/С1/Lesson 46.md",
-    "english-galaxy-titanium-course/С1/Lesson 45.md",
-    "english-galaxy-titanium-course/С1/Lesson 44.md",
-    "english-galaxy-titanium-course/С1/Lesson 43.md",
-    "english-galaxy-titanium-course/С1/Lesson 42.md",
-    "english-galaxy-titanium-course/С1/Lesson 41.md",
-    "english-galaxy-titanium-course/С1/Lesson 40.md",
-    "english-galaxy-titanium-course/С1/Lesson 39.md",
-    "english-galaxy-titanium-course/С1/Lesson 38.md",
+    "english-galaxy-titanium-course/A0/Lesson 11.md",
+    "english-galaxy-titanium-course/A0/Lesson 7.md",
+    "english-galaxy-titanium-course/A0/Lesson 5.md",
+    "english-galaxy-titanium-course/A0/Lesson 3.md",
+    "english-galaxy-titanium-course/A0/Lesson 2.md",
+    "english-galaxy-titanium-course/A0/Lesson 1.md",
+    "english-galaxy-titanium-course/A0/Lesson 4.md",
+    "english-galaxy-titanium-course/A0/Lesson 50.md",
+    "english-galaxy-titanium-course/A0/Lesson 49.md",
+    "english-galaxy-titanium-course/A0/Lesson 48.md",
+    "english-galaxy-titanium-course/A0/Lesson 47.md",
+    "english-galaxy-titanium-course/A0/Lesson 46.md",
+    "english-galaxy-titanium-course/A0/Lesson 45.md",
+    "english-galaxy-titanium-course/A0/Lesson 44.md",
+    "english-galaxy-titanium-course/A0/Lesson 43.md",
+    "english-galaxy-titanium-course/A0/Lesson 42.md",
+    "english-galaxy-titanium-course/A0/Lesson 41.md",
+    "english-galaxy-titanium-course/A0/Lesson 40.md",
+    "english-galaxy-titanium-course/A0/Lesson 39.md",
+    "english-galaxy-titanium-course/A0/Lesson 38.md",
+    "english-galaxy-titanium-course/A0/Lesson 37.md",
+    "english-galaxy-titanium-course/A0/Lesson 36.md",
+    "english-galaxy-titanium-course/A0/Lesson 35.md",
+    "english-galaxy-titanium-course/A0/Lesson 34.md",
+    "english-galaxy-titanium-course/A0/Lesson 33.md",
+    "english-galaxy-titanium-course/A0/Lesson 32.md",
+    "english-galaxy-titanium-course/A0",
     "english-galaxy-titanium-course/B1",
     "english-galaxy-titanium-course/B2",
     "english-galaxy-titanium-course/С1",
@@ -243,7 +284,6 @@
     "english-galaxy-turquoise-course/B2",
     "english-galaxy-turquoise-course/C1",
     "media-lib",
-    "learn-5000-english-words",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
