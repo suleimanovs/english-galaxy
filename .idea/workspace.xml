@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="vault backup: 2025-08-05 00:27:53">
-      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/terminal/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/terminal/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/terminal/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/terminal/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/community-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/community-plugins.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/hotkeys.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/hotkeys.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/english-galaxy-turquoise-course/B1/Lesson 24 - Indirect question 2, Future in the Past.md" beforeDir="false" afterPath="$PROJECT_DIR$/english-galaxy-turquoise-course/B1/Lesson 24 - Indirect question 2, Future in the Past.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +94,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="vault backup: 2025-08-05 00:27:53" />
-    <option name="LAST_COMMIT_MESSAGE" value="vault backup: 2025-08-05 00:27:53" />
+    <MESSAGE value="{&#10;  &quot;error&quot;: {&#10;    &quot;code&quot;: 429,&#10;    &quot;message&quot;: &quot;You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 250000, model: gemini-2.5-flash-lite\nPlease retry in 28.589457706s.&quot;,&#10;    &quot;status&quot;: &quot;RESOURCE_EXHAUSTED&quot;,&#10;    &quot;details&quot;: [&#10;      {&#10;        &quot;@type&quot;: &quot;type.googleapis.com/google.rpc.Help&quot;,&#10;        &quot;links&quot;: [&#10;          {&#10;            &quot;description&quot;: &quot;Learn more about Gemini API quotas&quot;,&#10;            &quot;url&quot;: &quot;https://ai.google.dev/gemini-api/docs/rate-limits&quot;&#10;          }&#10;        ]&#10;      },&#10;      {&#10;        &quot;@type&quot;: &quot;type.googleapis.com/google.rpc.QuotaFailure&quot;,&#10;        &quot;violations&quot;: [&#10;          {&#10;            &quot;quotaMetric&quot;: &quot;generativelanguage.googleapis.com/generate_content_free_tier_input_token_count&quot;,&#10;            &quot;quotaId&quot;: &quot;GenerateContentInputTokensPerModelPerMinute-FreeTier&quot;,&#10;            &quot;quotaDimensions&quot;: {&#10;              &quot;model&quot;: &quot;gemini-2.5-flash-lite&quot;,&#10;              &quot;location&quot;: &quot;global&quot;&#10;            },&#10;            &quot;quotaValue&quot;: &quot;250000&quot;&#10;          }&#10;        ]&#10;      },&#10;      {&#10;        &quot;@type&quot;: &quot;type.googleapis.com/google.rpc.RetryInfo&quot;,&#10;        &quot;retryDelay&quot;: &quot;28s&quot;&#10;      }&#10;    ]&#10;  }&#10;}" />
+    <MESSAGE value="```" />
+    <MESSAGE value="```&#10;feat: Обновление информации о датах изучения и видео для уроков&#10;&#10;До" />
+    <MESSAGE value="```&#10;feat: Обновление информации о датах изучения и видео для уроков&#10;&#10;Добавлены ссылки на видео и даты изучения для множества уроков.&#10;Исправлено отображение названия терминала в файле workspace.json.&#10;```" />
+    <option name="LAST_COMMIT_MESSAGE" value="```&#10;feat: Обновление информации о датах изучения и видео для уроков&#10;&#10;Добавлены ссылки на видео и даты изучения для множества уроков.&#10;Исправлено отображение названия терминала в файле workspace.json.&#10;```" />
   </component>
 </project>

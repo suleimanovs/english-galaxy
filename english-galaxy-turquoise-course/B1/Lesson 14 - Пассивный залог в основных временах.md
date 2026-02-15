@@ -1,7 +1,6 @@
 **Дата изучения:** 24.01.2026  
 **Видео:** https://www.youtube.com/watch?v=DvPwmRU-tlA
 
-
 ---
 all over the world  - по всему миру
 
