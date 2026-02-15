@@ -23,12 +23,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://mx.aidenlx.site/docs/v4/playback#avoid-player-clutter-with-pinning",
-                "title": "Playback | Media Extended Documentation",
+                "url": "https://mx.aidenlx.site/docs/v4/reference/commands",
+                "title": "Commands | Media Extended Documentation",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Playback | Media Extended Documentation"
+              "title": "Commands | Media Extended Documentation"
             }
           },
           {
@@ -44,16 +44,9 @@
               "icon": "lucide-file",
               "title": "Lesson 25"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "01604e1d57980501",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "254de009893d9284",
+            "id": "8eb467b762494471",
             "type": "leaf",
             "state": {
               "type": "mx-url",
@@ -86,7 +79,8 @@
               "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 25"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -244,7 +238,7 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "254de009893d9284",
+  "active": "8eb467b762494471",
   "lastOpenFiles": [
     "english-galaxy-turquoise-course/B1/Lesson 25.md",
     "First Media Note.md",
