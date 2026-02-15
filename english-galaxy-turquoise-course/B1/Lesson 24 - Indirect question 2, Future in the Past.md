@@ -1,13 +1,12 @@
 **Дата изучения:** 15.02.2026
-
-https://youtu.be/gfkTV6fh-hA?si=qFj7O3Te0d4nmgIR
+Video: ![https://youtu.be/gfkTV6fh-hA?si=qFj7O3Te0d4nmgIR](https://youtu.be/gfkTV6fh-hA?si=qFj7O3Te0d4nmgIR)
 
 ---
 #### Предложения с if 
 Do you know, if she lives there? - если ответ должен быть да/нет, то используются if
 if играет роль "ли", например "живет ли?"
 He asked me if i had any questions
-She asked me if i was busy
+She asked me if i was busy  
 
 #### Предложения с whether 
 Используется когда в конце есть уточнения: whether... or not?
