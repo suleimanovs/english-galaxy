@@ -4,99 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "403d61bff0b05f23",
-        "type": "split",
+        "id": "ce779bd9ebb1967c",
+        "type": "tabs",
         "children": [
           {
-            "id": "ce779bd9ebb1967c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "68992421e0981f28",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/Users/osman/Projects/obsidian/english-galaxy",
-                      "focus": false,
-                      "profile": {
-                        "args": [
-                          "--login"
-                        ],
-                        "executable": "/bin/zsh",
-                        "followTheme": true,
-                        "name": "",
-                        "platforms": {
-                          "darwin": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": null
-                    }
+            "id": "68992421e0981f28",
+            "type": "leaf",
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/osman/Projects/obsidian/english-galaxy",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "/bin/zsh",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
                   },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: ⠐ YouTube Playlist"
+                  "serial": null
                 }
-              }
-            ]
-          },
-          {
-            "id": "e12ba19e5e116286",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c45bce05845092c8",
-                "type": "leaf",
-                "state": {
-                  "type": "mx-url",
-                  "state": {
-                    "mx": {
-                      "json": {
-                        "media": {
-                          "type": "url:hosted",
-                          "vid": {
-                            "host": "youtube",
-                            "vid": "-3HyR1NcIRE",
-                            "t": null,
-                            "start": null,
-                            "end": null
-                          },
-                          "url": "https://www.youtube.com/watch?v=-3HyR1NcIRE"
-                        },
-                        "hash": {}
-                      },
-                      "meta": {
-                        "values": {
-                          "media.url": [
-                            "URL"
-                          ]
-                        }
-                      }
-                    }
-                  },
-                  "icon": "youtube",
-                  "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 11"
-                }
-              }
-            ]
+              },
+              "icon": "terminal",
+              "title": "Terminal: ✳ Playlist Management"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,6 +208,9 @@
   },
   "active": "68992421e0981f28",
   "lastOpenFiles": [
+    "english-galaxy-titanium-course/B1/Lesson 2.md",
+    "english-galaxy-titanium-course/B1/Lesson 50.md",
+    "english-galaxy-titanium-course/B1/Lesson 1.md",
     "english-galaxy-turquoise-course/B2/Lesson 11.md",
     "english-galaxy-titanium-course/A1/Lesson 50.md",
     "english-galaxy-titanium-course/A1/Lesson 14.md",
@@ -280,9 +234,6 @@
     "english-galaxy-titanium-course/С1/Lesson 40.md",
     "english-galaxy-titanium-course/С1/Lesson 39.md",
     "english-galaxy-titanium-course/С1/Lesson 38.md",
-    "english-galaxy-titanium-course/С1/Lesson 37.md",
-    "english-galaxy-titanium-course/С1/Lesson 36.md",
-    "english-galaxy-titanium-course/С1/Lesson 35.md",
     "english-galaxy-titanium-course/B1",
     "english-galaxy-titanium-course/B2",
     "english-galaxy-titanium-course/С1",
