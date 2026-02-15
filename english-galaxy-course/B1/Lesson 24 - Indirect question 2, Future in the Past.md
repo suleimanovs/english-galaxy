@@ -15,4 +15,23 @@ I don't know whether they will agree or not?
 #### Согласование времен
 He asked me if I had ever been there - Past Perfect
 He said that she had never been there - Past Perfect
-He asked me if i had ever been to this place
+He asked me if i had ever been to this place - Past Perfect
+
+
+#### Future in the Past
+I knew that it would happen - will меняется на would 
+I thought that he would be late
+I told her that they wouldn't believe it 
+
+
+##### Смешанная практика
+If - используем если есть уточнение
+Whether - используем если есть уточнение да или нет?
+
+I asked my friends whether they <font color="#c0504d">would</font> come or not - *will заменен на would*
+I'm not sure if it is the right choice
+He asked me if I had been to England <font color="#c0504d">before</font>
+I don't know if i should do it
+I don't know if he is at home
+Tell me, where this place is
+He asked me if i 
