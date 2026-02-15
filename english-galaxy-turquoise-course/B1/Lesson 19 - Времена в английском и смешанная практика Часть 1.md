@@ -1,5 +1,6 @@
 **Дата изучения:** 10.02.2026
 **Видео:** https://www.youtube.com/watch?v=1p_ASesl_ew
+
 ---
 
 due to - из-за 

@@ -1,5 +1,6 @@
 **Дата изучения:** 05.01.2026
 **Видео:** https://www.youtube.com/watch?v=V3nHnOqHnEU
+
 ---
 at present - в настоящее время (указывает на Present Continuous)
 at the moment - в настоящий момент (указывает на Present Continuous)

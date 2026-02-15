@@ -1,5 +1,6 @@
 **Дата изучения:** 31.01.2026  
 **Видео:** https://www.youtube.com/watch?v=2NrHYUwuyyA
+
 ---
 
 #### Active Voice

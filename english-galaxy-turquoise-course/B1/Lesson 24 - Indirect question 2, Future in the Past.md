@@ -1,6 +1,7 @@
 **Дата изучения:** 15.02.2026
 **Видео:** https://www.youtube.com/watch?v=gfkTV6fh-hAYoutube
 
+
 ---
 #### Предложения с if 
 Do you know, if she lives there? - если ответ должен быть да/нет, то используются if

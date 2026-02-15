@@ -1,5 +1,6 @@
 **Дата изучения:** 31.12.2025  
 **Видео:** https://www.youtube.com/watch?v=EKPU28rUink
+
 ---
 
 for a while - на некоторое время

@@ -1,5 +1,6 @@
 **Дата изучения:** 07.01.2026  
 **Видео:** https://www.youtube.com/watch?v=0ByOsZ_hqdY
+
 ---
 spacious - просторный
 

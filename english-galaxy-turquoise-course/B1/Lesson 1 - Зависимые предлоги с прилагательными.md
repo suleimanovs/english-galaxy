@@ -1,5 +1,6 @@
 **Дата изучения:** 12.12.2025  
 **Видео:** https://www.youtube.com/watch?v=WSSxBgI5N5M
+
 ---
 
 typical of - типичный для, типично для

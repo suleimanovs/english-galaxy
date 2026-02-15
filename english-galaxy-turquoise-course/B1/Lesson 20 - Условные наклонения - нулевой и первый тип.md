@@ -1,5 +1,6 @@
 **Дата изучения:** 11.02.2026
 **Видео:** https://www.youtube.com/watch?v=2MySoJz5Ykc
+
 ---
 <font color="#9bbb59">put on weight - набрать вес</font>
 <font color="#9bbb59">gain weight  - набрать вес</font>

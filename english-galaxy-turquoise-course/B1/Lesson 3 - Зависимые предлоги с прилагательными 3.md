@@ -1,5 +1,6 @@
 **Дата изучения:** 16.12.2025  
 **Видео:** https://www.youtube.com/watch?v=avpZc0li4XY
+
 ---
 I'm full of energy.
 He is full of enthusiasm 

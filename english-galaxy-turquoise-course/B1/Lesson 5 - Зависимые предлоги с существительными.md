@@ -1,5 +1,6 @@
 **Дата изучения:** 27.12.2025  
 **Видео:** https://www.youtube.com/watch?v=GTMNc9v0KAw
+
 ---
 
 attitude to / towards - отношение к

@@ -1,5 +1,6 @@
 **Дата изучения:** 03.01.2026  
 **Видео:** https://www.youtube.com/watch?v=XVek7Zd_AtA
+
 ---
 in general - в общем
 in terms of - в отношении к чему-то

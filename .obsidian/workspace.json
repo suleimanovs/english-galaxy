@@ -101,7 +101,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: ✳ YouTube playlist video extraction"
+                  "title": "Terminal: ⠂ YouTube Playlist"
                 }
               }
             ]
@@ -249,8 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5,
-    "collapsed": true
+    "width": 509.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,7 +265,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "79433b23c17efddc",
+  "active": "68992421e0981f28",
   "lastOpenFiles": [
     "english-galaxy-turquoise-course/B1/Lesson 14 - Пассивный залог в основных временах.md",
     "english-galaxy-turquoise-course/B1/Lesson 24 - Indirect question 2, Future in the Past.md",
