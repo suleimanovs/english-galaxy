@@ -47,12 +47,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "english-galaxy-turquoise-course/B1/Lesson 14 - Пассивный залог в основных временах.md",
+                    "file": "learn-5000-english-words/Lesson 52.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Lesson 14 - Пассивный залог в основных временах"
+                  "title": "Lesson 52"
                 }
               }
             ],
@@ -101,7 +101,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: ✳ YouTube Playlists"
+                  "title": "Terminal: ⠐ YouTube Playlists"
                 }
               }
             ]
@@ -249,8 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5,
-    "collapsed": true
+    "width": 509.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,45 +265,45 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "68992421e0981f28",
+  "active": "49c0274e3b506652",
   "lastOpenFiles": [
-    "learn-5000-english-words/Lesson 61.md",
-    "learn-5000-english-words/Lesson 60.md",
-    "learn-5000-english-words/Lesson 59.md",
-    "learn-5000-english-words/Lesson 58.md",
-    "learn-5000-english-words/Lesson 57.md",
-    "learn-5000-english-words/Lesson 56.md",
-    "learn-5000-english-words/Lesson 55.md",
-    "learn-5000-english-words/Lesson 54.md",
-    "learn-5000-english-words/Lesson 53.md",
-    "learn-5000-english-words/Lesson 52.md",
-    "learn-5000-english-words/Lesson 51.md",
-    "learn-5000-english-words/Lesson 50.md",
-    "learn-5000-english-words/Lesson 49.md",
-    "learn-5000-english-words/Lesson 48.md",
-    "learn-5000-english-words/Lesson 47.md",
-    "learn-5000-english-words/Lesson 46.md",
-    "learn-5000-english-words/Lesson 45.md",
-    "learn-5000-english-words/Lesson 44.md",
-    "learn-5000-english-words/Lesson 43.md",
-    "learn-5000-english-words/Lesson 42.md",
-    "learn-5000-english-words/Lesson 41.md",
-    "learn-5000-english-words/Lesson 40.md",
-    "learn-5000-english-words/Lesson 39.md",
-    "learn-5000-english-words/Lesson 38.md",
-    "learn-5000-english-words/Lesson 37.md",
-    "learn-5000-english-words/Lesson 36.md",
+    "english-galaxy-titanium-course/A1/Lesson 50.md",
+    "english-galaxy-titanium-course/A1/Lesson 49.md",
+    "english-galaxy-titanium-course/A1/Lesson 48.md",
+    "english-galaxy-titanium-course/A1/Lesson 47.md",
+    "english-galaxy-titanium-course/A1/Lesson 46.md",
+    "english-galaxy-titanium-course/A1/Lesson 45.md",
+    "english-galaxy-titanium-course/A1/Lesson 44.md",
+    "english-galaxy-titanium-course/A1/Lesson 43.md",
+    "english-galaxy-titanium-course/A1/Lesson 42.md",
+    "english-galaxy-titanium-course/A1/Lesson 41.md",
+    "english-galaxy-titanium-course/A1/Lesson 40.md",
+    "english-galaxy-titanium-course/A1/Lesson 39.md",
+    "english-galaxy-titanium-course/A1/Lesson 38.md",
+    "english-galaxy-titanium-course/A1/Lesson 37.md",
+    "english-galaxy-titanium-course/A1/Lesson 36.md",
+    "english-galaxy-titanium-course/A1/Lesson 35.md",
+    "english-galaxy-titanium-course/A1/Lesson 34.md",
+    "english-galaxy-titanium-course/A1/Lesson 33.md",
+    "english-galaxy-titanium-course/A1/Lesson 32.md",
+    "english-galaxy-titanium-course/A1/Lesson 31.md",
+    "english-galaxy-titanium-course/A1/Lesson 30.md",
+    "english-galaxy-titanium-course/A1/Lesson 29.md",
+    "english-galaxy-titanium-course/A1/Lesson 28.md",
+    "english-galaxy-titanium-course/A1/Lesson 27.md",
+    "english-galaxy-titanium-course/A1/Lesson 26.md",
+    "english-galaxy-titanium-course/A1/Lesson 25.md",
+    "english-galaxy-titanium-course/B1",
+    "english-galaxy-titanium-course/B2",
+    "english-galaxy-titanium-course/Advanced",
+    "english-galaxy-titanium-course/A2",
+    "english-galaxy-titanium-course/A1",
+    "english-galaxy-titanium-course",
     "english-galaxy-turquoise-course/B2",
     "english-galaxy-turquoise-course/C1",
     "media-lib",
     "learn-5000-english-words",
-    "Без названия.base",
     "Без названия.canvas",
-    "Без названия 1.canvas",
-    "english-galaxy-turquoise-course/B1",
-    "express-course/A0",
-    "english-galaxy-turquoise-course",
-    "express-course",
-    "times"
+    "Без названия 1.canvas"
   ]
 }
