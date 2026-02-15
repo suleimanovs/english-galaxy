@@ -11,6 +11,30 @@
             "id": "5e86c22ea38d8d0c",
             "type": "leaf",
             "state": {
+              "type": "mx-welcome",
+              "state": {},
+              "icon": "home",
+              "title": "Media Extended onboarding"
+            }
+          },
+          {
+            "id": "decbe0dbbdd40298",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://mx.aidenlx.site/docs/v4/playback#avoid-player-clutter-with-pinning",
+                "title": "Playback | Media Extended Documentation",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Playback | Media Extended Documentation"
+            }
+          },
+          {
+            "id": "68b5c5160cb7bee9",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "english-galaxy-turquoise-course/B1/Lesson 25.md",
@@ -19,6 +43,47 @@
               },
               "icon": "lucide-file",
               "title": "Lesson 25"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "01604e1d57980501",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "254de009893d9284",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "SqYuRxekdVQ",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=SqYuRxekdVQ"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    }
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 25"
             }
           }
         ]
@@ -179,7 +244,7 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "5e86c22ea38d8d0c",
+  "active": "254de009893d9284",
   "lastOpenFiles": [
     "english-galaxy-turquoise-course/B1/Lesson 25.md",
     "First Media Note.md",

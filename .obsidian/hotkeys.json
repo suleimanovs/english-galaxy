@@ -1,0 +1,10 @@
+{
+  "media-extended:toggle-play": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ]
+}
