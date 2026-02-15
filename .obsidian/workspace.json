@@ -22,6 +22,46 @@
             }
           }
         ]
+      },
+      {
+        "id": "828afdfb1046e25b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b8f6c9ce9697352",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "gfkTV6fh-hA",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=gfkTV6fh-hA"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    }
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "YouTube - gfkTV6fh-hA"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,47 +113,12 @@
               "icon": "lucide-bookmark",
               "title": "Закладки"
             }
-          },
-          {
-            "id": "efc5025e17f72a76",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "gfkTV6fh-hA",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=gfkTV6fh-hA"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    }
-                  }
-                }
-              },
-              "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 24"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 734.5
+    "width": 466.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -214,14 +219,15 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "efc5025e17f72a76",
+  "active": "3b8f6c9ce9697352",
   "lastOpenFiles": [
     "english-galaxy-turquoise-course/B1/Lesson 24 - Indirect question 2, Future in the Past.md",
+    "english-galaxy-turquoise-course/B1/Lesson 25.md",
+    "english-galaxy-turquoise-course/B1/Lesson 23 - Indirect questiion.md",
     "media-lib/url-pe95uh87.md",
     "media-lib/url-z1r4zq64.md",
     "media-lib",
     "learn-5000-english-words",
-    "english-galaxy-turquoise-course/B1/Lesson 23 - Indirect questiion.md",
     "english-galaxy-turquoise-course/B1/Lesson 22 -Условные наклонения - первое и второе условное наклонение.md",
     "english-galaxy-turquoise-course/B1/Lesson 20 - Условные наклонения - нулевой и первый тип.md",
     "english-galaxy-turquoise-course/B1/Lesson 21 -  Условные наклонения - второе условное наклонение(Conditional 2).md",
@@ -246,7 +252,6 @@
     "english-galaxy-turquoise-course/B1/Lesson 41.md",
     "english-galaxy-turquoise-course/B1/Lesson 37.md",
     "english-galaxy-turquoise-course/B1/Lesson 29.md",
-    "english-galaxy-turquoise-course/B1/Lesson 26.md",
     "english-galaxy-turquoise-course/B1",
     "express-course/A0",
     "english-galaxy-turquoise-course",
