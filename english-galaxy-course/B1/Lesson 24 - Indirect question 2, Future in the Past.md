@@ -34,4 +34,11 @@ He asked me if I had been to England <font color="#c0504d">before</font>
 I don't know if i should do it
 I don't know if he is at home
 Tell me, where this place is
-He asked me if i 
+He asked me if i was busy 
+She said that she would come to the party  - *will заменен на would*
+I wasn't sure if it was the right decision 
+I don't know how far this place is 
+He asked me, if it was urgent
+I decided that i would do it later 
+Do you know if he has a car?
+Do you know where the airport is? 
