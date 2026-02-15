@@ -101,7 +101,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: ⠐ B2 YouTube Playlist"
+                  "title": "Terminal: ✳ YouTube Playlists"
                 }
               }
             ]
@@ -249,7 +249,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5
+    "width": 509.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,34 +266,34 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "49c0274e3b506652",
+  "active": "68992421e0981f28",
   "lastOpenFiles": [
-    "english-galaxy-turquoise-course/B2/Lesson 50.md",
-    "english-galaxy-turquoise-course/B2/Lesson 49.md",
-    "english-galaxy-turquoise-course/B2/Lesson 48.md",
-    "english-galaxy-turquoise-course/B2/Lesson 47.md",
-    "english-galaxy-turquoise-course/B2/Lesson 46.md",
-    "english-galaxy-turquoise-course/B2/Lesson 45.md",
-    "english-galaxy-turquoise-course/B2/Lesson 44.md",
-    "english-galaxy-turquoise-course/B2/Lesson 43.md",
-    "english-galaxy-turquoise-course/B2/Lesson 42.md",
-    "english-galaxy-turquoise-course/B2/Lesson 41.md",
-    "english-galaxy-turquoise-course/B2/Lesson 40.md",
-    "english-galaxy-turquoise-course/B2/Lesson 39.md",
-    "english-galaxy-turquoise-course/B2/Lesson 38.md",
-    "english-galaxy-turquoise-course/B2/Lesson 37.md",
-    "english-galaxy-turquoise-course/B2/Lesson 36.md",
-    "english-galaxy-turquoise-course/B2/Lesson 35.md",
-    "english-galaxy-turquoise-course/B2/Lesson 34.md",
-    "english-galaxy-turquoise-course/B2/Lesson 33.md",
-    "english-galaxy-turquoise-course/B2/Lesson 32.md",
-    "english-galaxy-turquoise-course/B2/Lesson 31.md",
-    "english-galaxy-turquoise-course/B2/Lesson 30.md",
-    "english-galaxy-turquoise-course/B2/Lesson 9.md",
-    "english-galaxy-turquoise-course/B2/Lesson 8.md",
-    "english-galaxy-turquoise-course/B2/Lesson 7.md",
-    "english-galaxy-turquoise-course/B2/Lesson 6.md",
-    "english-galaxy-turquoise-course/B2/Lesson 5.md",
+    "learn-5000-english-words/Lesson 61.md",
+    "learn-5000-english-words/Lesson 60.md",
+    "learn-5000-english-words/Lesson 59.md",
+    "learn-5000-english-words/Lesson 58.md",
+    "learn-5000-english-words/Lesson 57.md",
+    "learn-5000-english-words/Lesson 56.md",
+    "learn-5000-english-words/Lesson 55.md",
+    "learn-5000-english-words/Lesson 54.md",
+    "learn-5000-english-words/Lesson 53.md",
+    "learn-5000-english-words/Lesson 52.md",
+    "learn-5000-english-words/Lesson 51.md",
+    "learn-5000-english-words/Lesson 50.md",
+    "learn-5000-english-words/Lesson 49.md",
+    "learn-5000-english-words/Lesson 48.md",
+    "learn-5000-english-words/Lesson 47.md",
+    "learn-5000-english-words/Lesson 46.md",
+    "learn-5000-english-words/Lesson 45.md",
+    "learn-5000-english-words/Lesson 44.md",
+    "learn-5000-english-words/Lesson 43.md",
+    "learn-5000-english-words/Lesson 42.md",
+    "learn-5000-english-words/Lesson 41.md",
+    "learn-5000-english-words/Lesson 40.md",
+    "learn-5000-english-words/Lesson 39.md",
+    "learn-5000-english-words/Lesson 38.md",
+    "learn-5000-english-words/Lesson 37.md",
+    "learn-5000-english-words/Lesson 36.md",
     "english-galaxy-turquoise-course/B2",
     "english-galaxy-turquoise-course/C1",
     "media-lib",
