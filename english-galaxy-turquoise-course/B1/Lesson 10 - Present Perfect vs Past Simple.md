@@ -1,5 +1,5 @@
 **Дата изучения:** 11.01.2026  
-
+**Видео:** https://www.youtube.com/watch?v=WThhfPHr4go
 ---
 a cure for this disease - лекарство от этой болезни
 

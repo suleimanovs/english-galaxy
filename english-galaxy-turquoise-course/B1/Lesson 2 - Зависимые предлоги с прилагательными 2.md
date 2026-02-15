@@ -1,5 +1,5 @@
 **Дата изучения:** 14.12.2025  
-
+**Видео:** https://www.youtube.com/watch?v=yCr4stvTyVs
 ---
 I'm ready for it.
 

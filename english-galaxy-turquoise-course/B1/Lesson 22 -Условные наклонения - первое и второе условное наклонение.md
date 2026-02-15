@@ -1,5 +1,5 @@
 **Дата изучения:** 13.02.2026
-
+**Видео:** https://www.youtube.com/watch?v=vLFUpfLTM3M
 ---
 
 #### First Conditional

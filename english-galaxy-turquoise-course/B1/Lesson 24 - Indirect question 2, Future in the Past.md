@@ -1,5 +1,5 @@
 **Дата изучения:** 15.02.2026
-Video: ![https://youtu.be/gfkTV6fh-hA?si=qFj7O3Te0d4nmgIR](https://youtu.be/gfkTV6fh-hA?si=qFj7O3Te0d4nmgIR)
+**Видео:** https://www.youtube.com/watch?v=gfkTV6fh-hAYoutube
 
 ---
 #### Предложения с if 

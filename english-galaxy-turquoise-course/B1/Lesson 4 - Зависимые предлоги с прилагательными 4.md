@@ -1,5 +1,5 @@
 **Дата изучения:** 18.12.2025  
-
+**Видео:** https://www.youtube.com/watch?v=WtBctzaDxME
 ---
 
 depend on - зависет от 

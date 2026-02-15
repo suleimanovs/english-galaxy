@@ -1,5 +1,5 @@
 **Дата изучения:** 21.01.2026  
-
+**Видео:** https://www.youtube.com/watch?v=vAh2fSlcPpQ
 ---
 devote - уделять на
 firmly believe - твердо верить

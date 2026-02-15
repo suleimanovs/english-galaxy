@@ -1,5 +1,5 @@
 **Дата изучения:** 12.02.2026
-
+**Видео:** https://www.youtube.com/watch?v=EehXyWqqHNM
 ---
 
 #### Conditional 2
