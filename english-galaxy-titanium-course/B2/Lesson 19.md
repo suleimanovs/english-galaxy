@@ -1,5 +1,5 @@
 **Дата изучения:** 00.00.2026
-**Видео:** https://www.youtube.com/watch?v=oO7wfc2tqZI
+**Видео:** https://www.youtube.com/watch?v=44B17_oX-rI
 
 ---
 

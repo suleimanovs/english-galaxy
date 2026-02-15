@@ -1,4 +1,4 @@
 **Дата изучения:** 00.00.2026
-**Видео:** https://www.youtube.com/watch?v=WjnKDFCJg7Q
+**Видео:** https://www.youtube.com/watch?v=un_8wI2_8ME
 
 ---
