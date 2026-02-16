@@ -6,6 +6,7 @@
       {
         "id": "c12e815a13b9cb84",
         "type": "tabs",
+        "dimension": 48.15914489311164,
         "children": [
           {
             "id": "3d0113ab9393521c",
@@ -46,6 +47,7 @@
       {
         "id": "ce779bd9ebb1967c",
         "type": "tabs",
+        "dimension": 51.84085510688836,
         "children": [
           {
             "id": "68992421e0981f28",
@@ -236,7 +238,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "3d0113ab9393521c",
+  "active": "318b97987e24fe8f",
   "lastOpenFiles": [
     "learn-5000-english-words/Lesson 1.md",
     "english-galaxy-turquoise-course/B1/Lesson 11 - Present Perfect Continuous vs Present Perfect Past Continuous vs Present Simple.md",
