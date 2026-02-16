@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58113fd0a446b0bd",
+        "id": "c12e815a13b9cb84",
         "type": "tabs",
-        "dimension": 41.56769596199525,
         "children": [
           {
-            "id": "8e1b3a425f873cc0",
+            "id": "3d0113ab9393521c",
             "type": "leaf",
             "state": {
               "type": "mx-url",
@@ -20,12 +19,12 @@
                       "type": "url:hosted",
                       "vid": {
                         "host": "youtube",
-                        "vid": "SqYuRxekdVQ",
+                        "vid": "bDQiVOCd9MY",
                         "t": null,
                         "start": null,
                         "end": null
                       },
-                      "url": "https://www.youtube.com/watch?v=SqYuRxekdVQ"
+                      "url": "https://www.youtube.com/watch?v=bDQiVOCd9MY"
                     },
                     "hash": {}
                   },
@@ -39,7 +38,7 @@
                 }
               },
               "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 25"
+              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ - СУПЕР ТРЕНИРОВКА. АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ. АНГЛИЙСКИЕ СЛОВА"
             }
           }
         ]
@@ -47,7 +46,6 @@
       {
         "id": "ce779bd9ebb1967c",
         "type": "tabs",
-        "dimension": 58.432304038004744,
         "children": [
           {
             "id": "68992421e0981f28",
@@ -69,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-galaxy-turquoise-course/B1/Lesson 25 - когда использовать to а когда ing - форма.md",
+                "file": "learn-5000-english-words/Lesson 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 25 - когда использовать to а когда ing - форма"
+              "title": "Lesson 1"
             }
           }
         ],
@@ -238,8 +236,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "318b97987e24fe8f",
+  "active": "3d0113ab9393521c",
   "lastOpenFiles": [
+    "learn-5000-english-words/Lesson 1.md",
+    "english-galaxy-turquoise-course/B1/Lesson 11 - Present Perfect Continuous vs Present Perfect Past Continuous vs Present Simple.md",
     "english-galaxy-turquoise-course/B1/Lesson 25 - когда использовать to а когда ing - форма.md",
     "english-galaxy-titanium-course/A0/Lesson 11.md",
     "english-galaxy-titanium-course/A0/Lesson 7.md",
@@ -264,8 +264,6 @@
     "english-galaxy-titanium-course/A0/Lesson 37.md",
     "english-galaxy-titanium-course/A0/Lesson 36.md",
     "english-galaxy-titanium-course/A0/Lesson 35.md",
-    "english-galaxy-titanium-course/A0/Lesson 34.md",
-    "english-galaxy-titanium-course/A0/Lesson 33.md",
     "english-galaxy-titanium-course/A0",
     "english-galaxy-titanium-course/B1",
     "english-galaxy-titanium-course/B2",
