@@ -16,7 +16,7 @@ He asked me to go with him
 Есть глаголы с которыми необходимо употреблять глаголы с ing формой
 enjoy, avoid, recommend,  suggest, finish, love, mind
 
-like, start, 
+
 
 I enjoy reading 
 I don't recommend buying food there
@@ -25,14 +25,36 @@ What do you suggest doing?
 I suggest going there now
 I have just finished working 
 I really love traveling 
-I don't mind doing it
+I don't <font color="#c0504d">mind</font> doing it
 I can't help admiring the beauty of this place
 I like cooking
 I like to cook
 I started learning English when i was a child
 
 ##### to / ing
+
+like, start, continue
+
 I started to learn English about two years ago
+I started learning English about two years ago
+
+He continued talking about it
+He continued to talk about it
+
+I suggest going to another place
+I want to say the following 
+I strongly recommend visiting this place
+I really enjoy swimming
+I haven't finished doing it yet
+I don't <font color="#c0504d">mind</font> to go there right now 
+I can't help admiring such people 
+He advised me not to do it
+
+
+
+
+
+
 
 
 
