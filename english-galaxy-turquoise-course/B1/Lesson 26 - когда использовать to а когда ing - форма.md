@@ -29,5 +29,9 @@ What are you planning to do?
 She asked me to repeat this question
 I try to practise speaking English every day
 I will try to do my best to solve this problem 
-
+I feel like drinking a cup of coffee
+She hates cooking
+He decided to stop smoking
+I stopped to ask him a question
+I tend to think that it is really so
 
