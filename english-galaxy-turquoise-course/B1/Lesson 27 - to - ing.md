@@ -30,6 +30,6 @@ Would like to go on a picnic now?
 He stopped/gave up smoking several years ago
 What can you recommend doing in such a situation ? 
 They failed to resolve this conflict 
-To tell the tru
+To tell the truth i don't like getting up early, but i have to do it
 
 

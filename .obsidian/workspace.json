@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d41aadbbb9f25f97",
+        "id": "49ab35dfc66d69a6",
         "type": "tabs",
-        "dimension": 41.448931116389545,
         "children": [
           {
-            "id": "98dd9516cd77da8c",
+            "id": "6b96193a0d2b4dbc",
             "type": "leaf",
             "state": {
               "type": "mx-url",
@@ -20,12 +19,12 @@
                       "type": "url:hosted",
                       "vid": {
                         "host": "youtube",
-                        "vid": "jA9Sb1oZQwI",
+                        "vid": "5R-c08UFy20",
                         "t": null,
                         "start": null,
                         "end": null
                       },
-                      "url": "https://www.youtube.com/watch?v=jA9Sb1oZQwI"
+                      "url": "https://www.youtube.com/watch?v=5R-c08UFy20"
                     },
                     "hash": {}
                   },
@@ -39,7 +38,7 @@
                 }
               },
               "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 27"
+              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 3"
             }
           }
         ]
@@ -47,7 +46,6 @@
       {
         "id": "79f3da37af7f8d7a",
         "type": "tabs",
-        "dimension": 58.55106888361045,
         "children": [
           {
             "id": "29673631fc36bd5b",
@@ -55,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-galaxy-turquoise-course/B1/Lesson 27 - to - ing.md",
+                "file": "learn-5000-english-words/Lesson 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 27 - to - ing"
+              "title": "Lesson 3"
             }
           }
         ]
@@ -223,10 +221,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "29673631fc36bd5b",
+  "active": "6b96193a0d2b4dbc",
   "lastOpenFiles": [
-    "english-galaxy-turquoise-course/B1/Lesson 27 - to - ing.md",
+    "learn-5000-english-words/Lesson 3.md",
     "learn-5000-english-words/Lesson 2.md",
+    "english-galaxy-turquoise-course/B1/Lesson 27 - to - ing.md",
     "learn-5000-english-words/Lesson 1.md",
     "english-galaxy-turquoise-course/B1/Lesson 26 - когда использовать to а когда ing - форма.md",
     "english-galaxy-turquoise-course/B1/Lesson 25 - когда использовать to а когда ing - форма.md",
@@ -250,7 +249,6 @@
     "english-galaxy-titanium-course/A0/Lesson 42.md",
     "english-galaxy-titanium-course/A0/Lesson 41.md",
     "english-galaxy-titanium-course/A0/Lesson 40.md",
-    "english-galaxy-titanium-course/A0/Lesson 39.md",
     "english-galaxy-titanium-course/A0",
     "english-galaxy-titanium-course/B1",
     "english-galaxy-titanium-course/B2",
