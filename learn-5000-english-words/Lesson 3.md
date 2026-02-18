@@ -29,3 +29,38 @@
 176. be - быть
 177. become - становиться
 178. businessman - бизнес
+179. correctly - правильно
+180. designer - дизайнер
+181. doctor - врачь
+182. fluently -свободно, бегло
+183. happy - счастливый
+184. her - ее
+185. him - его
+186. manager - менеджер
+187. new - новый
+188. now - сейчас
+189. programmer - программист
+190. them - им, их
+191. visit - посещать
+192. without - без
+193. would - бы
+194. abroad - за границей
+195. China - Китай
+196. England - Англия
+197. father - отец
+198. Germany - Германия
+199. his - его
+200. Italy - Италия
+201. Japan - Япония
+202. month - месяц
+203. mother - мать
+204. next- следующий
+205. the United States - США
+206. their - их
+207. week - неделя
+208. big. - ,большой
+209. business -  бизнес
+210. control - контроль, контроллировать
+211. course - курс
+212. education - образование
+213. 
