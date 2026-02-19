@@ -24,4 +24,8 @@ Reading books is my hobby
 His dream is to earn plenty of money
 Speaking English seems very difficult only at the start
 Her salary isn't big enough to buy a new house
-His income isn't 
+His income isn't big enough to buy a new house
+He hasn't stopped smoking yet, but he really wants it
+The lawyer advised us to read the contract very carefully
+It is never too late to study
+It is never too late to change your life
