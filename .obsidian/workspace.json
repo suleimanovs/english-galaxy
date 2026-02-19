@@ -4,46 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "fa301ee04972940b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "511f1a4fffcf9f96",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "Q0mfychL4uw",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=Q0mfychL4uw"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    }
-                  }
-                }
-              },
-              "icon": "youtube",
-              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 4"
-            }
-          }
-        ]
-      },
-      {
         "id": "49ab35dfc66d69a6",
         "type": "tabs",
         "children": [
@@ -53,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learn-5000-english-words/Lesson 4.md",
+                "file": "learn-5000-english-words/Lesson 3(4-7).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 4"
+              "title": "Lesson 3(4-7)"
             }
           }
         ]
@@ -118,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -223,13 +182,13 @@
   },
   "active": "6b96193a0d2b4dbc",
   "lastOpenFiles": [
-    "learn-5000-english-words/Lesson 3.md",
-    "learn-5000-english-words/Lesson 4.md",
-    "learn-5000-english-words/Lesson 2.md",
+    "learn-5000-english-words/Lesson 2(2-3).md",
+    "learn-5000-english-words/Lesson 1(1).md",
+    "learn-5000-english-words/Lesson 3(4-7).md",
+    "learn-5000-english-words/Lesson 4(8-12).md",
     "english-galaxy-turquoise-course/B1/Lesson 29.md",
     "english-galaxy-turquoise-course/B1/Lesson 28 - Инфинитив и Герундий.md",
     "english-galaxy-turquoise-course/B1/Lesson 27 - to - ing.md",
-    "learn-5000-english-words/Lesson 1.md",
     "english-galaxy-turquoise-course/B1/Lesson 26 - когда использовать to а когда ing - форма.md",
     "english-galaxy-turquoise-course/B1/Lesson 25 - когда использовать to а когда ing - форма.md",
     "english-galaxy-turquoise-course/B1/Lesson 50.md",
