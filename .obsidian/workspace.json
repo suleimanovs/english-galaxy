@@ -168,6 +168,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-livesync:P2P Replicator": false,
+      "obsidian-livesync:Show Log": false,
+      "obsidian-livesync:Replicate": false,
       "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
@@ -177,7 +180,8 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "media-extended:Open external media": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "obsidian-livesync:Show Customization sync": false
     }
   },
   "active": "6b96193a0d2b4dbc",

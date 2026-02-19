@@ -4,5 +4,6 @@
   "remotely-save",
   "media-extended",
   "convert-url-to-iframe",
-  "terminal"
+  "terminal",
+  "obsidian-livesync"
 ]
