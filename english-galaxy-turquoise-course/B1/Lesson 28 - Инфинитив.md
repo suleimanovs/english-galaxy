@@ -16,4 +16,12 @@ It was a real surprise to see her there
 
 
 ##### Герундий
-I can listen to these vido
+I can listen to these videos doing other things
+She listens to music doing other things at the same time 
+Learning English seems very useful 
+Learning English seems a very useful pastime
+Reading books is my hobby
+His dream is to earn plenty of money
+Speaking English seems very difficult only at the start
+Her salary isn't big enough to buy a new house
+His income isn't 
