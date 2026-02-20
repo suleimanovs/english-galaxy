@@ -24,3 +24,6 @@ To be honest, i didn't know
 Are you ready to do it right now?
 It is more difficult to translate from Russian into English
 I'm sure that it is one of the best ways of learning English
+There is no doubts that this book is worth reading 
+This video is definitely worth watching
+
