@@ -15,3 +15,12 @@ I'm absolutely sure that it is one of the best methods of learning foreign langu
 These exercises are worth doing 
 This movie is worth watching 
 It is better to do it now
+It is often said that teaching is a stressful  job
+It is very useful to do these exercises
+I am very glad to see you
+His plan is earning two thousand dollars monthly
+She doesn't know where to go
+To be honest, i didn't know
+Are you ready to do it right now?
+It is more difficult to translate from Russian into English
+I'm sure that it is one of the best ways of learning English
