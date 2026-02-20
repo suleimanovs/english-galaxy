@@ -4,6 +4,46 @@
     "type": "split",
     "children": [
       {
+        "id": "0b345038236b727f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aacc848ec2d8bc6e",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "3RpyuAmnq5o",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=3RpyuAmnq5o"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    }
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 29"
+            }
+          }
+        ]
+      },
+      {
         "id": "49ab35dfc66d69a6",
         "type": "tabs",
         "children": [
@@ -13,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "express-course/A0/Lesson 1.md",
+                "file": "english-galaxy-turquoise-course/B1/Lesson 29 - инфинитив и грундий 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 1"
+              "title": "Lesson 29 - инфинитив и грундий 2"
             }
           }
         ]
@@ -53,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "To tell the truth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -186,11 +227,12 @@
   },
   "active": "6b96193a0d2b4dbc",
   "lastOpenFiles": [
+    "english-galaxy-turquoise-course/B1/Lesson 29 - инфинитив и грундий 2.md",
+    "express-course/A0/Lesson 1.md",
     "learn-5000-english-words/Lesson 3(4-7).md",
     "learn-5000-english-words/Lesson 2(2-3).md",
     "learn-5000-english-words/Lesson 1(1).md",
     "learn-5000-english-words/Lesson 4(8-12).md",
-    "english-galaxy-turquoise-course/B1/Lesson 29.md",
     "english-galaxy-turquoise-course/B1/Lesson 28 - Инфинитив и Герундий.md",
     "english-galaxy-turquoise-course/B1/Lesson 27 - to - ing.md",
     "english-galaxy-turquoise-course/B1/Lesson 26 - когда использовать to а когда ing - форма.md",
@@ -211,7 +253,6 @@
     "english-galaxy-titanium-course/A0/Lesson 46.md",
     "english-galaxy-titanium-course/A0/Lesson 45.md",
     "english-galaxy-titanium-course/A0/Lesson 44.md",
-    "english-galaxy-titanium-course/A0/Lesson 43.md",
     "english-galaxy-titanium-course/A0",
     "english-galaxy-titanium-course/B1",
     "english-galaxy-titanium-course/B2",
