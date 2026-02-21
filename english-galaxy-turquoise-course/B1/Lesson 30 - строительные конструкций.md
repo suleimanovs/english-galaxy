@@ -3,17 +3,33 @@
 
 ---
 
-#### as ... as
+##### as ... as
 He is as smart as his sister
 This book isn't as interesting as that one
 This thing isn't as expensive as that one
+This car isn't as old as that one
 
 
-#### артикли
+##### артикли
 It is a better decision 
 It is a much better choice
 It's a more serious economic problem 
 I suppose it is a much better decision
-
-#### one of 
+This bag is three times cheaper than that one
+##### one of 
 It is one of the most common english words
+He is one of the richest people in the world
+It is one of the most serious problems
+It is one of the most interesting recent discovories 
+
+##### than this one
+That presentation is much more colourful than this one
+
+##### the same ...as
+I have the same questions as you
+He has the same mistakes as you
+
+##### местоимения в сравнительных конструкциях
+
+My level is higher than his
+His level is lower than mine
