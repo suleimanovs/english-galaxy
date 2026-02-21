@@ -33,3 +33,12 @@ He has the same mistakes as you
 
 My level is higher than his
 His level is lower than mine
+Your idea is the same as hers
+Our house is smaller than theirs
+
+##### the ..., the...
+The sooner, the better
+The more practice you have the better it is for you
+The more i think about it the more i like this idea
+The more you study the more you know 
+The more we have the more we want

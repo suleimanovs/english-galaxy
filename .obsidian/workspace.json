@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c816b3a341b6abff",
+        "id": "30552b0f648dda7b",
         "type": "tabs",
         "children": [
           {
-            "id": "e7793566dc2a25df",
+            "id": "d15dbc8abb7ca91c",
             "type": "leaf",
             "state": {
               "type": "mx-url",
@@ -19,12 +19,12 @@
                       "type": "url:hosted",
                       "vid": {
                         "host": "youtube",
-                        "vid": "Vtmn2Yc6f9g",
+                        "vid": "l-jGMNELZ-c",
                         "t": null,
                         "start": null,
                         "end": null
                       },
-                      "url": "https://www.youtube.com/watch?v=Vtmn2Yc6f9g"
+                      "url": "https://www.youtube.com/watch?v=l-jGMNELZ-c"
                     },
                     "hash": {}
                   },
@@ -38,55 +38,30 @@
                 }
               },
               "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 30"
+              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 6"
             }
           }
         ]
       },
       {
-        "id": "3ce743fd71d775cc",
+        "id": "1f3ec05f02c780d3",
         "type": "tabs",
         "children": [
           {
-            "id": "172b0ea0ccad7072",
+            "id": "446c3ff3f818f35e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-galaxy-turquoise-course/A2/Lesson 16 - Present Perfect - Общий смысл.md",
+                "file": "learn-5000-english-words/Lesson 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 16 - Present Perfect - Общий смысл"
-            }
-          },
-          {
-            "id": "ece6ebf31c74bbbe",
-            "type": "leaf",
-            "state": {
-              "type": "log-log",
-              "state": {},
-              "icon": "view-log",
-              "title": "Self-hosted LiveSync Log"
-            }
-          },
-          {
-            "id": "b511a4b4f6b9082f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english-galaxy-turquoise-course/B1/Lesson 30 - строительные конструкций.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lesson 30 - строительные конструкций"
+              "title": "Lesson 6"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,17 +225,18 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "e7793566dc2a25df",
+  "active": "446c3ff3f818f35e",
   "lastOpenFiles": [
+    "learn-5000-english-words/Lesson 5(13-18).md",
+    "learn-5000-english-words/Lesson 6.md",
+    "learn-5000-english-words/Lesson 4(8-12).md",
+    "learn-5000-english-words/Lesson 3(4-7).md",
+    "english-galaxy-turquoise-course/A2/Lesson 16 - Present Perfect - Общий смысл.md",
     "english-galaxy-turquoise-course/B1/Lesson 30 - строительные конструкций.md",
     "english-galaxy-turquoise-course/B1/Lesson 29 - Инфинитив и грундий 2.md",
-    "english-galaxy-turquoise-course/A2/Lesson 16 - Present Perfect - Общий смысл.md",
-    "learn-5000-english-words/Lesson 5(13-18).md",
     "express-course/A0/Lesson 1.md",
-    "learn-5000-english-words/Lesson 3(4-7).md",
     "learn-5000-english-words/Lesson 2(2-3).md",
     "learn-5000-english-words/Lesson 1(1).md",
-    "learn-5000-english-words/Lesson 4(8-12).md",
     "english-galaxy-turquoise-course/B1/Lesson 28 - Инфинитив и Герундий.md",
     "english-galaxy-turquoise-course/B1/Lesson 27 - to - ing.md",
     "english-galaxy-turquoise-course/B1/Lesson 26 - когда использовать to а когда ing - форма.md",
@@ -277,7 +253,6 @@
     "english-galaxy-titanium-course/A0/Lesson 50.md",
     "english-galaxy-titanium-course/A0/Lesson 49.md",
     "english-galaxy-titanium-course/A0/Lesson 48.md",
-    "english-galaxy-titanium-course/A0/Lesson 47.md",
     "english-galaxy-titanium-course/A0",
     "english-galaxy-titanium-course/B1",
     "english-galaxy-titanium-course/B2",
