@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -225,7 +224,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "d0992bce5240c330",
+  "active": "983517250a141e17",
   "lastOpenFiles": [
     "learn-5000-english-words/Lesson 7.md",
     "english-galaxy-turquoise-course/B1/Lesson 22 - Условные наклонения - первое и второе условное наклонение.md",
