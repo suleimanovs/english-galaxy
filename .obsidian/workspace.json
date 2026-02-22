@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a80e3ff6e4018f98",
+        "id": "0a385e2afea44499",
         "type": "tabs",
         "children": [
           {
-            "id": "1affc33094a85b8e",
+            "id": "d0992bce5240c330",
             "type": "leaf",
             "state": {
               "type": "mx-url",
@@ -19,12 +19,12 @@
                       "type": "url:hosted",
                       "vid": {
                         "host": "youtube",
-                        "vid": "4KCtbkceZcQ",
+                        "vid": "ZyRSPHy6HBc",
                         "t": null,
                         "start": null,
                         "end": null
                       },
-                      "url": "https://www.youtube.com/watch?v=4KCtbkceZcQ"
+                      "url": "https://www.youtube.com/watch?v=ZyRSPHy6HBc"
                     },
                     "hash": {}
                   },
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 31"
+              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 7"
             }
           }
         ]
@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-galaxy-turquoise-course/B1/Lesson 31 - сравнительные конструкций.md",
+                "file": "learn-5000-english-words/Lesson 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 31 - сравнительные конструкций"
+              "title": "Lesson 7"
             }
           }
         ]
@@ -225,23 +225,25 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "983517250a141e17",
+  "active": "d0992bce5240c330",
   "lastOpenFiles": [
-    "english-galaxy-turquoise-course/B1/Lesson 31 - сравнительные конструкций.md",
+    "learn-5000-english-words/Lesson 7.md",
+    "english-galaxy-turquoise-course/B1/Lesson 22 - Условные наклонения - первое и второе условное наклонение.md",
+    "english-galaxy-turquoise-course/B1/Lesson 26 - Когда использовать to а когда ing - форма.md",
+    "english-galaxy-turquoise-course/B1/Lesson 25 - Когда использовать to а когда ing - форма.md",
+    "english-galaxy-turquoise-course/B1/Lesson 30 - Cтроительные конструкций.md",
+    "english-galaxy-turquoise-course/B1/Lesson 31 - Cравнительные конструкций.md",
     "learn-5000-english-words/Lesson 6(19-23).md",
     "learn-5000-english-words/Lesson 5(13-18).md",
     "learn-5000-english-words/Lesson 4(8-12).md",
     "learn-5000-english-words/Lesson 3(4-7).md",
     "english-galaxy-turquoise-course/A2/Lesson 16 - Present Perfect - Общий смысл.md",
-    "english-galaxy-turquoise-course/B1/Lesson 30 - строительные конструкций.md",
     "english-galaxy-turquoise-course/B1/Lesson 29 - Инфинитив и грундий 2.md",
     "express-course/A0/Lesson 1.md",
     "learn-5000-english-words/Lesson 2(2-3).md",
     "learn-5000-english-words/Lesson 1(1).md",
     "english-galaxy-turquoise-course/B1/Lesson 28 - Инфинитив и Герундий.md",
     "english-galaxy-turquoise-course/B1/Lesson 27 - to - ing.md",
-    "english-galaxy-turquoise-course/B1/Lesson 26 - когда использовать to а когда ing - форма.md",
-    "english-galaxy-turquoise-course/B1/Lesson 25 - когда использовать to а когда ing - форма.md",
     "english-galaxy-turquoise-course/B1/Lesson 50.md",
     "english-galaxy-turquoise-course/B1/Lesson 11 - Present Perfect Continuous vs Present Perfect Past Continuous vs Present Simple.md",
     "english-galaxy-titanium-course/A0/Lesson 11.md",
@@ -251,8 +253,6 @@
     "english-galaxy-titanium-course/A0/Lesson 2.md",
     "english-galaxy-titanium-course/A0/Lesson 1.md",
     "english-galaxy-titanium-course/A0/Lesson 4.md",
-    "english-galaxy-titanium-course/A0/Lesson 50.md",
-    "english-galaxy-titanium-course/A0/Lesson 49.md",
     "english-galaxy-titanium-course/A0",
     "english-galaxy-titanium-course/B1",
     "english-galaxy-titanium-course/B2",
