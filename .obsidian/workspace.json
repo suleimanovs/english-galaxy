@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "95be6a9df024e56d",
+        "id": "eefdd96f20cd6cc1",
         "type": "tabs",
         "children": [
           {
-            "id": "44b6a62b389c2f5f",
+            "id": "0d62c8eed2927732",
             "type": "leaf",
             "state": {
               "type": "mx-url",
@@ -19,12 +19,12 @@
                       "type": "url:hosted",
                       "vid": {
                         "host": "youtube",
-                        "vid": "PFFCUOwkPjw",
+                        "vid": "X-MXW9DemlI",
                         "t": null,
                         "start": null,
                         "end": null
                       },
-                      "url": "https://www.youtube.com/watch?v=PFFCUOwkPjw"
+                      "url": "https://www.youtube.com/watch?v=X-MXW9DemlI"
                     },
                     "hash": {}
                   },
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 32"
+              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 8"
             }
           }
         ]
@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-galaxy-turquoise-course/B1/Lesson 32.md",
+                "file": "learn-5000-english-words/Lesson 8 (28-34).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 32"
+              "title": "Lesson 8 (28-34)"
             }
           }
         ]
@@ -225,15 +225,15 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "44b6a62b389c2f5f",
+  "active": "983517250a141e17",
   "lastOpenFiles": [
+    "learn-5000-english-words/Lesson 8 (28-34).md",
     "english-galaxy-turquoise-course/B1/Lesson 32.md",
     "english-galaxy-turquoise-course/B2/Lesson 17.md",
     "english-galaxy-turquoise-course/B2/Lesson 2.md",
     "express-course/A0/Lesson 1.md",
     "learn-5000-english-words/Lesson 7 (24-27).md",
     "english-galaxy-turquoise-course/B1/Lesson 25 - Когда использовать to а когда ing - форма.md",
-    "learn-5000-english-words/Lesson 8.md",
     "english-galaxy-turquoise-course/B1/Lesson 22 - Условные наклонения - первое и второе условное наклонение.md",
     "english-galaxy-turquoise-course/B1/Lesson 26 - Когда использовать to а когда ing - форма.md",
     "english-galaxy-turquoise-course/B1/Lesson 30 - Cтроительные конструкций.md",

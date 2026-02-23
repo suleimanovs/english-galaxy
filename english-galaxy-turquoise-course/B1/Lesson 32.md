@@ -20,6 +20,11 @@ late for - опаздывать куда-то
 natural - натуральный
 immediate - немедленный
 attitude to / towards - отношение к чему-то
+surgery - хирургия
+worried about - взволнован обеспокоен
+whole - весь, вся
+the whole truth - вся правда
+find out the whole truth - узнать всю правду
 
 He is very loyal to them.
 What a foolish question!
@@ -37,6 +42,12 @@ He was late for the meeting
 She was late for the lesson
 They usually use natural materials
 It was an immediate success
+What is your attitude to plastic surgery
+The city is famous for its history
+The workers are really worried about it
+He told me the whole truth 
+She says that she'd like to find out the whole truth
+
 
 
 
