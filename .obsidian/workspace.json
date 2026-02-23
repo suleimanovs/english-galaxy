@@ -4,61 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eefdd96f20cd6cc1",
+        "id": "064499fdf288cebd",
         "type": "tabs",
         "children": [
           {
-            "id": "0d62c8eed2927732",
+            "id": "39b66c9866b6fd55",
             "type": "leaf",
             "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "X-MXW9DemlI",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=X-MXW9DemlI"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    }
-                  }
-                }
-              },
-              "icon": "youtube",
-              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 8"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1affff13278b8c04",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "983517250a141e17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learn-5000-english-words/Lesson 8 (28-34).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lesson 8 (28-34)"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -118,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -225,7 +180,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "0d62c8eed2927732",
+  "active": "39b66c9866b6fd55",
   "lastOpenFiles": [
     "learn-5000-english-words/Lesson 8 (28-34).md",
     "english-galaxy-turquoise-course/B1/Lesson 32.md",
