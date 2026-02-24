@@ -4,6 +4,46 @@
     "type": "split",
     "children": [
       {
+        "id": "7f0b0c20d4524fd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25ec1db562055a6d",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "MIEOMyY2KqE",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=MIEOMyY2KqE"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    }
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 33"
+            }
+          }
+        ]
+      },
+      {
         "id": "064499fdf288cebd",
         "type": "tabs",
         "children": [
@@ -11,10 +51,14 @@
             "id": "39b66c9866b6fd55",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "english-galaxy-turquoise-course/B1/Lesson 33 - 450 самых важных прилагательных в разных временах - часть 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Lesson 33 - 450 самых важных прилагательных в разных временах - часть 1"
             }
           }
         ]
@@ -74,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -180,10 +225,11 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "39b66c9866b6fd55",
+  "active": "25ec1db562055a6d",
   "lastOpenFiles": [
+    "english-galaxy-turquoise-course/B1/Lesson 33 - 450 самых важных прилагательных в разных временах - часть 1.md",
+    "english-galaxy-turquoise-course/B1/Lesson 32 - 450 самых важных прилагательных в разных временах - часть 1.md",
     "learn-5000-english-words/Lesson 8 (28-34).md",
-    "english-galaxy-turquoise-course/B1/Lesson 32.md",
     "english-galaxy-turquoise-course/B2/Lesson 17.md",
     "english-galaxy-turquoise-course/B2/Lesson 2.md",
     "express-course/A0/Lesson 1.md",
@@ -207,7 +253,6 @@
     "english-galaxy-turquoise-course/B1/Lesson 11 - Present Perfect Continuous vs Present Perfect Past Continuous vs Present Simple.md",
     "english-galaxy-titanium-course/A0/Lesson 11.md",
     "english-galaxy-titanium-course/A0/Lesson 7.md",
-    "english-galaxy-titanium-course/A0/Lesson 5.md",
     "english-galaxy-titanium-course/A0",
     "english-galaxy-titanium-course/B1",
     "english-galaxy-titanium-course/B2",
