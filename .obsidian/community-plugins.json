@@ -1,9 +1,11 @@
 [
-  "obsidian-livesync",
+  "obsidian-git",
   "editing-toolbar",
   "remotely-save",
   "media-extended",
   "convert-url-to-iframe",
   "terminal",
-  "obsidian-livesync"
+  "obsidian-livesync",
+  "ytranscript",
+  "obsidian-languagetool-plugin"
 ]
