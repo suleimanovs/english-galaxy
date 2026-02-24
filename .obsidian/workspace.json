@@ -242,12 +242,12 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S875850722%3A1771919845184717&client_id=826657401766-34lc59kpdov8s610jbrdn26fto22m4m7.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Flanguagetool.org%2Flogin%2Fgoogle%2Fcallback&response_type=code&scope=openid+profile+email&service=lso&state=CJ8sEJ6zrWevu1ARvRSqA8aWJ0ovRt4p9EBnwgfm&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOfk5ImqnDEQF_xo8VQWu4dgR-0Em6oGK1j__mBmP2E4qI1nsJ8FlVi-M5xMLvV2TuSHhQKuYhir4gyfeapjal0T7U5O0MZ775lbQaLo_ay4_zN30L3inlaVqCx6H9GMHVPni9YO2o89vgTl3lSpXkw1zWdYzRNGhVZRZES-KZ66l_WiIfkCydDON_OOstXEuNixPKYcme2XldBMyQ_euOF-zpzZc01dyGu3nHUMnblcvvDhsxPw75AbIQoQUiAv5-JI_1J9ndKTy2nWSsYlQ84lZRCJ88gUM5YIphIpTWr7KZfbLX-ciW2JPysxZApS4QJivfNeXI7ytjA11JILjPDbYEpffF3afzBBLrq9T7PugFBFBYpIBjuuGQr_0QnzM4KCtgS_CbTfQFjSyklxUTYQQ2HQIDAKWiUdPZwLw2IZ1M_BeI5cMi45E2L3G71ZewjR2xYbYZ7CCs4fhVP3jLlpZ-mtg%26flowName%3DGeneralOAuthFlow%26as%3DS875850722%253A1771919845184717%26client_id%3D826657401766-34lc59kpdov8s610jbrdn26fto22m4m7.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Flanguagetool.org&rart=ANgoxceYjU57AJtFKQrwqr9L0sD8d2KlEbwxcEVp1hnx6veDxtll6v17yqFbjn_TSuIHcc6XLGZGlbATJ0r8fCsak3Ujk76imFYsjFVNClyzeLvakMo2FXo",
-                    "title": "Sign in - Google Accounts",
+                    "url": "https://languagetool.org/editor/settings/language",
+                    "title": "Editor",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Sign in - Google Accounts"
+                  "title": "Editor"
                 }
               }
             ]
