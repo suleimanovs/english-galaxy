@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f014e624800c2fcb",
+        "id": "f336bb45e34076bd",
         "type": "tabs",
+        "dimension": 49.7624703087886,
         "children": [
           {
-            "id": "4c87ae627cb3569f",
+            "id": "75384c562735d360",
             "type": "leaf",
             "state": {
               "type": "mx-url",
@@ -19,12 +20,12 @@
                       "type": "url:hosted",
                       "vid": {
                         "host": "youtube",
-                        "vid": "Rj8ssBi9yxI",
+                        "vid": "AH9Bx0keqXg",
                         "t": null,
                         "start": null,
                         "end": null
                       },
-                      "url": "https://www.youtube.com/watch?v=Rj8ssBi9yxI"
+                      "url": "https://www.youtube.com/watch?v=AH9Bx0keqXg"
                     },
                     "hash": {}
                   },
@@ -38,7 +39,7 @@
                 }
               },
               "icon": "youtube",
-              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 9"
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 34"
             }
           }
         ]
@@ -46,6 +47,7 @@
       {
         "id": "7bb68c0be7bd6464",
         "type": "tabs",
+        "dimension": 50.2375296912114,
         "children": [
           {
             "id": "60ba9fae9dbd5b1e",
@@ -53,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learn-5000-english-words/Lesson 9 (35-40).md",
+                "file": "english-galaxy-turquoise-course/B1/Lesson 34 - 450 самых важных прилагательных в разных временах - часть 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 9 (35-40)"
+              "title": "Lesson 34 - 450 самых важных прилагательных в разных временах - часть 3"
             }
           }
         ]
@@ -238,11 +240,12 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "4c87ae627cb3569f",
+  "active": "60ba9fae9dbd5b1e",
   "lastOpenFiles": [
-    "learn-5000-english-words/Lesson 9 (35-40).md",
-    "english-galaxy-turquoise-course/B1/Lesson 33 - 450 самых важных прилагательных в разных временах - часть 1.md",
+    "english-galaxy-turquoise-course/B1/Lesson 34 - 450 самых важных прилагательных в разных временах - часть 3.md",
+    "english-galaxy-turquoise-course/B1/Lesson 33 - 450 самых важных прилагательных в разных временах - часть 2.md",
     "english-galaxy-turquoise-course/B1/Lesson 32 - 450 самых важных прилагательных в разных временах - часть 1.md",
+    "learn-5000-english-words/Lesson 9 (35-40).md",
     "learn-5000-english-words/Lesson 8 (28-34).md",
     "english-galaxy-turquoise-course/B2/Lesson 17.md",
     "english-galaxy-turquoise-course/B2/Lesson 2.md",
@@ -265,7 +268,6 @@
     "english-galaxy-turquoise-course/B1/Lesson 27 - to - ing.md",
     "english-galaxy-turquoise-course/B1/Lesson 50.md",
     "english-galaxy-turquoise-course/B1/Lesson 11 - Present Perfect Continuous vs Present Perfect Past Continuous vs Present Simple.md",
-    "english-galaxy-titanium-course/A0/Lesson 11.md",
     "english-galaxy-titanium-course/A0",
     "english-galaxy-titanium-course/B1",
     "english-galaxy-titanium-course/B2",
