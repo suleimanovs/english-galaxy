@@ -197,6 +197,20 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e34c740dcf660b5b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
           }
         ],
         "currentTab": 4
@@ -224,46 +238,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "floating": {
-    "id": "d40aadaccb725c33",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5e33fbc1b457a020",
-        "type": "window",
-        "children": [
-          {
-            "id": "808d198a2ca34fb3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "991e3a1ae977aa44",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://languagetool.org/editor/settings/language",
-                    "title": "Editor",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Editor"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 37,
-        "width": 1728,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "991e3a1ae977aa44",
+  "active": "4c87ae627cb3569f",
   "lastOpenFiles": [
     "learn-5000-english-words/Lesson 9 (35-40).md",
     "english-galaxy-turquoise-course/B1/Lesson 33 - 450 самых важных прилагательных в разных временах - часть 1.md",
