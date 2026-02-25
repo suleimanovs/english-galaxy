@@ -2,5 +2,13 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-green",
-  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true
+  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
+  "typomagical-title@@font-title": "Bitter",
+  "typomagical-text@@font-default": "Spectral",
+  "typomagical-colour@@theme-variant": "obsidian",
+  "typomagical-colour@@background-color-enable": false,
+  "typomagical-text@@ss-revert-highlight": false,
+  "typomagical-text@@link-font": "ss-links-spectral",
+  "typomagical-text@@ss-hide-external-link-icon": false,
+  "typomagical-title@@alignment-title": "align-title-left"
 }
