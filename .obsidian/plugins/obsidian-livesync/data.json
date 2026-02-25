@@ -35,7 +35,7 @@
   "showStatusOnStatusbar": false,
   "showOnlyIconsOnEditor": false,
   "hideFileWarningNotice": false,
-  "usePluginSync": false,
+  "usePluginSync": true,
   "autoSweepPlugins": false,
   "autoSweepPluginsPeriodic": false,
   "notifyPluginOrSettingUpdated": false,
@@ -67,7 +67,7 @@
   "useDynamicIterationCount": false,
   "syncAfterMerge": true,
   "configPassphraseStore": "",
-  "encryptedPassphrase": "%$xm9xvz5oJhAj5r1+3uxt01dWckGW1wzx8B6uwV5h1b4Thfn6IqALYHUxwVEd2fspaRGyLcbQOZdU9j8BI2qCEpRR74jGa+Lcp4BjxWks1CUJH+Eb5T0+FVUvhjvCpF+/d+BRouV0",
+  "encryptedPassphrase": "%$xm9xvz5oJhAj5r1+3uxt01dWckGW1wzx8B6uwV5h1b4k5pAHr2hMwKC7vgklq91tld9OdHMbTmotyJtXtWX3nyJqFHwS6h0nkj5Xb/jpfQysPKBM8D8Wot2nf6UqJeQc31IM6WBW",
   "encryptedCouchDBConnection": "",
   "permitEmptyPassphrase": false,
   "useIndexedDBAdapter": false,
@@ -84,7 +84,213 @@
   "useIgnoreFiles": false,
   "ignoreFiles": ".gitignore",
   "syncOnEditorSave": true,
-  "pluginSyncExtendedSetting": {},
+  "pluginSyncExtendedSetting": {
+    "CONFIG/community-plugins.json": {
+      "key": "CONFIG/community-plugins.json",
+      "mode": 1,
+      "files": [
+        "community-plugins.json"
+      ]
+    },
+    "THEME/Obsidianotion": {
+      "key": "THEME/Obsidianotion",
+      "mode": 1,
+      "files": [
+        "themes/Obsidianotion/manifest.json",
+        "themes/Obsidianotion/theme.css"
+      ]
+    },
+    "PLUGIN_DATA/convert-url-to-iframe": {
+      "key": "PLUGIN_DATA/convert-url-to-iframe",
+      "mode": 1,
+      "files": []
+    },
+    "PLUGIN_MAIN/convert-url-to-iframe": {
+      "key": "PLUGIN_MAIN/convert-url-to-iframe",
+      "mode": 1,
+      "files": [
+        "plugins/convert-url-to-iframe/manifest.json",
+        "plugins/convert-url-to-iframe/main.js",
+        "plugins/convert-url-to-iframe/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/editing-toolbar": {
+      "key": "PLUGIN_DATA/editing-toolbar",
+      "mode": 1,
+      "files": [
+        "plugins/editing-toolbar/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/editing-toolbar": {
+      "key": "PLUGIN_MAIN/editing-toolbar",
+      "mode": 1,
+      "files": [
+        "plugins/editing-toolbar/manifest.json",
+        "plugins/editing-toolbar/main.js",
+        "plugins/editing-toolbar/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/media-extended": {
+      "key": "PLUGIN_DATA/media-extended",
+      "mode": 1,
+      "files": [
+        "plugins/media-extended/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/media-extended": {
+      "key": "PLUGIN_MAIN/media-extended",
+      "mode": 1,
+      "files": [
+        "plugins/media-extended/manifest.json",
+        "plugins/media-extended/main.js",
+        "plugins/media-extended/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/media-notes": {
+      "key": "PLUGIN_DATA/media-notes",
+      "mode": 1,
+      "files": [
+        "plugins/media-notes/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/media-notes": {
+      "key": "PLUGIN_MAIN/media-notes",
+      "mode": 1,
+      "files": [
+        "plugins/media-notes/manifest.json",
+        "plugins/media-notes/main.js",
+        "plugins/media-notes/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/notebook-navigator": {
+      "key": "PLUGIN_DATA/notebook-navigator",
+      "mode": 1,
+      "files": []
+    },
+    "PLUGIN_MAIN/notebook-navigator": {
+      "key": "PLUGIN_MAIN/notebook-navigator",
+      "mode": 1,
+      "files": [
+        "plugins/notebook-navigator/manifest.json",
+        "plugins/notebook-navigator/main.js",
+        "plugins/notebook-navigator/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/obsidian-git": {
+      "key": "PLUGIN_DATA/obsidian-git",
+      "mode": 1,
+      "files": [
+        "plugins/obsidian-git/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/obsidian-git": {
+      "key": "PLUGIN_MAIN/obsidian-git",
+      "mode": 1,
+      "files": [
+        "plugins/obsidian-git/manifest.json",
+        "plugins/obsidian-git/main.js",
+        "plugins/obsidian-git/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/obsidian-languagetool-plugin": {
+      "key": "PLUGIN_DATA/obsidian-languagetool-plugin",
+      "mode": 1,
+      "files": [
+        "plugins/obsidian-languagetool-plugin/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/obsidian-languagetool-plugin": {
+      "key": "PLUGIN_MAIN/obsidian-languagetool-plugin",
+      "mode": 1,
+      "files": [
+        "plugins/obsidian-languagetool-plugin/manifest.json",
+        "plugins/obsidian-languagetool-plugin/main.js",
+        "plugins/obsidian-languagetool-plugin/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/remotely-save": {
+      "key": "PLUGIN_DATA/remotely-save",
+      "mode": 1,
+      "files": [
+        "plugins/remotely-save/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/remotely-save": {
+      "key": "PLUGIN_MAIN/remotely-save",
+      "mode": 1,
+      "files": [
+        "plugins/remotely-save/manifest.json",
+        "plugins/remotely-save/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/obsidian-livesync": {
+      "key": "PLUGIN_DATA/obsidian-livesync",
+      "mode": 1,
+      "files": [
+        "plugins/obsidian-livesync/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/obsidian-livesync": {
+      "key": "PLUGIN_MAIN/obsidian-livesync",
+      "mode": 1,
+      "files": [
+        "plugins/obsidian-livesync/manifest.json",
+        "plugins/obsidian-livesync/main.js",
+        "plugins/obsidian-livesync/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/terminal": {
+      "key": "PLUGIN_DATA/terminal",
+      "mode": 1,
+      "files": [
+        "plugins/terminal/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/terminal": {
+      "key": "PLUGIN_MAIN/terminal",
+      "mode": 1,
+      "files": [
+        "plugins/terminal/manifest.json",
+        "plugins/terminal/main.js",
+        "plugins/terminal/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/ytranscript": {
+      "key": "PLUGIN_DATA/ytranscript",
+      "mode": 1,
+      "files": []
+    },
+    "PLUGIN_MAIN/ytranscript": {
+      "key": "PLUGIN_MAIN/ytranscript",
+      "mode": 1,
+      "files": [
+        "plugins/ytranscript/manifest.json",
+        "plugins/ytranscript/main.js",
+        "plugins/ytranscript/styles.css"
+      ]
+    },
+    "CONFIG/core-plugins.json": {
+      "key": "CONFIG/core-plugins.json",
+      "mode": 1,
+      "files": [
+        "core-plugins.json"
+      ]
+    },
+    "CONFIG/appearance.json": {
+      "key": "CONFIG/appearance.json",
+      "mode": 1,
+      "files": [
+        "appearance.json"
+      ]
+    },
+    "CONFIG/app.json": {
+      "key": "CONFIG/app.json",
+      "mode": 1,
+      "files": [
+        "app.json"
+      ]
+    }
+  },
   "syncMaxSizeInMB": 50,
   "settingSyncFile": "",
   "writeCredentialsForSettingSync": false,
