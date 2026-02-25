@@ -4,63 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "15ee3abc6a106d2f",
+        "id": "de42ad532bc4590f",
         "type": "tabs",
-        "dimension": 47.78357235984355,
         "children": [
           {
-            "id": "9ab41b5bade274e5",
+            "id": "7b04587aa7e6bbd1",
             "type": "leaf",
             "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "GIMHoxPo5sI",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=GIMHoxPo5sI"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    }
-                  }
-                }
-              },
-              "icon": "youtube",
-              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 10"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5c26695860c3f866",
-        "type": "tabs",
-        "dimension": 52.216427640156446,
-        "children": [
-          {
-            "id": "252a8719c13343c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learn-5000-english-words/Lesson 10 (41-50).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lesson 10 (41-50)"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -240,7 +194,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "252a8719c13343c3",
+  "active": "7b04587aa7e6bbd1",
   "lastOpenFiles": [
     "learn-5000-english-words/Lesson 10 (41-50).md",
     "english-galaxy-turquoise-course/B1/Lesson 35.md",
