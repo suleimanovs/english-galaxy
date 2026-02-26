@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "To tell the truth",
+                "query": "из-з",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",

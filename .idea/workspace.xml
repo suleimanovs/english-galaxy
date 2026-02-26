@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="vault backup: 2026-02-26 16:17:30" />
+    <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="vault backup: 2026-02-26 16:39:35">
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/english-galaxy-turquoise-course/B1/Lesson 35 - 450 самых важных прилагательных в разных временах - часть 4.md" beforeDir="false" afterPath="$PROJECT_DIR$/english-galaxy-turquoise-course/B1/Lesson 35 - 450 самых важных прилагательных в разных временах - часть 4.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772104940638</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="vault backup: 2026-02-26 16:39:35">
+      <option name="closed" value="true" />
+      <created>1772106245282</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772106245282</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +118,7 @@
     <MESSAGE value="```&#10;feat: Обновление видео и дат изучения для уроков&#10;&#10;Обновлены ссылки на" />
     <MESSAGE value="```&#10;feat: Обновление видео и дат изучения для уроков&#10;&#10;Обновлены ссылки на видео и даты изучения для множества уроков в различных курсах.&#10;Исправлено отображение названия терминала в файле workspace.json.&#10;```" />
     <MESSAGE value="vault backup: 2026-02-26 16:17:30" />
-    <option name="LAST_COMMIT_MESSAGE" value="vault backup: 2026-02-26 16:17:30" />
+    <MESSAGE value="vault backup: 2026-02-26 16:39:35" />
+    <option name="LAST_COMMIT_MESSAGE" value="vault backup: 2026-02-26 16:39:35" />
   </component>
 </project>
