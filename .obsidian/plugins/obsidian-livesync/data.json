@@ -67,7 +67,7 @@
   "useDynamicIterationCount": false,
   "syncAfterMerge": false,
   "configPassphraseStore": "",
-  "encryptedPassphrase": "%$9wIT90IFzlaj8Nak0v3mE7SRoWSqztuupeG13mduWWeojSi8doFrgdYYk0buizayzvzZzZ9IFgmkQGFWlU5UdfUvOZxRh9eLDk5SnpDZiu8qbN6bfAwaID/6ivSZEm6dtGhmqlYx",
+  "encryptedPassphrase": "%$oOOk6EzEN0kgSHLcWCfoO0WouG0sElvedmOnTllasH5I+wbGIYfO/2MRSLGXddmsZqf9b9JVqSJz4mc5kEo3995kB49qcnI5PB9wB4ulesvg5H6ngBjjSu4AmTiMnuez7Nn3AG4E",
   "encryptedCouchDBConnection": "",
   "permitEmptyPassphrase": false,
   "useIndexedDBAdapter": false,
@@ -83,7 +83,7 @@
   "doNotSuspendOnFetching": false,
   "useIgnoreFiles": false,
   "ignoreFiles": ".gitignore",
-  "syncOnEditorSave": false,
+  "syncOnEditorSave": true,
   "pluginSyncExtendedSetting": {
     "CONFIG/community-plugins.json": {
       "key": "CONFIG/community-plugins.json",
@@ -325,7 +325,7 @@
   "useEdgeCaseMode": true,
   "enableDebugTools": false,
   "suppressNotifyHiddenFilesChange": true,
-  "syncMinimumInterval": 10000,
+  "syncMinimumInterval": 5000,
   "P2P_Enabled": false,
   "P2P_AutoAccepting": 0,
   "P2P_AppID": "self-hosted-livesync",
