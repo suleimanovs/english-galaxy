@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="```&#10;feat: Обновление видео и дат изучения для уроков&#10;&#10;Обновлены ссылки на видео и даты изучения для множества уроков в различных курсах.&#10;Исправлено отображение названия терминала в файле workspace.json.&#10;```" />
+    <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="```&#10;feat: Обновление видео и дат изучения для уроков&#10;&#10;Обновлены ссылки на видео и даты изучения для множества уроков в различных курсах.&#10;Исправлено отображение названия терминала в файле workspace.json.&#10;```">
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-livesync/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-livesync/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

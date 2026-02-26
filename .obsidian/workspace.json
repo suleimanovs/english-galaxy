@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "Lesson 11 (51-00)"
             }
+          },
+          {
+            "id": "7ea8b53b82873991",
+            "type": "leaf",
+            "state": {
+              "type": "log-log",
+              "state": {},
+              "icon": "view-log",
+              "title": "Self-hosted LiveSync Log"
+            }
           }
         ]
       }
