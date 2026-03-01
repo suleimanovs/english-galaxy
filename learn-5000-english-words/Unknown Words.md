@@ -2,13 +2,15 @@
 
 
 
-```dataview
-const TARGET_COLOR = "#c0504d".toLowerCase();
+```dataviewjs
+const TARGET_COLOR = "#c0504d";
 const regex = /<font\s+color=["'](#?[0-9a-fA-F]{6})["'][^>]*>(.*?)<\/font>/gi;
+
+const currentFolder = dv.current().file.folder;
 
 let results = [];
 
-for (const page of dv.pages()) {
+for (const page of dv.pages(`"${currentFolder}"`)) {
   const file = app.vault.getAbstractFileByPath(page.file.path);
   if (!file) continue;
 
@@ -16,22 +18,12 @@ for (const page of dv.pages()) {
   let match;
 
   while ((match = regex.exec(content)) !== null) {
-    const color = match[1].toLowerCase();
-    const text = match[2].trim();
-
-    if (color === TARGET_COLOR) {
-      results.push({
-        file: page.file.link,
-        text: text
-      });
+    if (match[1].toLowerCase() === TARGET_COLOR) {
+      results.push([page.file.link, match[2].trim()]);
     }
   }
 }
 
-dv.table(
-  ["File", "Content"],
-  results.map(r => [r.file, r.text])
-);
-
+dv.table(["File", "Content"], results);
 ```
 
