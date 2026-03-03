@@ -11,6 +11,14 @@ strict - строгий
 acceptable - приемлимый
 unacceptable -не приемлимый
 totally unacceptable - совершенно неприемлимый
+rare - редко
+additional - дополнительный
+outstanding -выдающийся
+objective - объеквтивный
+positive - позитивный
+even though - даже хотя, даже если
+available - доступен
+motivated - иоь
 
 She wants to feel more independent 
 This issue seems quite philosophical 
@@ -20,6 +28,15 @@ I don't think that it is really acceptable
 These conditions are unacceptable
 These conditions aren't acceptable
 These conditions are totally unacceptable
+It is a very rare word
+He provided us with additional information
+It is one of the most outstanding recent discoveries
+It is often difficult to be enough objective
+He tries to be more positive even though it isn't so easy now
+Unfortunately, it isn't available for people who live in remote places
+
+
+
 
 
 
