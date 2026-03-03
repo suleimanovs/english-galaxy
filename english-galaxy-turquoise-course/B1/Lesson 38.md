@@ -18,7 +18,10 @@ objective - объеквтивный
 positive - позитивный
 even though - даже хотя, даже если
 available - доступен
-motivated - иоь
+motivated - мотивированный
+constant - постоянный
+to be fed up with - сыт по горло чем-то, надоело
+mistaken - ошибочный
 
 She wants to feel more independent 
 This issue seems quite philosophical 
@@ -34,6 +37,13 @@ It is one of the most outstanding recent discoveries
 It is often difficult to be enough objective
 He tries to be more positive even though it isn't so easy now
 Unfortunately, it isn't available for people who live in remote places
+He isn't motivated enough to work so intensively
+He is fed up with making constant mistakes
+I don't like this constant noise
+I'm afraid that you are mistaken
+I think that he is mistaken 
+
+
 
 
 

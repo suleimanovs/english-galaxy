@@ -38,7 +38,7 @@
                 }
               },
               "icon": "youtube",
-              "title": "YouTube - ErSCBEowekM"
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 38"
             }
           }
         ]
@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -282,7 +281,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "cc7fed235231d850",
+  "active": "e94435e30ee537d8",
   "lastOpenFiles": [
     "english-galaxy-turquoise-course/B1/Lesson 38.md",
     "Home Page.md",
