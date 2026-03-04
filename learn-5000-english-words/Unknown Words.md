@@ -1,7 +1,4 @@
 
-
-
-
 ```dataviewjs
 const TARGET_COLOR = "#c0504d";
 const regex = /<font\s+color=["'](#?[0-9a-fA-F]{6})["'][^>]*>(.*?)<\/font>/gi;
