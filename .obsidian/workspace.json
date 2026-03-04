@@ -4,46 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7de30b288bba425f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cc7fed235231d850",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "ErSCBEowekM",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=ErSCBEowekM"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    }
-                  }
-                }
-              },
-              "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 38"
-            }
-          }
-        ]
-      },
-      {
         "id": "bfb00823be2eae29",
         "type": "tabs",
         "children": [
@@ -95,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-galaxy-turquoise-course/B1/Lesson 38.md",
+                "file": "learn-5000-english-words/Lesson 14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 38"
+              "title": "Lesson 14"
             }
           }
         ],
@@ -283,13 +243,14 @@
   },
   "active": "e94435e30ee537d8",
   "lastOpenFiles": [
-    "english-galaxy-turquoise-course/B1/Lesson 38.md",
+    "english-galaxy-turquoise-course/B1/Lesson 39.md",
+    "english-galaxy-turquoise-course/B1/Lesson 38 - 450 самых важных прилагательных в разных временах - часть 7.md",
+    "english-galaxy-turquoise-course/B1/Lesson 37 - 450 самых важных прилагательных в разных временах - часть 6.md",
     "Home Page.md",
     "english-galaxy-turquoise-course/B1/Lesson 30 - Cтроительные конструкций.md",
     "english-galaxy-turquoise-course/B1/Lesson 29 - Инфинитив и грундий 2.md",
     "english-galaxy-turquoise-course/B1/Lesson 31 - Cравнительные конструкций.md",
     "english-galaxy-turquoise-course/B1/Lesson 32 - 450 самых важных прилагательных в разных временах - часть 1.md",
-    "english-galaxy-turquoise-course/B1/Lesson 37 - 450 самых важных прилагательных в разных временах - часть 6.md",
     "english-galaxy-turquoise-course/B1/Lesson 36 - 450 самых важных прилагательных в разных временах - часть 5.md",
     "english-galaxy-turquoise-course/B1/Lesson 35 - 450 самых важных прилагательных в разных временах - часть 4.md",
     "english-galaxy-turquoise-course/B1/Lesson 34 - 450 самых важных прилагательных в разных временах - часть 3.md",
@@ -308,7 +269,6 @@
     "learn-5000-english-words/Lesson 11 (51-54).md",
     "learn-5000-english-words/Lesson 10 (41-50).md",
     "learn-5000-english-words/Lesson 1(1).md",
-    "conflict-files-obsidian-git.md",
     "english-galaxy-titanium-course/A0",
     "english-galaxy-titanium-course/B1",
     "english-galaxy-titanium-course/B2",
