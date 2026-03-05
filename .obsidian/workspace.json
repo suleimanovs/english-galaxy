@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "205a853c35eda7eb",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "0168069a30242cbd",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Home Page.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Home Page"
             }
           }
         ]
@@ -194,7 +198,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "0168069a30242cbd",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "english-galaxy-turquoise-course/B1/Lesson 38 - 450 самых важных прилагательных в разных временах - часть 7.md",
     "english-galaxy-turquoise-course/B1/Lesson 37 - 450 самых важных прилагательных в разных временах - часть 6.md",
