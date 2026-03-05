@@ -1,5 +1,3 @@
-# English Galaxy
-
 ## Turquoise Course
 
 ```dataviewjs
