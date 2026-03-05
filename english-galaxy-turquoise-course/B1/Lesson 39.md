@@ -13,6 +13,14 @@ medical - медицинский
 medical treatment - медицинское лечение
 medical care - медицинский уход
 amazed (by/at)- поражен
+previous - предыдущий
+cautious - осторожный
+faithful - верный
+faith - вера
+faithful to - 
+negative - отричетальный, негативгный
+consequences - последсвтия
+exclusive - эксклюзивный
 
 It is private property 
 You need to be more polite to others
@@ -27,3 +35,8 @@ It is our primary aim
 It is our main aim
 I was really amazed by the beauty of this place
 We were really amazed by those words
+It was mentioned in the previous lesson
+It is necessary to be more cautious
+He remained faithful to his principles
+It can lead to very negative consequences
+These changes may have a very negative effect on our economy
