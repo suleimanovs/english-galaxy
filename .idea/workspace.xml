@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="```&#10;feat: Разрешены конфликты слияния, обновлено рабочее пространство (main)&#10;&#10;Разрешены конфликты слияния в файле .obsidian/workspace.json.&#10;Добавлен новый файл 'conflict-files-obsidian-git.md' в рабочее пространство.&#10;Переименованы файлы уроков для более понятных названий.&#10;```" />
+    <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="feat: Добавлена новая лекция и исправлены названия файлов&#10;&#10;Добавлена лекция &quot;Lesson 15(68-74).md&quot; и &quot;Lesson 16.md&quot;.&#10;Исправлено название файла &quot;Lesson 15 (68-74).md&quot; на &quot;Lesson 15(68-74).md&quot; в конфигурации Obsidian.&#10;Добавлен файл &quot;полный список основных грамматических тем-конструкций английского.md&quot;.&#10;Обновлены настройки плагина obsidian-livesync.">
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-livesync/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-livesync/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,22 +40,22 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/osman/Projects/obsidian/english-galaxy",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/osman/Projects/obsidian/english-galaxy&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   },
-  "keyToStringList": {
-    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": []
+  &quot;keyToStringList&quot;: {
+    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: []
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -92,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772106245282</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: Добавлена новая лекция и исправлены названия файлов&#10;&#10;Добавлена лекция &quot;Lesson 15(68-74).md&quot; и &quot;Lesson 16.md&quot;.&#10;Исправлено название файла &quot;Lesson 15 (68-74).md&quot; на &quot;Lesson 15(68-74).md&quot; в конфигурации Obsidian.&#10;Добавлен файл &quot;полный список основных грамматических тем-конструкций английского.md&quot;.&#10;Обновлены настройки плагина obsidian-livesync.">
+      <option name="closed" value="true" />
+      <created>1772751789994</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772751789994</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +130,10 @@
     <MESSAGE value="```&#10;feat: Разрешены конфликты слияния, обновлено рабочее пространство" />
     <MESSAGE value="```&#10;feat: Разрешены конфликты слияния, обновлено рабочее пространство (main)&#10;&#10;Разрешены конфликты слияния в файле .obsidian/workspace.json.&#10;Добавлен новый файл 'conflict-files-obsidian-git.md' в рабочее пространство.&#10;Переи" />
     <MESSAGE value="```&#10;feat: Разрешены конфликты слияния, обновлено рабочее пространство (main)&#10;&#10;Разрешены конфликты слияния в файле .obsidian/workspace.json.&#10;Добавлен новый файл 'conflict-files-obsidian-git.md' в рабочее пространство.&#10;Переименованы файлы уроков для более понятных названий.&#10;```" />
-    <option name="LAST_COMMIT_MESSAGE" value="```&#10;feat: Разрешены конфликты слияния, обновлено рабочее пространство (main)&#10;&#10;Разрешены конфликты слияния в файле .obsidian/workspace.json.&#10;Добавлен новый файл 'conflict-files-obsidian-git.md' в рабочее пространство.&#10;Переименованы файлы уроков для более понятных названий.&#10;```" />
+    <MESSAGE value="feat: Доба" />
+    <MESSAGE value="feat: Добавлена новая лекция и исправлены названия файлов&#10;&#10;Добавлена ле" />
+    <MESSAGE value="feat: Добавлена новая лекция и исправлены названия файлов&#10;&#10;Добавлена лекция &quot;Lesson 15(68-74).md&quot; и &quot;Lesson 16.md&quot;.&#10;Исправлено название файла &quot;Lesson 15 (68-74).md&quot; на &quot;Lesson 15(" />
+    <MESSAGE value="feat: Добавлена новая лекция и исправлены названия файлов&#10;&#10;Добавлена лекция &quot;Lesson 15(68-74).md&quot; и &quot;Lesson 16.md&quot;.&#10;Исправлено название файла &quot;Lesson 15 (68-74).md&quot; на &quot;Lesson 15(68-74).md&quot; в конфигурации Obsidian.&#10;Добавлен файл &quot;полный список основных грамматических тем-конструкций английского.md&quot;.&#10;Обновлены настройки плагина obsidian-livesync." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Добавлена новая лекция и исправлены названия файлов&#10;&#10;Добавлена лекция &quot;Lesson 15(68-74).md&quot; и &quot;Lesson 16.md&quot;.&#10;Исправлено название файла &quot;Lesson 15 (68-74).md&quot; на &quot;Lesson 15(68-74).md&quot; в конфигурации Obsidian.&#10;Добавлен файл &quot;полный список основных грамматических тем-конструкций английского.md&quot;.&#10;Обновлены настройки плагина obsidian-livesync." />
   </component>
 </project>

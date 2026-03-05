@@ -13,54 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learn-5000-english-words/Lesson 15(68-74).md",
+                "file": "Home Page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 15(68-74)"
-            }
-          },
-          {
-            "id": "ddce673fc2dcda68",
-            "type": "leaf",
-            "state": {
-              "type": "log-log",
-              "state": {},
-              "icon": "view-log",
-              "title": "Self-hosted LiveSync Log"
-            }
-          },
-          {
-            "id": "38f3d3065c9f78b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learn-5000-english-words/Lesson 15(68-74).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lesson 15(68-74)"
-            }
-          },
-          {
-            "id": "dccac330ad98d55e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learn-5000-english-words/Lesson 16.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lesson 16"
+              "title": "Home Page"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,8 +198,10 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "dccac330ad98d55e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "flag_rebuild.md",
+    "Home Page.md",
     "_testinfo/RECV/files.md",
     "_testinfo/RECV",
     "_testinfo",
@@ -248,7 +211,6 @@
     "learn-5000-english-words/Lesson 13 (58-61).md",
     "learn-5000-english-words/Progress.md",
     "learn-5000-english-words/Unknown Words.md",
-    "Home Page.md",
     "learn-5000-english-words/Lesson 14(62-67).md",
     "english-galaxy-turquoise-course/B1/Lesson 39 - 450 самых важных прилагательных в разных временах - часть 8.md",
     "english-galaxy-turquoise-course/B1/Lesson 40.md",
@@ -266,7 +228,6 @@
     "learn-5000-english-words/Lesson 61.md",
     "english-galaxy-turquoise-course/B1/Lesson 29 - Инфинитив и грундий 2.md",
     "english-galaxy-turquoise-course/B1/Lesson 31 - Cравнительные конструкций.md",
-    "english-galaxy-turquoise-course/B1/Lesson 32 - 450 самых важных прилагательных в разных временах - часть 1.md",
     "english-galaxy-titanium-course/A0",
     "english-galaxy-titanium-course/B1",
     "english-galaxy-titanium-course/B2",

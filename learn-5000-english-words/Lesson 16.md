@@ -2,6 +2,3 @@
 **Видео:** https://www.youtube.com/watch?v=XBYswfNrffk
 
 ---
-
-
-hahaha
