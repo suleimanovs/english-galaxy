@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="feat: Добавлена новая лекция и исправлены названия файлов&#10;&#10;Добавлена лекция &quot;Lesson 15(68-74).md&quot; и &quot;Lesson 16.md&quot;.&#10;Исправлено название файла &quot;Lesson 15 (68-74).md&quot; на &quot;Lesson 15(68-74).md&quot; в конфигурации Obsidian.&#10;Добавлен файл &quot;полный список основных грамматических тем-конструкций английского.md&quot;.&#10;Обновлены настройки плагина obsidian-livesync.">
-      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-livesync/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-livesync/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-    </list>
+    <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="vault backup: 2026-03-06 04:09:33" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772751789994</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="vault backup: 2026-03-06 04:09:33">
+      <option name="closed" value="true" />
+      <created>1772752402035</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772752402035</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +139,7 @@
     <MESSAGE value="feat: Добавлена новая лекция и исправлены названия файлов&#10;&#10;Добавлена ле" />
     <MESSAGE value="feat: Добавлена новая лекция и исправлены названия файлов&#10;&#10;Добавлена лекция &quot;Lesson 15(68-74).md&quot; и &quot;Lesson 16.md&quot;.&#10;Исправлено название файла &quot;Lesson 15 (68-74).md&quot; на &quot;Lesson 15(" />
     <MESSAGE value="feat: Добавлена новая лекция и исправлены названия файлов&#10;&#10;Добавлена лекция &quot;Lesson 15(68-74).md&quot; и &quot;Lesson 16.md&quot;.&#10;Исправлено название файла &quot;Lesson 15 (68-74).md&quot; на &quot;Lesson 15(68-74).md&quot; в конфигурации Obsidian.&#10;Добавлен файл &quot;полный список основных грамматических тем-конструкций английского.md&quot;.&#10;Обновлены настройки плагина obsidian-livesync." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Добавлена новая лекция и исправлены названия файлов&#10;&#10;Добавлена лекция &quot;Lesson 15(68-74).md&quot; и &quot;Lesson 16.md&quot;.&#10;Исправлено название файла &quot;Lesson 15 (68-74).md&quot; на &quot;Lesson 15(68-74).md&quot; в конфигурации Obsidian.&#10;Добавлен файл &quot;полный список основных грамматических тем-конструкций английского.md&quot;.&#10;Обновлены настройки плагина obsidian-livesync." />
+    <MESSAGE value="vault backup: 2026-03-06 04:09:33" />
+    <option name="LAST_COMMIT_MESSAGE" value="vault backup: 2026-03-06 04:09:33" />
   </component>
 </project>

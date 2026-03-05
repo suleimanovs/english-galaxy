@@ -3,5 +3,6 @@
   "showLineNumber": false,
   "spellcheckDictionary": [
     "previou"
-  ]
+  ],
+  "promptDelete": false
 }
