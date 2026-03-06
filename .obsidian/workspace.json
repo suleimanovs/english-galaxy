@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "times/Будущие времена (Future).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Будущие времена (Future)"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -200,19 +196,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "times/Прошедшие времена (Past).md",
+    "times/Времена в английском.md",
+    "times/Будущие времена (Future).md",
+    "times/present-tenses/Present Simple — Настоящее простое время.md",
+    "times/present-tenses/Present Perfect — Настоящее совершённое время.md",
+    "times/present-tenses/Present Continuous — Настоящее продолженное время.md",
+    "times/present-tenses/Present Perfect Continuous — Настоящее совершённое продолженное время.md",
     "times/present-tenses/Present Tenses Introduction — Настоящие времена.md",
+    "times/present-tenses",
+    "times",
     "times/Настоящие времена (Present).md",
     "times/present-tenses/present-tenses-introduction.md",
     "times/present-tenses/present-simple-time.md",
-    "times/present-tenses/Present Perfect — Настоящее совершённое время.md",
-    "times/present-tenses/Present Perfect Continuous — Настоящее совершённое продолженное время.md",
-    "times/present-tenses/Present Continuous — Настоящее продолженное время.md",
-    "times/present-tenses/Present Simple — Настоящее простое время.md",
-    "times/Времена в английском.md",
-    "times/Будущие времена (Future).md",
-    "times/present-tenses",
-    "times/Прошедшие времена (Past).md",
-    "times",
     "times/present-tences",
     "полный список основных грамматических тем-конструкций английского.md",
     "Home Page.md",
@@ -230,7 +226,6 @@
     "english-galaxy-turquoise-course/B1/Lesson 40.md",
     "english-galaxy-turquoise-course/B1/Lesson 38 - 450 самых важных прилагательных в разных временах - часть 7.md",
     "english-galaxy-turquoise-course/B1/Lesson 37 - 450 самых важных прилагательных в разных временах - часть 6.md",
-    "english-galaxy-turquoise-course/B1/Lesson 1 - Зависимые предлоги с прилагательными.md",
     "english-galaxy-titanium-course/A0",
     "english-galaxy-titanium-course/B1",
     "english-galaxy-titanium-course/B2",
