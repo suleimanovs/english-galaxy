@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="vault backup: 2026-03-06 04:09:33">
+    <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="feat: Обновление файла с настоящими временами&#10;&#10;Добавлено подробное описание настоящих времен английского языка.&#10;Включены структуры, примеры, сигнальные слова и типичные ошибки.&#10;Файл `times/Настоящие времена (Present).md` был обновлен.">
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-livesync/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-livesync/data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/times/Настоящие времена (Present).md" beforeDir="false" afterPath="$PROJECT_DIR$/times/Настоящие времена (Present).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/times/present-tenses/Present Simple — Настоящее простое время.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/times/present-tenses/Present Tenses Introduction — Настоящие времена.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/times/Будущие времена (Future).md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/times/Времена в английском.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/times/Настоящие времена (Present).md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/times/Прошедшие времена (Past).md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +43,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="30sbfiFjXnCX2b7m65XmPjBeUPO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -111,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772752402035</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat: Обновление файла с настоящими временами&#10;&#10;Добавлено подробное описание настоящих времен английского языка.&#10;Включены структуры, примеры, сигнальные слова и типичные ошибки.&#10;Файл `times/Настоящие времена (Present).md` был обновлен.">
+      <option name="closed" value="true" />
+      <created>1772826555927</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1772826555927</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +160,9 @@
     <MESSAGE value="feat: Добавлена новая лекция и исправлены названия файлов&#10;&#10;Добавлена лекция &quot;Lesson 15(68-74).md&quot; и &quot;Lesson 16.md&quot;.&#10;Исправлено название файла &quot;Lesson 15 (68-74).md&quot; на &quot;Lesson 15(" />
     <MESSAGE value="feat: Добавлена новая лекция и исправлены названия файлов&#10;&#10;Добавлена лекция &quot;Lesson 15(68-74).md&quot; и &quot;Lesson 16.md&quot;.&#10;Исправлено название файла &quot;Lesson 15 (68-74).md&quot; на &quot;Lesson 15(68-74).md&quot; в конфигурации Obsidian.&#10;Добавлен файл &quot;полный список основных грамматических тем-конструкций английского.md&quot;.&#10;Обновлены настройки плагина obsidian-livesync." />
     <MESSAGE value="vault backup: 2026-03-06 04:09:33" />
-    <option name="LAST_COMMIT_MESSAGE" value="vault backup: 2026-03-06 04:09:33" />
+    <MESSAGE value="feat" />
+    <MESSAGE value="feat: Обновление файла с настоящими временами&#10;&#10;Добавлено подробное описание настоя" />
+    <MESSAGE value="feat: Обновление файла с настоящими временами&#10;&#10;Добавлено подробное описание настоящих времен английского языка.&#10;Включены структуры, примеры, сигнальные слова и типичные ошибки.&#10;Файл `times/Настоящие времена (Present).md` был обновлен." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Обновление файла с настоящими временами&#10;&#10;Добавлено подробное описание настоящих времен английского языка.&#10;Включены структуры, примеры, сигнальные слова и типичные ошибки.&#10;Файл `times/Настоящие времена (Present).md` был обновлен." />
   </component>
 </project>

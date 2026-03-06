@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "times/Настоящие времена (Present).md",
+                "file": "times/Времена в английском.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Настоящие времена (Present)"
+              "title": "Времена в английском"
             }
           }
         ]
@@ -200,7 +200,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "times/Настоящие времена (Present).md",
+    "times/Времена в английском.md",
     "times/Будущие времена (Future).md",
+    "times/present-tenses/Present Simple — Настоящее простое время.md",
+    "times/present-tenses/Present Perfect — Настоящее совершённое время.md",
+    "times/present-tenses/Present Continuous — Настоящее продолженное время.md",
+    "times/present-tenses/Present Perfect Continuous — Настоящее совершённое продолженное время.md",
+    "times/present-tenses/Present Tenses Introduction — Настоящие времена.md",
+    "times/present-tenses",
+    "times/Прошедшие времена (Past).md",
+    "times",
+    "times/present-tences",
     "полный список основных грамматических тем-конструкций английского.md",
     "Home Page.md",
     "_testinfo/RECV/files.md",
@@ -219,23 +230,11 @@
     "english-galaxy-turquoise-course/B1/Lesson 37 - 450 самых важных прилагательных в разных временах - часть 6.md",
     "english-galaxy-turquoise-course/B1/Lesson 1 - Зависимые предлоги с прилагательными.md",
     "english-galaxy-turquoise-course/B1/Lesson 2 - Зависимые предлоги с прилагательными 2.md",
-    "english-galaxy-turquoise-course/B1/Lesson 4 - Зависимые предлоги с прилагательными 4.md",
-    "english-galaxy-turquoise-course/B1/Lesson 6 - Устойчивые фразы с предлогами - часть 1.md",
-    "english-galaxy-turquoise-course/B1/Lesson 13 - Future Simple vs Future Perfect vs Future Perfect Continuous.md",
-    "english-galaxy-turquoise-course/B1/Lesson 22 - Условные наклонения - первое и второе условное наклонение.md",
-    "english-galaxy-turquoise-course/B1/Lesson 30 - Cтроительные конструкций.md",
-    "learn-5000-english-words/Lesson 22.md",
-    "learn-5000-english-words/Lesson 45.md",
-    "learn-5000-english-words/Lesson 61.md",
-    "english-galaxy-turquoise-course/B1/Lesson 29 - Инфинитив и грундий 2.md",
     "english-galaxy-titanium-course/A0",
     "english-galaxy-titanium-course/B1",
     "english-galaxy-titanium-course/B2",
     "english-galaxy-titanium-course/С1",
     "english-galaxy-titanium-course/A2",
-    "english-galaxy-titanium-course/A1",
-    "english-galaxy-titanium-course",
-    "english-galaxy-turquoise-course/B2",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
