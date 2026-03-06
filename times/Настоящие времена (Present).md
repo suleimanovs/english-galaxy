@@ -99,8 +99,8 @@ He / She / It        +  does not (doesn't) + глагол
 - She doesn't eat meat. — Она не ест мясо.
 - It doesn't cost much. — Это стоит недорого.
 
-❌ Неправильно: She doesn't likes coffee.
-✅ Правильно: She doesn't like coffee.
+[X] Неправильно: She doesn't likes coffee.
+[OK] Правильно: She doesn't like coffee.
 
 ---
 
@@ -233,12 +233,12 @@ see, hear, smell, taste, feel (в значении состояния)
 have (в значении «иметь»), own, belong, possess, contain
 
 **Примеры:**
-- I know the answer. ✅ (не: I am knowing the answer ❌)
-- She loves him. ✅ (не: She is loving him ❌)
-- He understands the problem. ✅
-- This bag belongs to me. ✅
+- I know the answer. [OK] (не: I am knowing the answer [X])
+- She loves him. [OK] (не: She is loving him [X])
+- He understands the problem. [OK]
+- This bag belongs to me. [OK]
 
-> ⚠️ Некоторые из этих глаголов могут использоваться в Continuous, но тогда их смысл меняется. Например: *I think you're right* (я считаю) — Present Simple; *I'm thinking about it* (я сейчас обдумываю) — Present Continuous.
+> [!] Некоторые из этих глаголов могут использоваться в Continuous, но тогда их смысл меняется. Например: *I think you're right* (я считаю) — Present Simple; *I'm thinking about it* (я сейчас обдумываю) — Present Continuous.
 
 ---
 
@@ -248,30 +248,30 @@ have (в значении «иметь»), own, belong, possess, contain
 
 Русский язык никак не выделяет третье лицо отдельным окончанием так, как это делает английский. В русском: «я работаю», «он работает» — разные окончания, но они обозначают другое. В английском -s для he/she/it — обязательный грамматический маркер.
 
-❌ He work here every day.
-✅ He works here every day.
+[X] He work here every day.
+[OK] He works here every day.
 
-❌ She always come late.
-✅ She always comes late.
+[X] She always come late.
+[OK] She always comes late.
 
 ### Ошибка 2: Использование Present Simple вместо Present Continuous для происходящего сейчас
 
 По-русски «Я читаю» может означать и «я обычно читаю», и «я читаю прямо сейчас». В английском это разные конструкции.
 
-❌ I read a book now. (если это прямо сейчас)
-✅ I'm reading a book now.
+[X] I read a book now. (если это прямо сейчас)
+[OK] I'm reading a book now.
 
-✅ I read a lot. (привычка — Present Simple верен)
+[OK] I read a lot. (привычка — Present Simple верен)
 
 ### Ошибка 3: Вопрос без do/does
 
 В русском вопрос строится просто интонацией или перестановкой слов: «Ты работаешь?» В английском обязательно нужен вспомогательный глагол.
 
-❌ You work here?
-✅ Do you work here?
+[X] You work here?
+[OK] Do you work here?
 
-❌ He speaks English?
-✅ Does he speak English?
+[X] He speaks English?
+[OK] Does he speak English?
 
 ### Ошибка 4: Использование Present Simple для планов вместо Present Continuous или going to
 
@@ -281,11 +281,11 @@ have (в значении «иметь»), own, belong, possess, contain
 
 В русском двойное отрицание — норма: «Я нигде не работаю». В английском двойное отрицание недопустимо в стандартном языке.
 
-❌ I don't work nowhere.
-✅ I don't work anywhere.
+[X] I don't work nowhere.
+[OK] I don't work anywhere.
 
-❌ She doesn't know nothing.
-✅ She doesn't know anything.
+[X] She doesn't know nothing.
+[OK] She doesn't know anything.
 
 ---
 
@@ -360,7 +360,7 @@ You/We/They  +  are  + V-ing
 - get → getting
 - hit → hitting
 
-> ⚠️ Но не удваивается, если последняя буква — w, x или y: show → showing, mix → mixing, play → playing.
+> [!] Но не удваивается, если последняя буква — w, x или y: show → showing, mix → mixing, play → playing.
 
 **Если двухсложный глагол с ударением на второй слог:**
 - begin → beginning
@@ -463,7 +463,7 @@ Are + you/we/they + V-ing?
 - You're always helping people. — Ты всегда помогаешь людям. (с восхищением)
 - They're forever complaining about something. — Они вечно на что-то жалуются.
 
-> ⚠️ В нейтральном контексте *always* идёт с Present Simple: *He always loses his keys* — просто факт. С Present Continuous — это уже эмоция.
+> [!] В нейтральном контексте *always* идёт с Present Simple: *He always loses his keys* — просто факт. С Present Continuous — это уже эмоция.
 
 ---
 
@@ -498,16 +498,16 @@ Are + you/we/they + V-ing?
 **Прочие:** be (в большинстве значений), cost, weigh, look (казаться), matter, depend
 
 **Неправильно:**
-❌ I am knowing the answer.
-❌ She is wanting a coffee.
-❌ He is owning a car.
-❌ This is costing too much.
+[X] I am knowing the answer.
+[X] She is wanting a coffee.
+[X] He is owning a car.
+[X] This is costing too much.
 
 **Правильно:**
-✅ I know the answer.
-✅ She wants a coffee.
-✅ He owns a car.
-✅ This costs too much.
+[OK] I know the answer.
+[OK] She wants a coffee.
+[OK] He owns a car.
+[OK] This costs too much.
 
 ### Когда те же глаголы МОЖНО использовать в Continuous (смена значения)
 
@@ -532,33 +532,33 @@ Are + you/we/they + V-ing?
 
 По-русски «Что ты делаешь?» — это одна фраза. В английском, если вопрос о прямо сейчас, нужен Continuous.
 
-❌ What do you do right now?
-✅ What are you doing right now?
+[X] What do you do right now?
+[OK] What are you doing right now?
 
-❌ I read a book now.
-✅ I'm reading a book now.
+[X] I read a book now.
+[OK] I'm reading a book now.
 
 ### Ошибка 2: Употребление стативных глаголов в Continuous
 
 Это прямое следствие перевода с русского. В русском «Я понимаю» и «Я думаю» — обычные глаголы. В английском know, understand, think (считать) — стативные.
 
-❌ I am understanding you.
-✅ I understand you.
+[X] I am understanding you.
+[OK] I understand you.
 
-❌ She is knowing the answer.
-✅ She knows the answer.
+[X] She is knowing the answer.
+[OK] She knows the answer.
 
 ### Ошибка 3: Present Continuous для постоянных фактов
 
-❌ Water is boiling at 100 degrees.
-✅ Water boils at 100 degrees.
+[X] Water is boiling at 100 degrees.
+[OK] Water boils at 100 degrees.
 
 ### Ошибка 4: Неправильное написание -ing формы
 
 Частая ошибка — не удваивать согласную или наоборот удваивать её там, где не нужно.
 
-❌ runing, siting, comeing, liveing
-✅ running, sitting, coming, living
+[X] runing, siting, comeing, liveing
+[OK] running, sitting, coming, living
 
 ---
 
@@ -781,7 +781,7 @@ Has   +  he / she / it        +  V3?
     - *He has gone to the store.* — Он пошёл в магазин. (его здесь нет)
     - *She's gone to London.* — Она уехала в Лондон. (её нет)
 
-> ⚠️ Поэтому нельзя сказать *I have gone to Japan* если ты уже дома — ты не можешь говорить это о себе, потому что ты вернулся.
+> [!] Поэтому нельзя сказать *I have gone to Japan* если ты уже дома — ты не можешь говорить это о себе, потому что ты вернулся.
 
 ---
 
@@ -791,34 +791,34 @@ Has   +  he / she / it        +  V3?
 
 В русском языке нет разницы между «я потерял» (и до сих пор не нашёл) и «я терял» (когда-то давно). В английском это разные вещи.
 
-❌ I lost my keys. (если результат важен сейчас, и ключей нет)
-✅ I've lost my keys.
+[X] I lost my keys. (если результат важен сейчас, и ключей нет)
+[OK] I've lost my keys.
 
-❌ Did you eat yet?
-✅ Have you eaten yet?
+[X] Did you eat yet?
+[OK] Have you eaten yet?
 
 ### Ошибка 2: Present Perfect с конкретным указателем прошлого
 
 Если в предложении есть *yesterday, last week, in 2015, two days ago, when I was a child* — это Past Simple. Present Perfect никогда не сочетается с конкретным временем прошлого.
 
-❌ I have seen him yesterday.
-✅ I saw him yesterday.
+[X] I have seen him yesterday.
+[OK] I saw him yesterday.
 
-❌ She has called me last night.
-✅ She called me last night.
+[X] She has called me last night.
+[OK] She called me last night.
 
 ### Ошибка 3: Неправильная форма Past Participle
 
-- ❌ I have catched a fish. → ✅ I have caught a fish.
-- ❌ She has buyed a new car. → ✅ She has bought a new car.
-- ❌ We have goed there. → ✅ We have been there / We have gone there.
+- [X] I have catched a fish. → [OK] I have caught a fish.
+- [X] She has buyed a new car. → [OK] She has bought a new car.
+- [X] We have goed there. → [OK] We have been there / We have gone there.
 
 ### Ошибка 4: «Я живу здесь 10 лет» — ловушка
 
 В русском «Я живу здесь 10 лет» — Present (живу), и кажется, что нужен Present Simple. В английском это **Present Perfect**, потому что жизнь здесь началась в прошлом и продолжается.
 
-❌ I live here for 10 years.
-✅ I have lived here for 10 years.
+[X] I live here for 10 years.
+[OK] I have lived here for 10 years.
 
 ---
 
@@ -948,14 +948,14 @@ Has   +  he / she / it        +  been + V-ing?
 
 Стативные глаголы (know, love, want, understand, believe, own и др.) не используются в Continuous-формах. Для длительных состояний с этими глаголами используется **Present Perfect Simple**.
 
-❌ I have been knowing her for years.
-✅ I have known her for years.
+[X] I have been knowing her for years.
+[OK] I have known her for years.
 
-❌ She has been loving him since school.
-✅ She has loved him since school.
+[X] She has been loving him since school.
+[OK] She has loved him since school.
 
-❌ They have been owning this house for a century.
-✅ They have owned this house for a century.
+[X] They have been owning this house for a century.
+[OK] They have owned this house for a century.
 
 ---
 
@@ -989,20 +989,20 @@ Has   +  he / she / it        +  been + V-ing?
 
 В русском «Я учу английский три года» — просто настоящее. Кажется, что достаточно Present Simple. Но в английском нужен Perfect Continuous.
 
-❌ I learn English for three years.
-✅ I have been learning English for three years.
+[X] I learn English for three years.
+[OK] I have been learning English for three years.
 
 ### Ошибка 2: Путать с Present Perfect Simple
 
 Когда важен результат — Simple. Когда важен процесс или продолжительность — Continuous.
 
-- *I've cleaned the apartment.* — Квартира убрана. ✅ (результат)
-- *I've been cleaning the apartment all day.* — Я убирал квартиру весь день. ✅ (процесс)
+- *I've cleaned the apartment.* — Квартира убрана. [OK] (результат)
+- *I've been cleaning the apartment all day.* — Я убирал квартиру весь день. [OK] (процесс)
 
 ### Ошибка 3: Стативные глаголы в Continuous
 
-❌ I have been wanting to call you.
-✅ I have wanted to call you. / I've been meaning to call you. (mean — более подходящий глагол)
+[X] I have been wanting to call you.
+[OK] I have wanted to call you. / I've been meaning to call you. (mean — более подходящий глагол)
 
 ---
 
