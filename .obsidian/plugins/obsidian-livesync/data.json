@@ -68,7 +68,7 @@
   "useDynamicIterationCount": false,
   "syncAfterMerge": false,
   "configPassphraseStore": "",
-  "encryptedPassphrase": "%$+G9RYgHTeDqP4nUZf8tOxULIzUGV8XP9bAZ3y5cY/rvw1Aj9usmuoHoEymJ0DTVV2KbzIvU5j/QvB2is5HQebSYn1jktVxEsRGurrHndAbsQXovVPqdLtxkUVbnNuP+0hxtjRgEh",
+  "encryptedPassphrase": "%$fvVtlEJoHdGZM1IP63aXqxhx1p37bpcIqd13qEM1HDkvUuC1wl54pB1U8081o7g8k+kjQpPkc6nm8+XF4ZGaocEx+eHhm97Ou+aQSfS0P5BFgAhaZVF354xsGgMIJjDDZS5fsQra",
   "encryptedCouchDBConnection": "",
   "permitEmptyPassphrase": false,
   "useIndexedDBAdapter": false,

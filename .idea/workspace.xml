@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="feat: Удаление страницы &quot;Настоящие времена (Present).md&quot; (main)&#10;&#10;Файл &quot;times/Настоящие времена (Present).md&quot; был удален.&#10;Он был заменен более общей страницей &quot;Времена в английском.md&quot;.&#10;Также были обновлены ссылки в файле .obsidian/workspace.json.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-livesync/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-livesync/data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.trash/Present Simple — Настоящее простое время.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.trash/files.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.trash/Будущие времена (Future).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.trash/Времена в английском.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.trash/Прошедшие времена (Past).md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flag_rebuild.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
