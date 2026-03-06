@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="feat: Обновление файла с настоящими временами&#10;&#10;Добавлено подробное описание настоящих времен английского языка.&#10;Включены структуры, примеры, сигнальные слова и типичные ошибки.&#10;Файл `times/Настоящие времена (Present).md` был обновлен.">
-      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-livesync/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-livesync/data.json" afterDir="false" />
+    <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="feat: Удаление страницы &quot;Настоящие времена (Present).md&quot; (main)&#10;&#10;Файл &quot;times/Настоящие времена (Present).md&quot; был удален.&#10;Он был заменен более общей страницей &quot;Времена в английском.md&quot;.&#10;Также были обновлены ссылки в файле .obsidian/workspace.json.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/times/present-tenses/Present Simple — Настоящее простое время.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/times/present-tenses/Present Tenses Introduction — Настоящие времена.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/times/Будущие времена (Future).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/times/Времена в английском.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/times/Настоящие времена (Present).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/times/Прошедшие времена (Past).md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/Present Simple — Настоящее простое время.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/files.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/Будущие времена (Future).md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/Времена в английском.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.trash/Прошедшие времена (Past).md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +28,16 @@
     &quot;assignee&quot;: &quot;suleimanovs&quot;
   }
 }</component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="vault backup: 2026-03-07 01:08:44" />
+        <option name="rewordedMessage" value="feat: Удаление страницы &quot;Настоящие времена (Present).md&quot; (main)&#10;&#10;Файл &quot;times/Настоящие времена (Present).md&quot; был удален.&#10;Он был заменен более общей страницей &quot;Времена в английском.md&quot;.&#10;Также были обновлены ссылки в файле .obsidian/workspace.json.&#10;&#10;vault backup: 2026-03-07 01:28:59&#10;&#10;vault backup: 2026-03-07 01:18:53&#10;&#10;&#10;vault backup: 2026-03-07 01:08:44" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="7104a3a67753c3f2bbced860c88973b187b2b29d" />
+  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/suleimanovs/english-galaxy.git&quot;,
@@ -65,6 +74,11 @@
     &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: []
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/times/present-tenses" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -128,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772826555927</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: Удаление страницы &quot;Настоящие времена (Present).md&quot; (main)&#10;&#10;Файл &quot;times/Настоящие времена (Present).md&quot; был удален.&#10;Он был заменен более общей страницей &quot;Времена в английском.md&quot;.&#10;Также были обновлены ссылки в файле .obsidian/workspace.json.">
+      <option name="closed" value="true" />
+      <created>1772829043505</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1772829043505</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +185,10 @@
     <MESSAGE value="feat" />
     <MESSAGE value="feat: Обновление файла с настоящими временами&#10;&#10;Добавлено подробное описание настоя" />
     <MESSAGE value="feat: Обновление файла с настоящими временами&#10;&#10;Добавлено подробное описание настоящих времен английского языка.&#10;Включены структуры, примеры, сигнальные слова и типичные ошибки.&#10;Файл `times/Настоящие времена (Present).md` был обновлен." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Обновление файла с настоящими временами&#10;&#10;Добавлено подробное описание настоящих времен английского языка.&#10;Включены структуры, примеры, сигнальные слова и типичные ошибки.&#10;Файл `times/Настоящие времена (Present).md` был обновлен." />
+    <MESSAGE value="feat: Уда" />
+    <MESSAGE value="feat: Удаление страницы &quot;Настоящие времена (Present).md&quot; (main)&#10;&#10;" />
+    <MESSAGE value="feat: Удаление страницы &quot;Настоящие времена (Present).md&quot; (main)&#10;&#10;Файл &quot;times/Настоящие времена (Present).md&quot; был удален.&#10;Он был заменен более общей страницей &quot;Времена в английском.md&quot;.&#10;Также были обновлены ссылки в файле .obsidian/workspace.json" />
+    <MESSAGE value="feat: Удаление страницы &quot;Настоящие времена (Present).md&quot; (main)&#10;&#10;Файл &quot;times/Настоящие времена (Present).md&quot; был удален.&#10;Он был заменен более общей страницей &quot;Времена в английском.md&quot;.&#10;Также были обновлены ссылки в файле .obsidian/workspace.json." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Удаление страницы &quot;Настоящие времена (Present).md&quot; (main)&#10;&#10;Файл &quot;times/Настоящие времена (Present).md&quot; был удален.&#10;Он был заменен более общей страницей &quot;Времена в английском.md&quot;.&#10;Также были обновлены ссылки в файле .obsidian/workspace.json." />
   </component>
 </project>
