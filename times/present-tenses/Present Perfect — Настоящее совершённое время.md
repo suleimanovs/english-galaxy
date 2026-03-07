@@ -1,24 +1,15 @@
+Present Perfect это время для описания **прошлого действия, которое имеет связь с настоящим моментом**. Важен не момент, когда произошло действие, а его результат, последствие или опыт — то, что актуально прямо сейчас.
 
-## Что это такое и зачем оно нужно
-
-Present Perfect — одно из самых сложных времён для русскоязычных, потому что в русском языке аналога ему нет. Это время говорит о прошлом действии, которое **имеет связь с настоящим моментом**. Важен не момент, когда произошло действие, а **результат, опыт или связь с сейчас**.
-
-Главный принцип: **прошлое действие + настоящая relevance (связь, результат, последствие)**.
-
-Когда ты говоришь *I have lost my keys* — ты не говоришь, когда именно потерял. Ты говоришь: «я потерял ключи, и прямо сейчас я их не могу найти». Результат важен сейчас.
+Это одно из самых сложных времён для русскоязычных, потому что в русском языке аналога ему нет. В русском «я потерял ключи» — просто факт прошлого. В английском *I lost my keys* (Past Simple) и *I have lost my keys* (Present Perfect) — разные вещи. Первое просто сообщает о событии. Второе говорит: «я потерял ключи, и прямо сейчас их у меня нет» — результат важен сейчас.
 
 ---
 
-## Как строится предложение
-
-### Утвердительное предложение
+**Утвердительное предложение:**
 
 ```
-I / You / We / They  +  have (I've / you've / we've / they've)  +  V3 (Past Participle)
-He / She / It        +  has  (he's / she's / it's)              +  V3 (Past Participle)
+I / You / We / They  +  have (I've / you've / we've / they've)  +  глагол V3
+He / She / It        +  has  (he's / she's / it's)              +  глагол V3
 ```
-
-**Примеры:**
 
 - I have finished my work. / I've finished my work. — Я закончил работу.
 - She has called you. / She's called you. — Она тебе звонила.
@@ -28,14 +19,12 @@ He / She / It        +  has  (he's / she's / it's)              +  V3 (Past Part
 
 ---
 
-### Отрицательное предложение
+**Отрицательное предложение:**
 
 ```
-I / You / We / They  +  have not (haven't)  +  V3
-He / She / It        +  has not (hasn't)    +  V3
+I / You / We / They  +  have not (haven't)  +  глагол V3
+He / She / It        +  has not (hasn't)    +  глагол V3
 ```
-
-**Примеры:**
 
 - I haven't eaten yet. — Я ещё не ел.
 - She hasn't replied to my message. — Она не ответила на моё сообщение.
@@ -44,26 +33,24 @@ He / She / It        +  has not (hasn't)    +  V3
 
 ---
 
-### Вопросительное предложение
+**Вопросительное предложение:**
 
 ```
-Have  +  I / you / we / they  +  V3?
-Has   +  he / she / it        +  V3?
+Have  +  I / you / we / they  +  глагол V3?
+Has   +  he / she / it        +  глагол V3?
 ```
-
-**Примеры:**
 
 - Have you seen this movie? — Ты видел этот фильм?
 - Has she called you? — Она тебе звонила?
 - Have they left? — Они ушли?
 - Has he ever been to Japan? — Он когда-нибудь был в Японии?
 
-**Краткие ответы:**
+Краткие ответы:
 
 - Yes, I have. / No, I haven't.
 - Yes, she has. / No, she hasn't.
 
-**Вопросы с вопросительными словами:**
+Вопросы с вопросительными словами:
 
 - How long have you lived here? — Как долго ты здесь живёшь?
 - What have you done? — Что ты сделал?
@@ -71,22 +58,17 @@ Has   +  he / she / it        +  V3?
 
 ---
 
-## V3 — Past Participle: правильные и неправильные глаголы
+**V3 — Past Participle: правильные и неправильные глаголы**
 
-### Правильные глаголы: просто + -ed (так же как Past Simple)
+Правильные глаголы: просто +ed, так же как Past Simple.
 
-- work → worked
-- finish → finished
-- open → opened
-- clean → cleaned
-- play → played
-- visit → visited
+- work → worked, finish → finished, open → opened, clean → cleaned, visit → visited
 
-### Неправильные глаголы: нужно знать наизусть (3-я форма)
+Неправильные глаголы — третья форма не выводится из правил, нужно знать наизусть:
 
-| Инфинитив | Past Simple | Past Participle |
+| Инфинитив | Past Simple | Past Participle (V3) |
 |---|---|---|
-| be | was/were | been |
+| be | was / were | been |
 | go | went | gone / been |
 | see | saw | seen |
 | do | did | done |
@@ -105,30 +87,42 @@ Has   +  he / she / it        +  V3?
 | find | found | found |
 | make | made | made |
 | meet | met | met |
-| read | read | read (произносится иначе: [red]) |
+| read | read | read (произносится [red]) |
 | run | ran | run |
 | win | won | won |
 | lose | lost | lost |
 | put | put | put |
 | cut | cut | cut |
+| get | got | got / gotten (AmE) |
+| tell | told | told |
+| leave | left | left |
+| bring | brought | brought |
+| teach | taught | taught |
+| catch | caught | caught |
+| feel | felt | felt |
+| keep | kept | kept |
+| sleep | slept | slept |
+| build | built | built |
+| send | sent | sent |
+| spend | spent | spent |
 
 ---
 
-## Когда использовать Present Perfect
+#### Когда использовать Present Perfect
 
-### 1. Прошедшее действие с результатом, важным сейчас
+**1. Прошедшее действие с результатом, важным сейчас**
 
-Ты не указываешь, когда именно это произошло. Важен только результат в настоящем.
+Момент не важен — важно следствие, которое ощущается прямо сейчас.
 
-- I've lost my wallet. (сейчас у меня нет кошелька) — Я потерял кошелёк.
-- She has broken her arm. (сейчас у неё сломана рука) — Она сломала руку.
-- Someone has eaten my sandwich! (сейчас сэндвича нет) — Кто-то съел мой сэндвич!
-- He has left the company. (сейчас он там не работает) — Он ушёл из компании.
-- The taxi has arrived. (прямо сейчас такси стоит у двери) — Такси приехало.
+- I've lost my wallet. — Я потерял кошелёк. (сейчас у меня его нет)
+- She has broken her arm. — Она сломала руку. (рука сломана сейчас)
+- Someone has eaten my sandwich! — Кто-то съел мой сэндвич! (его нет)
+- He has left the company. — Он ушёл из компании. (сейчас он там не работает)
+- The taxi has arrived. — Такси приехало. (стоит у двери прямо сейчас)
 
-### 2. Жизненный опыт (ever/never — было ли хоть раз)
+**2. Жизненный опыт — было ли что-то хоть раз**
 
-Когда важно, случалось ли что-то когда-либо в жизни — без указания когда.
+Когда важно, случалось ли что-то когда-либо в жизни — без указания когда именно.
 
 - I have been to France three times. — Я был во Франции три раза.
 - Have you ever tried sushi? — Ты когда-нибудь пробовал суши?
@@ -136,26 +130,26 @@ Has   +  he / she / it        +  V3?
 - He has met a lot of famous people. — Он встречал многих известных людей.
 - I've never been on a cruise. — Я никогда не был в круизе.
 
-### 3. Действие, начавшееся в прошлом и продолжающееся до сих пор (с for и since)
+**3. Ситуация началась в прошлом и продолжается до сих пор**
 
-Ситуация или состояние, которое началось в прошлом и ещё не закончилось.
+Используется с **for** (продолжительность) и **since** (точка начала).
 
-- I have lived here for 10 years. — Я живу здесь 10 лет (и до сих пор живу).
+- I have lived here for 10 years. — Я живу здесь 10 лет. (и до сих пор живу)
 - She has worked at this company since 2018. — Она работает в этой компании с 2018 года.
 - They have been married for 25 years. — Они женаты 25 лет.
 - We have known each other since school. — Мы знакомы со школы.
 
-> **for** — продолжительность: *for two hours, for a week, for years*
-> **since** — точка начала: *since Monday, since 2010, since I was a child*
+**for** — продолжительность: *for two hours, for a week, for years, for a long time*
+**since** — точка начала: *since Monday, since 2010, since I was a child, since breakfast*
 
-### 4. Недавно завершённые действия (just, recently, lately)
+**4. Недавно завершённые действия — с just, recently, lately**
 
 - I've just finished dinner. — Я только что закончил ужинать.
 - She has recently moved to a new apartment. — Недавно она переехала в новую квартиру.
 - Have you heard the news lately? — Ты в последнее время следишь за новостями?
 - He has just called. — Он только что позвонил.
 
-### 5. С yet и already
+**5. С already и yet**
 
 **already** (уже) — в утверждениях, означает «раньше, чем ожидалось»:
 - I've already done my homework. — Я уже сделал домашнее задание.
@@ -166,7 +160,7 @@ Has   +  he / she / it        +  V3?
 - I haven't eaten yet. — Я ещё не ел.
 - Has he called yet? — Он уже звонил?
 
-### 6. В период времени, который ещё не закончился
+**6. В периоде времени, который ещё не закончился**
 
 - I've seen him twice this week. — На этой неделе я видел его дважды. (неделя ещё идёт)
 - She has sent five emails today. — Сегодня она отправила пять писем. (день ещё не кончился)
@@ -174,9 +168,9 @@ Has   +  he / she / it        +  V3?
 
 ---
 
-## Сигнальные слова
+**Сигнальные слова**
 
-| Слово / фраза | Перевод | Применение |
+| Слово / фраза | Перевод | Где используется |
 |---|---|---|
 | already | уже | утверждения |
 | yet | уже / ещё не | вопросы и отрицания |
@@ -187,72 +181,71 @@ Has   +  he / she / it        +  V3?
 | since | с (точка начала) | с моментом начала |
 | recently / lately | недавно / в последнее время | утверждения, вопросы |
 | so far | до сих пор, пока что | подведение итогов |
-| this week / month / year | на этой неделе / в этом месяце / году | незаконченный период |
+| this week / month / year | незаконченный период | утверждения, вопросы |
 
 ---
 
-## Важные конструкции: have been to vs have gone to
+**Исключения и сложные случаи**
 
-Это классическая путаница даже у носителей языка.
+**have been to** vs **have gone to** — классическая путаница даже у носителей.
 
-- **have been to** — был и вернулся (опыт)
-    - *I have been to Japan.* — Я был в Японии. (и уже вернулся)
+- *I have been to Japan.* — Я был в Японии. (и уже вернулся — это опыт)
+- *He has gone to the store.* — Он пошёл в магазин. (его здесь нет, он ещё не вернулся)
+- *She's gone to London.* — Она уехала в Лондон. (её нет)
 
-- **have gone to** — ушёл и ещё не вернулся
-    - *He has gone to the store.* — Он пошёл в магазин. (его здесь нет)
-    - *She's gone to London.* — Она уехала в Лондон. (её нет)
-
-> [!] Поэтому нельзя сказать *I have gone to Japan* если ты уже дома — ты не можешь говорить это о себе, потому что ты вернулся.
+Поэтому нельзя сказать *I have gone to Japan* о себе, если ты уже дома — ты не можешь «ещё не вернуться», раз ты здесь и говоришь это.
 
 ---
 
-## Типичные ошибки русскоязычных
+**Типичные ошибки русскоязычных**
 
-### Ошибка 1: Использование Past Simple вместо Present Perfect
+Ошибка 1: Past Simple вместо Present Perfect, когда результат важен сейчас
 
-В русском языке нет разницы между «я потерял» (и до сих пор не нашёл) и «я терял» (когда-то давно). В английском это разные вещи.
+В русском «я потерял» — просто прошедшее, без разницы актуален результат сейчас или нет. В английском это разные времена.
 
-[X] I lost my keys. (если результат важен сейчас, и ключей нет)
-[OK] I've lost my keys.
+| Неправильно | Правильно |
+|---|---|
+| I lost my keys. (если ключей нет сейчас) | I've lost my keys. |
+| Did you eat yet? | Have you eaten yet? |
+| I forgot my password. (и не знаю его сейчас) | I've forgotten my password. |
 
-[X] Did you eat yet?
-[OK] Have you eaten yet?
+Ошибка 2: Present Perfect с конкретным указателем прошлого
 
-### Ошибка 2: Present Perfect с конкретным указателем прошлого
+Если в предложении есть *yesterday, last week, in 2015, two days ago, when I was a child* — нужен Past Simple. Present Perfect никогда не сочетается с конкретным временем прошлого.
 
-Если в предложении есть *yesterday, last week, in 2015, two days ago, when I was a child* — это Past Simple. Present Perfect никогда не сочетается с конкретным временем прошлого.
+| Неправильно | Правильно |
+|---|---|
+| I have seen him yesterday. | I saw him yesterday. |
+| She has called me last night. | She called me last night. |
+| We have visited Paris in 2019. | We visited Paris in 2019. |
 
-[X] I have seen him yesterday.
-[OK] I saw him yesterday.
+Ошибка 3: Неправильная форма Past Participle
 
-[X] She has called me last night.
-[OK] She called me last night.
+| Неправильно | Правильно |
+|---|---|
+| I have catched a fish. | I have caught a fish. |
+| She has buyed a new car. | She has bought a new car. |
+| We have goed there. | We have been there. |
+| He has thinked about it. | He has thought about it. |
 
-### Ошибка 3: Неправильная форма Past Participle
+Ошибка 4: «Я живу здесь 10 лет» — ловушка для русскоязычных
 
-- [X] I have catched a fish. → [OK] I have caught a fish.
-- [X] She has buyed a new car. → [OK] She has bought a new car.
-- [X] We have goed there. → [OK] We have been there / We have gone there.
+В русском это Present — «живу». Кажется, что нужен Present Simple: *I live here for 10 years*. Но в английском ситуация, которая **началась в прошлом и продолжается сейчас** — это Present Perfect, а не Present Simple.
 
-### Ошибка 4: «Я живу здесь 10 лет» — ловушка
-
-В русском «Я живу здесь 10 лет» — Present (живу), и кажется, что нужен Present Simple. В английском это **Present Perfect**, потому что жизнь здесь началась в прошлом и продолжается.
-
-[X] I live here for 10 years.
-[OK] I have lived here for 10 years.
+| Неправильно | Правильно |
+|---|---|
+| I live here for 10 years. | I have lived here for 10 years. |
+| She works here since 2018. | She has worked here since 2018. |
+| We know each other since school. | We have known each other since school. |
 
 ---
 
-## Сравнение: Present Perfect vs Past Simple
+**Сравнение: Present Perfect vs Past Simple**
 
 | | Present Perfect | Past Simple |
 |---|---|---|
-| **Акцент** | Связь с настоящим, результат | Конкретное завершённое событие в прошлом |
+| **Акцент** | Связь с настоящим, результат или опыт | Конкретное завершённое событие в прошлом |
 | **Время** | Не указывается | Указывается или подразумевается |
 | **Сигналы** | just, already, yet, ever, for, since | yesterday, last week, ago, in 2010 |
 | **Пример** | I've seen that film. | I saw that film last Tuesday. |
 | **Вопрос** | Have you seen it? | Did you see it on Saturday? |
-
----
-
-

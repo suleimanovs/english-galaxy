@@ -1,39 +1,30 @@
+Present Perfect Continuous это время для описания действия, которое **началось в прошлом и продолжается вплоть до настоящего момента**, или только что завершилось, оставив видимые следы. Акцент делается на процессе и его продолжительности, а не на конечном результате.
 
-## Что это такое и зачем оно нужно
-
-Present Perfect Continuous — это время, которое показывает действие, начавшееся в прошлом и **продолжающееся вплоть до настоящего момента**. Акцент делается на **процессе и его продолжительности**, а не на конечном результате. Часто по ситуации видны следы этого процесса прямо сейчас.
-
-Если Present Perfect говорит «что-то случилось и есть результат», то Present Perfect Continuous говорит «действие шло всё это время, и это ощущается прямо сейчас».
+Если Present Perfect говорит «что-то случилось и есть результат», то Present Perfect Continuous говорит «действие шло всё это время, и это ощущается прямо сейчас». Разница тонкая, но важная: *I've painted the room* — комната покрашена (результат). *I've been painting the room* — я красил комнату всё это время (процесс, усилие).
 
 ---
 
-## Как строится предложение
-
-### Утвердительное предложение
+**Утвердительное предложение:**
 
 ```
-I / You / We / They  +  have been  +  V-ing
-He / She / It        +  has been   +  V-ing
+I / You / We / They  +  have been  +  глагол-ing
+He / She / It        +  has been   +  глагол-ing
 ```
 
-**Примеры:**
-
-- I have been working all day. — Я работал весь день (и сейчас ещё работаю или только что закончил).
-- She has been crying. — Она плакала. (видно по глазам — следы процесса)
+- I have been working all day. — Я работал весь день. (и сейчас ещё или только что закончил)
+- She has been crying. — Она плакала. (видно по глазам)
 - They have been waiting for an hour. — Они ждут уже час.
 - He has been running — look how sweaty he is! — Он бегал — посмотри, как он вспотел!
 - We have been living here since 2015. — Мы живём здесь с 2015 года.
 
 ---
 
-### Отрицательное предложение
+**Отрицательное предложение:**
 
 ```
-I / You / We / They  +  have not been (haven't been)  +  V-ing
-He / She / It        +  has not been (hasn't been)    +  V-ing
+I / You / We / They  +  have not been (haven't been)  +  глагол-ing
+He / She / It        +  has not been (hasn't been)    +  глагол-ing
 ```
-
-**Примеры:**
 
 - I haven't been sleeping well lately. — В последнее время я плохо сплю.
 - She hasn't been going to the gym. — Она не ходит в зал (в этот период).
@@ -41,49 +32,47 @@ He / She / It        +  has not been (hasn't been)    +  V-ing
 
 ---
 
-### Вопросительное предложение
+**Вопросительное предложение:**
 
 ```
-Have  +  I / you / we / they  +  been + V-ing?
-Has   +  he / she / it        +  been + V-ing?
+Have  +  I / you / we / they  +  been + глагол-ing?
+Has   +  he / she / it        +  been + глагол-ing?
 ```
-
-**Примеры:**
 
 - How long have you been studying English? — Как долго ты учишь английский?
 - Has she been feeling better? — Ей лучше в последнее время?
 - What have you been doing all day? — Чем ты занимался весь день?
 - Have they been arguing? — Они ссорились?
 
-**Краткие ответы:**
+Краткие ответы:
 
 - Yes, I have. / No, I haven't.
 - Yes, she has. / No, she hasn't.
 
 ---
 
-## Когда использовать Present Perfect Continuous
+#### Когда использовать Present Perfect Continuous
 
-### 1. Действие продолжается прямо сейчас (началось в прошлом, ещё не закончилось)
+**1. Действие началось в прошлом и всё ещё продолжается**
 
-Обычно с *for* и *since*.
+Самый типичный случай — с **for** и **since**.
 
-- I have been learning English for three years. — Я учу английский три года (и продолжаю).
+- I have been learning English for three years. — Я учу английский три года. (и продолжаю)
 - She has been working at this company since January. — Она работает в этой компании с января.
 - How long have you been waiting? — Как долго ты ждёшь?
 - They have been dating for six months. — Они встречаются шесть месяцев.
 
-### 2. Действие только что завершилось, но его следы видны прямо сейчас
+**2. Действие только что завершилось, но его следы видны прямо сейчас**
 
-Это один из самых интересных случаев. Само действие закончилось, но его результат или следы очевидны в настоящем.
+Само действие закончилось, но результат или следы очевидны. Это один из самых выразительных случаев употребления этого времени.
 
 - You're out of breath — have you been running? — Ты запыхался — ты бегал?
 - Her eyes are red. She's been crying. — Её глаза красные. Она плакала.
-- The kitchen smells great! Have you been cooking? — На кухне так вкусно пахнет! Ты готовил?
+- The kitchen smells great! Have you been cooking? — На кухне вкусно пахнет! Ты готовил?
 - He's covered in paint. He's been painting the walls. — Он весь в краске. Красил стены.
 - I'm so tired — I've been driving for six hours. — Я так устал — я ехал за рулём шесть часов.
 
-### 3. Временная деятельность в последнее время (lately, recently)
+**3. Временная деятельность в последнее время**
 
 - I've been feeling tired lately. — В последнее время я чувствую усталость.
 - She's been thinking about changing her job recently. — Последнее время она думает о смене работы.
@@ -91,7 +80,7 @@ Has   +  he / she / it        +  been + V-ing?
 
 ---
 
-## Сигнальные слова
+**Сигнальные слова**
 
 | Слово / фраза | Перевод |
 |---|---|
@@ -103,67 +92,48 @@ Has   +  he / she / it        +  been + V-ing?
 
 ---
 
-## Исключения: когда Present Perfect Continuous не используется
+**Исключения и сложные случаи**
 
-Стативные глаголы (know, love, want, understand, believe, own и др.) не используются в Continuous-формах. Для длительных состояний с этими глаголами используется **Present Perfect Simple**.
+Stative verbs (know, love, want, understand, believe, own и др.) не используются в Continuous-формах даже здесь. Для длительных состояний с этими глаголами используется Present Perfect Simple.
 
-[X] I have been knowing her for years.
-[OK] I have known her for years.
-
-[X] She has been loving him since school.
-[OK] She has loved him since school.
-
-[X] They have been owning this house for a century.
-[OK] They have owned this house for a century.
+| Неправильно | Правильно |
+|---|---|
+| I have been knowing her for years. | I have known her for years. |
+| She has been loving him since school. | She has loved him since school. |
+| They have been owning this house for a century. | They have owned this house for a century. |
 
 ---
 
-## Present Perfect Simple vs Present Perfect Continuous — подробное сравнение
+**Типичные ошибки русскоязычных**
 
-Это самое частое место путаницы. Оба времени говорят о прошлом в связи с настоящим, но акцент разный.
+Ошибка 1: Не использовать это время вообще
+
+В русском «Я учу английский три года» — просто настоящее. Многие так и переводят дословно через Present Simple, что неверно.
+
+| Неправильно | Правильно |
+|---|---|
+| I learn English for three years. | I have been learning English for three years. |
+| She works here since January. | She has been working here since January. |
+| How long do you wait? | How long have you been waiting? |
+
+Ошибка 2: Путать с Present Perfect Simple
+
+Ключевой вопрос: что важнее — результат или процесс?
+
+| Present Perfect Simple (результат) | Present Perfect Continuous (процесс) |
+|---|---|
+| I've cleaned the apartment. (убрано — факт) | I've been cleaning the apartment all day. (убирал весь день) |
+| He's painted the room. (комната покрашена) | He's been painting the room. (красил — может, ещё не закончил) |
+| She's written three reports. (три отчёта готовы) | She's been writing reports all morning. (писала всё утро) |
+
+---
+
+**Сравнение: Present Perfect Simple vs Present Perfect Continuous**
 
 | | Present Perfect Simple | Present Perfect Continuous |
 |---|---|---|
 | **Акцент** | Результат, завершённость | Процесс, продолжительность |
 | **Вопрос** | «Сколько?» (результат) | «Как долго?» (процесс) |
-| **Пример 1** | I've written three emails. (три письма — результат) | I've been writing emails all morning. (весь процесс — продолжительность) |
-| **Пример 2** | She has read the book. (книга прочитана — факт) | She has been reading the book for two hours. (читает уже два часа) |
-| **Пример 3** | I've drunk three cups of coffee. (три чашки) | I've been drinking coffee since this morning. (с утра пью) |
-
-### Когда разница особенно важна:
-
-**Результат vs процесс:**
-- *He has painted the room.* — Комната покрашена. (результат готов)
-- *He has been painting the room.* — Он красил комнату. (важен процесс; возможно, ещё не закончил)
-
-**Сколько vs как долго:**
-- *I've read five books this month.* — Я прочитал пять книг в этом месяце. (количество)
-- *I've been reading all evening.* — Я читал весь вечер. (продолжительность)
-
----
-
-## Типичные ошибки русскоязычных
-
-### Ошибка 1: Не использовать это время вообще
-
-В русском «Я учу английский три года» — просто настоящее. Кажется, что достаточно Present Simple. Но в английском нужен Perfect Continuous.
-
-[X] I learn English for three years.
-[OK] I have been learning English for three years.
-
-### Ошибка 2: Путать с Present Perfect Simple
-
-Когда важен результат — Simple. Когда важен процесс или продолжительность — Continuous.
-
-- *I've cleaned the apartment.* — Квартира убрана. [OK] (результат)
-- *I've been cleaning the apartment all day.* — Я убирал квартиру весь день. [OK] (процесс)
-
-### Ошибка 3: Стативные глаголы в Continuous
-
-[X] I have been wanting to call you.
-[OK] I have wanted to call you. / I've been meaning to call you. (mean — более подходящий глагол)
-
----
-
-
-[[Прошедшие времена (Past)]] • [[Будущие времена (Future)]]
+| **Пример** | I've written three emails. | I've been writing emails all morning. |
+| **Пример** | She has read the book. | She has been reading for two hours. |
+| **Пример** | I've drunk three cups of coffee. | I've been drinking coffee since this morning. |

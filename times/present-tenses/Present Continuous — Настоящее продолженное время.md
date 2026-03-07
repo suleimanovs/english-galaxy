@@ -1,23 +1,16 @@
+Present Continuous это время для описания действия, которое **происходит прямо сейчас**, в момент речи. Кроме этого оно используется для временных ситуаций в этот период жизни и для конкретных запланированных договорённостей в ближайшем будущем.
 
-## Что это такое и зачем оно нужно
-
-Present Continuous описывает действие, которое **происходит в данный момент** — прямо сейчас, пока ты это читаешь, пока идёт разговор. Кроме этого, оно используется для временных ситуаций и для запланированных событий в ближайшем будущем.
-
-Если Present Simple — это фотография жизни в целом, то Present Continuous — это **видеозапись прямо сейчас**.
+Если Present Simple — это фотография жизни человека в целом, то Present Continuous — это **видеозапись прямо сейчас**. Не как он живёт обычно, а что происходит в данную минуту или в данный период.
 
 ---
 
-## Как строится предложение
-
-### Утвердительное предложение
+**Утвердительное предложение:**
 
 ```
-I        +  am  + V-ing
-He/She/It  +  is  + V-ing
-You/We/They  +  are  + V-ing
+I        + am  + глагол-ing
+He/She/It  + is  + глагол-ing
+You/We/They  + are + глагол-ing
 ```
-
-**Примеры:**
 
 - I am working now. — Я сейчас работаю.
 - She is reading a book. — Она читает книгу (прямо сейчас).
@@ -26,60 +19,27 @@ You/We/They  +  are  + V-ing
 - They are having dinner. — Они ужинают.
 - It is raining outside. — На улице идёт дождь.
 
----
+Как образуется форма -ing? Правила написания:
 
-### Как образуется форма V-ing
-
-**Обычно просто +ing:**
-- work → working
-- read → reading
-- go → going
-- play → playing
-- talk → talking
-
-**Если глагол заканчивается на немую -e, она убирается:**
-- make → making
-- come → coming
-- write → writing
-- take → taking
-- live → living
-
-**Если глагол короткий (один слог) и заканчивается на согласную-гласную-согласную, последняя согласная удваивается:**
-- run → running
-- sit → sitting
-- swim → swimming
-- cut → cutting
-- get → getting
-- hit → hitting
-
-> [!] Но не удваивается, если последняя буква — w, x или y: show → showing, mix → mixing, play → playing.
-
-**Если двухсложный глагол с ударением на второй слог:**
-- begin → beginning
-- forget → forgetting
-- prefer → preferring
-
-**Если двухсложный глагол с ударением на первый слог — просто +ing:**
-- listen → listening
-- open → opening
-- happen → happening
-
-**Если глагол заканчивается на -ie, оно меняется на -y:**
-- lie → lying
-- die → dying
-- tie → tying
+| Правило | Примеры |
+|---|---|
+| Обычно просто **+ing** | work → working, read → reading, go → going, play → playing |
+| Если глагол заканчивается на **немую -e** — она убирается | make → making, come → coming, write → writing, live → living |
+| Если глагол **односложный** и заканчивается на **согласную-гласную-согласную** — последняя согласная удваивается | run → running, sit → sitting, swim → swimming, cut → cutting, get → getting |
+| Исключение: **w, x, y** не удваиваются | show → showing, mix → mixing, play → playing |
+| Если **двухсложный глагол с ударением на второй слог** — последняя согласная тоже удваивается | begin → beginning, forget → forgetting, prefer → preferring |
+| Если **двухсложный глагол с ударением на первый слог** — просто +ing | listen → listening, open → opening, happen → happening |
+| Если глагол заканчивается на **-ie** — оно меняется на **-y** | lie → lying, die → dying, tie → tying |
 
 ---
 
-### Отрицательное предложение
+**Отрицательное предложение:**
 
 ```
-I am not (I'm not) + V-ing
-He/She/It is not (isn't) + V-ing
-You/We/They are not (aren't) + V-ing
+I am not (I'm not)         + глагол-ing
+He/She/It is not (isn't)   + глагол-ing
+You/We/They are not (aren't) + глагол-ing
 ```
-
-**Примеры:**
 
 - I'm not sleeping. — Я не сплю.
 - She isn't watching TV. — Она не смотрит телевизор.
@@ -88,15 +48,13 @@ You/We/They are not (aren't) + V-ing
 
 ---
 
-### Вопросительное предложение
+**Вопросительное предложение:**
 
 ```
-Am  + I         + V-ing?
-Is  + he/she/it + V-ing?
-Are + you/we/they + V-ing?
+Am  + I          + глагол-ing?
+Is  + he/she/it  + глагол-ing?
+Are + you/we/they + глагол-ing?
 ```
-
-**Примеры:**
 
 - Are you listening? — Ты слушаешь?
 - Is she coming with us? — Она идёт с нами?
@@ -104,13 +62,13 @@ Are + you/we/they + V-ing?
 - Are they still waiting? — Они всё ещё ждут?
 - Is it working? — Это работает?
 
-**Краткие ответы:**
+Краткие ответы:
 
 - Yes, I am. / No, I'm not.
 - Yes, she is. / No, she isn't.
 - Yes, they are. / No, they aren't.
 
-**Вопросы с вопросительными словами:**
+Вопросы с вопросительными словами:
 
 - What are you doing? — Что ты делаешь?
 - Where is he going? — Куда он идёт?
@@ -119,47 +77,47 @@ Are + you/we/they + V-ing?
 
 ---
 
-## Когда использовать Present Continuous
+#### Когда использовать Present Continuous
 
-### 1. Действие происходит прямо сейчас, в момент речи
+**1. Действие происходит прямо сейчас, в момент речи**
 
 - Look! It's snowing! — Смотри! Идёт снег!
 - Listen — someone is knocking at the door. — Слушай — кто-то стучит в дверь.
 - I can't talk now, I'm driving. — Я не могу говорить, я за рулём.
 - She isn't here — she's having a shower. — Её нет — она принимает душ.
 
-### 2. Временные действия и ситуации (не прямо сейчас, но в этот период жизни)
+**2. Временные действия и ситуации в этот период жизни**
 
-Не обязательно в эту секунду, но в этот период — на этой неделе, в этом месяце, сейчас в жизни вообще.
+Не обязательно прямо сейчас в эту секунду, но в этот период — на этой неделе, в этом месяце, сейчас в жизни вообще.
 
 - I'm learning to drive this month. — В этом месяце я учусь водить.
 - She's living with her parents for now. — Сейчас она живёт с родителями (временно).
 - He's working on a new project. — Он работает над новым проектом (в этот период).
 - We're reading "War and Peace" at school. — Мы читаем «Войну и мир» в школе (в этом семестре).
 
-### 3. Запланированные личные договорённости в будущем (arrangements)
+**3. Запланированные личные договорённости в будущем**
 
-Когда встреча, поездка или событие уже организованы — есть конкретное время, место, договорённость с другим человеком.
+Когда встреча, поездка или событие уже организованы — есть конкретное время, место, договорённость с другим человеком. Это не мечты и не намерения, а уже решённые дела.
 
 - I'm meeting John tomorrow at 6. — Я встречаюсь с Джоном завтра в 6. (договорились заранее)
 - She's flying to Paris on Friday. — В пятницу она летит в Париж. (билет куплен)
 - We're having a party on Saturday. — В субботу у нас вечеринка. (всё организовано)
 - Are you doing anything tonight? — Ты что-нибудь делаешь сегодня вечером?
 
-### 4. Раздражающие или удивительные привычки (с always, constantly, forever)
+**4. Раздражающие или удивительные привычки — с always, constantly, forever**
 
-Когда что-то происходит слишком часто и это вызывает эмоцию — раздражение, удивление, восхищение. Здесь always используется не в значении «каждый раз», а для выражения чувства говорящего.
+Когда что-то происходит слишком часто и это вызывает эмоцию — раздражение, удивление, восхищение. Здесь always используется не для описания факта, а для передачи чувства говорящего.
 
 - He's always losing his keys! — Он вечно теряет ключи! (раздражение)
 - She's constantly interrupting me! — Она постоянно меня перебивает!
-- You're always helping people. — Ты всегда помогаешь людям. (с восхищением)
+- You're always helping people. — Ты всегда помогаешь людям. (восхищение)
 - They're forever complaining about something. — Они вечно на что-то жалуются.
 
-> [!] В нейтральном контексте *always* идёт с Present Simple: *He always loses his keys* — просто факт. С Present Continuous — это уже эмоция.
+В нейтральном контексте always идёт с Present Simple: *He always loses his keys* — просто факт без эмоции. С Present Continuous — это уже оценка.
 
 ---
 
-## Сигнальные слова
+**Сигнальные слова**
 
 | Слово / фраза | Перевод |
 |---|---|
@@ -175,93 +133,91 @@ Are + you/we/they + V-ing?
 
 ---
 
-## Глаголы состояния (Stative verbs) — нельзя использовать в Continuous
+**Исключения и сложные случаи**
 
-Это один из самых важных моментов. Следующие глаголы **почти никогда не используются** в форме -ing, потому что они описывают состояние, а не действие. Состояние нельзя «продолжать» — оно просто есть.
+Глаголы состояния (stative verbs) почти никогда не используются в форме -ing, потому что они описывают состояние, а не активное действие. Состояние нельзя «продолжать в процессе» — оно просто есть.
 
-**Мышление и понимание:** know, understand, believe, think (считать), remember, forget, realize, mean, doubt, suppose, recognize, imagine
+Полный список stative verbs с объяснениями — в файле Present Simple. Здесь — только примеры ошибок:
 
-**Желания и предпочтения:** want, need, wish, prefer, love, like, hate, dislike, adore, mind, care, fancy
+| Неправильно | Правильно |
+|---|---|
+| I am knowing the answer. | I know the answer. |
+| She is wanting a coffee. | She wants a coffee. |
+| He is owning a car. | He owns a car. |
+| This is costing too much. | This costs too much. |
 
-**Восприятие (непроизвольное):** see, hear, smell, taste, feel (состояние), notice, seem, appear
+Некоторые stative verbs могут стоять в Continuous, но тогда их смысл меняется:
 
-**Владение:** have (иметь), own, belong, possess, contain, include, consist
-
-**Прочие:** be (в большинстве значений), cost, weigh, look (казаться), matter, depend
-
-**Неправильно:**
-[X] I am knowing the answer.
-[X] She is wanting a coffee.
-[X] He is owning a car.
-[X] This is costing too much.
-
-**Правильно:**
-[OK] I know the answer.
-[OK] She wants a coffee.
-[OK] He owns a car.
-[OK] This costs too much.
-
-### Когда те же глаголы МОЖНО использовать в Continuous (смена значения)
-
-Некоторые из этих глаголов имеют два значения — одно статичное, одно динамичное. В динамичном значении Continuous допустим.
-
-| Глагол | Стативное значение (Simple) | Динамичное значение (Continuous) |
+| Глагол | Simple (состояние) | Continuous (активное действие) |
 |---|---|---|
-| think | I think it's true. (считаю) | I'm thinking about it. (обдумываю прямо сейчас) |
+| think | I think you're right. (считаю) | I'm thinking about it. (обдумываю прямо сейчас) |
 | have | I have a car. (владею) | I'm having lunch. (принимаю пищу) |
-| see | I see the point. (понимаю) | I'm seeing a doctor. (встречаюсь/нахожусь у врача) |
-| taste | It tastes good. (имеет вкус) | I'm tasting the soup. (пробую на вкус) |
+| see | I see the point. (понимаю) | I'm seeing a doctor. (нахожусь у врача) |
+| taste | It tastes good. (имеет вкус) | I'm tasting the soup. (пробую намеренно) |
 | smell | It smells nice. (имеет запах) | I'm smelling the flowers. (нюхаю намеренно) |
 | look | He looks tired. (выглядит) | She's looking at me. (смотрит намеренно) |
-| feel | I feel sick. (состояние) | I'm feeling better today. (ощущение в процессе) |
+| feel | I feel sick. (состояние) | I'm feeling better today. (ощущение меняется) |
 | be | He is kind. (постоянная черта) | He's being rude. (ведёт себя так сейчас) |
 
 ---
 
-## Типичные ошибки русскоязычных
+**Типичные ошибки русскоязычных**
 
-### Ошибка 1: Использование Present Simple вместо Present Continuous
+Ошибка 1: Present Simple вместо Present Continuous для того, что происходит прямо сейчас
 
-По-русски «Что ты делаешь?» — это одна фраза. В английском, если вопрос о прямо сейчас, нужен Continuous.
+По-русски «Что ты делаешь?» и «Я читаю» — одна фраза и для привычки, и для действия в эту секунду. В английском это разные конструкции, и путать их нельзя.
 
-[X] What do you do right now?
-[OK] What are you doing right now?
+| Неправильно | Правильно |
+|---|---|
+| What do you do right now? | What are you doing right now? |
+| I read a book now. | I'm reading a book now. |
+| She writes an email at the moment. | She's writing an email at the moment. |
 
-[X] I read a book now.
-[OK] I'm reading a book now.
+Ошибка 2: Stative verbs в Continuous
 
-### Ошибка 2: Употребление стативных глаголов в Continuous
+Прямое следствие перевода с русского — в русском «Я понимаю», «Я знаю», «Я думаю» — обычные глаголы без ограничений. В английском know, understand, think (в значении «считать») — stative.
 
-Это прямое следствие перевода с русского. В русском «Я понимаю» и «Я думаю» — обычные глаголы. В английском know, understand, think (считать) — стативные.
+| Неправильно | Правильно |
+|---|---|
+| I am understanding you. | I understand you. |
+| She is knowing the answer. | She knows the answer. |
+| He is believing in God. | He believes in God. |
 
-[X] I am understanding you.
-[OK] I understand you.
+Ошибка 3: Present Continuous для постоянных фактов
 
-[X] She is knowing the answer.
-[OK] She knows the answer.
+| Неправильно | Правильно |
+|---|---|
+| Water is boiling at 100 degrees. | Water boils at 100 degrees. |
+| The Sun is rising in the east. | The Sun rises in the east. |
 
-### Ошибка 3: Present Continuous для постоянных фактов
+Ошибка 4: Неправильное написание -ing формы
 
-[X] Water is boiling at 100 degrees.
-[OK] Water boils at 100 degrees.
+Самые частые: не удваивать согласную, оставлять -e, писать -ieing вместо -ying.
 
-### Ошибка 4: Неправильное написание -ing формы
-
-Частая ошибка — не удваивать согласную или наоборот удваивать её там, где не нужно.
-
-[X] runing, siting, comeing, liveing
-[OK] running, sitting, coming, living
+| Неправильно | Правильно |
+|---|---|
+| runing | running |
+| siting | sitting |
+| comeing | coming |
+| liveing | living |
+| dieing | dying |
 
 ---
 
-## Сравнение: Present Continuous для настоящего vs для будущего
+**Сравнение: Present Continuous для настоящего vs для будущего**
 
 | | Настоящий момент | Ближайшее будущее |
 |---|---|---|
 | **Пример** | She's cooking dinner right now. | She's cooking dinner tomorrow. |
 | **Ориентир** | now, at the moment | tomorrow, on Friday, next week |
-| **Суть** | происходит в эту секунду | договорённость, конкретный план |
+| **Суть** | происходит в эту секунду | конкретная договорённость |
 
----
+**Сравнение: Present Simple vs Present Continuous**
 
----
+| | Present Simple | Present Continuous |
+|---|---|---|
+| **Что описывает** | Привычку, факт, постоянное состояние | Действие прямо сейчас или временную ситуацию |
+| **Пример** | I drink coffee every morning. | I'm drinking coffee right now. |
+| **Сигналы** | always, every day, never, usually | now, at the moment, currently |
+| **Вспомог. глагол** | do / does | am / is / are |
+| **Форма** | V / V+s | V-ing |
