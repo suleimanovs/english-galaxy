@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="feat: Исправлена ошибка форматирования в файле (main)&#10;&#10;- Исправлена ошибка форматирования в разделе &quot;Ошибка 5: Двойное отрицание&quot;.&#10;- Изменено форматирование заголовка раздела &quot;Сравнение: Present Simple vs Present Continuous&quot;.">
+    <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="feat: Улучшение описания настоящих времён&#10;&#10;Обновлены описания времён Present Simple, Present Continuous, Present Perfect и Present Perfect Continuous.&#10;&#10;Внесены следующие изменения:&#10;- Уточнено значение Present Continuous для описания временных ситуаций и запланированных событий.&#10;- Добавлены более подробные примеры и объяснения построения предложений.&#10;- Переработаны разделы о стативных глаголах и типичных ошибках.&#10;- Улучшены сравнения между Present Perfect Simple и Present Perfect Continuous.&#10;- Добавлены списки сигнальных слов и исключений для каждого времени.&#10;- Исправлены формулировки для большей ясности и точности.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,24 +53,25 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/osman/Projects/obsidian/english-galaxy/english-galaxy-turquoise-course/B1&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/osman/Projects/obsidian/english-galaxy/times/present-tenses",
+    "settings.editor.selected.configurable": "vcs.Git"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: []
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": []
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/times/present-tenses" />
       <recent name="$PROJECT_DIR$/english-galaxy-turquoise-course/B1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -179,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772896327675</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="feat: Улучшение описания настоящих времён&#10;&#10;Обновлены описания времён Present Simple, Present Continuous, Present Perfect и Present Perfect Continuous.&#10;&#10;Внесены следующие изменения:&#10;- Уточнено значение Present Continuous для описания временных ситуаций и запланированных событий.&#10;- Добавлены более подробные примеры и объяснения построения предложений.&#10;- Переработаны разделы о стативных глаголах и типичных ошибках.&#10;- Улучшены сравнения между Present Perfect Simple и Present Perfect Continuous.&#10;- Добавлены списки сигнальных слов и исключений для каждого времени.&#10;- Исправлены формулировки для большей ясности и точности.">
+      <option name="closed" value="true" />
+      <created>1772896835173</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1772896835173</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,10 +204,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="vault backup: 2026-02-26 16:39:35" />
-    <MESSAGE value="```&#10;feat: Разрешены конфликты слияния, обновлено рабочее пространство" />
-    <MESSAGE value="```&#10;feat: Разрешены конфликты слияния, обновлено рабочее пространство (main)&#10;&#10;Разрешены конфликты слияния в файле .obsidian/workspace.json.&#10;Добавлен новый файл 'conflict-files-obsidian-git.md' в рабочее пространство.&#10;Переи" />
-    <MESSAGE value="```&#10;feat: Разрешены конфликты слияния, обновлено рабочее пространство (main)&#10;&#10;Разрешены конфликты слияния в файле .obsidian/workspace.json.&#10;Добавлен новый файл 'conflict-files-obsidian-git.md' в рабочее пространство.&#10;Переименованы файлы уроков для более понятных названий.&#10;```" />
     <MESSAGE value="feat: Доба" />
     <MESSAGE value="feat: Добавлена новая лекция и исправлены названия файлов&#10;&#10;Добавлена ле" />
     <MESSAGE value="feat: Добавлена новая лекция и исправлены названия файлов&#10;&#10;Добавлена лекция &quot;Lesson 15(68-74).md&quot; и &quot;Lesson 16.md&quot;.&#10;Исправлено название файла &quot;Lesson 15 (68-74).md&quot; на &quot;Lesson 15(" />
@@ -216,9 +222,13 @@
     <MESSAGE value="feat: Обновление конфигурации Obsidian (main)&#10;&#10;Удалены устаревшие" />
     <MESSAGE value="feat: Обновление конфигурации Obsidian (main)&#10;&#10;Удалены устаревшие вкладки из .obsidian/workspace.json.&#10;Обновлен зашифрованный пароль в .obsidian/plugins/obsidian-livesync/data.json.&#10;Изменены настройки проекта в .idea/workspace." />
     <MESSAGE value="feat: Обновление конфигурации Obsidian (main)&#10;&#10;Удалены устаревшие вкладки из .obsidian/workspace.json.&#10;Обновлен зашифрованный пароль в .obsidian/plugins/obsidian-livesync/data.json.&#10;Изменены настройки проекта в .idea/workspace.xml." />
-    <MESSAGE value="feat" />
     <MESSAGE value="feat: Исправлена ошибка форматирования в файле (main)&#10;&#10;-" />
     <MESSAGE value="feat: Исправлена ошибка форматирования в файле (main)&#10;&#10;- Исправлена ошибка форматирования в разделе &quot;Ошибка 5: Двойное отрицание&quot;.&#10;- Изменено форматирование заголовка раздела &quot;Сравнение: Present Simple vs Present Continuous&quot;." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Исправлена ошибка форматирования в файле (main)&#10;&#10;- Исправлена ошибка форматирования в разделе &quot;Ошибка 5: Двойное отрицание&quot;.&#10;- Изменено форматирование заголовка раздела &quot;Сравнение: Present Simple vs Present Continuous&quot;." />
+    <MESSAGE value="feat" />
+    <MESSAGE value="feat: Улучшение описания настоящих времён&#10;&#10;Обновлены описания вре" />
+    <MESSAGE value="feat: Улучшение описания настоящих времён&#10;&#10;Обновлены описания времён Present Simple, Present Continuous, Present Perfect и Present Perfect Continuous.&#10;&#10;Внесены следующие изменения:&#10;- Уточнено значение Present Continuous для описания временных ситуаций и запланированных событий.&#10;- Добав" />
+    <MESSAGE value="feat: Улучшение описания настоящих времён&#10;&#10;Обновлены описания времён Present Simple, Present Continuous, Present Perfect и Present Perfect Continuous.&#10;&#10;Внесены следующие изменения:&#10;- Уточнено значение Present Continuous для описания временных ситуаций и запланированных событий.&#10;- Добавлены более подробные примеры и объяснения построения предложений.&#10;- Переработаны разделы о стативных глаголах и типичных ошибках.&#10;- Улучшены сравнения между Present Perfect Simple и Present Perfect Continuous.&#10;" />
+    <MESSAGE value="feat: Улучшение описания настоящих времён&#10;&#10;Обновлены описания времён Present Simple, Present Continuous, Present Perfect и Present Perfect Continuous.&#10;&#10;Внесены следующие изменения:&#10;- Уточнено значение Present Continuous для описания временных ситуаций и запланированных событий.&#10;- Добавлены более подробные примеры и объяснения построения предложений.&#10;- Переработаны разделы о стативных глаголах и типичных ошибках.&#10;- Улучшены сравнения между Present Perfect Simple и Present Perfect Continuous.&#10;- Добавлены списки сигнальных слов и исключений для каждого времени.&#10;- Исправлены формулировки для большей ясности и точности." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Улучшение описания настоящих времён&#10;&#10;Обновлены описания времён Present Simple, Present Continuous, Present Perfect и Present Perfect Continuous.&#10;&#10;Внесены следующие изменения:&#10;- Уточнено значение Present Continuous для описания временных ситуаций и запланированных событий.&#10;- Добавлены более подробные примеры и объяснения построения предложений.&#10;- Переработаны разделы о стативных глаголах и типичных ошибках.&#10;- Улучшены сравнения между Present Perfect Simple и Present Perfect Continuous.&#10;- Добавлены списки сигнальных слов и исключений для каждого времени.&#10;- Исправлены формулировки для большей ясности и точности." />
   </component>
 </project>
