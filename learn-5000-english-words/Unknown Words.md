@@ -9,18 +9,20 @@ const ANKI_MODEL          = 'Basic';
 const TARGET_COLOR        = '#c0504d';
 const GEMINI_MODEL        = 'gemini-2.0-flash';
 const KNOWN_INTERVAL_DAYS = 7;
-const GEMINI_DELAY_MS     = 700;
+const GEMINI_DELAY_MS     = 4000; // free tier: ~15 req/min → 4 sec between requests
 const FOLDER              = dv.current().file.folder;
 const TRACKER_PATH        = FOLDER + '/word-tracker.json';
 
 // ─── ANKI ────────────────────────────────────────────────────────────────────
+const { requestUrl } = require('obsidian');
 async function ankiReq(action, params = {}) {
-  const res = await fetch(ANKI_URL, {
+  const res = await requestUrl({
+    url: ANKI_URL,
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ action, version: 6, params })
   });
-  const { result, error } = await res.json();
+  const { result, error } = res.json;
   if (error) throw new Error(`AnkiConnect [${action}]: ${error}`);
   return result;
 }
@@ -32,15 +34,13 @@ async function generateSentences(word, translation) {
     `Rules:\n- Each sentence in a different real-life context\n- Bold the target word: **${word}**\n` +
     `- Return ONLY a JSON array of exactly 3 strings, no markdown, no explanation\n\n` +
     `Output: ["s1", "s2", "s3"]`;
-  const res = await fetch(
-    `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`,
-    {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] })
-    }
-  );
-  const data = await res.json();
+  const res = await requestUrl({
+    url: `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`,
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] })
+  });
+  const data = res.json;
   if (data.error) throw new Error(`Gemini: ${JSON.stringify(data.error)}`);
   const text = data.candidates?.[0]?.content?.parts?.[0]?.text?.trim();
   // Find the outermost [...] array reliably (greedy, finds last closing bracket)

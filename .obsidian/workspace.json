@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "758b5fba7a0968f0",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "3b0def70d7876b1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -202,10 +202,11 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3b0def70d7876b1d",
   "lastOpenFiles": [
-    "learn-5000-english-words/Progress.md",
     "learn-5000-english-words/Unknown Words.md",
+    "learn-5000-english-words/word-tracker.json",
+    "learn-5000-english-words/Progress.md",
     "Home Page.md",
     "полный список основных грамматических тем-конструкций английского.md",
     "grammar/articles-pronouns/Reflexive_Pronouns.md",
@@ -233,13 +234,11 @@
     "learn-5000-english-words/secrets.json",
     "grammar/phrases-idioms/Reported_Speech.md",
     "grammar/phrases-idioms/Relative_Clauses.md",
-    "grammar/phrases-idioms/Questions.md",
     "grammar/phrases-idioms",
     "grammar/modals",
     "grammar",
     "grammar/non-finite-forms",
     "learn-5000-english-words/sync-anki.js",
-    "grammar/times/additional",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
