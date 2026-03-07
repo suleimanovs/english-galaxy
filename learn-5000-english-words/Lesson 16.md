@@ -49,8 +49,33 @@
 1279. field - поле
 1280. laptop - ноутбук
 1281. maybe - возможно, может быть
-1282. medicine - мединцина
+1282. medicine - медицина
 1283. recording - запись
 1284. revolution - революция
 1285. <font color="#c0504d">get rid of - избавиться от</font>
-1286. 
+1286. <font color="#c0504d">rise - подъем поднимать</font>
+1287. <font color="#c0504d">silly - глупый</font>
+1288. stadium - стадион
+1289. sun - солнце
+1290. tablet - таблетка, планшет
+1291. unforgettable - незабываемый
+1292. <font color="#c0504d">go up - подниматься</font>
+1293. <font color="#c0504d">go down - снижаться, спускаться</font>
+1294. up - вверх
+1295. down - вниз
+1296. conference - конференция
+1297. conflict - конфликт
+1298. <font color="#c0504d">contest - конкурс</font>
+1299. glad - радоваться, рад
+1300. guarantee - гарантия
+1301. <font color="#c0504d">guess - догадаться, догадка</font>
+1302. initiative - инициатива
+1303. participate - участвовать
+1304. <font color="#c0504d">perhaps - возможно</font>
+1305. react - реагировать
+1306. resolve - разрешить
+1307. sum - сумма
+1308. no ine - никто
+1309. contact - связаться, контакт
+1310. attend - посещатьб
+1311. extra - дополнитьельный
