@@ -1,13 +1,13 @@
-.ls-dialog .added {
+.added {
     color: var(--text-on-accent);
     background-color: var(--text-accent);
 }
 
-.ls-dialog .normal {
+.normal {
     color: var(--text-normal);
 }
 
-.ls-dialog .deleted {
+.deleted {
     color: var(--text-on-accent);
     background-color: var(--text-muted);
 }
