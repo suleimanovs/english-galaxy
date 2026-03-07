@@ -7,9 +7,9 @@ const ANKI_URL            = 'http://localhost:8765';
 const ANKI_DECK           = 'English Galaxy';
 const ANKI_MODEL          = 'Basic';
 const TARGET_COLOR        = '#c0504d';
-const GEMINI_MODEL        = 'gemini-2.0-flash';
+const GEMINI_MODEL        = 'gemini-2.5-flash-lite';
 const KNOWN_INTERVAL_DAYS = 7;
-const GEMINI_DELAY_MS     = 4000; // free tier: ~15 req/min → 4 sec between requests
+const GEMINI_DELAY_MS     = 4000;
 const FOLDER              = dv.current().file.folder;
 const TRACKER_PATH        = FOLDER + '/word-tracker.json';
 
@@ -38,7 +38,10 @@ async function generateSentences(word, translation) {
     url: `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`,
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] }),
+    body: JSON.stringify({
+      contents: [{ parts: [{ text: prompt }] }],
+      generationConfig: { temperature: 0.4, topP: 0.7, topK: 40 }
+    }),
     throw: false
   });
   if (res.status !== 200) throw new Error(`Gemini ${res.status}: ${res.json?.error?.message || res.text}`);
