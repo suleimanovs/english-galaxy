@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "758b5fba7a0968f0",
+        "id": "dba0adce31efd177",
         "type": "tabs",
         "children": [
           {
-            "id": "3b0def70d7876b1d",
+            "id": "7c00e99f7c44cc2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -202,7 +202,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "3b0def70d7876b1d",
+  "active": "7c00e99f7c44cc2d",
   "lastOpenFiles": [
     "learn-5000-english-words/Unknown Words.md",
     "learn-5000-english-words/word-tracker.json",
