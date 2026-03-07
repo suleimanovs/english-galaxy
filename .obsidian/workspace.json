@@ -225,8 +225,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ed2b5a210b5bfda8",
+  "active": "6fc422490737c0b3",
   "lastOpenFiles": [
+    "learn-5000-english-words/Anki Sync.md",
+    "learn-5000-english-words/sync-anki.js",
+    "voices/Voice_Introduction.md",
+    "voices/Passive_Voice.md",
+    "voices/Active_Voice.md",
     "times/additional/Future_Shall.md",
     "times/additional/Future_Present_Continuous.md",
     "times/additional/Future_Going_To.md",
@@ -251,10 +256,6 @@
     "times/future-tences/Future_Continuous.md",
     "times/future-tences",
     "times/Будущие времена (Future).md",
-    "times/past-tenses/Past Tenses Introduction - Прошедшие времена.md",
-    "times/past-tenses/Past Continuous — Прошедшее продолженное время.md",
-    "times/past-tenses/Past Perfect — Прошедшее совершённое продолженное время.md",
-    "times/past-tenses/Past Perfect Continuous — Прошедшее совершённое продолженное время.md",
     "conditionals",
     "voices",
     "times/past-tenses",
@@ -262,7 +263,6 @@
     "english-galaxy-turquoise-course/C1",
     "english-galaxy-turquoise-course/B2",
     "english-galaxy-turquoise-course/B1",
-    "english-galaxy-turquoise-course/A2",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
