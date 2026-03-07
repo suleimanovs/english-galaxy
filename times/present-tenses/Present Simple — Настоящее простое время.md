@@ -189,48 +189,46 @@ Wh-word + do/does + subject + глагол?
 
 Русский язык никак не выделяет третье лицо отдельным окончанием так, как это делает английский. В русском: «я работаю», «он работает» — разные окончания, но они обозначают другое. В английском -s для he/she/it — обязательный грамматический маркер.
 
-[X] He work here every day.
-[OK] He works here every day.
-
-[X] She always come late.
-[OK] She always comes late.
+| Неправильно             | Правильно                |
+|-------------------------|--------------------------|
+| He work here every day. | He works here every day. |
+| She always come late.   | She always comes late.   |
 
 Ошибка 2: Использование Present Simple вместо Present Continuous для происходящего сейчас
 
 По-русски «Я читаю» может означать и «я обычно читаю», и «я читаю прямо сейчас». В английском это разные конструкции.
 
-[X] I read a book now. (если это прямо сейчас)
-[OK] I'm reading a book now.
+| Неправильно                                | Правильно                                       |
+|--------------------------------------------|-------------------------------------------------|
+| I read a book now. (если это прямо сейчас) | I'm reading a book now.                         |
+|                                            | I read a lot. (привычка — Present Simple верен) |
 
-[OK] I read a lot. (привычка — Present Simple верен)
 
 Ошибка 3: Вопрос без do/does
 
 В русском вопрос строится просто интонацией или перестановкой слов: «Ты работаешь?» В английском обязательно нужен вспомогательный глагол.
 
-[X] You work here?
-[OK] Do you work here?
-
-[X] He speaks English?
-[OK] Does he speak English?
+| Неправильно        | Правильно              |
+|--------------------|------------------------|
+| You work here?     | Do you work here?      |
+| He speaks English? | Does he speak English? |
 
 Ошибка 4: Использование Present Simple для планов вместо Present Continuous или going to
 
 «Я еду в Лондон в пятницу» — это план, а не расписание. В английском это Present Continuous: *I'm going to London on Friday.* Present Simple для планов используется только если это официальное расписание (поезд, самолёт, урок).
 
-### Ошибка 5: Двойное отрицание
+Ошибка 5: Двойное отрицание
 
 В русском двойное отрицание — норма: «Я нигде не работаю». В английском двойное отрицание недопустимо в стандартном языке.
 
-[X] I don't work nowhere.
-[OK] I don't work anywhere.
-
-[X] She doesn't know nothing.
-[OK] She doesn't know anything.
+| Неправильно               | Правильно                  |
+|---------------------------|----------------------------|
+| I don't work nowhere.     | I don't work anywhere.     |
+| She doesn't know nothing. | She doesn't know anything. |
 
 ---
 
-## Сравнение: Present Simple vs Present Continuous
+**Сравнение: Present Simple vs Present Continuous**
 
 | | Present Simple | Present Continuous |
 |---|---|---|

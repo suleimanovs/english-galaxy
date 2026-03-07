@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="feat: Обновление конфигурации Obsidian (main)&#10;&#10;Удалены устаревшие вкладки из .obsidian/workspace.json.&#10;Обновлен зашифрованный пароль в .obsidian/plugins/obsidian-livesync/data.json.&#10;Изменены настройки проекта в .idea/workspace.xml." />
+    <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="feat: Исправлена ошибка форматирования в файле (main)&#10;&#10;- Исправлена ошибка форматирования в разделе &quot;Ошибка 5: Двойное отрицание&quot;.&#10;- Изменено форматирование заголовка раздела &quot;Сравнение: Present Simple vs Present Continuous&quot;.">
+      <change beforePath="$PROJECT_DIR$/times/present-tenses/Present Simple — Настоящее простое время.md" beforeDir="false" afterPath="$PROJECT_DIR$/times/present-tenses/Present Simple — Настоящее простое время.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -161,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772877771831</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat: Исправлена ошибка форматирования в файле (main)&#10;&#10;- Исправлена ошибка форматирования в разделе &quot;Ошибка 5: Двойное отрицание&quot;.&#10;- Изменено форматирование заголовка раздела &quot;Сравнение: Present Simple vs Present Continuous&quot;.">
+      <option name="closed" value="true" />
+      <created>1772896137855</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1772896137855</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,8 +186,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="```&#10;feat: Обновление видео и дат изучения для уроков&#10;&#10;Обновлены ссылки на видео и даты изучения для множества уроков в различных курсах.&#10;Исправлено отображение названия терминала в файле workspace.json.&#10;```" />
-    <MESSAGE value="vault backup: 2026-02-26 16:17:30" />
     <MESSAGE value="vault backup: 2026-02-26 16:39:35" />
     <MESSAGE value="```&#10;feat: Разрешены конфликты слияния, обновлено рабочее пространство" />
     <MESSAGE value="```&#10;feat: Разрешены конфликты слияния, обновлено рабочее пространство (main)&#10;&#10;Разрешены конфликты слияния в файле .obsidian/workspace.json.&#10;Добавлен новый файл 'conflict-files-obsidian-git.md' в рабочее пространство.&#10;Переи" />
@@ -197,10 +205,12 @@
     <MESSAGE value="```&#10;feat: Удаление страницы &quot;Настоящие времена (Present).md&quot; (main" />
     <MESSAGE value="```&#10;feat: Удаление страницы &quot;Настоящие времена (Present).md&quot; (main)&#10;&#10;Файл &quot;times/Настоящие времена (Present).md&quot; удален.&#10;Он был заменен более общей страницей &quot;Времена в английском.md&quot;.&#10;Обновлены ссылки в .obsidian/workspace.json" />
     <MESSAGE value="```&#10;feat: Удаление страницы &quot;Настоящие времена (Present).md&quot; (main)&#10;&#10;Файл &quot;times/Настоящие времена (Present).md&quot; удален.&#10;Он был заменен более общей страницей &quot;Времена в английском.md&quot;.&#10;Обновлены ссылки в .obsidian/workspace.json.&#10;```" />
-    <MESSAGE value="feat" />
     <MESSAGE value="feat: Обновление конфигурации Obsidian (main)&#10;&#10;Удалены устаревшие" />
     <MESSAGE value="feat: Обновление конфигурации Obsidian (main)&#10;&#10;Удалены устаревшие вкладки из .obsidian/workspace.json.&#10;Обновлен зашифрованный пароль в .obsidian/plugins/obsidian-livesync/data.json.&#10;Изменены настройки проекта в .idea/workspace." />
     <MESSAGE value="feat: Обновление конфигурации Obsidian (main)&#10;&#10;Удалены устаревшие вкладки из .obsidian/workspace.json.&#10;Обновлен зашифрованный пароль в .obsidian/plugins/obsidian-livesync/data.json.&#10;Изменены настройки проекта в .idea/workspace.xml." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Обновление конфигурации Obsidian (main)&#10;&#10;Удалены устаревшие вкладки из .obsidian/workspace.json.&#10;Обновлен зашифрованный пароль в .obsidian/plugins/obsidian-livesync/data.json.&#10;Изменены настройки проекта в .idea/workspace.xml." />
+    <MESSAGE value="feat" />
+    <MESSAGE value="feat: Исправлена ошибка форматирования в файле (main)&#10;&#10;-" />
+    <MESSAGE value="feat: Исправлена ошибка форматирования в файле (main)&#10;&#10;- Исправлена ошибка форматирования в разделе &quot;Ошибка 5: Двойное отрицание&quot;.&#10;- Изменено форматирование заголовка раздела &quot;Сравнение: Present Simple vs Present Continuous&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Исправлена ошибка форматирования в файле (main)&#10;&#10;- Исправлена ошибка форматирования в разделе &quot;Ошибка 5: Двойное отрицание&quot;.&#10;- Изменено форматирование заголовка раздела &quot;Сравнение: Present Simple vs Present Continuous&quot;." />
   </component>
 </project>
