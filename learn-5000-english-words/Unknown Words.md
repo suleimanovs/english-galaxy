@@ -141,7 +141,7 @@ async function runSync(log) {
       tracker[word] = { noteId, translation, filename, exportedAt: new Date().toISOString().split('T')[0], status: 'learning' };
       exported++;
       log(`  <span style="color:#5cb85c">"${word}" → Anki ✓</span>`);
-      await new Promise(r => setTimeout(r, GEMINI_DELAY_MS));
+      await new Promise(r => setTimeout(r, GROQ_DELAY_MS));
     } catch (e) {
       log(`  <span style="color:#d9534f">Ошибка "${word}": ${e.message}</span>`);
     }
