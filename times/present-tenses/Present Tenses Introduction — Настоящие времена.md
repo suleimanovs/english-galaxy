@@ -12,9 +12,9 @@
 
 **Итоговая таблица всех четырёх Present Tenses:**
 
-| Время | Структура | Главный смысл | Пример |
-|---|---|---|---|
-| **Present Simple** | V / V+s | Привычка, факт, расписание | She works every day. |
-| **Present Continuous** | am/is/are + V-ing | Прямо сейчас, временно, план | She is working now. |
-| **Present Perfect** | have/has + V3 | Прошлое → результат сейчас | She has worked here for 5 years. |
+| Время                          | Структура               | Главный смысл                 | Пример                           |
+| ------------------------------ | ----------------------- | ----------------------------- | -------------------------------- |
+| **Present Simple**             | V / V+s                 | Привычка, факт, расписание    | She works every day.             |
+| **Present Continuous**         | am/is/are + V-ing       | Прямо сейчас, временно, план  | She is working now.              |
+| **Present Perfect**            | have/has + V3           | Прошлое → результат сейчас    | She has worked here for 5 years. |
 | **Present Perfect Continuous** | have/has + been + V-ing | Процесс от прошлого до сейчас | She has been working since 9 AM. |
