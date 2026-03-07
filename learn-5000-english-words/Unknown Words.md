@@ -1,6 +1,8 @@
 ```dataviewjs
 // ─── CONFIG ──────────────────────────────────────────────────────────────────
-const GEMINI_API_KEY      = 'AIzaSyCSmV9kPZT7M1QX0fwoMX_6WWNKBUI1kW8';
+const _secretsFile = app.vault.getAbstractFileByPath(dv.current().file.folder + '/secrets.json');
+const _secrets = _secretsFile ? JSON.parse(await app.vault.read(_secretsFile)) : {};
+const GEMINI_API_KEY      = _secrets.GEMINI_API_KEY;
 const ANKI_URL            = 'http://localhost:8765';
 const ANKI_DECK           = 'English Galaxy';
 const ANKI_MODEL          = 'Basic';

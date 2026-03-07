@@ -29,7 +29,7 @@ const CONFIG = {
   ankiDeck:         'English Galaxy',
   ankiModel:        'Basic',           // must have Front + Back fields
   targetColor:      '#c0504d',         // red = unknown
-  geminiApiKey:     'AIzaSyCSmV9kPZT7M1QX0fwoMX_6WWNKBUI1kW8',
+  geminiApiKey:     (() => { try { return JSON.parse(require('fs').readFileSync(path.join(path.dirname(__filename), 'secrets.json'), 'utf8')).GEMINI_API_KEY; } catch { return process.env.GEMINI_API_KEY; } })(),
   geminiModel:      'gemini-2.0-flash',
   knownIntervalDays: 7,               // Anki card interval >= this → word is "known"
   geminiDelayMs:    700,              // delay between Gemini calls to avoid rate limits
