@@ -35,8 +35,7 @@
   "showStatusOnStatusbar": false,
   "showOnlyIconsOnEditor": true,
   "hideFileWarningNotice": false,
-  "networkWarningStyle": "",
-  "usePluginSync": false,
+  "usePluginSync": true,
   "autoSweepPlugins": false,
   "autoSweepPluginsPeriodic": false,
   "notifyPluginOrSettingUpdated": false,
@@ -48,7 +47,7 @@
   "skipOlderFilesOnSync": true,
   "checkConflictOnlyOnOpen": false,
   "showMergeDialogOnlyOnActive": false,
-  "syncInternalFiles": false,
+  "syncInternalFiles": true,
   "syncInternalFilesBeforeReplication": true,
   "syncInternalFilesIgnorePatterns": "\\/node_modules\\/, \\/\\.git\\/, ^\\.git\\/, \\/obsidian-livesync\\/,\\/workspace$ ,\\/workspace.json$,\\/workspace-mobile.json$, \\/obsidian-git\\/, \\/.idea\\/, \\/.claude\\/",
   "syncInternalFilesTargetPatterns": "",
@@ -68,7 +67,7 @@
   "useDynamicIterationCount": false,
   "syncAfterMerge": false,
   "configPassphraseStore": "",
-  "encryptedPassphrase": "%$6adkiePJ/81FgB5C2ct4OD7FJ+wLp5vWHLjhZN0t00cCs0YeyJ9SphbJ2Ds+TNdBjlcFv3gztVk5jlklog6XinjIQO6hNbqor5VTBMgFswpZq+zQRIbvLLtCZGCXfNvy3HGMu+QE",
+  "encryptedPassphrase": "%$rhkVwTSd/M214Tk2WV1aLrukfAP7OQborEb8mu1LJldkiKq8y0NcDdj6CK5epCuMYIpLHyLT3VR0U6QV08PkkCF8LzWoOuXX0Mv1Mes0Tbd9HYmVIAQ62TqCz3NrH9Ik5JUCLKCs",
   "encryptedCouchDBConnection": "",
   "permitEmptyPassphrase": false,
   "useIndexedDBAdapter": false,
@@ -364,5 +363,6 @@
   "forcePathStyle": true,
   "syncInternalFileOverwritePatterns": "",
   "useOnlyLocalChunk": false,
-  "maxMTimeForReflectEvents": 0
+  "maxMTimeForReflectEvents": 0,
+  "networkWarningStyle": ""
 }
