@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="feat: Исправлена ошибка форматирования в файле (main)&#10;&#10;- Исправлена ошибка форматирования в разделе &quot;Ошибка 5: Двойное отрицание&quot;.&#10;- Изменено форматирование заголовка раздела &quot;Сравнение: Present Simple vs Present Continuous&quot;.">
-      <change beforePath="$PROJECT_DIR$/times/present-tenses/Present Simple — Настоящее простое время.md" beforeDir="false" afterPath="$PROJECT_DIR$/times/present-tenses/Present Simple — Настоящее простое время.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772896137855</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="feat: Исправлена ошибка форматирования в файле (main)&#10;&#10;- Исправлена ошибка форматирования в разделе &quot;Ошибка 5: Двойное отрицание&quot;.&#10;- Изменено форматирование заголовка раздела &quot;Сравнение: Present Simple vs Present Continuous&quot;.">
+      <option name="closed" value="true" />
+      <created>1772896327675</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1772896327675</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
