@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="feat: Улучшение описания настоящих времён&#10;&#10;Обновлены описания времён Present Simple, Present Continuous, Present Perfect и Present Perfect Continuous.&#10;&#10;Внесены следующие изменения:&#10;- Уточнено значение Present Continuous для описания временных ситуаций и запланированных событий.&#10;- Добавлены более подробные примеры и объяснения построения предложений.&#10;- Переработаны разделы о стативных глаголах и типичных ошибках.&#10;- Улучшены сравнения между Present Perfect Simple и Present Perfect Continuous.&#10;- Добавлены списки сигнальных слов и исключений для каждого времени.&#10;- Исправлены формулировки для большей ясности и точности.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/times/past-tenses/Past Continuous — Прошедшее продолженное время.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/times/past-tenses/Past Perfect Continuous — Прошедшее совершённое продолженное время.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/times/past-tenses/Past Perfect — Прошедшее совершённое продолженное время.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/times/past-tenses/Past Simple — Прошедшее простое время.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/полный список основных грамматических тем-конструкций английского.md" beforeDir="false" afterPath="$PROJECT_DIR$/полный список основных грамматических тем-конструкций английского.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +66,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/osman/Projects/obsidian/english-galaxy/times/present-tenses",
+    "last_opened_file_path": "/Users/osman/Projects/obsidian/english-galaxy/times/past-tenses",
     "settings.editor.selected.configurable": "vcs.Git"
   },
   "keyToStringList": {
@@ -71,6 +75,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/times/past-tenses" />
       <recent name="$PROJECT_DIR$/times/present-tenses" />
       <recent name="$PROJECT_DIR$/english-galaxy-turquoise-course/B1" />
     </key>
