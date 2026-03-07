@@ -41,9 +41,11 @@ async function generateSentences(word, translation) {
   const data = await res.json();
   if (data.error) throw new Error(`Gemini: ${JSON.stringify(data.error)}`);
   const text = data.candidates?.[0]?.content?.parts?.[0]?.text?.trim();
-  const match = text?.match(/\[[\s\S]*?\]/);
-  if (!match) throw new Error(`Gemini unexpected format: ${text}`);
-  return JSON.parse(match[0]);
+  // Find the outermost [...] array reliably (greedy, finds last closing bracket)
+  const start = text?.indexOf('[');
+  const end   = text?.lastIndexOf(']');
+  if (start === -1 || end === -1 || end <= start) throw new Error(`Gemini unexpected format: ${text}`);
+  return JSON.parse(text.slice(start, end + 1));
 }
 
 // ─── TRACKER ─────────────────────────────────────────────────────────────────
