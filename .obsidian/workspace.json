@@ -4,6 +4,46 @@
     "type": "split",
     "children": [
       {
+        "id": "009b00e659785eb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a03c6e98814fd1c8",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "fY6fm9RHndk",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=fY6fm9RHndk"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    }
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 40"
+            }
+          }
+        ]
+      },
+      {
         "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
@@ -13,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "english-galaxy-turquoise-course/B1/Lesson 40 - 450 самых важных прилагательных в разных временах - часть 9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Page"
+              "title": "Lesson 40 - 450 самых важных прилагательных в разных временах - часть 9"
             }
           }
         ]
@@ -78,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -200,6 +241,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "english-galaxy-turquoise-course/B1/Lesson 40 - 450 самых важных прилагательных в разных временах - часть 9.md",
+    "english-galaxy-turquoise-course/B1/Lesson 41.md",
     "Home Page.md",
     "flag_rebuild.md",
     "english-galaxy-turquoise-course/C1/Lesson 9.md",
@@ -224,8 +267,6 @@
     "english-galaxy-turquoise-course/C1/Lesson 37.md",
     "english-galaxy-turquoise-course/C1/Lesson 36.md",
     "english-galaxy-turquoise-course/C1/Lesson 35.md",
-    "english-galaxy-turquoise-course/C1/Lesson 34.md",
-    "english-galaxy-turquoise-course/C1/Lesson 33.md",
     "english-galaxy-turquoise-course/C1",
     "english-galaxy-turquoise-course/B2",
     "english-galaxy-turquoise-course/B1",

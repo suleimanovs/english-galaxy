@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="```&#10;feat: Удаление страницы &quot;Настоящие времена (Present).md&quot; (main)&#10;&#10;Файл &quot;times/Настоящие времена (Present).md&quot; удален.&#10;Он был заменен более общей страницей &quot;Времена в английском.md&quot;.&#10;Обновлены ссылки в .obsidian/workspace.json.&#10;```">
-      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-livesync/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-livesync/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-    </list>
+    <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="feat: Обновление конфигурации Obsidian (main)&#10;&#10;Удалены устаревшие вкладки из .obsidian/workspace.json.&#10;Обновлен зашифрованный пароль в .obsidian/plugins/obsidian-livesync/data.json.&#10;Изменены настройки проекта в .idea/workspace.xml." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772830289971</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="feat: Обновление конфигурации Obsidian (main)&#10;&#10;Удалены устаревшие вкладки из .obsidian/workspace.json.&#10;Обновлен зашифрованный пароль в .obsidian/plugins/obsidian-livesync/data.json.&#10;Изменены настройки проекта в .idea/workspace.xml.">
+      <option name="closed" value="true" />
+      <created>1772877771831</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1772877771831</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,9 +176,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="```&#10;feat: Обновление информации о датах изучения и видео для уроков&#10;&#10;До" />
-    <MESSAGE value="```&#10;feat: Обновление информации о датах изучения и видео для уроков&#10;&#10;Добавлены ссылки на видео и даты изучения для множества уроков.&#10;Исправлено отображение названия терминала в файле workspace.json.&#10;```" />
-    <MESSAGE value="```&#10;feat: Обновление видео и дат изучения для уроков&#10;&#10;Обновлены ссылки на" />
     <MESSAGE value="```&#10;feat: Обновление видео и дат изучения для уроков&#10;&#10;Обновлены ссылки на видео и даты изучения для множества уроков в различных курсах.&#10;Исправлено отображение названия терминала в файле workspace.json.&#10;```" />
     <MESSAGE value="vault backup: 2026-02-26 16:17:30" />
     <MESSAGE value="vault backup: 2026-02-26 16:39:35" />
@@ -185,7 +187,6 @@
     <MESSAGE value="feat: Добавлена новая лекция и исправлены названия файлов&#10;&#10;Добавлена лекция &quot;Lesson 15(68-74).md&quot; и &quot;Lesson 16.md&quot;.&#10;Исправлено название файла &quot;Lesson 15 (68-74).md&quot; на &quot;Lesson 15(" />
     <MESSAGE value="feat: Добавлена новая лекция и исправлены названия файлов&#10;&#10;Добавлена лекция &quot;Lesson 15(68-74).md&quot; и &quot;Lesson 16.md&quot;.&#10;Исправлено название файла &quot;Lesson 15 (68-74).md&quot; на &quot;Lesson 15(68-74).md&quot; в конфигурации Obsidian.&#10;Добавлен файл &quot;полный список основных грамматических тем-конструкций английского.md&quot;.&#10;Обновлены настройки плагина obsidian-livesync." />
     <MESSAGE value="vault backup: 2026-03-06 04:09:33" />
-    <MESSAGE value="feat" />
     <MESSAGE value="feat: Обновление файла с настоящими временами&#10;&#10;Добавлено подробное описание настоя" />
     <MESSAGE value="feat: Обновление файла с настоящими временами&#10;&#10;Добавлено подробное описание настоящих времен английского языка.&#10;Включены структуры, примеры, сигнальные слова и типичные ошибки.&#10;Файл `times/Настоящие времена (Present).md` был обновлен." />
     <MESSAGE value="feat: Уда" />
@@ -196,6 +197,10 @@
     <MESSAGE value="```&#10;feat: Удаление страницы &quot;Настоящие времена (Present).md&quot; (main" />
     <MESSAGE value="```&#10;feat: Удаление страницы &quot;Настоящие времена (Present).md&quot; (main)&#10;&#10;Файл &quot;times/Настоящие времена (Present).md&quot; удален.&#10;Он был заменен более общей страницей &quot;Времена в английском.md&quot;.&#10;Обновлены ссылки в .obsidian/workspace.json" />
     <MESSAGE value="```&#10;feat: Удаление страницы &quot;Настоящие времена (Present).md&quot; (main)&#10;&#10;Файл &quot;times/Настоящие времена (Present).md&quot; удален.&#10;Он был заменен более общей страницей &quot;Времена в английском.md&quot;.&#10;Обновлены ссылки в .obsidian/workspace.json.&#10;```" />
-    <option name="LAST_COMMIT_MESSAGE" value="```&#10;feat: Удаление страницы &quot;Настоящие времена (Present).md&quot; (main)&#10;&#10;Файл &quot;times/Настоящие времена (Present).md&quot; удален.&#10;Он был заменен более общей страницей &quot;Времена в английском.md&quot;.&#10;Обновлены ссылки в .obsidian/workspace.json.&#10;```" />
+    <MESSAGE value="feat" />
+    <MESSAGE value="feat: Обновление конфигурации Obsidian (main)&#10;&#10;Удалены устаревшие" />
+    <MESSAGE value="feat: Обновление конфигурации Obsidian (main)&#10;&#10;Удалены устаревшие вкладки из .obsidian/workspace.json.&#10;Обновлен зашифрованный пароль в .obsidian/plugins/obsidian-livesync/data.json.&#10;Изменены настройки проекта в .idea/workspace." />
+    <MESSAGE value="feat: Обновление конфигурации Obsidian (main)&#10;&#10;Удалены устаревшие вкладки из .obsidian/workspace.json.&#10;Обновлен зашифрованный пароль в .obsidian/plugins/obsidian-livesync/data.json.&#10;Изменены настройки проекта в .idea/workspace.xml." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Обновление конфигурации Obsidian (main)&#10;&#10;Удалены устаревшие вкладки из .obsidian/workspace.json.&#10;Обновлен зашифрованный пароль в .obsidian/plugins/obsidian-livesync/data.json.&#10;Изменены настройки проекта в .idea/workspace.xml." />
   </component>
 </project>
