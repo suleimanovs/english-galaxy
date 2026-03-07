@@ -77,5 +77,15 @@
 1307. sum - сумма
 1308. no ine - никто
 1309. contact - связаться, контакт
-1310. attend - посещатьб
-1311. extra - дополнитьельный
+1310. <font color="#c0504d">attend - посещать</font>
+1311. extra - дополнительный
+1312. additional - дополнительный
+1313. <font color="#c0504d">bargain - сделка</font>
+1314. complete - завершать
+1315. plane - самолет
+1316. <font color="#c0504d">foot - нога</font>
+1317. intensive - интенсивный
+1318. page - страница
+1319. shape - фигура, форма
+1320. <font color="#c0504d">fit - подходить</font>
+1321. train - поезд, тренироваться
