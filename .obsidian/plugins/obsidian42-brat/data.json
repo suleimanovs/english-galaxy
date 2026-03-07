@@ -1,0 +1,24 @@
+{
+  "pluginList": [
+    "vrtmrz/obsidian-livesync"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "vrtmrz/obsidian-livesync",
+      "version": ""
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": false,
+  "updateThemesAtStartup": false,
+  "enableAfterInstall": false,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "globalTokenName": "",
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}
