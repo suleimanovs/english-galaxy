@@ -7,7 +7,7 @@ const ANKI_URL            = 'http://localhost:8765';
 const ANKI_DECK           = 'English Galaxy';
 const ANKI_MODEL          = 'Простая';
 const TARGET_COLOR        = '#c0504d';
-const GEMINI_MODEL        = 'gemini-2.5-flash';
+const GEMINI_MODEL        = 'gemini-2.5-flash-lite';
 const KNOWN_INTERVAL_DAYS = 7;
 const GEMINI_DELAY_MS     = 10000;
 const FOLDER              = dv.current().file.folder;
@@ -48,7 +48,6 @@ async function generateSentences(word, translation) {
   const data = res.json;
   if (data.error) throw new Error(`Gemini: ${JSON.stringify(data.error)}`);
   const text = data.candidates?.[0]?.content?.parts?.[0]?.text?.trim();
-  // Find the outermost [...] array reliably (greedy, finds last closing bracket)
   const start = text?.indexOf('[');
   const end   = text?.lastIndexOf(']');
   if (start === -1 || end === -1 || end <= start) throw new Error(`Gemini unexpected format: ${text}`);
@@ -115,12 +114,32 @@ async function runSync(log) {
   log(`Неизвестных слов: <b>${unknown.length}</b>`);
 
   try { const ver = await ankiReq('version'); log(`AnkiConnect v${ver} ✓`); }
-  catch { log('<span style="color:#d9534f">Ошибка: Anki не запущен!</span>'); return; }
+  catch { log('<span style="color:#d9534f">Ошибка: Anki не запущен!</span>'); return null; }
 
   const decks = await ankiReq('deckNames');
   if (!decks.includes(ANKI_DECK)) {
     await ankiReq('createDeck', { deck: ANKI_DECK });
     log(`Создана колода "${ANKI_DECK}"`);
+  }
+
+  // ── Reconcile: найти карточки в Anki которых нет в трекере ───────────────
+  const untracked = unknown.filter(w => !tracker[w.word]);
+  if (untracked.length > 0) {
+    log(`Reconcile: проверяю ${untracked.length} слов в Anki...`);
+    let reconciled = 0;
+    for (const { word, translation, filename } of untracked) {
+      try {
+        const noteIds = await ankiReq('findNotes', { query: `deck:"${ANKI_DECK}" front:*${word}*` });
+        if (noteIds.length > 0) {
+          tracker[word] = { noteId: noteIds[0], translation, filename, exportedAt: '?', status: 'learning' };
+          reconciled++;
+        }
+      } catch { /* skip */ }
+    }
+    if (reconciled > 0) {
+      await saveTracker(tracker);
+      log(`Reconcile: найдено и добавлено в трекер <b>${reconciled}</b> слов`);
+    }
   }
 
   const newWords = unknown.filter(w => !tracker[w.word]);
@@ -145,13 +164,13 @@ async function runSync(log) {
       });
       tracker[word] = { noteId, translation, filename, exportedAt: new Date().toISOString().split('T')[0], status: 'learning' };
       exported++;
+      await saveTracker(tracker); // сохраняем сразу после каждого слова
       log(`  <span style="color:#5cb85c">"${word}" → Anki ✓</span>`);
-      await new Promise(r => setTimeout(r, GEMINI_DELAY_MS));
     } catch (e) {
       log(`  <span style="color:#d9534f">Ошибка "${word}": ${e.message}</span>`);
     }
+    await new Promise(r => setTimeout(r, GEMINI_DELAY_MS)); // delay всегда, даже при ошибке
   }
-  if (exported > 0) await saveTracker(tracker);
 
   const learning = Object.entries(tracker).filter(([, d]) => d.status === 'learning');
   log(`Проверяю ${learning.length} слов в Anki...`);
@@ -168,6 +187,7 @@ async function runSync(log) {
       tracker[word].status = 'known';
       tracker[word].knownAt = new Date().toISOString().split('T')[0];
       knownCount++;
+      await saveTracker(tracker); // сохраняем сразу
       log(`  <span style="color:#5cb85c">"${word}" — выучено, красный цвет убран ✓</span>`);
     } catch { /* skip */ }
   }
@@ -180,21 +200,87 @@ async function runSync(log) {
 
   const stats = Object.values(tracker).reduce((a, d) => { a[d.status] = (a[d.status]||0)+1; return a; }, {});
   log(`<br><b>Готово!</b> Экспортировано: ${exported} | Выучено: ${knownCount} | В процессе: ${stats.learning||0} | Всего выучено: ${stats.known||0}`);
+
+  return tracker; // возвращаем обновлённый трекер для перерисовки таблиц
+}
+
+// ─── RENDER TABLES ───────────────────────────────────────────────────────────
+function renderUnknownTable(container, unknownWords, tracker) {
+  container.innerHTML = '';
+  if (unknownWords.length === 0) {
+    container.createEl('p', { text: 'Нет неизвестных слов. Все выучено!', attr: { style: 'color:#5cb85c;font-weight:bold;margin:8px 0' } });
+    return;
+  }
+  const table = container.createEl('table', { attr: { style: 'width:100%;border-collapse:collapse;margin-bottom:20px' } });
+  const hr = table.createEl('thead').createEl('tr');
+  ['Файл', 'Слово', 'Перевод', 'Статус в Anki'].forEach(h =>
+    hr.createEl('th', { text: h, attr: { style: 'text-align:left;padding:4px 10px;border-bottom:1px solid var(--background-modifier-border)' } })
+  );
+  const tbody = table.createEl('tbody');
+  for (const { word, translation, filename, filePath } of unknownWords) {
+    const tr = tbody.createEl('tr');
+    const link = tr.createEl('td', { attr: { style: 'padding:3px 10px' } });
+    link.createEl('a', { text: filename.replace('.md',''), attr: { href: filePath, class: 'internal-link' } });
+    tr.createEl('td', { text: word, attr: { style: `padding:3px 10px;font-weight:bold;color:${TARGET_COLOR}` } });
+    tr.createEl('td', { text: translation, attr: { style: 'padding:3px 10px;color:var(--text-muted)' } });
+    const s = tracker[word]?.status;
+    tr.createEl('td', { text: s === 'learning' ? '📚 В Anki' : '—', attr: { style: 'padding:3px 10px' } });
+  }
+}
+
+function renderAnkiTable(container, tracker) {
+  container.innerHTML = '';
+  const entries = Object.entries(tracker).filter(([, d]) => d.status === 'learning' || d.status === 'known');
+  if (entries.length === 0) {
+    container.createEl('p', { text: 'В Anki пока нет слов.', attr: { style: 'color:var(--text-muted);margin:8px 0' } });
+    return;
+  }
+  // Sort: learning first, then known
+  entries.sort(([, a], [, b]) => {
+    const order = { learning: 0, known: 1 };
+    return (order[a.status] ?? 2) - (order[b.status] ?? 2);
+  });
+  const table = container.createEl('table', { attr: { style: 'width:100%;border-collapse:collapse' } });
+  const hr = table.createEl('thead').createEl('tr');
+  ['Слово', 'Перевод', 'Статус', 'Добавлено', 'Выучено'].forEach(h =>
+    hr.createEl('th', { text: h, attr: { style: 'text-align:left;padding:4px 10px;border-bottom:1px solid var(--background-modifier-border)' } })
+  );
+  const tbody = table.createEl('tbody');
+  for (const [word, data] of entries) {
+    const tr = tbody.createEl('tr');
+    tr.createEl('td', { text: word, attr: { style: 'padding:3px 10px;font-weight:bold' } });
+    tr.createEl('td', { text: data.translation, attr: { style: 'padding:3px 10px;color:var(--text-muted)' } });
+    const isKnown = data.status === 'known';
+    tr.createEl('td', { text: isKnown ? '✅ Выучено' : '📚 Учу', attr: { style: `padding:3px 10px;color:${isKnown ? '#5cb85c' : '#f0ad4e'}` } });
+    tr.createEl('td', { text: data.exportedAt || '—', attr: { style: 'padding:3px 10px;color:var(--text-muted);font-size:0.9em' } });
+    tr.createEl('td', { text: data.knownAt || '—', attr: { style: 'padding:3px 10px;color:var(--text-muted);font-size:0.9em' } });
+  }
 }
 
 // ─── UI ──────────────────────────────────────────────────────────────────────
 const wrap = dv.el('div', '');
 
-// Sync button
 const btn = wrap.createEl('button', {
   text: '▶ Sync to Anki',
   attr: { style: 'padding:7px 20px;font-size:0.95em;cursor:pointer;background:#4caf50;color:#fff;border:none;border-radius:6px;margin-bottom:10px;font-weight:bold' }
 });
-
-// Log output (hidden until sync runs)
 const logDiv = wrap.createEl('div', {
-  attr: { style: 'font-family:monospace;font-size:0.82em;background:var(--background-secondary);padding:10px 14px;border-radius:6px;max-height:260px;overflow-y:auto;display:none;line-height:1.7;margin-bottom:12px' }
+  attr: { style: 'font-family:monospace;font-size:0.82em;background:var(--background-secondary);padding:10px 14px;border-radius:6px;max-height:260px;overflow-y:auto;display:none;line-height:1.7;margin-bottom:16px' }
 });
+
+// Section: unknown words (still red in lessons)
+wrap.createEl('h3', { text: 'Неизвестные слова (в уроках)', attr: { style: 'margin:16px 0 6px' } });
+const unknownTableDiv = wrap.createEl('div', '');
+
+// Section: all words in Anki
+wrap.createEl('h3', { text: 'Все слова в Anki', attr: { style: 'margin:20px 0 6px' } });
+const ankiTableDiv = wrap.createEl('div', '');
+
+// Initial render
+let currentUnknown = await scanUnknownWords();
+let currentTracker = await loadTracker();
+renderUnknownTable(unknownTableDiv, currentUnknown, currentTracker);
+renderAnkiTable(ankiTableDiv, currentTracker);
 
 btn.addEventListener('click', async () => {
   btn.disabled = true;
@@ -202,35 +288,19 @@ btn.addEventListener('click', async () => {
   logDiv.style.display = 'block';
   logDiv.innerHTML = '';
   const log = (msg) => { logDiv.innerHTML += msg + '<br>'; logDiv.scrollTop = logDiv.scrollHeight; };
-  try { await runSync(log); }
-  catch (e) { log(`<span style="color:#d9534f">Fatal: ${e.message}</span>`); }
+  try {
+    const updatedTracker = await runSync(log);
+    if (updatedTracker) {
+      // Re-render both tables with fresh data
+      currentUnknown = await scanUnknownWords();
+      currentTracker = updatedTracker;
+      renderUnknownTable(unknownTableDiv, currentUnknown, currentTracker);
+      renderAnkiTable(ankiTableDiv, currentTracker);
+    }
+  } catch (e) {
+    log(`<span style="color:#d9534f">Fatal: ${e.message}</span>`);
+  }
   btn.disabled = false;
   btn.textContent = '▶ Sync to Anki';
 });
-
-// ─── TABLE OF UNKNOWN WORDS ──────────────────────────────────────────────────
-const unknown = await scanUnknownWords();
-const tracker = await loadTracker();
-
-if (unknown.length === 0) {
-  wrap.createEl('p', { text: 'Нет неизвестных слов. Все выучено!', attr: { style: 'color:#5cb85c;font-weight:bold' } });
-} else {
-  const table = wrap.createEl('table', { attr: { style: 'width:100%;border-collapse:collapse' } });
-  const thead = table.createEl('thead');
-  const hr = thead.createEl('tr');
-  ['Файл', 'Слово', 'Перевод', 'Статус в Anki'].forEach(h => {
-    hr.createEl('th', { text: h, attr: { style: 'text-align:left;padding:4px 10px;border-bottom:1px solid var(--background-modifier-border)' } });
-  });
-  const tbody = table.createEl('tbody');
-  for (const { word, translation, filename, filePath } of unknown) {
-    const tr = tbody.createEl('tr');
-    const link = tr.createEl('td', { attr: { style: 'padding:3px 10px' } });
-    link.createEl('a', { text: filename.replace('.md',''), attr: { href: filePath, class: 'internal-link' } });
-    tr.createEl('td', { text: word, attr: { style: 'padding:3px 10px;font-weight:bold;color:' + TARGET_COLOR } });
-    tr.createEl('td', { text: translation, attr: { style: 'padding:3px 10px;color:var(--text-muted)' } });
-    const status = tracker[word]?.status;
-    const statusText = status === 'learning' ? '📚 В Anki' : status === 'known' ? '✅ Выучено' : '—';
-    tr.createEl('td', { text: statusText, attr: { style: 'padding:3px 10px' } });
-  }
-}
 ```
