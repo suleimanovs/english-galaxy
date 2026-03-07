@@ -14,7 +14,7 @@
  *   - GEMINI_API_KEY environment variable set
  *
  * Usage:
- *   GEMINI_API_KEY=your_key node sync-anki.js
+ *   node sync-anki.js
  */
 
 const fs   = require('fs');
@@ -29,7 +29,7 @@ const CONFIG = {
   ankiDeck:         'English Galaxy',
   ankiModel:        'Basic',           // must have Front + Back fields
   targetColor:      '#c0504d',         // red = unknown
-  geminiApiKey:     process.env.GEMINI_API_KEY,
+  geminiApiKey:     'AIzaSyCSmV9kPZT7M1QX0fwoMX_6WWNKBUI1kW8',
   geminiModel:      'gemini-2.0-flash',
   knownIntervalDays: 7,               // Anki card interval >= this → word is "known"
   geminiDelayMs:    700,              // delay between Gemini calls to avoid rate limits
