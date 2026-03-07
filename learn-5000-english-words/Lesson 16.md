@@ -24,4 +24,33 @@
 1254. touch - трогать, касаться
 1255. wish - желать, желание
 1256. accept - принимать
-1257. alarmclock - будильник
+1257. alarm clock - будильник
+1258. <font color="#c0504d">certainly - конечно</font>
+1259. club - клуб
+1260. devide - делить
+1261. entrepreneur - предприниматель
+1262. <font color="#c0504d">harmfull -  вредный</font>
+1263. importance - важность
+1264. into - в, на
+1265. latest - последний
+1266. loser - проигравший, неудачник
+1267. memory - память
+1268. pain - боль
+1269. part - часть
+1270. <font color="#c0504d">polite - вежливый</font>
+1271. promissing - много обещающий, обещающий
+1272. talent - талант
+1273. usual - обычный
+1274. able мочь
+1275. <font color="#c0504d">anniversary - годовщина</font>
+1276. cash - наличные
+1277. concert - концерт
+1278. discovery - открытие
+1279. field - поле
+1280. laptop - ноутбук
+1281. maybe - возможно, может быть
+1282. medicine - мединцина
+1283. recording - запись
+1284. revolution - революция
+1285. <font color="#c0504d">get rid of - избавиться от</font>
+1286. 
