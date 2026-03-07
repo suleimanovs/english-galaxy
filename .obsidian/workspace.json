@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "Home Page"
             }
+          },
+          {
+            "id": "ed2b5a210b5bfda8",
+            "type": "leaf",
+            "state": {
+              "type": "log-log",
+              "state": {},
+              "icon": "view-log",
+              "title": "Self-hosted LiveSync Log"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,8 +225,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6fc422490737c0b3",
+  "active": "ed2b5a210b5bfda8",
   "lastOpenFiles": [
+    "times/additional/Future_Shall.md",
+    "times/additional/Future_Present_Continuous.md",
+    "times/additional/Future_Going_To.md",
+    "times/additional/Future_Additional_Introduction.md",
     "times/additional",
     "times/Времена в английском.md",
     "times/present-tenses/Present Tenses Introduction — Настоящие времена.md",
@@ -241,9 +255,6 @@
     "times/past-tenses/Past Continuous — Прошедшее продолженное время.md",
     "times/past-tenses/Past Perfect — Прошедшее совершённое продолженное время.md",
     "times/past-tenses/Past Perfect Continuous — Прошедшее совершённое продолженное время.md",
-    "times/past-tenses/Past_Simple.md",
-    "times/past-tenses/Past_Perfect.md",
-    "times/past-tenses/Past_Perfect_Continuous.md",
     "conditionals",
     "voices",
     "times/past-tenses",
@@ -252,7 +263,6 @@
     "english-galaxy-turquoise-course/B2",
     "english-galaxy-turquoise-course/B1",
     "english-galaxy-turquoise-course/A2",
-    "english-galaxy-turquoise-course",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
