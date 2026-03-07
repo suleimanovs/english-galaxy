@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="feat: Улучшение описания настоящих времён&#10;&#10;Обновлены описания времён Present Simple, Present Continuous, Present Perfect и Present Perfect Continuous.&#10;&#10;Внесены следующие изменения:&#10;- Уточнено значение Present Continuous для описания временных ситуаций и запланированных событий.&#10;- Добавлены более подробные примеры и объяснения построения предложений.&#10;- Переработаны разделы о стативных глаголах и типичных ошибках.&#10;- Улучшены сравнения между Present Perfect Simple и Present Perfect Continuous.&#10;- Добавлены списки сигнальных слов и исключений для каждого времени.&#10;- Исправлены формулировки для большей ясности и точности.">
-      <change afterPath="$PROJECT_DIR$/times/future-tences/Future Continuous.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/times/future-tences/Future Perfect Continuous.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/times/future-tences/Future Perfect.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/times/future-tences/Future Simple.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/times/future-tences/Future Tenses Introduction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/times/Будущие времена (Future).md" beforeDir="false" />
-    </list>
+    <list default="true" id="1204c751-9296-4748-b00e-5f1ff71a141b" name="Changes" comment="feat: Удаление старого файла с будущими временами (main)&#10;&#10;Удален файл `times/Будущие времена (Future).md`, который содержал устаревшую информацию о будущих временах.&#10;Были добавлены новые файлы с подробным описанием каждого будущего времени." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772896835173</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="feat: Удаление старого файла с будущими временами (main)&#10;&#10;Удален файл `times/Будущие времена (Future).md`, который содержал устаревшую информацию о будущих временах.&#10;Были добавлены новые файлы с подробным описанием каждого будущего времени.">
+      <option name="closed" value="true" />
+      <created>1772898246505</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1772898246505</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,8 +211,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Доба" />
-    <MESSAGE value="feat: Добавлена новая лекция и исправлены названия файлов&#10;&#10;Добавлена ле" />
     <MESSAGE value="feat: Добавлена новая лекция и исправлены названия файлов&#10;&#10;Добавлена лекция &quot;Lesson 15(68-74).md&quot; и &quot;Lesson 16.md&quot;.&#10;Исправлено название файла &quot;Lesson 15 (68-74).md&quot; на &quot;Lesson 15(" />
     <MESSAGE value="feat: Добавлена новая лекция и исправлены названия файлов&#10;&#10;Добавлена лекция &quot;Lesson 15(68-74).md&quot; и &quot;Lesson 16.md&quot;.&#10;Исправлено название файла &quot;Lesson 15 (68-74).md&quot; на &quot;Lesson 15(68-74).md&quot; в конфигурации Obsidian.&#10;Добавлен файл &quot;полный список основных грамматических тем-конструкций английского.md&quot;.&#10;Обновлены настройки плагина obsidian-livesync." />
     <MESSAGE value="vault backup: 2026-03-06 04:09:33" />
@@ -231,11 +229,13 @@
     <MESSAGE value="feat: Обновление конфигурации Obsidian (main)&#10;&#10;Удалены устаревшие вкладки из .obsidian/workspace.json.&#10;Обновлен зашифрованный пароль в .obsidian/plugins/obsidian-livesync/data.json.&#10;Изменены настройки проекта в .idea/workspace.xml." />
     <MESSAGE value="feat: Исправлена ошибка форматирования в файле (main)&#10;&#10;-" />
     <MESSAGE value="feat: Исправлена ошибка форматирования в файле (main)&#10;&#10;- Исправлена ошибка форматирования в разделе &quot;Ошибка 5: Двойное отрицание&quot;.&#10;- Изменено форматирование заголовка раздела &quot;Сравнение: Present Simple vs Present Continuous&quot;." />
-    <MESSAGE value="feat" />
     <MESSAGE value="feat: Улучшение описания настоящих времён&#10;&#10;Обновлены описания вре" />
     <MESSAGE value="feat: Улучшение описания настоящих времён&#10;&#10;Обновлены описания времён Present Simple, Present Continuous, Present Perfect и Present Perfect Continuous.&#10;&#10;Внесены следующие изменения:&#10;- Уточнено значение Present Continuous для описания временных ситуаций и запланированных событий.&#10;- Добав" />
     <MESSAGE value="feat: Улучшение описания настоящих времён&#10;&#10;Обновлены описания времён Present Simple, Present Continuous, Present Perfect и Present Perfect Continuous.&#10;&#10;Внесены следующие изменения:&#10;- Уточнено значение Present Continuous для описания временных ситуаций и запланированных событий.&#10;- Добавлены более подробные примеры и объяснения построения предложений.&#10;- Переработаны разделы о стативных глаголах и типичных ошибках.&#10;- Улучшены сравнения между Present Perfect Simple и Present Perfect Continuous.&#10;" />
     <MESSAGE value="feat: Улучшение описания настоящих времён&#10;&#10;Обновлены описания времён Present Simple, Present Continuous, Present Perfect и Present Perfect Continuous.&#10;&#10;Внесены следующие изменения:&#10;- Уточнено значение Present Continuous для описания временных ситуаций и запланированных событий.&#10;- Добавлены более подробные примеры и объяснения построения предложений.&#10;- Переработаны разделы о стативных глаголах и типичных ошибках.&#10;- Улучшены сравнения между Present Perfect Simple и Present Perfect Continuous.&#10;- Добавлены списки сигнальных слов и исключений для каждого времени.&#10;- Исправлены формулировки для большей ясности и точности." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Улучшение описания настоящих времён&#10;&#10;Обновлены описания времён Present Simple, Present Continuous, Present Perfect и Present Perfect Continuous.&#10;&#10;Внесены следующие изменения:&#10;- Уточнено значение Present Continuous для описания временных ситуаций и запланированных событий.&#10;- Добавлены более подробные примеры и объяснения построения предложений.&#10;- Переработаны разделы о стативных глаголах и типичных ошибках.&#10;- Улучшены сравнения между Present Perfect Simple и Present Perfect Continuous.&#10;- Добавлены списки сигнальных слов и исключений для каждого времени.&#10;- Исправлены формулировки для большей ясности и точности." />
+    <MESSAGE value="feat" />
+    <MESSAGE value="feat: Удаление старого файла с будущими временами (main)&#10;&#10;У" />
+    <MESSAGE value="feat: Удаление старого файла с будущими временами (main)&#10;&#10;Удален файл `times/Будущие времена (Future).md`, который содержал устаревшую информацию о будущих временах.&#10;Были добавлены новые файлы с подробным описанием каждого будущего времени." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Удаление старого файла с будущими временами (main)&#10;&#10;Удален файл `times/Будущие времена (Future).md`, который содержал устаревшую информацию о будущих временах.&#10;Были добавлены новые файлы с подробным описанием каждого будущего времени." />
   </component>
 </project>
