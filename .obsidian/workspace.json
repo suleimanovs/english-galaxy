@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dba0adce31efd177",
+        "id": "fd4b9d69759cd8a0",
         "type": "tabs",
         "children": [
           {
-            "id": "7c00e99f7c44cc2d",
+            "id": "7287ba381cf73fb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -202,11 +202,12 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "7c00e99f7c44cc2d",
+  "active": "7287ba381cf73fb2",
   "lastOpenFiles": [
-    "learn-5000-english-words/Unknown Words.md",
-    "learn-5000-english-words/word-tracker.json",
     "learn-5000-english-words/Progress.md",
+    "learn-5000-english-words/Unknown Words.md",
+    "learn-5000-english-words/Lesson 61.md",
+    "learn-5000-english-words/word-tracker.json",
     "Home Page.md",
     "полный список основных грамматических тем-конструкций английского.md",
     "grammar/articles-pronouns/Reflexive_Pronouns.md",

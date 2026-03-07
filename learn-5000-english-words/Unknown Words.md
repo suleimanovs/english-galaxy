@@ -5,11 +5,11 @@ const _secrets = _secretsFile ? JSON.parse(await app.vault.read(_secretsFile)) :
 const GEMINI_API_KEY      = _secrets.GEMINI_API_KEY;
 const ANKI_URL            = 'http://localhost:8765';
 const ANKI_DECK           = 'English Galaxy';
-const ANKI_MODEL          = 'Basic';
+const ANKI_MODEL          = 'Простая';
 const TARGET_COLOR        = '#c0504d';
-const GEMINI_MODEL        = 'gemini-2.5-flash-lite';
+const GEMINI_MODEL        = 'gemini-2.5-flash';
 const KNOWN_INTERVAL_DAYS = 7;
-const GEMINI_DELAY_MS     = 4000;
+const GEMINI_DELAY_MS     = 10000;
 const FOLDER              = dv.current().file.folder;
 const TRACKER_PATH        = FOLDER + '/word-tracker.json';
 
@@ -146,7 +146,7 @@ async function runSync(log) {
       tracker[word] = { noteId, translation, filename, exportedAt: new Date().toISOString().split('T')[0], status: 'learning' };
       exported++;
       log(`  <span style="color:#5cb85c">"${word}" → Anki ✓</span>`);
-      await new Promise(r => setTimeout(r, GROQ_DELAY_MS));
+      await new Promise(r => setTimeout(r, GEMINI_DELAY_MS));
     } catch (e) {
       log(`  <span style="color:#d9534f">Ошибка "${word}": ${e.message}</span>`);
     }
