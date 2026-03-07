@@ -4,79 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5d5cbaac46213e90",
+        "id": "a92691faf384651c",
         "type": "tabs",
         "children": [
           {
-            "id": "1fd3524aac43710b",
+            "id": "6c46af8cecbd4f7d",
             "type": "leaf",
             "state": {
-              "type": "mx-url",
+              "type": "markdown",
               "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "XBYswfNrffk",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=XBYswfNrffk"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    }
-                  }
-                }
+                "file": "times/present-tenses/Present Simple — Настоящее простое время.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "youtube",
-              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 16"
+              "icon": "lucide-file",
+              "title": "Present Simple — Настоящее простое время"
             }
           }
         ]
-      },
-      {
-        "id": "4509724f8bf84da7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english-galaxy-turquoise-course/B1/Lesson 40 - 450 самых важных прилагательных в разных временах - часть 9.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lesson 40 - 450 самых важных прилагательных в разных временах - часть 9"
-            }
-          },
-          {
-            "id": "205217df3b3496d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learn-5000-english-words/Lesson 16.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lesson 16"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -255,7 +199,7 @@
       "better-recall:Open decks": false
     }
   },
-  "active": "1fd3524aac43710b",
+  "active": "6c46af8cecbd4f7d",
   "lastOpenFiles": [
     "learn-5000-english-words/Lesson 16.md",
     "Home Page.md",

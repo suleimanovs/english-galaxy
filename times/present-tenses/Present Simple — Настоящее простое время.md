@@ -87,9 +87,9 @@ Wh-word + do/does + subject + глагол?
 
 ---
 
-## Когда использовать Present Simple
+#### Когда использовать Present Simple
 
-### 1. Регулярные действия и привычки
+**1. Регулярные действия и привычки**
 
 Что-то, что происходит снова и снова — каждый день, каждую неделю, по вторникам, часто, иногда, никогда.
 
@@ -99,7 +99,7 @@ Wh-word + do/does + subject + глагол?
 - He rarely drinks alcohol. — Он редко пьёт алкоголь.
 - They never argue. — Они никогда не спорят.
 
-### 2. Постоянные факты и общие истины
+**2. Постоянные факты и общие истины**
 
 То, что истинно всегда — законы природы, научные факты, географические данные.
 
@@ -109,7 +109,7 @@ Wh-word + do/does + subject + глагол?
 - The Amazon is the longest river in the world. — Амазонка — самая длинная река в мире.
 - Light travels faster than sound. — Свет распространяется быстрее звука.
 
-### 3. Постоянные состояния
+ **3. Постоянные состояния**
 
 Стабильные, длительные ситуации, которые не меняются изо дня в день.
 
@@ -118,7 +118,7 @@ Wh-word + do/does + subject + глагол?
 - She has two brothers. — У неё два брата.
 - They own a house in the countryside. — У них есть дом в деревне.
 
-### 4. Расписания, программы, официально запланированные события
+**4. Расписания, программы, официально запланированные события**
 
 Когда что-то происходит по расписанию — транспорт, уроки, матчи, рейсы.
 
@@ -127,19 +127,19 @@ Wh-word + do/does + subject + глагол?
 - Classes begin on September 1st. — Занятия начинаются 1 сентября.
 - The museum opens at 10 AM. — Музей открывается в 10 утра.
 
-### 5. Инструкции и пошаговые описания
+**5. Инструкции и пошаговые описания**
 
 - First, you open the app. Then you click "Sign up". — Сначала открываешь приложение. Потом нажимаешь «Зарегистрироваться».
 - You take the second street on the left. — Поворачиваешь на второй улице налево.
 
-### 6. Комментарии в прямом эфире, спортивные репортажи
+**6. Комментарии в прямом эфире, спортивные репортажи**
 
 - He shoots — and he scores! — Он бьёт — и забивает!
 - She passes to Williams, Williams runs to the line... — Она передаёт Уильямсу, Уильямс бежит к линии...
 
 ---
 
-## Сигнальные слова
+**Сигнальные слова**
 
 Эти слова часто подсказывают, что нужен Present Simple:
 
@@ -160,37 +160,32 @@ Wh-word + do/does + subject + глагол?
 
 ---
 
-## Исключения и сложные случаи
+**Исключения и сложные случаи**
 
-### Глаголы, которые почти никогда не используются в Continuous-формах
-
+Есть глаголы, которые почти никогда не используются в Continuous-формах, и только в Simple времени используются
 Это так называемые **stative verbs** (глаголы состояния). В Present Simple их употребляют даже там, где по смыслу кажется, что «действие происходит прямо сейчас».
 
-**Чувства и эмоции:**
-love, like, hate, prefer, want, wish, need, fear, dislike, mind, adore, detest
+Чувства и эмоции: *love, like, hate, prefer, want, wish, need, fear, dislike, mind, adore, detest*
+Умственная деятельность: *know, understand, believe, think (в значении «считать»), remember, forget, recognize, mean, doubt, suppose, imagine, realize*
+Ощущения (непроизвольные): *see, hear, smell, taste, feel (в значении состояния)*
+Владение: *have (в значении «иметь»), own, belong, possess, contain*
 
-**Умственная деятельность:**
-know, understand, believe, think (в значении «считать»), remember, forget, recognize, mean, doubt, suppose, imagine, realize
+Примеры:
 
-**Ощущения (непроизвольные):**
-see, hear, smell, taste, feel (в значении состояния)
-
-**Владение:**
-have (в значении «иметь»), own, belong, possess, contain
-
-**Примеры:**
-- I know the answer. [OK] (не: I am knowing the answer [X])
-- She loves him. [OK] (не: She is loving him [X])
-- He understands the problem. [OK]
-- This bag belongs to me. [OK]
+| Правильно                   | Неправильно                      |
+| --------------------------- | -------------------------------- |
+| I know the answer.          | I am knowing the answer.         |
+| She loves him.              | She is loving him.               |
+| He understands the problem. | He is understanding the problem. |
+| This bag belongs to me.     | This bag is belonging to me.     |
 
 > [!] Некоторые из этих глаголов могут использоваться в Continuous, но тогда их смысл меняется. Например: *I think you're right* (я считаю) — Present Simple; *I'm thinking about it* (я сейчас обдумываю) — Present Continuous.
 
 ---
 
-## Типичные ошибки русскоязычных
+**Типичные ошибки русскоязычных**
 
-### Ошибка 1: Забытое -s для третьего лица
+Ошибка 1: Забытое -s для третьего лица
 
 Русский язык никак не выделяет третье лицо отдельным окончанием так, как это делает английский. В русском: «я работаю», «он работает» — разные окончания, но они обозначают другое. В английском -s для he/she/it — обязательный грамматический маркер.
 
@@ -200,7 +195,7 @@ have (в значении «иметь»), own, belong, possess, contain
 [X] She always come late.
 [OK] She always comes late.
 
-### Ошибка 2: Использование Present Simple вместо Present Continuous для происходящего сейчас
+Ошибка 2: Использование Present Simple вместо Present Continuous для происходящего сейчас
 
 По-русски «Я читаю» может означать и «я обычно читаю», и «я читаю прямо сейчас». В английском это разные конструкции.
 
@@ -209,7 +204,7 @@ have (в значении «иметь»), own, belong, possess, contain
 
 [OK] I read a lot. (привычка — Present Simple верен)
 
-### Ошибка 3: Вопрос без do/does
+Ошибка 3: Вопрос без do/does
 
 В русском вопрос строится просто интонацией или перестановкой слов: «Ты работаешь?» В английском обязательно нужен вспомогательный глагол.
 
@@ -219,7 +214,7 @@ have (в значении «иметь»), own, belong, possess, contain
 [X] He speaks English?
 [OK] Does he speak English?
 
-### Ошибка 4: Использование Present Simple для планов вместо Present Continuous или going to
+Ошибка 4: Использование Present Simple для планов вместо Present Continuous или going to
 
 «Я еду в Лондон в пятницу» — это план, а не расписание. В английском это Present Continuous: *I'm going to London on Friday.* Present Simple для планов используется только если это официальное расписание (поезд, самолёт, урок).
 
@@ -245,6 +240,3 @@ have (в значении «иметь»), own, belong, possess, contain
 | **Вспомог. глагол** | do / does | am / is / are |
 | **Форма** | V / V+s | V-ing |
 
----
-
----
