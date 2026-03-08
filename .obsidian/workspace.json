@@ -4,51 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab94217a264d1460",
+        "id": "e7e6e4294ac01537",
         "type": "tabs",
         "children": [
           {
-            "id": "63339b524ccf9000",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "gELVKviPseI",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=gELVKviPseI"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    }
-                  }
-                }
-              },
-              "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 41"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d03421fede53c0c4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fb2d2fd34bd08086",
+            "id": "a6cd0b2821f961e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,17 +22,13 @@
             }
           },
           {
-            "id": "c0c8948656c7488f",
+            "id": "f44cb230ba44a0a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english-galaxy-turquoise-course/B1/Lesson 41 - 450.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lesson 41 - 450"
+              "title": "Новая вкладка"
             }
           }
         ],
@@ -133,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -258,7 +213,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "c0c8948656c7488f",
+  "active": "f44cb230ba44a0a6",
   "lastOpenFiles": [
     "learn-5000-english-words/Unknown Words.md",
     "english-galaxy-turquoise-course/B1/Lesson 41 - 450.md",

@@ -14,6 +14,10 @@ awesome - потрясабщий
 technical - технический
 essential - необходимый
 absolutely essential
+various - различный, разный
+logical - логичный
+illogical - не логичный
+conclusion - вывод
 
 These figures aren't accurate enough
 His assistant was very knowledgeable and experienced 
@@ -23,6 +27,14 @@ They try to look for alternative sources of energy
 As we can see it is a global problem
 As they say, we will face global changes soon
 It was really awesome 
+I think it isn't normal.
 There was a small technical problem
-
 I think that the base grammar of English is absolutely essential if we really want to get rid of our mistakes
+He wants to lead a normal life
+It seems to me that it is perfectly normal
+It is an extremely useful course 
+To tell the truth, I'm not ready for it
+I think we need to consider various aspects of this problem
+It was a logical solution
+It is such a strange and illogical conclusion 
+This conclusion seems illogical
