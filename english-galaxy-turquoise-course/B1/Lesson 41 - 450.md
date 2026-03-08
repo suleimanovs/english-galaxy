@@ -11,6 +11,7 @@ alternative - алтернативный
 global - глобальный
 face - столкнуться с
 awesome - потрясабщий
+technical - технический
 essential - необходимый
 absolutely essential
 
@@ -22,4 +23,6 @@ They try to look for alternative sources of energy
 As we can see it is a global problem
 As they say, we will face global changes soon
 It was really awesome 
+There was a small technical problem
 
+I think that the base grammar of English is absolutely essential if we really want to get rid of our mistakes
