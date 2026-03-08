@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e7e6e4294ac01537",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f44cb230ba44a0a6",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -202,10 +202,11 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "f44cb230ba44a0a6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "learn-5000-english-words/Lesson 17 (80-86).md",
+    "Home Page.md",
     "learn-5000-english-words/Unknown Words.md",
+    "learn-5000-english-words/Lesson 17 (80-86).md",
     "learn-5000-english-words/Progress.md",
     "learn-5000-english-words/Lesson 16(75-79).md",
     "english-galaxy-turquoise-course/B1/Lesson 41 - 450.md",
@@ -215,7 +216,6 @@
     "learn-5000-english-words/_migrate.js",
     "learn-5000-english-words/_fix-tracker.js",
     "learn-5000-english-words/Lesson 58.md",
-    "Home Page.md",
     "полный список основных грамматических тем-конструкций английского.md",
     "grammar/articles-pronouns/Reflexive_Pronouns.md",
     "grammar/articles-pronouns/Possessive_Pronouns.md",
