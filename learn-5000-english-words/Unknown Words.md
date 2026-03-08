@@ -9,7 +9,7 @@ const ANKI_MODEL          = 'Простая';
 const TARGET_COLOR        = '#c0504d';
 const GEMINI_MODEL        = 'gemini-2.5-flash';
 const KNOWN_INTERVAL_DAYS = 7;
-const GEMINI_DELAY_MS     = 10000;
+const GEMINI_DELAY_MS     = 20000;
 const FOLDER              = dv.current().file.folder;
 const TRACKER_PATH        = FOLDER + '/word-tracker.csv';
 
