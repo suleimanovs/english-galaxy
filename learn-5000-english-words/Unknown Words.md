@@ -30,7 +30,7 @@ async function ankiReq(action, params = {}) {
 // ─── GEMINI ──────────────────────────────────────────────────────────────────
 async function generateSentences(word, translation) {
   const prompt =
-    `Create 3 diverse English example sentences using the word "${word}" (Russian: ${translation}).\n` +
+    `Create 3 simple English example sentences using the word "${word}" (Russian: ${translation}).\n` +
     `Rules:\n- Each sentence in a different real-life context\n- Bold the target word: **${word}**\n` +
     `- Return ONLY a JSON array of exactly 3 strings, no markdown, no explanation\n\n` +
     `Output: ["s1", "s2", "s3"]`;
