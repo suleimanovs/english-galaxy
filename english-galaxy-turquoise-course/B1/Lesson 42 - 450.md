@@ -16,6 +16,12 @@ shy - застенчивый
 complete - завершать, полный, полноченный
 sociable - общительный
 decisive - решительный
+internal - внутренний
+external - внешний
+attentive - внимательный
+audience - аудитория
+broad-minded - с широким кругозором
+practical - практичный
 
 They boy has several psychological problems
 Do you use public transport?
@@ -28,6 +34,9 @@ I see that there is a close connection between these two things
 He was too shy to start a conversation with her
 I'm sure that it is a complete waste of time 
 I can't say that I'm a very sociable person
-It is said that it will be took a more deci
-
-
+It is said that more decisive measures will be taken
+I decided to take decisive steps to change the situation completely
+We need to consider both internal and external factors
+When he was explaining this detail the audience was very attentive 
+He is considered to be a very broad-minded person
+I think 
