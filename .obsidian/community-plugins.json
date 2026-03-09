@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "editing-toolbar",
   "media-extended",
   "obsidian-livesync",
@@ -11,5 +10,6 @@
   "obsidian42-brat",
   "templater-obsidian",
   "buttons",
-  "terminal"
+  "terminal",
+  "obsidian-git"
 ]
