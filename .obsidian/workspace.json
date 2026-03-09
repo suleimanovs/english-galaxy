@@ -8,7 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52e8bbff376989bb",
+            "id": "32af3cfcdf7d1cb3",
+            "type": "leaf",
+            "state": {
+              "type": "log-log",
+              "state": {},
+              "icon": "view-log",
+              "title": "Self-hosted LiveSync Log"
+            }
+          },
+          {
+            "id": "eb16ee4244771ddb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,18 +30,9 @@
               "icon": "lucide-file",
               "title": "Unknown Words"
             }
-          },
-          {
-            "id": "32af3cfcdf7d1cb3",
-            "type": "leaf",
-            "state": {
-              "type": "log-log",
-              "state": {},
-              "icon": "view-log",
-              "title": "Self-hosted LiveSync Log"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,10 +213,11 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "52e8bbff376989bb",
+  "active": "eb16ee4244771ddb",
   "lastOpenFiles": [
     "learn-5000-english-words/Progress.md",
     "learn-5000-english-words/Unknown Words.md",
+    "learn-5000-english-words/Lesson 59.md",
     "grammar/miscellaneous/Reported_Requests.md",
     "grammar/miscellaneous/Prepositions.md",
     "grammar/miscellaneous/Miscellaneous_Introduction.md",
@@ -245,7 +247,6 @@
     "grammar/phrasal-Idiomatic/Relative_Clauses.md",
     "grammar/phrasal-Idiomatic/Questions.md",
     "grammar/phrasal-Idiomatic/Inversion.md",
-    "grammar/phrasal-Idiomatic/Complex_Introduction.md",
     "grammar/phrasal-Idiomatic",
     "grammar/сomplex-сonstructions",
     "learn-5000-english-words/secrets.json",

@@ -27,6 +27,10 @@ async function ankiReq(action, params = {}) {
   return result;
 }
 
+function wordToTag(word) {
+  return 'egw_' + word.toLowerCase().replace(/[^a-z0-9]/g, '_');
+}
+
 // ─── GEMINI ──────────────────────────────────────────────────────────────────
 async function generateSentences(word, translation) {
   const prompt =
@@ -53,27 +57,38 @@ async function generateSentences(word, translation) {
 }
 
 // ─── CSV TRACKER ─────────────────────────────────────────────────────────────
-// Format: word|translation|filename|exportedAt|status|knownAt
-
-function wordToTag(word) {
-  return 'egw_' + word.toLowerCase().replace(/[^a-z0-9]/g, '_');
-}
+// Format: word|translation|filename|exportedAt|status|knownAt|s1|s2|s3
+// CSV is the single source of truth. Never auto-delete from Anki.
 
 function parseCSV(text) {
   const lines = text.trim().split('\n').filter(l => l.trim());
   const tracker = {};
   for (let i = 1; i < lines.length; i++) {
-    const [word, translation, filename, exportedAt, status, knownAt] = lines[i].split('|');
-    if (!word?.trim()) continue;
-    tracker[word.trim()] = { translation, filename, exportedAt, status: status || 'learning', knownAt: knownAt || '' };
+    const p = lines[i].split('|');
+    const word = p[0]?.trim();
+    if (!word) continue;
+    const unesc = s => (s || '').trim().replace(/\\n/g, '\n');
+    tracker[word] = {
+      translation: p[1]?.trim() || '',
+      filename:    p[2]?.trim() || '',
+      exportedAt:  p[3]?.trim() || '',
+      status:      p[4]?.trim() || 'learning',
+      knownAt:     p[5]?.trim() || '',
+      sentences:   [unesc(p[6]), unesc(p[7]), unesc(p[8])].filter(s => s)
+    };
   }
   return tracker;
 }
 
 function toCSV(tracker) {
-  const rows = ['word|translation|filename|exportedAt|status|knownAt'];
-  for (const [word, d] of Object.entries(tracker))
-    rows.push(`${word}|${d.translation}|${d.filename}|${d.exportedAt}|${d.status}|${d.knownAt || ''}`);
+  const rows = ['word|translation|filename|exportedAt|status|knownAt|s1|s2|s3'];
+  for (const [word, d] of Object.entries(tracker)) {
+    const s = d.sentences || [];
+    // Escape newlines and strip | to prevent CSV row splitting
+    const esc = x => (x || '').replace(/\r/g, '').replace(/\n/g, '\\n').replace(/\|/g, ' ');
+    rows.push([word, d.translation, d.filename, d.exportedAt, d.status, d.knownAt || '',
+               esc(s[0]), esc(s[1]), esc(s[2])].join('|'));
+  }
   return rows.join('\n');
 }
 
@@ -129,12 +144,28 @@ async function markAsKnown(filePath, word, translation) {
   return true;
 }
 
+// ─── ADD TO ANKI (from sentences array) ──────────────────────────────────────
+async function addToAnki(word, translation, filename, sentences) {
+  const front =
+    `<div style="font-size:1.4em;font-weight:bold;margin-bottom:0.8em">${word}</div>` +
+    `<ol>${sentences.map(s => `<li>${s.replace(/\*\*(.+?)\*\*/g, '<b>$1</b>')}</li>`).join('')}</ol>`;
+  const back = `<div style="font-size:1.2em">${translation}</div>`;
+  await ankiReq('addNote', {
+    note: {
+      deckName: ANKI_DECK, modelName: ANKI_MODEL,
+      fields: { Front: front, Back: back },
+      tags: ['english-galaxy', filename.replace(/\s+/g, '_'), wordToTag(word)],
+      options: { allowDuplicate: false }
+    }
+  });
+}
+
 // ─── SYNC ────────────────────────────────────────────────────────────────────
 async function runSync(log) {
   log('Сканирую уроки...');
   const tracker = await loadTracker();
   const unknown = await scanUnknownWords();
-  log(`Неизвестных слов: <b>${unknown.length}</b>`);
+  log(`Неизвестных слов в уроках: <b>${unknown.length}</b>`);
 
   try { const ver = await ankiReq('version'); log(`AnkiConnect v${ver} ✓`); }
   catch { log('<span style="color:#d9534f">Ошибка: Anki не запущен!</span>'); return null; }
@@ -145,63 +176,82 @@ async function runSync(log) {
     log(`Создана колода "${ANKI_DECK}"`);
   }
 
-// ── Export new words ──────────────────────────────────────────────────────
-  const allWordsToExport = [];
-  log('Проверяю состояние слов в Anki...');
-
+  // ── Determine what needs to be exported ──────────────────────────────────
+  // Word needs export if:
+  //   a) Not in CSV at all → new word, call Gemini + addNote
+  //   b) In CSV with status 'removed' → re-appeared, reuse stored sentences
+  //   c) In CSV with status 'learning' but sentences missing → call Gemini + updateNoteFields
+  const toExport = [];
   for (const w of unknown) {
-    const inTracker = !!tracker[w.word];
-    const noteIds = await ankiReq('findNotes', { query: `deck:"${ANKI_DECK}" tag:${wordToTag(w.word)}` });
-    const inAnki = noteIds.length > 0;
-
-    if (!inTracker && !inAnki) {
-      allWordsToExport.push(w);
-    } else if (!inTracker && inAnki) {
-      await ankiReq('deleteNotes', { notes: noteIds });
-      log(`  Сброс "<b>${w.word}</b>" (удалено нот: ${noteIds.length})`);
-      allWordsToExport.push(w);
-    } else if (inTracker && !inAnki) {
-      log(`  "<b>${w.word}</b>" есть в трекере, но нет в Anki → пересоздаю`);
-      allWordsToExport.push(w);
-    } else if (inTracker && inAnki && noteIds.length > 1) {
-      await ankiReq('deleteNotes', { notes: noteIds });
-      log(`  Дубликаты "<b>${w.word}</b>" удалены (${noteIds.length}) → пересоздаю`);
-      allWordsToExport.push(w);
+    const entry = tracker[w.word];
+    if (!entry) {
+      toExport.push({ ...w, needGemini: true, sentences: [], mode: 'add' });
+    } else if (entry.status === 'removed') {
+      // Check if card still exists in Anki (we never auto-delete)
+      const noteIds = await ankiReq('findNotes', { query: `deck:"${ANKI_DECK}" tag:${wordToTag(w.word)}` });
+      if (noteIds.length > 0) {
+        // Card still in Anki — just restore status to 'learning', no re-export needed
+        tracker[w.word].status = 'learning';
+        await saveTracker(tracker);
+        log(`  "<b>${w.word}</b>" возвращён — карточка в Anki уже есть, статус восстановлен`);
+      } else {
+        // Card was deleted from Anki manually — re-export
+        const hasSentences = entry.sentences.length === 3;
+        toExport.push({ ...w, needGemini: !hasSentences, sentences: entry.sentences, mode: 'add' });
+        log(`  "<b>${w.word}</b>" возвращён — карточки нет в Anki, ${hasSentences ? 'переэкспортирую из CSV' : 'нужен Gemini'}`);
+      }
+    } else if ((entry.status === 'learning' || entry.status === 'known') && entry.sentences.length < 3) {
+      // Has a card in Anki but sentences are missing from CSV — generate and update the card
+      toExport.push({ ...w, needGemini: true, sentences: [], mode: 'update' });
+      log(`  "<b>${w.word}</b>" — предложения отсутствуют, генерирую для обновления карточки...`);
     }
+    // 'learning'/'known' with sentences → nothing to do
   }
 
-  log(`Слов для экспорта/замены: <b>${allWordsToExport.length}</b>`);
+  log(`Слов для экспорта: <b>${toExport.length}</b>`);
   let exported = 0;
 
-  for (const { word, translation, filename } of allWordsToExport) {
-    log(`  Генерирую предложения для "<b>${word}</b>"...`);
+  for (const { word, translation, filename, needGemini, sentences: existingSentences, mode } of toExport) {
+    const modeLabel = mode === 'update' ? '— обновляю карточку' : needGemini ? '— генерирую предложения...' : '— переэкспортирую из CSV';
+    log(`  "<b>${word}</b>" ${modeLabel}`);
     try {
-      const sentences = await generateSentences(word, translation);
-      const front =
-        `<div style="font-size:1.4em;font-weight:bold;margin-bottom:0.8em">${word}</div>` +
-        `<ol>${sentences.map(s => `<li>${s.replace(/\*\*(.+?)\*\*/g, '<b>$1</b>')}</li>`).join('')}</ol>`;
-      const back = `<div style="font-size:1.2em">${translation}</div>`;
-      await ankiReq('addNote', {
-        note: {
-          deckName: ANKI_DECK, modelName: ANKI_MODEL,
-          fields: { Front: front, Back: back },
-          tags: ['english-galaxy', filename.replace(/\s+/g, '_'), wordToTag(word)],
-          options: { allowDuplicate: false }
+      const sentences = needGemini
+        ? await generateSentences(word, translation)
+        : existingSentences;
+
+      if (mode === 'update') {
+        // Update existing Anki card (sentences were missing)
+        const noteIds = await ankiReq('findNotes', { query: `deck:"${ANKI_DECK}" tag:${wordToTag(word)}` });
+        if (noteIds.length > 0) {
+          const front =
+            `<div style="font-size:1.4em;font-weight:bold;margin-bottom:0.8em">${word}</div>` +
+            `<ol>${sentences.map(s => `<li>${s.replace(/\*\*(.+?)\*\*/g, '<b>$1</b>')}</li>`).join('')}</ol>`;
+          await ankiReq('updateNoteFields', { note: { id: noteIds[0], fields: { Front: front } } });
         }
-      });
-      tracker[word] = { translation, filename, exportedAt: new Date().toISOString().split('T')[0], status: 'learning', knownAt: '' };
+      } else {
+        await addToAnki(word, translation, filename, sentences);
+      }
+
+      tracker[word] = {
+        translation, filename,
+        exportedAt: tracker[word]?.exportedAt || new Date().toISOString().split('T')[0],
+        status: tracker[word]?.status || 'learning',
+        knownAt: tracker[word]?.knownAt || '',
+        sentences
+      };
       exported++;
       await saveTracker(tracker);
-      log(`  <span style="color:#5cb85c">"${word}" → Anki ✓</span>`);
+      const label = mode === 'update' ? 'обновлено' : 'добавлено';
+      log(`  <span style="color:#5cb85c">"${word}" → Anki ✓ (${label})</span>`);
     } catch (e) {
       log(`  <span style="color:#d9534f">Ошибка "${word}": ${e.message}</span>`);
     }
-    await new Promise(r => setTimeout(r, GEMINI_DELAY_MS));
+    if (needGemini) await new Promise(r => setTimeout(r, GEMINI_DELAY_MS));
   }
 
-  // ── Check known words ─────────────────────────────────────────────────────
+  // ── Check known words (interval >= threshold) ─────────────────────────────
   const learning = Object.entries(tracker).filter(([, d]) => d.status === 'learning');
-  log(`Проверяю ${learning.length} слов в Anki...`);
+  log(`Проверяю ${learning.length} learning слов в Anki...`);
   let knownCount = 0;
 
   for (const [word, data] of learning) {
@@ -218,19 +268,24 @@ async function runSync(log) {
       tracker[word].knownAt = new Date().toISOString().split('T')[0];
       knownCount++;
       await saveTracker(tracker);
-      log(`  <span style="color:#5cb85c">"${word}" — выучено, красный цвет убран ✓</span>`);
+      log(`  <span style="color:#5cb85c">"${word}" — выучено, красный убран ✓</span>`);
     } catch { /* skip */ }
   }
 
-  // ── Mark removed (manually uncolored without going through sync) ──────────
+  // ── Mark removed (red removed manually, not through sync) ─────────────────
   const currentSet = new Set(unknown.map(w => w.word));
-  for (const [word, data] of Object.entries(tracker))
-    if (data.status === 'learning' && !currentSet.has(word)) tracker[word].status = 'removed';
-
-  await saveTracker(tracker);
+  let removedCount = 0;
+  for (const [word, data] of Object.entries(tracker)) {
+    if (data.status === 'learning' && !currentSet.has(word)) {
+      tracker[word].status = 'removed';
+      removedCount++;
+    }
+  }
+  if (removedCount > 0) await saveTracker(tracker);
 
   const stats = Object.values(tracker).reduce((a, d) => { a[d.status] = (a[d.status]||0)+1; return a; }, {});
-  log(`<br><b>Готово!</b> Экспортировано: ${exported} | Выучено: ${knownCount} | В процессе: ${stats.learning||0} | Всего выучено: ${stats.known||0}`);
+  log(`<br><b>Готово!</b> Экспортировано: ${exported} | Выучено: ${knownCount} | Убрано: ${removedCount}`);
+  log(`Трекер: learning=${stats.learning||0} | known=${stats.known||0} | removed=${stats.removed||0}`);
   return tracker;
 }
 
@@ -243,7 +298,7 @@ function renderUnknownTable(container, unknownWords, tracker) {
   }
   const table = container.createEl('table', { attr: { style: 'width:100%;border-collapse:collapse;margin-bottom:20px' } });
   const hr = table.createEl('thead').createEl('tr');
-  ['Файл', 'Слово', 'Перевод', 'Статус в Anki'].forEach(h =>
+  ['Файл', 'Слово', 'Перевод', 'Статус'].forEach(h =>
     hr.createEl('th', { text: h, attr: { style: 'text-align:left;padding:4px 10px;border-bottom:1px solid var(--background-modifier-border)' } })
   );
   const tbody = table.createEl('tbody');
@@ -254,7 +309,8 @@ function renderUnknownTable(container, unknownWords, tracker) {
     tr.createEl('td', { text: word, attr: { style: `padding:3px 10px;font-weight:bold;color:${TARGET_COLOR}` } });
     tr.createEl('td', { text: translation, attr: { style: 'padding:3px 10px;color:var(--text-muted)' } });
     const s = tracker[word]?.status;
-    tr.createEl('td', { text: s === 'learning' ? '📚 В Anki' : '—', attr: { style: 'padding:3px 10px' } });
+    const label = s === 'learning' ? '📚 В Anki' : s === 'removed' ? '🔄 Вернулось' : '—';
+    tr.createEl('td', { text: label, attr: { style: 'padding:3px 10px' } });
   }
 }
 
