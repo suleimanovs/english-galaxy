@@ -7,9 +7,9 @@ const ANKI_URL            = 'http://localhost:8765';
 const ANKI_DECK           = 'English Galaxy';
 const ANKI_MODEL          = 'Простая';
 const TARGET_COLOR        = '#c0504d';
-const GEMINI_MODEL        = 'gemini-2.5-flash';
+const GEMINI_MODEL        = 'gemini-2.5-flash-lite';
 const KNOWN_INTERVAL_DAYS = 7;
-const GEMINI_DELAY_MS     = 20000;
+const GEMINI_DELAY_MS     = 40000;
 const FOLDER              = dv.current().file.folder;
 const TRACKER_PATH        = FOLDER + '/word-tracker.csv';
 
@@ -145,12 +145,35 @@ async function runSync(log) {
     log(`Создана колода "${ANKI_DECK}"`);
   }
 
-  // ── Export new words ──────────────────────────────────────────────────────
-  const newWords = unknown.filter(w => !tracker[w.word]);
-  log(`Новых слов для экспорта: <b>${newWords.length}</b>`);
+// ── Export new words ──────────────────────────────────────────────────────
+  const allWordsToExport = [];
+  log('Проверяю состояние слов в Anki...');
+
+  for (const w of unknown) {
+    const inTracker = !!tracker[w.word];
+    const noteIds = await ankiReq('findNotes', { query: `deck:"${ANKI_DECK}" tag:${wordToTag(w.word)}` });
+    const inAnki = noteIds.length > 0;
+
+    if (!inTracker && !inAnki) {
+      allWordsToExport.push(w);
+    } else if (!inTracker && inAnki) {
+      await ankiReq('deleteNotes', { notes: noteIds });
+      log(`  Сброс "<b>${w.word}</b>" (удалено нот: ${noteIds.length})`);
+      allWordsToExport.push(w);
+    } else if (inTracker && !inAnki) {
+      log(`  "<b>${w.word}</b>" есть в трекере, но нет в Anki → пересоздаю`);
+      allWordsToExport.push(w);
+    } else if (inTracker && inAnki && noteIds.length > 1) {
+      await ankiReq('deleteNotes', { notes: noteIds });
+      log(`  Дубликаты "<b>${w.word}</b>" удалены (${noteIds.length}) → пересоздаю`);
+      allWordsToExport.push(w);
+    }
+  }
+
+  log(`Слов для экспорта/замены: <b>${allWordsToExport.length}</b>`);
   let exported = 0;
 
-  for (const { word, translation, filename } of newWords) {
+  for (const { word, translation, filename } of allWordsToExport) {
     log(`  Генерирую предложения для "<b>${word}</b>"...`);
     try {
       const sentences = await generateSentences(word, translation);

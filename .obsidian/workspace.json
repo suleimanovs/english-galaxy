@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "bb49d746da10d9d7",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "52e8bbff376989bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,16 @@
               },
               "icon": "lucide-file",
               "title": "Unknown Words"
+            }
+          },
+          {
+            "id": "32af3cfcdf7d1cb3",
+            "type": "leaf",
+            "state": {
+              "type": "log-log",
+              "state": {},
+              "icon": "view-log",
+              "title": "Self-hosted LiveSync Log"
             }
           }
         ]
@@ -202,12 +212,18 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "52e8bbff376989bb",
   "lastOpenFiles": [
-    "Home Page.md",
-    "learn-5000-english-words/Unknown Words.md",
-    "learn-5000-english-words/Lesson 17 (80-86).md",
     "learn-5000-english-words/Progress.md",
+    "learn-5000-english-words/Unknown Words.md",
+    "grammar/miscellaneous/Reported_Requests.md",
+    "grammar/miscellaneous/Prepositions.md",
+    "grammar/miscellaneous/Miscellaneous_Introduction.md",
+    "grammar/miscellaneous/Conjunctions.md",
+    "grammar/miscellaneous/Adverbs.md",
+    "grammar/miscellaneous",
+    "Home Page.md",
+    "learn-5000-english-words/Lesson 17 (80-86).md",
     "learn-5000-english-words/Lesson 16(75-79).md",
     "english-galaxy-turquoise-course/B1/Lesson 41 - 450.md",
     "learn-5000-english-words/word-tracker.json",
@@ -230,16 +246,10 @@
     "grammar/phrasal-Idiomatic/Questions.md",
     "grammar/phrasal-Idiomatic/Inversion.md",
     "grammar/phrasal-Idiomatic/Complex_Introduction.md",
-    "grammar/phrasal-Idiomatic/Comparisons.md",
     "grammar/phrasal-Idiomatic",
-    "grammar/сomplex-сonstructions/Reported_Speech.md",
-    "grammar/сomplex-сonstructions/Relative_Clauses.md",
-    "grammar/сomplex-сonstructions/Questions.md",
-    "grammar/сomplex-сonstructions/Inversion.md",
     "grammar/сomplex-сonstructions",
     "learn-5000-english-words/secrets.json",
     "grammar/phrases-idioms",
-    "grammar/modals",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
