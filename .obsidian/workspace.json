@@ -4,17 +4,63 @@
     "type": "split",
     "children": [
       {
+        "id": "9934f5a6e32423a4",
+        "type": "tabs",
+        "dimension": 45.42996214169822,
+        "children": [
+          {
+            "id": "3234894238dd64bb",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "3QCQc0VDn1I",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=3QCQc0VDn1I"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    }
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 42"
+            }
+          }
+        ]
+      },
+      {
         "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 54.57003785830179,
         "children": [
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "recall-view",
-              "state": {},
-              "icon": "blocks",
-              "title": "Recall"
+              "type": "markdown",
+              "state": {
+                "file": "english-galaxy-turquoise-course/B1/Lesson 42 - 450.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 42 - 450"
             }
           }
         ]
@@ -74,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -205,6 +252,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "english-galaxy-turquoise-course/B1/Lesson 42 - 450.md",
+    "english-galaxy-turquoise-course/B1/Lesson 41 - 450 самых важных прилагательных в разных временах - часть 10.md",
+    "english-galaxy-turquoise-course/B1/Lesson 39 - 450 самых важных прилагательных в разных временах - часть 8.md",
+    "english-galaxy-turquoise-course/B1/Lesson 40 - 450 самых важных прилагательных в разных временах - часть 9.md",
+    "learn-5000-english-words/Lesson 18.md",
     "learn-5000-english-words/Unknown Words.md",
     "Home Page.md",
     "learn-5000-english-words/Progress.md",
@@ -217,7 +269,6 @@
     "grammar/miscellaneous",
     "learn-5000-english-words/Lesson 17 (80-86).md",
     "learn-5000-english-words/Lesson 16(75-79).md",
-    "english-galaxy-turquoise-course/B1/Lesson 41 - 450.md",
     "learn-5000-english-words/word-tracker.json",
     "learn-5000-english-words/Lesson 61.md",
     "learn-5000-english-words/word-tracker.csv",
@@ -233,10 +284,6 @@
     "grammar/phrasal-Idiomatic/Reported Speech.md",
     "grammar/phrasal-Idiomatic/Relative Clauses.md",
     "grammar/phrasal-Idiomatic/Complex Introduction.md",
-    "grammar/phrasal-Idiomatic/Reported_Speech.md",
-    "grammar/phrasal-Idiomatic/Relative_Clauses.md",
-    "grammar/phrasal-Idiomatic/Questions.md",
-    "grammar/phrasal-Idiomatic/Inversion.md",
     "grammar/phrasal-Idiomatic",
     "grammar/сomplex-сonstructions",
     "learn-5000-english-words/secrets.json",
