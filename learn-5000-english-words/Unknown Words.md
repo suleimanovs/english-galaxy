@@ -35,7 +35,12 @@ function wordToTag(word) {
 async function generateSentences(word, translation) {
   const prompt =
     `Create 3 simple English example sentences using the word "${word}" (Russian: ${translation}).\n` +
-    `Rules:\n- Each sentence in a different real-life context\n- Bold the target word: **${word}**\n` +
+    `Rules:\n` +
+    `- A2 level vocabulary only — use only very common, everyday words\n` +
+    `- Short sentences: 6–10 words each\n` +
+    `- Each sentence in a different everyday context (home, school, shop, etc.)\n` +
+    `- Bold only the target word: **${word}**\n` +
+    `- No complex grammar, no rare words, no idioms\n` +
     `- Return ONLY a JSON array of exactly 3 strings, no markdown, no explanation\n\n` +
     `Output: ["s1", "s2", "s3"]`;
   const res = await requestUrl({
