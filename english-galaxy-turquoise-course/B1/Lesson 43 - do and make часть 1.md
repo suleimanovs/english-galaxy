@@ -14,6 +14,13 @@ do my best - сделать все возможное
 do business - заниматься бизнесом
 
 make money - зарабатывать деньги, делать деньги
+make a cup of tea - сделать чашку чая
+make a cup of coffee - сделать чашку кофе
+make the right choice
+make a sandwitch - приготовить сэндвич
+make a salad - приготовить салат
+
+---
 
 He spends so much time on doing homework.
 I will have to do some work before leaving home.
@@ -26,4 +33,9 @@ It is important to do these exercises on a regular basis.
 I will do my best to achieve this aim.
 My friend wants to do business and make big money.
 If someone does business it doesn't necessarily mean that they make very big money.
+I can make a cup of tea for you.
+I made the right choice.
+I made two sandwiches for breakfast.
+You made a very tasty salad.
+I will make a cup of coffee for you if you don't mind
 
