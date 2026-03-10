@@ -16,7 +16,9 @@ do business - заниматься бизнесом
 make money - зарабатывать деньги, делать деньги
 make a cup of tea - сделать чашку чая
 make a cup of coffee - сделать чашку кофе
-make the right choice
+make an exception - сделать исключение 
+make the right choice - сделать правильный выбор
+make a choice - сделать выбор
 make a sandwitch - приготовить сэндвич
 make a salad - приготовить салат
 
@@ -34,8 +36,12 @@ I will do my best to achieve this aim.
 My friend wants to do business and make big money.
 If someone does business it doesn't necessarily mean that they make very big money.
 I can make a cup of tea for you.
-I made the right choice.
+I made the right choice. 
 I made two sandwiches for breakfast.
 You made a very tasty salad.
-I will make a cup of coffee for you if you don't mind
+I will make a cup of coffee for you if you don't mind.
+We will have to make a choice.
+I will make an exception for you.
+
+
 
