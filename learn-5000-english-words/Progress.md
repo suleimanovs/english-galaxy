@@ -29,7 +29,7 @@ for (const page of dv.pages(`"${currentFolder}"`)) {
   knownTotal += totalCount - unknownCount;
 }
 
-const totalWords = knownTotal + unknownTotal;
+const totalWords = 5000;
 const progressPercent = Math.min((totalWords / MAX_WORDS) * 100, 100).toFixed(1);
 const knownPercent = totalWords ? ((knownTotal / totalWords) * 100).toFixed(1) : 0;
 const unknownPercent = totalWords ? ((unknownTotal / totalWords) * 100).toFixed(1) : 0;
