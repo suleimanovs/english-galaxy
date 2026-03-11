@@ -4,51 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2995cfcfb4004e2b",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f75c6f5d303d4745",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "t7b2kJKobHc",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=t7b2kJKobHc"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    }
-                  }
-                }
-              },
-              "icon": "youtube",
-              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 20"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0d5467a86297d6e7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f4720442c6d666bc",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -241,14 +201,14 @@
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
       "terminal:Open terminal": false,
-      "obsidian-livesync:Show Customization sync": false,
       "markdown-importer:Импорт Markdown-файлов": false,
       "workspaces:Пространства": false,
-      "publish:Публикация изменений": false
+      "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "f4720442c6d666bc",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home Page.md",
     "learn-5000-english-words/Unknown Words.md",
     "learn-5000-english-words/Lesson 20(101-106).md",
     "english-galaxy-turquoise-course/B1/Lesson 43 - do and make часть 1.md",
@@ -261,7 +221,6 @@
     "english-galaxy-turquoise-course/B1/Lesson 41 - 450 самых важных прилагательных в разных временах - часть 10.md",
     "english-galaxy-turquoise-course/B1/Lesson 39 - 450 самых важных прилагательных в разных временах - часть 8.md",
     "english-galaxy-turquoise-course/B1/Lesson 40 - 450 самых важных прилагательных в разных временах - часть 9.md",
-    "Home Page.md",
     "learn-5000-english-words/Lesson 59.md",
     "grammar/miscellaneous/Reported_Requests.md",
     "grammar/miscellaneous/Prepositions.md",
