@@ -15,6 +15,9 @@ make a discovery  - сделать открытие
 make a remark - сделать замечание
 make an attempt - сделать попытку
 make comments - сделать комментарий
+make an impression - произвести впечатление
+make a very favorable impression -  произвести  очень блоагоприятное впечатление
+i made up my mind - я принял решение
 
 I want to make sure that it is really so.
 I just wanted to make sure that it was really so.
@@ -30,7 +33,12 @@ They made a special agreement.
 These scientists made a great discovery.
 The reporter made a very interesting remark.
 I made one more attempt.
-The teacher made several comments
+The teacher made a few comments.
+It made a very favorable impression on me.
+To tell the truth, it made a very favorable impression on me.
+I made up my mind to stay at home.
+I made up my mind to do it a bit later.
+
 
 
 
