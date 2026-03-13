@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "75c1b542ef3b383a",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "8d1077bb26218f67",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Home Page.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Home Page"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -203,7 +206,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "8d1077bb26218f67",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "english-galaxy-turquoise-course/B1/Lesson 44 - do and make part 2.md",
     "english-galaxy-turquoise-course/B1/Lesson 43 - do and make часть 1.md",
