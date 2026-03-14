@@ -6,6 +6,7 @@
 [[Be Going To — намерение и предсказание по признакам]]
 [[Present Continuous для будущего — конкретные договорённости]]
 [[Shall — предложения и формальный стиль]]
+[[Future in the Past — будущее в прошедшем]]
 
 
 **Сравнительная таблица всех способов выражения будущего:**
@@ -19,3 +20,4 @@
 | **Future Continuous** | will be + V-ing | Процесс в определённый момент будущего | I'll be working at 9 PM. |
 | **Future Perfect** | will have + V3 | Завершится до момента в будущем | I'll have finished by Friday. |
 | **Future Perfect Continuous** | will have been + V-ing | Процесс будет длиться до момента в будущем | I'll have been waiting for an hour by then. |
+| **Future in the Past** | would + V / was going to + V | Будущее с точки зрения прошлого (косвенная речь) | He said he would come. / I was going to call you. |

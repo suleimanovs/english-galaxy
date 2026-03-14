@@ -6,6 +6,9 @@
 [[Articles — артикли (a/an, the, нулевой)]]
 [[Possessive Pronouns — притяжательные местоимения]]
 [[Reflexive Pronouns — возвратные местоимения]]
+[[Demonstrative Pronouns — указательные местоимения (this/that/these/those)]]
+[[Indefinite Pronouns — неопределённые местоимения и квантификаторы]]
+[[Determiners — определители (each/every, all/whole, both/either/neither)]]
 
 
 **Краткий обзор раздела:**
@@ -15,3 +18,6 @@
 | Articles | a/an = новый/один из многих; the = конкретный/известный; нулевой = обобщение | Нет интуиции из родного языка; географические названия; учреждения |
 | Possessive Pronouns | my/your/his... перед существительным; mine/yours/his... без существительного | its vs it's; their/there/they're; двойное притяжание |
 | Reflexive Pronouns | myself/yourself... — действие на себя или усиление | Лишнее возвратное там, где в русском «себя»; by myself vs alone |
+| Demonstrative Pronouns | this/that/these/those — близко/далеко, ед./мн. число | Согласование по числу; this vs it; телефонные разговоры |
+| Indefinite Pronouns | some/any/no/every + body/thing/where; much/many/few/little | Двойное отрицание; some vs any; few vs a few |
+| Determiners | each/every, all/whole, both/either/neither | Every vs each; neither + утвердительный глагол; both...and |

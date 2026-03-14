@@ -7,6 +7,11 @@
 [[Prepositions — предлоги]]
 [[Conjunctions — союзы]]
 [[Reported Requests — косвенные просьбы и приказы]]
+[[Used To — used to / would / be used to / get used to]]
+[[Word Order — порядок слов]]
+[[So, Such, Too, Enough — усилители и ограничители]]
+[[There Is, It Is — вводные конструкции]]
+[[Linking Words — дискурсивные маркеры]]
 [[Inversion — инверсия]] *(см. раздел 07 Сложные структуры)*
 
 
@@ -18,3 +23,8 @@
 | Prepositions | Место, время, направление, связи с глаголами и прилагательными | Нельзя переводить дословно; in/on/at; коллокации |
 | Conjunctions | Сочинительные (FANBOYS) и подчинительные (because, although, when...) | Despite vs although; because vs because of; двойные союзы |
 | Reported Requests | Косвенные просьбы и приказы через to-infinitive | Told vs said; suggest + герундий; нет сдвига времён |
+| Used To | Привычки в прошлом и адаптация к текущему | used to + V vs be used to + V-ing; would только для действий |
+| Word Order | SVO, SVOMPT, место наречий | Фиксированный порядок; наречие не между глаголом и дополнением |
+| So/Such/Too/Enough | Усиление и ограничение | so + adj vs such + noun; enough после adj, но перед noun |
+| There Is / It Is | Наличие vs описание | There is = существует; It is = характеристика/погода/время |
+| Linking Words | However, moreover, therefore, nevertheless... | Это наречия, не союзы — нужна точка или ; перед ними |
