@@ -4,6 +4,46 @@
     "type": "split",
     "children": [
       {
+        "id": "12ea9791c9ca82a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef2a7c1f6a250a60",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "qUuhTJBCzlY",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=qUuhTJBCzlY"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    }
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 45"
+            }
+          }
+        ]
+      },
+      {
         "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
@@ -13,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "english-galaxy-turquoise-course/B1/Lesson 45 - Различные грамматические конструкций часть 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Page"
+              "title": "Lesson 45 - Различные грамматические конструкций часть 1"
             }
           }
         ]
@@ -78,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -208,6 +249,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "english-galaxy-turquoise-course/B1/Lesson 45 - Различные грамматические конструкций часть 1.md",
     "Home Page.md",
     "english-galaxy-turquoise-course/B1/Lesson 44 - do and make part 2.md",
     "english-galaxy-turquoise-course/B1/Lesson 43 - do and make часть 1.md",
@@ -239,7 +281,6 @@
     "learn-5000-english-words/word-tracker.csv",
     "learn-5000-english-words/_migrate.js",
     "learn-5000-english-words/_fix-tracker.js",
-    "learn-5000-english-words/Lesson 58.md",
     "grammar/articles-pronouns",
     "grammar/phrasal-Idiomatic",
     "grammar/сomplex-сonstructions",
