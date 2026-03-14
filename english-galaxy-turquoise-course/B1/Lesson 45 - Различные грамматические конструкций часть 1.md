@@ -48,4 +48,4 @@ They made him do it
 
 #### to be made to do something - быть заставленным  сделать что-то
 
-He was 
+He was made to do it.
