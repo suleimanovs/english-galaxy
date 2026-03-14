@@ -30,4 +30,22 @@ I work so hard so that we can buy a new apartment
 I will write it down so that we can discuss it later
 
 I worked really hard so that I could pass this test
-I trained so intensively so that I 
+I trained so intensively so that I would improve my shape in a very short period of time
+
+
+#### to be allowed to do something - кому-то разрешают делать что-то
+
+He isn't allowed to leave home so late
+
+
+#### let somebody do something - позволить кому-то сделать что-то
+They didn't let him do it
+Her parents didn't let her go there so late
+
+#### make somebody do something - заставить кого-то сделать что-то
+
+They made him do it
+
+#### to be made to do something - быть заставленным  сделать что-то
+
+He was 
