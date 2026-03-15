@@ -19,5 +19,17 @@ He used to smoke a lot, but then he stopped doing it
 I think you need some time to get used to it
 
 ---
+##### to get used to doing something
+It took her some time to get used to living in the city
 
-to get used to 
+---
+##### get accustomed to - привыкнуть к
+
+It took me some time to get accustomed to it.
+It took him some time to get accustomed to living in these conditions.
+I haven't got used to it yet.
+
+##### I would prefer to + verb
+
+I would prefer to stay at home today
+I would prefer not to discus it.

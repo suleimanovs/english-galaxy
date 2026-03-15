@@ -93,8 +93,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "so that",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -114,7 +114,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -247,7 +248,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "a0914fefc8cbcee6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "english-galaxy-turquoise-course/B1/Lesson 46 -.md",
     "grammar/times/additional/Future Additional Introduction.md",
