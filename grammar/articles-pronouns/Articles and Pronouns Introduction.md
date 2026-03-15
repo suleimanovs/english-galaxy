@@ -3,12 +3,12 @@
 Артикли — одна из главных сложностей для русскоязычных: в русском их нет, и интуиция здесь не работает. Местоимения внешне знакомы, но английские формы и правила употребления существенно отличаются от русских.
 
 
-[[Articles — артикли (a/an, the, нулевой)]]
+[[Articles — артикли (a, an, the, нулевой)]]
 [[Possessive Pronouns — притяжательные местоимения]]
 [[Reflexive Pronouns — возвратные местоимения]]
-[[Demonstrative Pronouns — указательные местоимения (this/that/these/those)]]
+[[Demonstrative Pronouns — указательные местоимения (this, that, these, those)]]
 [[Indefinite Pronouns — неопределённые местоимения и квантификаторы]]
-[[Determiners — определители (each/every, all/whole, both/either/neither)]]
+[[Determiners — определители (each, every, all, whole, both, either, neither)]]
 
 
 **Краткий обзор раздела:**

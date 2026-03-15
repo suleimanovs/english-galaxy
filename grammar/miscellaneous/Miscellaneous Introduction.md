@@ -7,7 +7,7 @@
 [[Prepositions — предлоги]]
 [[Conjunctions — союзы]]
 [[Reported Requests — косвенные просьбы и приказы]]
-[[Used To — used to / would / be used to / get used to]]
+[[Used To — used to, would, be used to, get used to]]
 [[Word Order — порядок слов]]
 [[So, Such, Too, Enough — усилители и ограничители]]
 [[There Is, It Is — вводные конструкции]]

@@ -8,7 +8,7 @@
 [[Relative Clauses — относительные придаточные]]
 [[Inversion — инверсия]]
 [[Comparisons — степени сравнения]]
-[[Causative — have/get something done]]
+[[Causative — have, get something done]]
 [[Subjunctive — сослагательное наклонение]]
 [[Cleft Sentences — расщеплённые предложения]]
 [[Emphasis — конструкции усиления]]
