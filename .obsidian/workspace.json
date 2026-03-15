@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d7a699ec7bb84089",
+        "id": "b659509b41c207db",
         "type": "tabs",
         "children": [
           {
-            "id": "5110837a0ec0d2d6",
+            "id": "933b7c48dfe459fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grammar/Grammar Navigator.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Grammar Navigator"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -206,7 +202,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "5110837a0ec0d2d6",
+  "active": "933b7c48dfe459fa",
   "lastOpenFiles": [
     "grammar/Grammar Reader.md",
     "grammar/Grammar Navigator.md",
