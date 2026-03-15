@@ -4,6 +4,46 @@
     "type": "split",
     "children": [
       {
+        "id": "0133490f12eea151",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0914fefc8cbcee6",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "u4qgH1DvonA",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=u4qgH1DvonA"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    }
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 46"
+            }
+          }
+        ]
+      },
+      {
         "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
@@ -13,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "english-galaxy-turquoise-course/B1/Lesson 46 -.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Page"
+              "title": "Lesson 46 -"
             }
           }
         ]
@@ -78,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -208,34 +249,34 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "grammar/times/additional/Future_Going_To.md",
-    "grammar/сomplex-сonstructions/Ellipsis_Substitution.md",
-    "grammar/miscellaneous/Linking_Words.md",
-    "grammar/miscellaneous/There_Is_It_Is.md",
-    "grammar/miscellaneous/So_Such_Too_Enough.md",
-    "grammar/articles-pronouns/Determiners.md",
-    "grammar/miscellaneous/Word_Order.md",
-    "grammar/times/additional/Future_In_The_Past.md",
-    "grammar/сomplex-сonstructions/Emphasis.md",
-    "grammar/сomplex-сonstructions/Cleft_Sentences.md",
-    "grammar/сomplex-сonstructions/Subjunctive.md",
-    "grammar/miscellaneous/Used_To.md",
+    "english-galaxy-turquoise-course/B1/Lesson 46 -.md",
+    "grammar/сomplex-сonstructions/Questions.md",
+    "Comparisons — степени сравнения.md",
+    "grammar/сomplex-сonstructions/Complex_Introduction.md",
     "grammar/сomplex-сonstructions/Causative.md",
+    "grammar/voices/Voice_Introduction.md",
     "grammar/voices/Modal_Passive.md",
+    "grammar/times/past-tenses/Past Continuous — Прошедшее продолженное время.md",
+    "grammar/times/additional/Future_Going_To.md",
+    "grammar/non-finite-forms/Non_Finite_Forms_Introduction.md",
+    "grammar/non-finite-forms/Participle.md",
+    "grammar/non-finite-forms/Gerund.md",
+    "grammar/modals/Modal_Need_Dare.md",
+    "grammar/modals/Modal_Introduction.md",
+    "grammar/miscellaneous/Word_Order.md",
+    "grammar/miscellaneous/So_Such_Too_Enough.md",
+    "grammar/miscellaneous/Prepositions.md",
+    "grammar/miscellaneous/Linking_Words.md",
     "grammar/articles-pronouns/Indefinite_Pronouns.md",
     "grammar/articles-pronouns/Demonstrative_Pronouns.md",
-    "grammar/adjectives/Adjective_Preposition_Patterns.md",
-    "grammar/adjectives/Adjectives_Ed_Ing.md",
-    "grammar/adjectives/Adjective_Order.md",
-    "grammar/adjectives/Adjectives_Introduction.md",
-    "grammar/nouns/Possessive_Case.md",
-    "grammar/nouns/Plural_Forms.md",
-    "grammar/nouns/Countable_Uncountable.md",
-    "grammar/nouns/Nouns_Introduction.md",
+    "grammar/articles-pronouns/Articles_Pronouns_Introduction.md",
+    "grammar/articles-pronouns/Articles.md",
+    "Home Page.md",
+    "grammar/сomplex-сonstructions/Ellipsis_Substitution.md",
+    "grammar/miscellaneous/There_Is_It_Is.md",
+    "grammar/articles-pronouns/Determiners.md",
     "grammar/adjectives",
     "grammar/nouns",
-    "Home Page.md",
-    "grammar/conditionals/Conditionals_Introduction.md",
     "learn-5000-english-words/regen-sentences.js",
     "grammar/miscellaneous",
     "learn-5000-english-words/word-tracker.json",
