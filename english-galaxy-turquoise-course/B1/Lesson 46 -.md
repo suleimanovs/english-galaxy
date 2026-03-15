@@ -29,7 +29,26 @@ It took me some time to get accustomed to it.
 It took him some time to get accustomed to living in these conditions.
 I haven't got used to it yet.
 
+---
 ##### I would prefer to + verb
 
-I would prefer to stay at home today
-I would prefer not to discus it.
+I would prefer to stay at home today.
+I would prefer not to discuss it.
+I'd prefer not to talk about it
+
+---
+#### I'd sooner + verb - Я бы скорее сделал что-то
+
+I'd sooner check it.
+I would sooner agree to do it.
+
+---
+#### I'd rather  - Я бы лучше сделал что-то
+
+I would rather go there on Monday 
+
+---
+#### You had better + глагол - Тебе лучше сделать что-то
+
+You had better stay at home
+You'd better hurry up or we will be late
