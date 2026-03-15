@@ -51,4 +51,5 @@ I would rather go there on Monday
 #### You had better + глагол - Тебе лучше сделать что-то
 
 You had better stay at home
-You'd better hurry up or we will be late
+You'd better hurry up, or we will be late
+You had better hurry up, or we can be late 

@@ -11,34 +11,14 @@
             "id": "a0914fefc8cbcee6",
             "type": "leaf",
             "state": {
-              "type": "mx-url",
+              "type": "markdown",
               "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "u4qgH1DvonA",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=u4qgH1DvonA"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    }
-                  }
-                }
+                "file": "english-galaxy-turquoise-course/B1/Lesson 45 - Различные грамматические конструкций часть 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 46"
+              "icon": "lucide-file",
+              "title": "Lesson 45 - Различные грамматические конструкций часть 1"
             }
           }
         ]
@@ -53,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-galaxy-turquoise-course/B1/Lesson 46 -.md",
+                "file": "english-galaxy-turquoise-course/B1/Lesson 47.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 46 -"
+              "title": "Lesson 47"
             }
           }
         ]
@@ -93,8 +73,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "so that",
-                "matchingCase": true,
+                "query": "Questions — типы вопросов",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -119,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -248,12 +227,16 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "97b768c27803a772",
   "lastOpenFiles": [
+    "english-galaxy-turquoise-course/B1/Lesson 47.md",
+    "Без названия.md",
+    "english-galaxy-turquoise-course/B1/Lesson 46 - Различные грамматические конструкций часть 2.md",
+    "english-galaxy-turquoise-course/B1/Lesson 45 - Различные грамматические конструкций часть 1.md",
+    "grammar/miscellaneous/Word Formation — словообразование.md",
     "grammar/miscellaneous/Tenses in Adverbial Clauses — времена в придаточных предложениях.md",
     "grammar/phrasal-Idiomatic/Phrasal Verbs — фразовые глаголы.md",
     "grammar/miscellaneous/Purpose Clauses — конструкции выражения цели.md",
-    "english-galaxy-turquoise-course/B1/Lesson 46 -.md",
     "grammar/times/additional/Future Additional Introduction.md",
     "grammar/times/additional/Future in the Past — будущее в прошедшем.md",
     "grammar/times/additional/Shall — предложения и формальный стиль.md",
@@ -272,10 +255,6 @@
     "grammar/сomplex-сonstructions/Complex Constructions Introduction.md",
     "grammar/сomplex-сonstructions/Ellipsis & Substitution — эллипсис и подстановка.md",
     "grammar/сomplex-сonstructions/Emphasis — конструкции усиления.md",
-    "grammar/сomplex-сonstructions/Cleft Sentences — расщеплённые предложения.md",
-    "grammar/сomplex-сonstructions/Subjunctive — сослагательное наклонение.md",
-    "grammar/сomplex-сonstructions/Causative — have, get something done.md",
-    "grammar/сomplex-сonstructions/Comparisons — степени сравнения.md",
     "grammar/adjectives",
     "grammar/nouns",
     "learn-5000-english-words/regen-sentences.js",
