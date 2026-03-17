@@ -3,12 +3,20 @@
 
 ---
 
-perfectly - идеально, прекрасно
+Perfectly - идеально, прекрасно
 definitely - определенно
 mostly - в основном
 especially - особенно
 occasionally - изредка
 successfully - успешно
+hard - усердно
+work hard - работать усердно
+study hard - работать учиться
+hardly - едва
+actually - на самом деле
+It doesn't mean it - ...
+on purpose - специально, намеренно
+Deliberately - намеренно
 
 I want to know English perfectly.
 I perfectly understand the importance of this decision.
@@ -17,5 +25,17 @@ She works mostly <u>in</u> the evenings.
 I did it mostly <u>for</u> this reason.
 I like different kinds of sport especially football.
 I see her only occasionally.
-I successfully finished this cour
+I successfully completed this course.
+You work so hard.
+It hardly works.
+I can hardly believe it.
+Actually it isn't so.
+Actually you are right.
+It doesn't necessarily mean that it is really so
+It doesn't necessarily mean that he is really right
+It seems to me that it is done deliberately
+It 
+
+
+
 
