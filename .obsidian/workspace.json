@@ -4,6 +4,46 @@
     "type": "split",
     "children": [
       {
+        "id": "5bfaa7a060b131f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f89543109d7e99b",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "ds_v-CDAwWU",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=ds_v-CDAwWU"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    }
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 47"
+            }
+          }
+        ]
+      },
+      {
         "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
@@ -13,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "english-galaxy-turquoise-course/B1/Lesson 47 - Наречия в английском часть 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Page"
+              "title": "Lesson 47 - Наречия в английском часть 1"
             }
           }
         ]
@@ -78,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -208,13 +249,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "english-galaxy-turquoise-course/B1/Lesson 47 - Наречия в английском часть 1.md",
     "Home Page.md",
     "grammar/Grammar Reader.md",
     "grammar/Grammar Navigator.md",
     "grammar/times/present-tenses/Present Simple — Настоящее простое время.md",
     "english-galaxy-turquoise-course/B1/Lesson 49.md",
     "english-galaxy-turquoise-course/B1/Lesson 46 - Различные грамматические конструкций часть 2.md",
-    "english-galaxy-turquoise-course/B1/Lesson 47.md",
     "Без названия.md",
     "english-galaxy-turquoise-course/B1/Lesson 45 - Различные грамматические конструкций часть 1.md",
     "grammar/miscellaneous/Word Formation — словообразование.md",

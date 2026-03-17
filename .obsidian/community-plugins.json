@@ -1,5 +1,4 @@
 [
-  "editing-toolbar",
   "media-extended",
   "obsidian-livesync",
   "obsidian-languagetool-plugin",
@@ -11,5 +10,6 @@
   "templater-obsidian",
   "buttons",
   "terminal",
-  "obsidian-git"
+  "obsidian-git",
+  "editing-toolbar"
 ]
