@@ -17,6 +17,8 @@ short - короткий
 To be short  - короче говоря
 Shortly - кратко
 go smoothly - пройти гладко
+current - текущий
+currently - в настоящее время
 
 
 Of course, it is a significant sum of money.
@@ -36,4 +38,7 @@ To be short everything went smoothly
 To be short everything went very well
 I will say it quite shortly 
 It is such an ineffective way of learning foreign languages
-They learn English very ineffectively because they don't ha
+They learn English very ineffectively because they don't have enough practice
+What can we do in the current situation?
+This website is currently unavailable
+He is currently working on another project 
