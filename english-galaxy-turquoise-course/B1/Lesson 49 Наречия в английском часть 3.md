@@ -14,6 +14,8 @@ slightly - немного, слегка
 partly - частично
 final - окончательный, финальный
 finally - наконец, наконец-то
+Undoubtedly - Несмоненно
+sensation - сенсация
 
 As I see it is a very high price
 The boy jumped very high
@@ -37,4 +39,9 @@ It is my final choice
 I finally got his permission 
 Finally, I got to this place 
 Finally, I finished my work
-No doubts
+Undoubtedly, it was a huge success
+Undoubtedly, it is a real success
+Undoubtedly it was a real sensation 
+
+
+
