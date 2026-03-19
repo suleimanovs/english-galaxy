@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d8935e26725ece41",
+        "id": "fd2b3f2197d05664",
         "type": "tabs",
         "children": [
           {
-            "id": "067cdf330911bb3c",
+            "id": "e05c5346f76189ec",
             "type": "leaf",
             "state": {
               "type": "mx-url",
@@ -19,12 +19,12 @@
                       "type": "url:hosted",
                       "vid": {
                         "host": "youtube",
-                        "vid": "77_JvXCVoyA",
+                        "vid": "j5pL0m9jNdc",
                         "t": null,
                         "start": null,
                         "end": null
                       },
-                      "url": "https://www.youtube.com/watch?v=77_JvXCVoyA"
+                      "url": "https://www.youtube.com/watch?v=j5pL0m9jNdc"
                     },
                     "hash": {}
                   },
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 48"
+              "title": "YouTube - j5pL0m9jNdc"
             }
           }
         ]
@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-galaxy-turquoise-course/B1/Lesson 48 -.md",
+                "file": "english-galaxy-turquoise-course/B1/Lesson 49.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 48 -"
+              "title": "Lesson 49"
             }
           }
         ]
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -247,18 +246,18 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e05c5346f76189ec",
   "lastOpenFiles": [
-    "english-galaxy-turquoise-course/B1/Lesson 48 -.md",
+    "english-galaxy-turquoise-course/B1/Lesson 49.md",
+    "english-galaxy-turquoise-course/B1/Lesson 48 - Наречия в английском часть 2.md",
+    "english-galaxy-turquoise-course/B1/Lesson 47 - Наречия в английском часть 1.md",
+    "english-galaxy-turquoise-course/B1/Lesson 46 - Различные грамматические конструкций часть 2.md",
     "Home Page.md",
     "learn-5000-english-words/Unknown Words.md",
     "learn-5000-english-words/Lesson 61.md",
-    "english-galaxy-turquoise-course/B1/Lesson 47 - Наречия в английском часть 1.md",
     "grammar/Grammar Reader.md",
     "grammar/Grammar Navigator.md",
     "grammar/times/present-tenses/Present Simple — Настоящее простое время.md",
-    "english-galaxy-turquoise-course/B1/Lesson 49.md",
-    "english-galaxy-turquoise-course/B1/Lesson 46 - Различные грамматические конструкций часть 2.md",
     "Без названия.md",
     "english-galaxy-turquoise-course/B1/Lesson 45 - Различные грамматические конструкций часть 1.md",
     "grammar/miscellaneous/Word Formation — словообразование.md",
