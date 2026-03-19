@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -247,7 +246,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "69b2601aee4823c0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "english-galaxy-turquoise-course/B1/Lesson 49 Наречия в английском часть 3.md",
     "english-galaxy-turquoise-course/B1/Lesson 48 - Наречия в английском часть 2.md",
