@@ -9,6 +9,11 @@ highly appreciate - высоко ценить
 nearly - почти
 fast - быстрый, быстро
 Nevertheless, ... - тем не менее
+However - Однако
+slightly - немного, слегка
+partly - частично
+final - окончательный, финальный
+finally - наконец, наконец-то
 
 As I see it is a very high price
 The boy jumped very high
@@ -18,6 +23,18 @@ I highly appreciate your help
 He nearly passed the exam
 I nearly achieved this aim,
 You shouldn't drive so fast
-Nevertheless, i managed to do
 
+Nevertheless, I managed to do it
+Nevertheless I managed to earn this money
+Nevertheless I preferred not to do it
 
+However, the situation isn't still stable
+It is a slightly informal answer
+I partly agree with you.
+He partly agrees with this statement.
+Is it your final decision?
+It is my final choice
+I finally got his permission 
+Finally, I got to this place 
+Finally, I finished my work
+No doubts
