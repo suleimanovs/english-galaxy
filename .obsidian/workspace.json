@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd2b3f2197d05664",
+        "id": "321f93d97d56a42d",
         "type": "tabs",
         "children": [
           {
-            "id": "e05c5346f76189ec",
+            "id": "69b2601aee4823c0",
             "type": "leaf",
             "state": {
               "type": "mx-url",
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "youtube",
-              "title": "YouTube - j5pL0m9jNdc"
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 49"
             }
           }
         ]
@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-galaxy-turquoise-course/B1/Lesson 49.md",
+                "file": "english-galaxy-turquoise-course/B1/Lesson 49 Наречия в английском часть 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 49"
+              "title": "Lesson 49 Наречия в английском часть 3"
             }
           }
         ]
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -246,9 +247,9 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "e05c5346f76189ec",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "english-galaxy-turquoise-course/B1/Lesson 49.md",
+    "english-galaxy-turquoise-course/B1/Lesson 49 Наречия в английском часть 3.md",
     "english-galaxy-turquoise-course/B1/Lesson 48 - Наречия в английском часть 2.md",
     "english-galaxy-turquoise-course/B1/Lesson 47 - Наречия в английском часть 1.md",
     "english-galaxy-turquoise-course/B1/Lesson 46 - Различные грамматические конструкций часть 2.md",
