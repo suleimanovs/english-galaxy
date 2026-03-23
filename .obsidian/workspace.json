@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "73c94d9b1f6b3c18",
+        "id": "2fead24f39d99601",
         "type": "tabs",
         "children": [
           {
-            "id": "d673759af99a2069",
+            "id": "cb261edbd689dd95",
             "type": "leaf",
             "state": {
               "type": "mx-url",
@@ -48,7 +48,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b0826571b9880fb",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -247,11 +246,12 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "8b0826571b9880fb",
+  "active": "cb261edbd689dd95",
   "lastOpenFiles": [
-    "learn-5000-english-words/Unknown Words.md",
     "english-galaxy-turquoise-course/B1/Lesson 50 - Словообразование.md",
     "Home Page.md",
+    "flag_rebuild.md",
+    "learn-5000-english-words/Unknown Words.md",
     "english-galaxy-turquoise-course/B1/Lesson 49 Наречия в английском часть 3.md",
     "english-galaxy-turquoise-course/B1/Lesson 48 - Наречия в английском часть 2.md",
     "english-galaxy-turquoise-course/B1/Lesson 47 - Наречия в английском часть 1.md",
@@ -274,7 +274,6 @@
     "grammar/times/past-tenses/Past Perfect — Прошедшее совершённое время.md",
     "grammar/times/future-tences/Future Perfect Continuous — will have been + ing.md",
     "grammar/times/future-tences/Future Perfect — will have + V3.md",
-    "grammar/times/future-tences/Future Continuous — will be + ing.md",
     "grammar/adjectives",
     "grammar/nouns",
     "learn-5000-english-words/regen-sentences.js",

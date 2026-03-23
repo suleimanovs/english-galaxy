@@ -74,6 +74,12 @@ invaluable - бесценный
 understand - понимать
 misunderstand - неправильно понимать
 
+understanding - понимание
+misunderstanding - недопонимание
+
+
+
+
 ---
 
 You have a very pleasant smile.
@@ -128,6 +134,8 @@ She feels some kind of discomfort working here.
 
 It is an invaluable source of information.
 I think that we misunderstood each other.
+
+
 
 
 

@@ -312,7 +312,7 @@
   "enableChunkSplitterV2": false,
   "disableWorkerForGeneratingChunks": false,
   "processSmallFilesInUIThread": false,
-  "notifyThresholdOfRemoteStorageSize": 100,
+  "notifyThresholdOfRemoteStorageSize": 200,
   "usePluginSyncV2": true,
   "usePluginEtc": false,
   "handleFilenameCaseSensitive": false,
