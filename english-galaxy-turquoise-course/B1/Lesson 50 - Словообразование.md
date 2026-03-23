@@ -58,6 +58,22 @@ harmless - безвредный
 polite - вежливый
 impolite - не вежливый
 
+place - размещать
+replace - заменять
+irreplaceable - незаменимый
+
+satisfied - удовлетворен
+dissatisfied with - не удовлетворен
+
+comfort - удобство
+discomfort - дискомфорт
+
+valuable - ценный
+invaluable - бесценный
+
+understand - понимать
+misunderstand - неправильно понимать
+
 ---
 
 You have a very pleasant smile.
@@ -102,16 +118,16 @@ It is done very unprofessionally.
 
 I don't think that this food is really harmless
 
-It is considered impolite 
+It is considered impolite.
+He thinks he is such an irreplaceable worker.
 
+I'm really satisfied with my results.
+I'm dissatisfied with such an answer.
+I'm dissatisfied with my results.
+She feels some kind of discomfort working here.
 
-
-
-
-
-
-
-
+It is an invaluable source of information.
+I think that we misunderstood each other.
 
 
 
