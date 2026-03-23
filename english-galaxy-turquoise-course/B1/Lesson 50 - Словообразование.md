@@ -79,6 +79,12 @@ misunderstanding - недопонимание
 
 believe - верить
 unbelievable - неворятный
+belief - убеждения
+
+important - важный
+unimportant - не важный
+
+Circumstances  - абстоятельства 
 
 ---
 
@@ -137,6 +143,8 @@ I think that we misunderstood each other.
 
 I'm afraid there is some misunderstanding between us
 
-It is really unbelievable
+It is really unbelievable. It seems unbelievable.
+It is a very popular belief nowadays.
 
-
+It is said that there are no unimportant things in our life.
+I come to the conclusion that there are no unimportant circumstances in our life

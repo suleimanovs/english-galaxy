@@ -11,34 +11,14 @@
             "id": "cb261edbd689dd95",
             "type": "leaf",
             "state": {
-              "type": "mx-url",
+              "type": "markdown",
               "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "4uRNjG1lD5I",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=4uRNjG1lD5I"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    }
-                  }
-                }
+                "file": "english-galaxy-turquoise-course/B1/Lesson 49 Наречия в английском часть 3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B1. Урок 50"
+              "icon": "lucide-file",
+              "title": "Lesson 49 Наречия в английском часть 3"
             }
           }
         ]
@@ -118,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -247,7 +226,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "cb261edbd689dd95",
   "lastOpenFiles": [
     "english-galaxy-turquoise-course/B1/Lesson 50 - Словообразование.md",
     "Home Page.md",
