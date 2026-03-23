@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -246,7 +247,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "cb261edbd689dd95",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "english-galaxy-turquoise-course/B1/Lesson 50 - Словообразование.md",
     "Home Page.md",

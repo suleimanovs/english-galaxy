@@ -15,7 +15,6 @@ unexpected - не ожиданный
 logical - логичный
 illogical - не логичный
 
-
 decisive - решительный
 indecisive - не решительный
 
@@ -74,11 +73,12 @@ invaluable - бесценный
 understand - понимать
 misunderstand - неправильно понимать
 
-understanding - понимание
+Understanding - понимание
 misunderstanding - недопонимание
 
 
-
+believe - верить
+unbelievable - неворятный
 
 ---
 
@@ -135,8 +135,8 @@ She feels some kind of discomfort working here.
 It is an invaluable source of information.
 I think that we misunderstood each other.
 
+I'm afraid there is some misunderstanding between us
 
-
-
+It is really unbelievable
 
 
