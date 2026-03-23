@@ -42,6 +42,18 @@ inaccurate - не точный
 comfortable - комфортный
 uncomfortable - некомфортный
 
+approve of - одобрять
+disapprove of - не одобрять
+
+sure about - уверен
+unsure about - неуверен
+
+professionally - профессионально
+unprofessionally - не профессионально
+
+harm - вред
+harmful - вредный
+
 ---
 
 You have a very pleasant smile.
@@ -73,7 +85,22 @@ These figures aren't accurate enough
 These figures are inaccurate.
 
 I feel very comfortable at the moment.
-To be 
+To be honest, I feel very uncomfortable here.
+
+I approve of your choice
+I disapprove of such behavior.
+
+I'm absolutely sure about it.
+I'm really unsure about this decision.
+
+It was done very professionally.
+It is done very unprofessionally.
+
+
+
+
+
+
 
 
 
