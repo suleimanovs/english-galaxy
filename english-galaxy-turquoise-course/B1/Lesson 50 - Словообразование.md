@@ -15,6 +15,21 @@ unexpected - не ожиданный
 logical - логичный
 illogical - не логичный
 
+
+decisive - решительный
+indecisive - не решительный
+
+end - конец
+endless - бесконечный
+
+unimaginable - невооброзимый
+
+capable of - способный
+incapable of - неспособный
+
+responsible - ответственный
+irresponsible - безответственный
+
 ---
 
 You have a very pleasant smile.
@@ -27,6 +42,21 @@ It was such an unexpected offer.
 This news was so unexpected.
 
 That decision seems very illogical.
+They take very indecisive measures.
+
+It seems an endless process.
+It is an endless process.
+
+It is really unimaginable.
+It really seems unimaginable.
+
+He was incapable of solving those problems.
+
+It was an irresponsible decision.
+
+
+
+
 
 
 
