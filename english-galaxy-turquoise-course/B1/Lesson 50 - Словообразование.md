@@ -53,6 +53,10 @@ unprofessionally - не профессионально
 
 harm - вред
 harmful - вредный
+harmless - безвредный
+
+polite - вежливый
+impolite - не вежливый
 
 ---
 
@@ -96,6 +100,9 @@ I'm really unsure about this decision.
 It was done very professionally.
 It is done very unprofessionally.
 
+I don't think that this food is really harmless
+
+It is considered impolite 
 
 
 
