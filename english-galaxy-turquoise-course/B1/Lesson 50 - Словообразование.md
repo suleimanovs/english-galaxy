@@ -30,6 +30,18 @@ incapable of - неспособный
 responsible - ответственный
 irresponsible - безответственный
 
+attractive - привлекательный
+unattractive - непривлекательный
+
+formal - формальный
+informal - неформальный
+
+accurate - точный
+inaccurate - не точный
+
+comfortable - комфортный
+uncomfortable - некомфортный
+
 ---
 
 You have a very pleasant smile.
@@ -53,7 +65,15 @@ It really seems unimaginable.
 He was incapable of solving those problems.
 
 It was an irresponsible decision.
+This offer seems unattractive
 
+This offer sounds very formal.
+
+These figures aren't accurate enough
+These figures are inaccurate.
+
+I feel very comfortable at the moment.
+To be 
 
 
 
