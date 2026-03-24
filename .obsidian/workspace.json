@@ -4,89 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6b683381920a14bf",
+        "id": "e4509af18d6cc682",
         "type": "tabs",
         "children": [
           {
-            "id": "809d7e73aa7ee8a7",
+            "id": "26f4556100ce7756",
             "type": "leaf",
             "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "1wMcIVyGlFk",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=1wMcIVyGlFk"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    }
-                  }
-                }
-              },
-              "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
-      },
-      {
-        "id": "21f8d2a475937b1e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9315b7020bdc95d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english-galaxy-turquoise-course/B2/Lesson 1 - 150 важных фразовых глаголов.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lesson 1 - 150 важных фразовых глаголов"
-            }
-          },
-          {
-            "id": "261e8ecf18ffd663",
-            "type": "leaf",
-            "state": {
-              "type": "log-log",
-              "state": {},
-              "icon": "view-log",
-              "title": "Self-hosted LiveSync Log"
-            }
-          },
-          {
-            "id": "0b72251a8de7b236",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grammar/voices/Passive Voice — пассивный залог.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Passive Voice — пассивный залог"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,10 +202,10 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "261e8ecf18ffd663",
+  "active": "26f4556100ce7756",
   "lastOpenFiles": [
-    "english-galaxy-turquoise-course/B2/Lesson 1 - 150 важных фразовых глаголов.md",
     "grammar/voices/Passive Voice — пассивный залог.md",
+    "english-galaxy-turquoise-course/B2/Lesson 1 - 150 важных фразовых глаголов.md",
     "english-galaxy-turquoise-course/B1/Lesson 49 Наречия в английском часть 3.md",
     "english-galaxy-turquoise-course/B1/Lesson 50 - Словообразование.md",
     "Home Page.md",
