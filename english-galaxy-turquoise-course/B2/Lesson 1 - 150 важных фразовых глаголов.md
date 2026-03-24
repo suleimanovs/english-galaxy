@@ -35,10 +35,45 @@ Not surprisingly - Неудевительно
 Not surprisingly that most people look up to him because he is a real hero.
 
 ---
-
 Continue - продолжать
 go on - продолжать
-
 pretend - притворяться
 
-He can't go on pretending that everything is allright  
+He can't go on pretending that everything is alright.
+My acquaintance went on talking about it.
+I'd like to go on learning English here.
+
+---
+go on - происходит
+happen - происходит
+
+What is going on here?
+What is happening here?
+
+---
+
+flick through - просмотреть, пролистать
+
+I will flick through this document.
+I took one book and flick through it.
+
+---
+
+see off - провожать
+
+I will see you off after the classes.
+He saw her off after the party.
+
+---
+
+take up - начать заниматься чем-то
+start - начать делать что-то
+
+I took up learning English really seriously.
+I took up jogging
+
+---
+look into - изучать, расследовать
+
+M
+
