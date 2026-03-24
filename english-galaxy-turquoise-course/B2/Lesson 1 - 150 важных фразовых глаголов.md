@@ -2,7 +2,6 @@
 **Видео:** https://www.youtube.com/watch?v=1wMcIVyGlFk
 
 ---
-
 cancel - отменить
 call off - отменить
 
@@ -13,7 +12,6 @@ The conference has just been called off.
 It was decided to call off this event.
 
 ---
-
 Understand - понимать
 figure out - понимать
 
@@ -21,7 +19,6 @@ I can't figure out how it works.
 He can't figure out what to do
 
 ---
-
 look up to - восхищаться, относиться с уважением
 admire - восхищаться
 
@@ -51,21 +48,18 @@ What is going on here?
 What is happening here?
 
 ---
-
 Flick through - просмотреть, пролистать
 
 I will flick through this document.
 I took one book and flick through it.
 
 ---
-
 See off - провожать
 
 I will see you off after the classes.
 He saw her off after the party.
 
 ---
-
 Take up - начать заниматься чем-то
 start - начать делать что-то
 
@@ -79,7 +73,6 @@ My colleague wants to look into this problem more thoroughly.
 The police are looking into this crime.
 
 ---
-
 Make up for - компенсировать
 make up for lost time - наверстать упущенное время 
 compensate - компенсировать
@@ -93,4 +86,30 @@ I don't think that they will be able to make up for these losses so quickly.
 give up - сдаваться, бросать(привычку)
 
 Never give up!
-He gave up smoking a couple og years ago
+He gave up smoking a couple of years ago.
+
+---
+throw away - выбрасывать
+
+She threw it away.
+I don't need it so you can throw it away.
+
+---
+Look up in - посмотреть, поискать(в справочнике, словаре, инструкций)
+
+I will look it up in a dictionary 
+You can look it up in a dictionary
+
+---
+ask out - приглашать на свидание
+
+He decided to ask her out.
+He was so happy to ask her out.
+
+---
+live out - упускать, не включать
+not to include -  упускать, не включать
+
+It is seen that the most important details weren't included 
+Some very important details were left out
+It is seen that 
