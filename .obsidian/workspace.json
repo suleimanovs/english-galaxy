@@ -62,6 +62,16 @@
             }
           },
           {
+            "id": "261e8ecf18ffd663",
+            "type": "leaf",
+            "state": {
+              "type": "log-log",
+              "state": {},
+              "icon": "view-log",
+              "title": "Self-hosted LiveSync Log"
+            }
+          },
+          {
             "id": "0b72251a8de7b236",
             "type": "leaf",
             "state": {
@@ -75,7 +85,8 @@
               "title": "Passive Voice — пассивный залог"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -261,7 +271,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "809d7e73aa7ee8a7",
+  "active": "261e8ecf18ffd663",
   "lastOpenFiles": [
     "english-galaxy-turquoise-course/B2/Lesson 1 - 150 важных фразовых глаголов.md",
     "grammar/voices/Passive Voice — пассивный залог.md",

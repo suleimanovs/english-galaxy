@@ -112,4 +112,4 @@ not to include -  упускать, не включать
 
 It is seen that the most important details weren't included 
 Some very important details were left out
-It is seen that 
+It is seen that the most important details were left out
