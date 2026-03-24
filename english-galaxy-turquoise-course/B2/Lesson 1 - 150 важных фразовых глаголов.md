@@ -44,7 +44,7 @@ My acquaintance went on talking about it.
 I'd like to go on learning English here.
 
 ---
-go on - происходит
+Go on - происходит
 happen - происходит
 
 What is going on here?
@@ -52,21 +52,21 @@ What is happening here?
 
 ---
 
-flick through - просмотреть, пролистать
+Flick through - просмотреть, пролистать
 
 I will flick through this document.
 I took one book and flick through it.
 
 ---
 
-see off - провожать
+See off - провожать
 
 I will see you off after the classes.
 He saw her off after the party.
 
 ---
 
-take up - начать заниматься чем-то
+Take up - начать заниматься чем-то
 start - начать делать что-то
 
 I took up learning English really seriously.
@@ -75,5 +75,22 @@ I took up jogging
 ---
 look into - изучать, расследовать
 
-M
+My colleague wants to look into this problem more thoroughly.
+The police are looking into this crime.
 
+---
+
+Make up for - компенсировать
+make up for lost time - наверстать упущенное время 
+compensate - компенсировать
+
+Who will compensate these losses ?
+Who will make up for these losses?
+I will try to make up for lost time.
+I don't think that they will be able to make up for these losses so quickly.
+
+---
+give up - сдаваться, бросать(привычку)
+
+Never give up!
+He gave up smoking a couple og years ago
