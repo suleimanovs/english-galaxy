@@ -44,3 +44,18 @@ meet - встретить
 
 I came across so many new words in this text.
 I have never come across this word.
+I have never come across this expression
+
+---
+carry on - продолжать
+go on - продолжать 
+
+We can't carry on doing it like that.
+I will carry on doing it
+
+---
+run out of - закончится
+
+She ran out of money
+We have just run out of time
+As I see we are running out of time
