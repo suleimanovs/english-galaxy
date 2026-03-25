@@ -4,50 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "47c541d79838f875",
-        "type": "tabs",
-        "dimension": 45.887445887445885,
-        "children": [
-          {
-            "id": "7964d2bbef9d77f6",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "fiXg6P_rDpI",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=fiXg6P_rDpI"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    }
-                  }
-                }
-              },
-              "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 2"
-            }
-          }
-        ]
-      },
-      {
         "id": "e4509af18d6cc682",
         "type": "tabs",
-        "dimension": 54.112554112554115,
         "children": [
           {
             "id": "26f4556100ce7756",
@@ -55,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-galaxy-turquoise-course/B2/Lesson 2 - 150 важных фразовых глаголов.md",
-                "mode": "source",
+                "file": "grammar/phrasal-Idiomatic/Phrasal Verbs — фразовые глаголы.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 2 - 150 важных фразовых глаголов"
+              "title": "Phrasal Verbs — фразовые глаголы"
             }
           }
         ]
@@ -120,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -251,10 +208,11 @@
   },
   "active": "26f4556100ce7756",
   "lastOpenFiles": [
-    "english-galaxy-turquoise-course/B2/Lesson 2 - 150 важных фразовых глаголов.md",
+    "grammar/Grammar Navigator.md",
+    "english-galaxy-turquoise-course/B2/Lesson 2 - 150 важных фразовых глаголов часть 2.md",
+    "english-galaxy-turquoise-course/B2/Lesson 1 - 150 важных фразовых глаголов часть 1.md",
     "english-galaxy-turquoise-course/B2/Lesson 2.md",
     "grammar/voices/Passive Voice — пассивный залог.md",
-    "english-galaxy-turquoise-course/B2/Lesson 1 - 150 важных фразовых глаголов.md",
     "english-galaxy-turquoise-course/B1/Lesson 49 Наречия в английском часть 3.md",
     "english-galaxy-turquoise-course/B1/Lesson 50 - Словообразование.md",
     "Home Page.md",
@@ -265,7 +223,6 @@
     "english-galaxy-turquoise-course/B1/Lesson 46 - Различные грамматические конструкций часть 2.md",
     "learn-5000-english-words/Lesson 61.md",
     "grammar/Grammar Reader.md",
-    "grammar/Grammar Navigator.md",
     "grammar/times/present-tenses/Present Simple — Настоящее простое время.md",
     "Без названия.md",
     "english-galaxy-turquoise-course/B1/Lesson 45 - Различные грамматические конструкций часть 1.md",

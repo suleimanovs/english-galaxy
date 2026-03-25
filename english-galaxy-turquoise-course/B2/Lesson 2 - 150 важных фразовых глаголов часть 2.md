@@ -59,3 +59,27 @@ run out of - закончится
 She ran out of money
 We have just run out of time
 As I see we are running out of time
+We need to hurry up because we are running out of time.
+
+---
+look down on ~~*someone*~~ - смотреть с высока на кого-то
+
+Some of his colleagues look down on him
+
+---
+get down - расстраивать, угнетать
+
+These problems sometimes get me down.
+This daily routine gets her down.
+
+---
+get down to - приступить к 
+
+I need to get down to work.
+Let's get down to business
+
+---
+find out - выяснить, узнать
+
+She wants to find out all the truth.
+She wants to find out the whole truth 
