@@ -12,3 +12,35 @@ How do you get on with your neighbors?
 get on well - хорошо ладить
 
 We get on well with each other
+
+---
+get along well - хорошо ладить
+
+My colleagues and I get along well with each other
+
+---
+
+catch up with - догнать кого-то
+
+I will try to catch up with the rest.
+I can't catch up with you.
+I will try to catch up with you
+
+---
+keep up with - поспевать, не отставать
+
+It was very difficult for him to keep up with the rest of the class.
+
+---
+be over - закончиться
+finish - закончиться 
+
+It will be over soon
+The game will be over soon.
+
+---
+come across - встретить, натолкнуться на кого-то ии что-то
+meet - встретить
+
+I came across so many new words in this text.
+I have never come across this word.
