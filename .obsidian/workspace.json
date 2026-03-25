@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "e4509af18d6cc682",
+        "id": "801c58cc46db3f44",
         "type": "tabs",
         "children": [
           {
-            "id": "26f4556100ce7756",
+            "id": "9f7897f1422d05d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mx-url",
               "state": {
-                "file": "grammar/phrasal-Idiomatic/Phrasal Verbs — фразовые глаголы.md",
-                "mode": "preview",
-                "source": false
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "GZrXWtOvJV4",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=GZrXWtOvJV4"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    }
+                  }
+                }
               },
-              "icon": "lucide-file",
-              "title": "Phrasal Verbs — фразовые глаголы"
+              "icon": "youtube",
+              "title": "ВЕСЬ АНГЛИЙСКИЙ ЯЗЫК В ОДНОМ КУРСЕ ENGLISH GALAXY АНГЛИЙСКИЙ ЯЗЫК ДЛЯ ПРОДВИНУТЫХ ADVANCED УРОК 300"
             }
           }
         ]
@@ -206,9 +226,13 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "26f4556100ce7756",
+  "active": "9f7897f1422d05d3",
   "lastOpenFiles": [
+    "english-galaxy-titanium-course/С1/Lesson 50.md",
+    "english-galaxy-titanium-course/B2/Lesson 2.md",
     "grammar/Grammar Navigator.md",
+    "grammar/Grammar Reader.md",
+    "grammar/phrasal-Idiomatic/Phrasal Verbs — фразовые глаголы.md",
     "english-galaxy-turquoise-course/B2/Lesson 2 - 150 важных фразовых глаголов часть 2.md",
     "english-galaxy-turquoise-course/B2/Lesson 1 - 150 важных фразовых глаголов часть 1.md",
     "english-galaxy-turquoise-course/B2/Lesson 2.md",
@@ -222,18 +246,14 @@
     "english-galaxy-turquoise-course/B1/Lesson 47 - Наречия в английском часть 1.md",
     "english-galaxy-turquoise-course/B1/Lesson 46 - Различные грамматические конструкций часть 2.md",
     "learn-5000-english-words/Lesson 61.md",
-    "grammar/Grammar Reader.md",
     "grammar/times/present-tenses/Present Simple — Настоящее простое время.md",
     "Без названия.md",
     "english-galaxy-turquoise-course/B1/Lesson 45 - Различные грамматические конструкций часть 1.md",
     "grammar/miscellaneous/Word Formation — словообразование.md",
     "grammar/miscellaneous/Tenses in Adverbial Clauses — времена в придаточных предложениях.md",
-    "grammar/phrasal-Idiomatic/Phrasal Verbs — фразовые глаголы.md",
     "grammar/miscellaneous/Purpose Clauses — конструкции выражения цели.md",
     "grammar/times/additional/Future Additional Introduction.md",
     "grammar/times/additional/Future in the Past — будущее в прошедшем.md",
-    "grammar/times/additional/Shall — предложения и формальный стиль.md",
-    "grammar/times/additional/Present Continuous для будущего — конкретные договорённости.md",
     "grammar/adjectives",
     "grammar/nouns",
     "learn-5000-english-words/regen-sentences.js",
