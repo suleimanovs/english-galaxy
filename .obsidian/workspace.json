@@ -10,6 +10,7 @@
           {
             "id": "b59c332555e5450f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "mx-url",
               "state": {
@@ -37,6 +38,7 @@
                   }
                 }
               },
+              "pinned": true,
               "icon": "youtube",
               "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 3"
             }
@@ -44,11 +46,11 @@
         ]
       },
       {
-        "id": "4509724f8bf84da7",
+        "id": "ee215616dac5bbd8",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "33bc67143a337ac9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -247,16 +249,16 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "33bc67143a337ac9",
   "lastOpenFiles": [
     "english-galaxy-turquoise-course/B2/Lesson 3 - 150 важных фразовых глаголов часть 3.md",
+    "grammar/Grammar Navigator.md",
+    "grammar/Grammar Reader.md",
     "english-galaxy-turquoise-course/B2/Lesson 4.md",
     "english-galaxy-turquoise-course/B2/Lesson 2 - 150 важных фразовых глаголов часть 2.md",
     "Home Page.md",
     "english-galaxy-titanium-course/С1/Lesson 50.md",
     "english-galaxy-titanium-course/B2/Lesson 2.md",
-    "grammar/Grammar Navigator.md",
-    "grammar/Grammar Reader.md",
     "grammar/phrasal-Idiomatic/Phrasal Verbs — фразовые глаголы.md",
     "english-galaxy-turquoise-course/B2/Lesson 1 - 150 важных фразовых глаголов часть 1.md",
     "english-galaxy-turquoise-course/B2/Lesson 2.md",

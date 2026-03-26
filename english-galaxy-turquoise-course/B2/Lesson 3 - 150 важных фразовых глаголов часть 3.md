@@ -36,3 +36,31 @@ He looks after his old grandmother
 look out -  смотреть посторонам, быть осторожным
 watch out -  смотреть посторонам, быть осторожным
 
+Watch out or you can fall!
+
+---
+bring out - воспитывать
+
+He was born and brought up in the United States.
+He was brought up by his uncle.
+
+---
+fall out / quarrel - ссориться
+
+He tries not to fall out with others 
+
+---
+look through - просмтаривать
+
+I will look through these documents.
+
+---
+fall behind - отставать
+
+If you don't do anything urgently you can fall behind very easily.
+She fell behind the rest of the group.
+
+---
+look back - оглянуться
+
+When she looks 
