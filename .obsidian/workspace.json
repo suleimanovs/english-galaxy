@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "801c58cc46db3f44",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "9f7897f1422d05d3",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "mx-url",
+              "type": "markdown",
               "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "GZrXWtOvJV4",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=GZrXWtOvJV4"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    }
-                  }
-                }
+                "file": "Home Page.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "youtube",
-              "title": "ВЕСЬ АНГЛИЙСКИЙ ЯЗЫК В ОДНОМ КУРСЕ ENGLISH GALAXY АНГЛИЙСКИЙ ЯЗЫК ДЛЯ ПРОДВИНУТЫХ ADVANCED УРОК 300"
+              "icon": "lucide-file",
+              "title": "Home Page"
             }
           }
         ]
@@ -226,8 +206,9 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "9f7897f1422d05d3",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home Page.md",
     "english-galaxy-titanium-course/С1/Lesson 50.md",
     "english-galaxy-titanium-course/B2/Lesson 2.md",
     "grammar/Grammar Navigator.md",
@@ -239,7 +220,6 @@
     "grammar/voices/Passive Voice — пассивный залог.md",
     "english-galaxy-turquoise-course/B1/Lesson 49 Наречия в английском часть 3.md",
     "english-galaxy-turquoise-course/B1/Lesson 50 - Словообразование.md",
-    "Home Page.md",
     "flag_rebuild.md",
     "learn-5000-english-words/Unknown Words.md",
     "english-galaxy-turquoise-course/B1/Lesson 48 - Наречия в английском часть 2.md",
