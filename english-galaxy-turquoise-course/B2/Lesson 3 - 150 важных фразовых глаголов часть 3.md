@@ -63,4 +63,16 @@ She fell behind the rest of the group.
 ---
 look back - оглянуться
 
-When she looks 
+When she looks back on those days, she realizes how happy she was.
+Looking back on my life I come to the conclusion that lots of mistakes were made
+
+---
+look ahead - забегать вперед, смотря вперед
+
+Looking ahead we need to be ready for it 
+Looking ahead we also need to take it into account
+
+---
+get across - донести, передать (мысль, идею)
+
+I will try to get across my message 
