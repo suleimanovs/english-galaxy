@@ -76,3 +76,13 @@ Looking ahead we also need to take it into account
 get across - донести, передать (мысль, идею)
 
 I will try to get across my message 
+I tried to get this point across
+
+---
+
+get back to - возвращаться к 
+
+Let's get back to discussing our work
+Let's get back to discussing it
+
+---

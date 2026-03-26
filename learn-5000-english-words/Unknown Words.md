@@ -254,44 +254,7 @@ async function runSync(log) {
     if (needGemini) await new Promise(r => setTimeout(r, GEMINI_DELAY_MS));
   }
 
-  // ── Check known words (interval >= threshold) ─────────────────────────────
-  const learning = Object.entries(tracker).filter(([, d]) => d.status === 'learning');
-  log(`Проверяю ${learning.length} learning слов в Anki...`);
-  let knownCount = 0;
 
-  for (const [word, data] of learning) {
-    try {
-      const noteIds = await ankiReq('findNotes', { query: `deck:"${ANKI_DECK}" tag:${wordToTag(word)}` });
-      if (!noteIds.length) continue;
-      const cards = await ankiReq('findCards', { query: `nid:${noteIds[0]}` });
-      if (!cards.length) continue;
-      const infos = await ankiReq('cardsInfo', { cards });
-      if (!infos.every(c => c.interval >= KNOWN_INTERVAL_DAYS)) continue;
-      const entry = unknown.find(w => w.word === word);
-      if (entry) await markAsKnown(entry.filePath, entry.word, entry.translation);
-      tracker[word].status  = 'known';
-      tracker[word].knownAt = new Date().toISOString().split('T')[0];
-      knownCount++;
-      await saveTracker(tracker);
-      log(`  <span style="color:#5cb85c">"${word}" — выучено, красный убран ✓</span>`);
-    } catch { /* skip */ }
-  }
-
-  // ── Mark removed (red removed manually, not through sync) ─────────────────
-  const currentSet = new Set(unknown.map(w => w.word));
-  let removedCount = 0;
-  for (const [word, data] of Object.entries(tracker)) {
-    if (data.status === 'learning' && !currentSet.has(word)) {
-      tracker[word].status = 'removed';
-      removedCount++;
-    }
-  }
-  if (removedCount > 0) await saveTracker(tracker);
-
-  const stats = Object.values(tracker).reduce((a, d) => { a[d.status] = (a[d.status]||0)+1; return a; }, {});
-  log(`<br><b>Готово!</b> Экспортировано: ${exported} | Выучено: ${knownCount} | Убрано: ${removedCount}`);
-  log(`Трекер: learning=${stats.learning||0} | known=${stats.known||0} | removed=${stats.removed||0}`);
-  return tracker;
 }
 
 // ─── RENDER TABLES ───────────────────────────────────────────────────────────
