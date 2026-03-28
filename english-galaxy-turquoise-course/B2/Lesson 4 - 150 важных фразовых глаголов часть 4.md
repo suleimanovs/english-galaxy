@@ -47,3 +47,23 @@ The cost of this apartment went up by ten percent last year
 go down - снижаться
 
 The price of oil has gone down by over thirty percent recently 
+Her income went down by twenty percent.
+
+---
+put up with - мириться с чем-то
+
+She can't put up with it anymore.
+He can't put up with this injustice.
+
+---
+put up - повысить
+
+They decided to put up the price.
+The company was forced to put up the price
+
+---
+go by  - проходить, идти (о времени)
+
+Time goes by so fast
+
+It is well-known fact  that time goes by so fast
