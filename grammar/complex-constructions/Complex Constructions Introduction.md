@@ -13,6 +13,8 @@
 [[Cleft Sentences — расщеплённые предложения]]
 [[Emphasis — конструкции усиления]]
 [[Ellipsis & Substitution — эллипсис и подстановка]]
+[[Noun Clauses — придаточные существительные]]
+[[Embedded Questions — косвенные вопросы]]
 
 
 **Краткий обзор раздела:**
@@ -29,3 +31,5 @@
 | Cleft Sentences | It was John who... / What I need is... — усиление фокуса |
 | Emphasis | Do/does/did для усиления; very/own/indeed/reflexive pronouns |
 | Ellipsis & Substitution | So do I / Neither do I; I think so; сокращения в ответах |
+| Noun Clauses | That/wh-/whether-clauses как подлежащее и дополнение; what vs that |
+| Embedded Questions | Прямой порядок слов, без do/does/did, whether vs if |

@@ -23,4 +23,27 @@ I think it is so, if my memory doesn't let me down
 
 ---
 drop out of - бросить учебу
-to everyone's surprise -
+to everyone's surprise - к всеобщему удивлению
+
+He dropped out of college to everyone's surprise
+
+---
+take off - снимать (одежду), взлетать
+
+The plain will take off in an hour.
+
+---
+talk over - обговорить
+
+I need to talk it over to you 
+
+---
+go up - вырастать, подниматься
+
+The price went up to our surprise 
+The cost of this apartment went up by ten percent last year
+
+---
+go down - снижаться
+
+The price of oil has gone down by over thirty percent recently 

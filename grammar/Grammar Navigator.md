@@ -208,6 +208,8 @@ const SECTIONS = [
       { en: 'Cleft Sentences', ru: 'расщеплённые предложения', file: 'Cleft Sentences — расщеплённые предложения' },
       { en: 'Emphasis', ru: 'конструкции усиления', file: 'Emphasis — конструкции усиления' },
       { en: 'Ellipsis & Substitution', ru: 'эллипсис и подстановка', file: 'Ellipsis & Substitution — эллипсис и подстановка' },
+      { en: 'Noun Clauses', ru: 'придаточные существительные', file: 'Noun Clauses — придаточные существительные' },
+      { en: 'Embedded Questions', ru: 'косвенные вопросы', file: 'Embedded Questions — косвенные вопросы' },
     ]
   },
   {
