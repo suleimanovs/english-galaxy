@@ -22,4 +22,5 @@ I know that he will never let us down.
 I think it is so, if my memory doesn't let me down
 
 ---
-
+drop out of - бросить учебу
+to everyone's surprise -
