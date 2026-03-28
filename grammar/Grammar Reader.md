@@ -381,11 +381,11 @@ const SECTIONS = [
   {
     id: 'complex', icon: '🏗', label: 'Сложные конструкции', color: '#6366F1',
     topics: [
-      { en: 'Reported Speech', ru: 'косвенная речь', file: 'grammar/сomplex-сonstructions/Reported Speech — косвенная речь' },
-      { en: 'Questions', ru: 'типы вопросов', file: 'grammar/сomplex-сonstructions/Questions — типы вопросов' },
-      { en: 'Relative Clauses', ru: 'who, which, that, whose...', file: 'grammar/сomplex-сonstructions/Relative Clauses — относительные придаточные' },
-      { en: 'Inversion', ru: 'инверсия', file: 'grammar/сomplex-сonstructions/Inversion — инверсия' },
-      { en: 'Comparisons', ru: 'степени сравнения', file: 'grammar/сomplex-сonstructions/Comparisons — степени сравнения' },
+      { en: 'Reported Speech', ru: 'косвенная речь', file: 'grammar/complex-constructions/Reported Speech — косвенная речь' },
+      { en: 'Questions', ru: 'типы вопросов', file: 'grammar/complex-constructions/Questions — типы вопросов' },
+      { en: 'Relative Clauses', ru: 'who, which, that, whose...', file: 'grammar/complex-constructions/Relative Clauses — относительные придаточные' },
+      { en: 'Inversion', ru: 'инверсия', file: 'grammar/complex-constructions/Inversion — инверсия' },
+      { en: 'Comparisons', ru: 'степени сравнения', file: 'grammar/complex-constructions/Comparisons — степени сравнения' },
       { en: 'Causative', ru: 'have / get something done', file: 'Causative — have, get something done' },
       { en: 'Subjunctive', ru: 'сослагательное наклонение', file: 'Subjunctive — сослагательное наклонение' },
       { en: 'Cleft Sentences', ru: 'расщеплённые предложения', file: 'Cleft Sentences — расщеплённые предложения' },
