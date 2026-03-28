@@ -15,6 +15,7 @@
 [[There Is, It Is — вводные конструкции]]
 [[Linking Words — дискурсивные маркеры]]
 [[Word Formation — словообразование]]
+[[Subject-Verb Agreement — согласование подлежащего и сказуемого]]
 [[Inversion — инверсия]] *(см. раздел 07 Сложные структуры)*
 
 
@@ -34,3 +35,4 @@
 | There Is / It Is | Наличие vs описание | There is = существует; It is = характеристика/погода/время |
 | Linking Words | However, moreover, therefore, nevertheless... | Это наречия, не союзы — нужна точка или ; перед ними |
 | Word Formation | Префиксы, суффиксы, конвертация, сложные слова | un-/dis-/mis-; -tion/-ment/-ness/-ity; -ful/-less; -ise/-ize |
+| Subject-Verb Agreement | Согласование подлежащего и сказуемого по числу | either...or, a number of / the number of, together with ≠ and |

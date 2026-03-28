@@ -227,6 +227,7 @@ const SECTIONS = [
       { en: 'There Is / It Is', ru: 'вводные конструкции', file: 'There Is, It Is — вводные конструкции' },
       { en: 'Linking Words', ru: 'however, therefore, moreover...', file: 'Linking Words — дискурсивные маркеры' },
       { en: 'Word Formation', ru: 'словообразование', file: 'Word Formation — словообразование' },
+      { en: 'Subject-Verb Agreement', ru: 'согласование подлежащего и сказуемого', file: 'Subject-Verb Agreement — согласование подлежащего и сказуемого' },
     ]
   },
   {

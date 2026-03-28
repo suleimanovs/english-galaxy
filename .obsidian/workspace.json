@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -249,6 +248,7 @@
   },
   "active": "5bea97e50d5c4c1f",
   "lastOpenFiles": [
+    "grammar/miscellaneous/Subject-Verb Agreement — согласование подлежащего и сказуемого.md",
     "english-galaxy-turquoise-course/B2/Lesson 4 - 150 важных фразовых глаголов часть 4.md",
     "learn-5000-english-words/Unknown Words.md",
     "grammar/phrasal-Idiomatic/dictionary/Common Phrasal Verbs — общая таблица.md",
@@ -275,7 +275,6 @@
     "grammar/nouns/Possessive Case — притяжательный падеж ('s vs of).md",
     "grammar/nouns/Plural Forms — множественное число.md",
     "grammar/nouns/Countable and Uncountable Nouns — исчисляемые и неисчисляемые.md",
-    "grammar/nouns/Nouns Introduction.md",
     "grammar/nouns",
     "grammar/complex-constructions",
     "grammar/adjectives",
