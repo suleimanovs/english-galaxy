@@ -65,5 +65,25 @@ The company was forced to put up the price
 go by  - проходить, идти (о времени)
 
 Time goes by so fast
+It is well-known fact that time goes by so fast.
 
-It is well-known fact  that time goes by so fast
+---
+think over - обдумывать
+
+She said that she would need some time to think over their proposal.
+
+---
+point out - отмечать, указывать
+
+I'd like to point out that - Я хотел бы отметить что ...
+
+I'd like to point out that it's worth our attention.
+I'd like to point out that is is really important.
+
+---
+
+point at - указывать на 
+point out - **указывать на ошибки**
+
+The teacher pointed at the screen.
+The teacher pointed out these mistakes 
