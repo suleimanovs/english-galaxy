@@ -1,5 +1,7 @@
 .idea
 .idea/
 .idea/*
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
 # secrets
 learn-5000-english-words/secrets.json
