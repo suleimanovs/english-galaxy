@@ -59,4 +59,18 @@ He gave away his old clothes
 He gave away this money to charity 
 
 ---
-pick up
+pick up - забрать, заехать за кем-то
+
+He will pick you up after school
+I will pick you up after the meeting finishes 
+
+---
+cut down on - уменьшить потребление чего-то
+
+He decided to cut down on smoking 
+She wants to cut down on eating chocolate 
+
+---
+cheer up - взбодриться
+
+I suppose this news will cheer you up.

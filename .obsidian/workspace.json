@@ -4,48 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "4f92b55c8bc79218",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1208c7bb1f3134de",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "awWllairKOg",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=awWllairKOg"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    }
-                  }
-                }
-              },
-              "pinned": true,
-              "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 5"
-            }
-          }
-        ]
-      },
-      {
         "id": "d01eecfdedf18865",
         "type": "tabs",
         "children": [
@@ -95,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Questions — типы вопросов",
+                "query": "cheer up",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -251,12 +208,13 @@
   },
   "active": "af5eb12f2d77079d",
   "lastOpenFiles": [
-    "english-galaxy-turquoise-course/B2/Lesson 4 - 150 важных фразовых глаголов часть 4.md",
     "english-galaxy-turquoise-course/B2/Lesson 5 - 150 важных фразовых глаголов часть 5.md",
+    "grammar/phrasal-Idiomatic/dictionary/Common Phrasal Verbs — общая таблица.md",
+    "grammar/phrasal-Idiomatic/dictionary/Phrasal Verbs Dictionary — Introduction.md",
+    "english-galaxy-turquoise-course/B2/Lesson 4 - 150 важных фразовых глаголов часть 4.md",
     "Home Page.md",
     "learn-5000-english-words/Unknown Words.md",
     "grammar/miscellaneous/Subject-Verb Agreement — согласование подлежащего и сказуемого.md",
-    "grammar/phrasal-Idiomatic/dictionary/Common Phrasal Verbs — общая таблица.md",
     "grammar/phrasal-Idiomatic/dictionary/Keep — фразовые глаголы.md",
     "grammar/phrasal-Idiomatic/dictionary/Fall — фразовые глаголы.md",
     "grammar/phrasal-Idiomatic/dictionary/Call — фразовые глаголы.md",
@@ -273,7 +231,6 @@
     "grammar/phrasal-Idiomatic/dictionary/Take — фразовые глаголы.md",
     "grammar/phrasal-Idiomatic/dictionary/Go — фразовые глаголы.md",
     "grammar/phrasal-Idiomatic/dictionary/Get — фразовые глаголы.md",
-    "grammar/phrasal-Idiomatic/dictionary/Phrasal Verbs Dictionary — Introduction.md",
     "grammar/phrasal-Idiomatic/dictionary",
     "grammar/complex-constructions/Embedded Questions — косвенные вопросы.md",
     "grammar/complex-constructions/Noun Clauses — придаточные существительные.md",
