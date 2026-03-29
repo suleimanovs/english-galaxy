@@ -30,3 +30,33 @@ The robbers didn't manage to get away.
 put forward - выдвигать, предлагать
 
 A new interesting suggestion was put forward.
+They put forward a very interesting idea.
+
+---
+put out - потушить
+
+He put out the fire.
+
+---
+figure out  - понимать
+make out - понимать
+
+I can't make out what is going on.
+I can't make out what she is talking about.
+As far as I can make out we need to do the following 
+
+---
+carry out - проводить
+conduct - carry out
+
+I'm going to carry out this research.
+They carried out a very interesting experiment. 
+
+---
+give away - раздать, отдавать
+
+He gave away his old clothes 
+He gave away this money to charity 
+
+---
+pick up
