@@ -208,6 +208,8 @@
   },
   "active": "af5eb12f2d77079d",
   "lastOpenFiles": [
+    "english words/English Words.md",
+    "english words/english_words.csv",
     "learn-5000-english-words/Vocabulary Glossary.md",
     "grammar/Grammar Map.md",
     "english-galaxy-turquoise-course/B2/Lesson 5 - 150 важных фразовых глаголов часть 5.md",
@@ -234,7 +236,6 @@
     "grammar/phrasal-Idiomatic/dictionary/Go — фразовые глаголы.md",
     "grammar/phrasal-Idiomatic/dictionary/Get — фразовые глаголы.md",
     "grammar/phrasal-Idiomatic/dictionary",
-    "grammar/complex-constructions/Embedded Questions — косвенные вопросы.md",
     "grammar/nouns",
     "grammar/complex-constructions",
     "grammar/adjectives",
@@ -243,7 +244,6 @@
     "learn-5000-english-words/word-tracker.json",
     "learn-5000-english-words/word-tracker.csv",
     "learn-5000-english-words/_migrate.js",
-    "learn-5000-english-words/_fix-tracker.js",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
