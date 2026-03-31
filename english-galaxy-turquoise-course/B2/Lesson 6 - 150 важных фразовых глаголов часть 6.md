@@ -82,6 +82,9 @@ call for - требовать
 need, require = call for
 
 This type of work calls for more skills and professionalism.
+It calls for extra efforts.
+This kind of work calls for more concentration.
 
-It calls for
+
+
 
