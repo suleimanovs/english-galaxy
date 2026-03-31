@@ -52,3 +52,36 @@ I will write this word down
 come along - пойти, пойти с кем-то
 
 You can come along with come
+Do you want to come along with me ?
+Do you want to come along ?
+
+---
+check in - зарегестрироваться
+
+I checked in at the hotel 
+I have already checked in at the hotel
+When are you going to check in ?
+
+---
+check out - выезжать из отелья
+
+What time will he check out?
+
+---
+break out - разразиться, вспыхнуть
+
+The fire broke out suddenly.
+
+---
+dress down - одеваться неформально
+
+Some office workers dress down on Fridays 
+
+---
+call for - требовать
+need, require = call for
+
+This type of work calls for more skills and professionalism.
+
+It calls for
+
