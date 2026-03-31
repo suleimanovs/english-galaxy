@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d01eecfdedf18865",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "af5eb12f2d77079d",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home Page.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -206,8 +206,9 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "af5eb12f2d77079d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home Page.md",
     "english words/English Words.md",
     "learn-5000-english-words/Unknown Words.md",
     "english words/english_words.csv",
@@ -217,7 +218,6 @@
     "grammar/phrasal-Idiomatic/dictionary/Common Phrasal Verbs — общая таблица.md",
     "grammar/phrasal-Idiomatic/dictionary/Phrasal Verbs Dictionary — Introduction.md",
     "english-galaxy-turquoise-course/B2/Lesson 4 - 150 важных фразовых глаголов часть 4.md",
-    "Home Page.md",
     "grammar/miscellaneous/Subject-Verb Agreement — согласование подлежащего и сказуемого.md",
     "grammar/phrasal-Idiomatic/dictionary/Keep — фразовые глаголы.md",
     "grammar/phrasal-Idiomatic/dictionary/Fall — фразовые глаголы.md",
