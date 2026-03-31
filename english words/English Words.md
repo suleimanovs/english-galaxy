@@ -121,6 +121,10 @@ const CATS = [
   { id: 'Make vs Do', label: 'Make vs Do', icon: '🔴', color: '#EF4444' },
   { id: 'Идиомы', label: 'Идиомы', icon: '🟠', color: '#F97316' },
   { id: 'Похожие слова (Confusing Words)', label: 'Похожие слова', icon: '⚪', color: '#6366F1' },
+  { id: 'Ложные друзья (False Friends)', label: 'Ложные друзья', icon: '🪤', color: '#DC2626' },
+  { id: 'Have / Take / Give', label: 'Have / Take / Give', icon: '🤲', color: '#0891B2' },
+  { id: 'Предлоги времени и места (in/on/at)', label: 'in / on / at', icon: '📍', color: '#059669' },
+  { id: 'Go / Come / Get', label: 'Go / Come / Get', icon: '🚀', color: '#7C3AED' },
 ];
 
 // ── Load CSV ────────────────────────────────────────
