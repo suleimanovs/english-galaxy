@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "grammar/phrasal-Idiomatic/Phrasal Verbs Anki.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phrasal Verbs Anki"
             }
           }
         ]
@@ -214,6 +218,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "learn-5000-english-words/Lesson 49.md",
     "grammar/phrasal-Idiomatic/Phrasal Verbs Anki.md",
     "grammar/phrasal-Idiomatic/Phrasal Verbs — фразовые глаголы.md",
     "grammar/phrasal-Idiomatic/Complex Introduction.md",
@@ -241,7 +246,6 @@
     "grammar/phrasal-Idiomatic/dictionary/Run — фразовые глаголы.md",
     "grammar/phrasal-Idiomatic/dictionary/Make — фразовые глаголы.md",
     "grammar/phrasal-Idiomatic/dictionary/Set — фразовые глаголы.md",
-    "grammar/phrasal-Idiomatic/dictionary/Give — фразовые глаголы.md",
     "grammar/phrasal-Idiomatic/dictionary",
     "grammar/nouns",
     "grammar/complex-constructions",
