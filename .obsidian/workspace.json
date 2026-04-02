@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learn-5000-english-words/Lesson 19 (92-100).md",
-                "mode": "source",
+                "file": "english words/English Words.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 19 (92-100)"
+              "title": "English Words"
             }
           }
         ]
@@ -218,6 +218,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "english words/anki/Anki Decks.md",
+    "learn-5000-english-words/Lesson 19 (92-100).md",
     "english words/anki/phrasal-nouns-tracker.csv",
     "english words/anki/false-friends-tracker.csv",
     "english words/anki/irregular-verbs-tracker.csv",
@@ -228,7 +230,6 @@
     "english words/anki/idioms-tracker.csv",
     "english words/anki",
     "learn-5000-english-words/Lesson 20(101-106).md",
-    "learn-5000-english-words/Lesson 19 (92-100).md",
     "learn-5000-english-words/Lesson 18 (87-91).md",
     "learn-5000-english-words/Lesson 17 (80-86).md",
     "learn-5000-english-words/Lesson 16(75-79).md",
@@ -253,7 +254,6 @@
     "learn-5000-english-words/Lesson 49.md",
     "grammar/phrasal-Idiomatic/Phrasal Verbs — фразовые глаголы.md",
     "grammar/phrasal-Idiomatic/phrasal-verbs-tracker.csv",
-    "english words/english_words.csv",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
