@@ -24,3 +24,4 @@
 | 16 | **go up** | подниматься; расти (цена) | intrans | Prices have gone up again. | |
 | 17 | **go down** | снижаться; садиться (солнце) | intrans | The temperature went down. / The sun went down at 8. | |
 | 18 | **go away** | уехать; уйти; исчезнуть | intrans | Go away! / The pain won't go away. | ср. go out (выйти ненадолго) |
+| 19 | **go for** | стремиться к; выбрать | insep | Go for it! / She went for the cheapest option. | |

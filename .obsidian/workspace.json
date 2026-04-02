@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english words/English Words.md",
+                "file": "learn-5000-english-words/Unknown Words.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "English Words"
+              "title": "Unknown Words"
             }
           }
         ]
@@ -208,18 +208,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "learn-5000-english-words/Vocabulary Glossary.md",
+    "learn-5000-english-words/Progress.md",
+    "learn-5000-english-words/Unknown Words.md",
+    "english words/English Words.md",
     "grammar/phrasal-Idiomatic/Particles Reference.md",
     "english words/New.md",
-    "english words/English Words.md",
     "Home Page.md",
     "grammar/Grammar Reader.md",
     "grammar/Grammar Map.md",
     "english-galaxy-turquoise-course/B2/Lesson 5 - 150 важных фразовых глаголов часть 5.md",
     "english-galaxy-turquoise-course/B2/Lesson 8.md",
     "english-galaxy-turquoise-course/B2/Lesson 6 - 150 важных фразовых глаголов часть 6.md",
-    "learn-5000-english-words/Unknown Words.md",
     "english words/english_words.csv",
-    "learn-5000-english-words/Vocabulary Glossary.md",
     "grammar/phrasal-Idiomatic/dictionary/Common Phrasal Verbs — общая таблица.md",
     "grammar/phrasal-Idiomatic/dictionary/Phrasal Verbs Dictionary — Introduction.md",
     "english-galaxy-turquoise-course/B2/Lesson 4 - 150 важных фразовых глаголов часть 4.md",
@@ -234,7 +235,6 @@
     "grammar/phrasal-Idiomatic/dictionary/Bring — фразовые глаголы.md",
     "grammar/phrasal-Idiomatic/dictionary/Break — фразовые глаголы.md",
     "grammar/phrasal-Idiomatic/dictionary/Look — фразовые глаголы.md",
-    "grammar/phrasal-Idiomatic/dictionary/Put — фразовые глаголы.md",
     "grammar/phrasal-Idiomatic/dictionary",
     "grammar/nouns",
     "grammar/complex-constructions",

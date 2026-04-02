@@ -14,3 +14,4 @@
 | 6 | **look forward to** | ждать с нетерпением | insep | I'm looking forward to the holiday. | после to — герундий: *looking forward to **seeing** you* ✓; ~~to see~~ ✗ |
 | 7 | **look up to** | уважать; восхищаться | insep | Children look up to their parents. | антоним: look down on |
 | 8 | **look down on** | смотреть свысока на | insep | Don't look down on people who earn less. | антоним: look up to |
+| 9 | **look out for** | присматривать за; быть начеку | insep | Look out for pickpockets. / Can you look out for my parcel? | |

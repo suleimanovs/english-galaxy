@@ -26,3 +26,5 @@
 | 18 | **get out of** | выбраться из | insep | Get out of the car. | |
 | 19 | **get out of** | избежать (обязанности) | insep | He always gets out of doing housework. | |
 | 20 | **get rid of** | избавиться от | insep | I need to get rid of these old clothes. | |
+| 21 | **get by** | сводить концы с концами; обходиться | intrans | We don't earn much but we get by. / She gets by on a small pension. | |
+| 22 | **get along** | уживаться; ладить | intrans | We get along fine. / They don't get along. | AmE; = get on (BrE); без with |

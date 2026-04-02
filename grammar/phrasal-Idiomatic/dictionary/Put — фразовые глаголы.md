@@ -24,3 +24,4 @@
 | 16 | **put out** | причинить неудобство | sep | I don't want to put you out. | |
 | 17 | **put through** | соединить (по телефону) | sep | Can you put me through to the manager? | |
 | 18 | **put through** | подвергнуть | sep | He put his family through a lot. | |
+| 19 | **put forward** | предложить (идею, кандидатуру) | sep | She put forward an interesting proposal. / He put himself forward for the role. | |
