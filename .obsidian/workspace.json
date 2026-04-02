@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grammar/phrasal-Idiomatic/Phrasal Verbs — фразовые глаголы.md",
+                "file": "grammar/phrasal-Idiomatic/dictionary/Phrasal Verbs Dictionary — Introduction.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phrasal Verbs — фразовые глаголы"
+              "title": "Phrasal Verbs Dictionary — Introduction"
             }
           }
         ]
@@ -208,11 +208,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "grammar/phrasal-Idiomatic/Particles Reference.md",
+    "grammar/phrasal-Idiomatic/Complex Introduction.md",
+    "grammar/phrasal-Idiomatic/Phrasal Verbs — фразовые глаголы.md",
     "learn-5000-english-words/Unknown Words.md",
     "learn-5000-english-words/Vocabulary Glossary.md",
     "learn-5000-english-words/Progress.md",
     "english words/English Words.md",
-    "grammar/phrasal-Idiomatic/Particles Reference.md",
     "english words/New.md",
     "Home Page.md",
     "grammar/Grammar Reader.md",
@@ -233,8 +235,6 @@
     "grammar/phrasal-Idiomatic/dictionary/Set — фразовые глаголы.md",
     "grammar/phrasal-Idiomatic/dictionary/Give — фразовые глаголы.md",
     "grammar/phrasal-Idiomatic/dictionary/Bring — фразовые глаголы.md",
-    "grammar/phrasal-Idiomatic/dictionary/Break — фразовые глаголы.md",
-    "grammar/phrasal-Idiomatic/dictionary/Look — фразовые глаголы.md",
     "grammar/phrasal-Idiomatic/dictionary",
     "grammar/nouns",
     "grammar/complex-constructions",
