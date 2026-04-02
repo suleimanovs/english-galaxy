@@ -25,6 +25,8 @@
 | 8 | **blow up** | разразиться гневом | intrans | He blew up at me over nothing. | |
 | 9 | **blow out** | задуть (свечу) | sep | Blow out the candles and make a wish. | |
 | 10 | **build up** | нарастить; накопить | sep / intrans | She built up her confidence over time. / Pressure is building up. | |
+| 11 | **burn out** | выгореть (эмоционально); перегореть | intrans | She burned out after years of overwork. / The light bulb burned out. | |
+| 12 | **burn down** | сгореть; сжечь | intrans / sep | The house burned down. / They burned down the factory. | |
 
 ---
 
@@ -35,6 +37,7 @@
 | 11 | **calm down** | успокоить(ся) | intrans / sep | Calm down! / She calmed the children down. | |
 | 12 | **carry on** | продолжать | intrans | Carry on with your work. / Keep calm and carry on. | |
 | 13 | **carry out** | выполнить; провести | sep | Scientists carried out an experiment. | |
+| XX | **carry away** | увлечь | sep | Don't get carried away! / She got carried away with shopping. | обычно в passive: *get carried away* |
 | 14 | **catch up (with)** | догнать; наверстать | intrans / insep | I need to catch up with the rest of the class. | |
 | 15 | **catch up** | встретиться (пообщаться) | intrans | Let's catch up over coffee. | informal |
 | 16 | **check in** | зарегистрироваться (отель, аэропорт) | intrans | We checked in at the hotel. | |
@@ -43,9 +46,12 @@
 | 19 | **cheer up** | подбодрить; повеселеть | sep / intrans | Cheer up! / The music cheered me up. | |
 | 20 | **clean up** | убрать; навести порядок | sep / intrans | Clean up your room. / We cleaned up after the party. | |
 | 21 | **close down** | закрыться (навсегда) | intrans / sep | The factory closed down last year. | |
+| XX | **clear up** | прояснить(ся) | intrans / sep | The weather cleared up. / Can you clear up this misunderstanding? | |
+| XX | **clear up** | убрать | sep / intrans | Clear up your desk. / Let's clear up before we go. | |
 | 22 | **cool down** | остыть | intrans | Let the soup cool down. | |
 | 23 | **cool down** | успокоиться | intrans | He needs to cool down before we talk. | |
 | 24 | **count on** | рассчитывать на | insep | You can count on me. / Don't count on it. | |
+| XX | **crack down (on)** | принять жёсткие меры (против) | intrans / insep | Police are cracking down on speeding. | |
 | 25 | **cross out** | зачеркнуть | sep | Cross out the wrong answer. | |
 | 26 | **cut down (on)** | сократить (потребление) | intrans / insep | I'm cutting down on sugar. | |
 | 27 | **cut off** | отрезать; прервать связь | sep | They cut off the electricity. / We were cut off during the call. | |

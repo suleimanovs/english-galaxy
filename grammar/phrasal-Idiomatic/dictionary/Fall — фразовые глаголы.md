@@ -16,3 +16,4 @@
 | 8 | **fall apart** | развалиться (эмоционально / организационно) | intrans | She fell apart after the divorce. / The team fell apart without a leader. | |
 | 9 | **fall for** | влюбиться | insep | She fell for him immediately. | |
 | 10 | **fall for** | попасться на (обман) | insep | Don't fall for this scam! | *I can't believe you fell for that trick!* |
+| 11 | **fall off** | уменьшиться; снизиться | intrans | Sales fell off sharply. / Interest in the project fell off. | |

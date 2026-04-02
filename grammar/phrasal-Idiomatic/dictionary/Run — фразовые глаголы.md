@@ -16,3 +16,5 @@
 | 8 | **run away** | убежать | intrans | The dog ran away from home. / Don't run away from your problems. | |
 | 9 | **run through** | пробежаться по; просмотреть | insep | Let me run through the agenda quickly. | |
 | 10 | **run up** | набрать (долг); набежать (счёт) | sep | She ran up a huge phone bill. | |
+| 11 | **run down** | раскритиковать | sep | Stop running me down in front of people. | |
+| 12 | **run down** | иссякнуть (о батарее, заводе) | intrans | The battery has run down. | |

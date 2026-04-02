@@ -24,3 +24,4 @@
 | 16 | **come round/around** | прийти в сознание | intrans | She fainted but came round quickly. | |
 | 17 | **come round/around** | зайти в гости | intrans | Come round for dinner. | |
 | 18 | **come round/around** | изменить мнение | intrans | He'll come around eventually. | |
+| 19 | **come down** | снизиться (о цене, температуре) | intrans | Prices have come down. / The temperature came down overnight. | |
