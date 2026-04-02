@@ -4,31 +4,23 @@
 
 ---
 
-| # | Фразовый глагол | Перевод | Тип | Пример |
-|---|---|---|---|---|
-| 1 | **break down** | сломаться; расплакаться; рухнуть (переговоры) | intrans | The car broke down. / She broke down in tears. / Talks broke down. |
-| 2 | **break up** | расстаться; разбить; распустить | intrans / sep | They broke up last month. / Break up the chocolate. / School breaks up on Friday. |
-| 3 | **break in** | вломиться; разносить (обувь) | intrans / sep | Someone broke in last night. / I need to break in these new shoes. |
-| 4 | **break into** | вломиться в; начать (внезапно) | insep | They broke into the house. / She broke into a smile. / He broke into a run. |
-| 5 | **break out** | вспыхнуть (война, пожар); сбежать | intrans | War broke out in 1914. / Three prisoners broke out of jail. |
-| 6 | **break through** | прорваться; совершить прорыв | insep / intrans | The sun broke through the clouds. / Scientists broke through in cancer research. |
-| 7 | **break off** | отломить; прервать (отношения/переговоры) | sep / intrans | She broke off a piece of bread. / They broke off the engagement. |
-
----
-
-#### Нюансы и дополнительные значения
-
-**break down** — три разных значения:
-- Техника: *My car broke down on the highway.* (сломался)
-- Эмоции: *He broke down and cried.* (расплакался)
-- Переговоры: *Peace talks broke down.* (провалились)
-- Переходное (sep): разложить на части: *Let's break down the problem into steps.*
-
-**break in** vs **break into**:
-- break in = вломиться (без объекта): *Someone broke in while we were away.*
-- break into = вломиться в (с объектом): *They broke into the shop.*
-
-**break out** + предлог:
-- break out = вспыхнуть: *Fire broke out.*
-- break out of = сбежать из: *He broke out of prison.*
-- break out in = покрыться: *She broke out in a rash.*
+| # | Фразовый глагол | Перевод | Тип | Пример | Заметки |
+|---|---|---|---|---|---|
+| 1 | **break down** | сломаться (о технике) | intrans | The car broke down on the highway. | |
+| 2 | **break down** | расплакаться | intrans | He broke down and cried. | |
+| 3 | **break down** | рухнуть (о переговорах) | intrans | Peace talks broke down. | |
+| 4 | **break down** | разложить на части | sep | Let's break down the problem into steps. | переходное значение |
+| 5 | **break up** | расстаться | intrans | They broke up last month. | |
+| 6 | **break up** | разбить на части | sep | Break up the chocolate. | |
+| 7 | **break up** | распустить(ся) | intrans | School breaks up on Friday. | |
+| 8 | **break in** | вломиться | intrans | Someone broke in last night. | без объекта; ср. break into |
+| 9 | **break in** | разносить (обувь) | sep | I need to break in these new shoes. | |
+| 10 | **break into** | вломиться в | insep | They broke into the house. | с объектом; ср. break in |
+| 11 | **break into** | начать (внезапно) | insep | She broke into a smile. / He broke into a run. | |
+| 12 | **break out** | вспыхнуть (война, пожар) | intrans | War broke out in 1914. | |
+| 13 | **break out of** | сбежать из | insep | Three prisoners broke out of jail. | |
+| 14 | **break out in** | покрыться | insep | She broke out in a rash. | |
+| 15 | **break through** | прорваться | insep | The sun broke through the clouds. | |
+| 16 | **break through** | совершить прорыв | intrans | Scientists broke through in cancer research. | |
+| 17 | **break off** | отломить | sep | She broke off a piece of bread. | |
+| 18 | **break off** | прервать (отношения/переговоры) | sep | They broke off the engagement. | |

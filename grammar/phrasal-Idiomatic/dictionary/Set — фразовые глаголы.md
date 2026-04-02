@@ -4,26 +4,18 @@
 
 ---
 
-| # | Фразовый глагол | Перевод | Тип | Пример |
-|---|---|---|---|---|
-| 1 | **set up** | создать; организовать; настроить | sep | She set up her own business. / Can you set up the equipment? |
-| 2 | **set off** | отправиться в путь; вызвать (реакцию); активировать | intrans / sep | We set off at dawn. / The noise set off the alarm. / His comment set off a debate. |
-| 3 | **set out** | отправиться; намереваться; изложить | intrans | We set out early. / She set out to prove them wrong. / He set out his ideas clearly. |
-| 4 | **set back** | задержать; обойтись (в сумму) | sep | The delay set us back two weeks. / The repair set me back £500. |
-| 5 | **set in** | наступить (о чём-то плохом) | intrans | Winter has set in. / Panic set in when the lights went out. |
-| 6 | **set aside** | отложить (время/деньги); отбросить | sep | Set aside some money for emergencies. / Let's set aside our differences. |
-
----
-
-#### Нюансы и дополнительные значения
-
-**set off** vs **set out** — оба значат «отправиться в путь»:
-- Практически взаимозаменяемы: *We set off/set out at 6 a.m.*
-- set out чаще с «намереваться»: *She set out to change the world.*
-- set off чаще с «вызвать реакцию»: *The joke set off a wave of laughter.*
-
-**set up** — очень продуктивный:
-- Бизнес: *He set up a company.*
-- Оборудование: *Can you set up the projector?*
-- Встреча: *Let's set up a meeting for Monday.*
-- Подставить (informal): *He claims he was set up.*
+| # | Фразовый глагол | Перевод | Тип | Пример | Заметки |
+|---|---|---|---|---|---|
+| 1 | **set up** | создать; организовать | sep | She set up her own business. / Let's set up a meeting for Monday. | |
+| 2 | **set up** | настроить (оборудование) | sep | Can you set up the projector? | |
+| 3 | **set up** | подставить | sep | He claims he was set up. | informal |
+| 4 | **set off** | отправиться в путь | intrans | We set off at dawn. | ≈ set out; взаимозаменяемы |
+| 5 | **set off** | вызвать (реакцию); активировать | sep | The noise set off the alarm. / His comment set off a debate. | |
+| 6 | **set out** | отправиться | intrans | We set out early. | ≈ set off |
+| 7 | **set out** | намереваться | intrans | She set out to prove them wrong. / She set out to change the world. | чаще set out, чем set off |
+| 8 | **set out** | изложить | sep | He set out his ideas clearly. | |
+| 9 | **set back** | задержать | sep | The delay set us back two weeks. | |
+| 10 | **set back** | обойтись (в сумму) | sep | The repair set me back £500. | informal |
+| 11 | **set in** | наступить (о чём-то плохом) | intrans | Winter has set in. / Panic set in when the lights went out. | |
+| 12 | **set aside** | отложить (время/деньги) | sep | Set aside some money for emergencies. | |
+| 13 | **set aside** | отбросить | sep | Let's set aside our differences. | |
