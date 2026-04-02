@@ -208,6 +208,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "grammar/phrasal-Idiomatic/Phrasal Verbs Anki.md",
+    "grammar/phrasal-Idiomatic/phrasal-verbs-tracker.csv",
     "grammar/phrasal-Idiomatic/dictionary/Phrasal Verbs Dictionary — Introduction.md",
     "grammar/phrasal-Idiomatic/Particles Reference.md",
     "grammar/phrasal-Idiomatic/Complex Introduction.md",
@@ -234,7 +236,6 @@
     "grammar/phrasal-Idiomatic/dictionary/Make — фразовые глаголы.md",
     "grammar/phrasal-Idiomatic/dictionary/Set — фразовые глаголы.md",
     "grammar/phrasal-Idiomatic/dictionary/Give — фразовые глаголы.md",
-    "grammar/phrasal-Idiomatic/dictionary/Bring — фразовые глаголы.md",
     "grammar/phrasal-Idiomatic/dictionary",
     "grammar/nouns",
     "grammar/complex-constructions",
@@ -243,7 +244,6 @@
     "grammar/miscellaneous",
     "learn-5000-english-words/word-tracker.json",
     "learn-5000-english-words/word-tracker.csv",
-    "learn-5000-english-words/_migrate.js",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]

@@ -5,6 +5,7 @@
 
 [[Phrasal Verbs — фразовые глаголы]]
 [[Particles Reference|Справочник частиц]]
+[[Phrasal Verbs Anki|Anki — экспорт и синхронизация]]
 [[Phrasal Verbs Dictionary — Introduction|Словарь 200 фразовых глаголов]]
 
 
