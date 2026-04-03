@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-galaxy-titanium-course/A1/Lesson 7.md",
+                "file": "english words/anki/Anki Decks.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 7"
+              "title": "Anki Decks"
             }
           }
         ]
@@ -216,8 +216,10 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "6fc422490737c0b3",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home Page.md",
+    "english-galaxy-titanium-course/A1/Lesson 7.md",
     "grammar/External Resources — внешние ресурсы.md",
     "english-galaxy-turquoise-course/A2/Lesson 15.md",
     "english-galaxy-turquoise-course/A2/Lesson 14.md",
@@ -242,8 +244,6 @@
     "english-do-automatizma-course/Lesson 1028.md",
     "english-do-automatizma-course/Lesson 1027.md",
     "english-do-automatizma-course/Lesson 1026.md",
-    "english-do-automatizma-course/Lesson 1025.md",
-    "english-do-automatizma-course/Lesson 1024.md",
     "english-galaxy-turquoise-course/A1",
     "english-galaxy-turquoise-course/A0",
     "grammar/exam-prep",
