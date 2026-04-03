@@ -47,10 +47,15 @@ async function getAudioUrl(word) {
   return null;
 }
 
+async function getGoogleTtsUrl(word) {
+  return `https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en&q=${encodeURIComponent(word)}`;
+}
+
 async function downloadFile(url, filepath) {
   const res = await fetch(url);
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const buffer = Buffer.from(await res.arrayBuffer());
+  if (buffer.length < 100) throw new Error('file too small, likely empty');
   fs.writeFileSync(filepath, buffer);
   return buffer;
 }
@@ -107,14 +112,25 @@ async function main() {
         audioBuffer = fs.readFileSync(filepath);
         process.stdout.write('cached → ');
       } else {
-        const audioUrl = await getAudioUrl(word);
+        let audioUrl = await getAudioUrl(word);
+        let source = 'dict';
         if (!audioUrl) {
-          console.log('no audio found, skipping');
-          noAudio++;
-          continue;
+          audioUrl = await getGoogleTtsUrl(word);
+          source = 'gtts';
         }
-        audioBuffer = await downloadFile(audioUrl, filepath);
-        process.stdout.write('downloaded → ');
+        try {
+          audioBuffer = await downloadFile(audioUrl, filepath);
+        } catch {
+          // If dictionary API file failed, try Google TTS as fallback
+          if (source === 'dict') {
+            audioUrl = await getGoogleTtsUrl(word);
+            audioBuffer = await downloadFile(audioUrl, filepath);
+            source = 'gtts';
+          } else {
+            throw new Error('both sources failed');
+          }
+        }
+        process.stdout.write(`${source} → `);
       }
 
       // 2. Upload to Anki media
