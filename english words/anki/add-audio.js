@@ -31,27 +31,8 @@ function toTag(word) {
 }
 
 // ─── DOWNLOAD AUDIO ──────────────────────────────────────────────────────────
-async function getAudioUrl(word) {
-  // Free Dictionary API
-  const res = await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(word)}`);
-  if (!res.ok) return null;
-  const data = await res.json();
-  if (!Array.isArray(data)) return null;
-
-  // Find first non-empty audio URL (prefer US pronunciation)
-  for (const entry of data) {
-    for (const ph of (entry.phonetics || [])) {
-      if (ph.audio && ph.audio.length > 0) return ph.audio;
-    }
-  }
-  return null;
-}
-
-async function getGoogleTtsUrl(word) {
-  return `https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en&q=${encodeURIComponent(word)}`;
-}
-
-async function downloadFile(url, filepath) {
+async function downloadAudio(word, filepath) {
+  const url = `https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en&q=${encodeURIComponent(word)}`;
   const res = await fetch(url);
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const buffer = Buffer.from(await res.arrayBuffer());
@@ -112,25 +93,8 @@ async function main() {
         audioBuffer = fs.readFileSync(filepath);
         process.stdout.write('cached → ');
       } else {
-        let audioUrl = await getAudioUrl(word);
-        let source = 'dict';
-        if (!audioUrl) {
-          audioUrl = await getGoogleTtsUrl(word);
-          source = 'gtts';
-        }
-        try {
-          audioBuffer = await downloadFile(audioUrl, filepath);
-        } catch {
-          // If dictionary API file failed, try Google TTS as fallback
-          if (source === 'dict') {
-            audioUrl = await getGoogleTtsUrl(word);
-            audioBuffer = await downloadFile(audioUrl, filepath);
-            source = 'gtts';
-          } else {
-            throw new Error('both sources failed');
-          }
-        }
-        process.stdout.write(`${source} → `);
+        audioBuffer = await downloadAudio(word, filepath);
+        process.stdout.write('downloaded → ');
       }
 
       // 2. Upload to Anki media

@@ -4,8 +4,7 @@ const ANKI_URL            = 'http://localhost:8765';
 const ANKI_DECK           = 'English Galaxy — Phrasal Verbs';
 const ANKI_MODEL          = 'Простая';
 const KNOWN_INTERVAL_DAYS = 7;
-const FOLDER              = dv.current().file.folder;
-const TRACKER_PATH        = FOLDER + '/phrasal-verbs-tracker.csv';
+const TRACKER_PATH        = 'english words/anki/phrasal-verbs-tracker.csv';
 
 // ─── ANKI ────────────────────────────────────────────────────────────────────
 const { requestUrl } = require('obsidian');
