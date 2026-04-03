@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english words/anki/Anki Decks.md",
-                "mode": "preview",
+                "file": "Home Page.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anki Decks"
+              "title": "Home Page"
             }
           }
         ]
@@ -189,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5,
-    "collapsed": true
+    "width": 509.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,17 +217,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "english words/anki/phrasal-verbs-tracker.csv",
-    "english words/anki/audio/eg_ff_physician.mp3",
-    "english words/anki/audio/eg_ff_monitor.mp3",
-    "english words/anki/audio/eg_ff_mayor.mp3",
-    "english words/anki/audio/eg_ff_harmony.mp3",
-    "english words/anki/audio/eg_ff_expert.mp3",
-    "english words/anki/audio/eg_ff_direction.mp3",
-    "english words/anki/audio/eg_ff_decoration.mp3",
-    "english words/anki/audio/eg_ff_decade.mp3",
-    "english words/anki/audio/eg_ff_control.mp3",
-    "english words/anki/audio/eg_ff_baton.mp3",
+    "english words/anki/audio/eg_linking_in_addition.mp3",
+    "english words/anki/audio/eg_linking_hence.mp3",
+    "english words/anki/audio/eg_linking_thus.mp3",
+    "english words/anki/audio/eg_linking_as_a_result.mp3",
+    "english words/anki/audio/eg_linking_consequently.mp3",
+    "english words/anki/audio/eg_linking_therefore.mp3",
+    "english words/anki/audio/eg_linking_nonetheless.mp3",
+    "english words/anki/audio/eg_linking_nevertheless.mp3",
+    "english words/anki/audio/eg_linking_furthermore.mp3",
+    "english words/anki/audio/eg_linking_moreover.mp3",
+    "english words/anki/audio/eg_linking_however.mp3",
+    "english words/anki/Anki Decks.md",
     "Home Page.md",
     "english-galaxy-titanium-course/A1/Lesson 7.md",
     "grammar/External Resources — внешние ресурсы.md",
@@ -253,7 +253,6 @@
     "english-do-automatizma-course/Lesson 1030.md",
     "english-do-automatizma-course/Lesson 1029.md",
     "english-do-automatizma-course/Lesson 1028.md",
-    "english-do-automatizma-course/Lesson 1027.md",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
