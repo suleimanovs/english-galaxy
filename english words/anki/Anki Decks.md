@@ -14,6 +14,7 @@ const DECKS = [
   { id: 'irregular',    name: 'EG — Irregular Verbs',       file: 'irregular-verbs-tracker.csv',       label: 'Irregular Verbs',     fields: ['verb','v2','v3','translation','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'verb', backKey: null, tagPrefix: 'iv', custom: true },
   { id: 'false',        name: 'EG — False Friends',         file: 'false-friends-tracker.csv',         label: 'False Friends',       fields: ['english_word','false_meaning','real_meaning','russian_word','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'english_word', backKey: null, tagPrefix: 'ff', custom: true },
   { id: 'phrasal_n',    name: 'EG — Phrasal Nouns',         file: 'phrasal-nouns-tracker.csv',         label: 'Phrasal Nouns',       fields: ['word','base_verb','translation','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'word', backKey: 'translation', tagPrefix: 'pn', extraFields: ['base_verb'] },
+  { id: 'phrasal_v',    name: 'EG — Phrasal Verbs', file: 'phrasal-verbs-tracker.csv',  label: 'Phrasal Verbs',       fields: ['phrasal_verb','translation','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'phrasal_verb', backKey: 'translation', tagPrefix: 'pv' },
 ];
 
 // ─── ANKI ────────────────────────────────────────────────────────────────────
@@ -216,6 +217,102 @@ function renderTable(container, tracker, deck) {
   }
 }
 
+// ─── AUDIO SYNC ─────────────────────────────────────────────────────────────
+const AUDIO_FOLDER = FOLDER + '/audio';
+
+function audioFilename(deck, key) {
+  const slug = key.toLowerCase().replace(/[^a-z0-9]/g, '_').replace(/_+/g, '_').replace(/^_|_$/g, '');
+  return `eg_${deck.id}_${slug}.mp3`;
+}
+
+function ttsText(deck, key) {
+  if (deck.id === 'confusing') return key.split('/').map(s => s.trim()).join('. . . ');
+  return key;
+}
+
+function arrayBufToBase64(buf) {
+  const bytes = new Uint8Array(buf);
+  let bin = '';
+  for (let i = 0; i < bytes.length; i++) bin += String.fromCharCode(bytes[i]);
+  return btoa(bin);
+}
+
+async function runAudioSync(deck, log, force = false) {
+  const tracker = await loadTracker(deck);
+  const entries = Object.entries(tracker).filter(([, d]) => d.exportedAt);
+  log(`Аудио-синк для <b>${deck.name}</b> (${entries.length} записей, ${force ? 'force' : 'sync'})`);
+
+  try { await ankiReq('version'); } catch { log('<span style="color:#d9534f">Anki не запущен!</span>'); return; }
+
+  // Ensure audio folder exists
+  if (!app.vault.getAbstractFileByPath(AUDIO_FOLDER)) {
+    await app.vault.createFolder(AUDIO_FOLDER);
+  }
+
+  let ok = 0, skip = 0, err = 0;
+
+  for (let i = 0; i < entries.length; i++) {
+    const [key, data] = entries[i];
+    const fname = audioFilename(deck, key);
+    const fpath = AUDIO_FOLDER + '/' + fname;
+    const existing = app.vault.getAbstractFileByPath(fpath);
+
+    // Skip if cached and not force
+    if (existing && !force) {
+      const tag = toTag(deck.tagPrefix, key);
+      const noteIds = await ankiReq('findNotes', { query: `deck:"${deck.name}" tag:${tag}` });
+      if (noteIds.length > 0) {
+        const info = await ankiReq('notesInfo', { notes: [noteIds[0]] });
+        if (info[0].fields.Front.value.includes(`[sound:${fname}]`)) { skip++; continue; }
+      }
+    }
+
+    log(`  [${i + 1}/${entries.length}] "<b>${key}</b>" — ${existing && !force ? 'cached' : 'downloading'}...`);
+
+    try {
+      // Download or read cached
+      let audioData;
+      if (existing && !force) {
+        audioData = await app.vault.readBinary(existing);
+      } else {
+        const text = ttsText(deck, key);
+        const res = await requestUrl({
+          url: `https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en&q=${encodeURIComponent(text)}`,
+          method: 'GET'
+        });
+        audioData = res.arrayBuffer;
+        if (audioData.byteLength < 100) throw new Error('empty response');
+        // Save locally
+        if (existing) await app.vault.modifyBinary(existing, audioData);
+        else await app.vault.createBinary(fpath, audioData);
+      }
+
+      // Upload to Anki
+      const base64 = arrayBufToBase64(audioData);
+      await ankiReq('storeMediaFile', { filename: fname, data: base64 });
+
+      // Update card
+      const tag = toTag(deck.tagPrefix, key);
+      const noteIds = await ankiReq('findNotes', { query: `deck:"${deck.name}" tag:${tag}` });
+      if (noteIds.length === 0) { skip++; continue; }
+
+      const info = await ankiReq('notesInfo', { notes: [noteIds[0]] });
+      const cleanFront = info[0].fields.Front.value.replace(/\[sound:[^\]]+\]/g, '').trim();
+      await ankiReq('updateNoteFields', {
+        note: { id: noteIds[0], fields: { Front: cleanFront + `\n[sound:${fname}]` } }
+      });
+
+      ok++;
+      log(`  <span style="color:#5cb85c">"${key}" ✓</span>`);
+    } catch (e) {
+      err++;
+      log(`  <span style="color:#d9534f">"${key}" ✗ ${e.message}</span>`);
+    }
+  }
+
+  log(`<br><b>Аудио готово!</b> Добавлено: ${ok} | Пропущено: ${skip} | Ошибок: ${err}`);
+}
+
 // ─── UI ──────────────────────────────────────────────────────────────────────
 const wrap = dv.el('div', '');
 
@@ -232,6 +329,8 @@ const tabs = DECKS.map(deck => {
 const btnRow = wrap.createEl('div', { attr: { style: 'display:flex;gap:10px;margin-bottom:10px' } });
 const exportBtn = btnRow.createEl('button', { text: 'Export to Anki', attr: { style: 'padding:7px 20px;font-size:0.95em;cursor:pointer;background:#4caf50;color:#fff;border:none;border-radius:6px;font-weight:bold' } });
 const syncBtn = btnRow.createEl('button', { text: 'Sync', attr: { style: 'padding:7px 20px;font-size:0.95em;cursor:pointer;background:#2196f3;color:#fff;border:none;border-radius:6px;font-weight:bold' } });
+const audioBtn = btnRow.createEl('button', { text: 'Audio Sync', attr: { style: 'padding:7px 20px;font-size:0.95em;cursor:pointer;background:#ff9800;color:#fff;border:none;border-radius:6px;font-weight:bold' } });
+const audioForceBtn = btnRow.createEl('button', { text: 'Audio Force', attr: { style: 'padding:7px 20px;font-size:0.95em;cursor:pointer;background:#f44336;color:#fff;border:none;border-radius:6px;font-weight:bold' } });
 
 const logDiv = wrap.createEl('div', { attr: { style: 'font-family:monospace;font-size:0.82em;background:var(--background-secondary);padding:10px 14px;border-radius:6px;max-height:260px;overflow-y:auto;display:none;line-height:1.7;margin-bottom:16px' } });
 const tableDiv = wrap.createEl('div', '');
@@ -261,7 +360,7 @@ function showLog() {
 }
 
 exportBtn.addEventListener('click', async () => {
-  exportBtn.disabled = syncBtn.disabled = true;
+  exportBtn.disabled = syncBtn.disabled = audioBtn.disabled = audioForceBtn.disabled = true;
   exportBtn.textContent = 'Экспортирую...';
   const log = showLog();
   log(`Колода: <b>${activeDeck.name}</b>`);
@@ -269,12 +368,12 @@ exportBtn.addEventListener('click', async () => {
     const updated = await runExport(activeDeck, log);
     if (updated) { currentTracker = updated; renderTable(tableDiv, currentTracker, activeDeck); }
   } catch (e) { log(`<span style="color:#d9534f">Fatal: ${e.message}</span>`); }
-  exportBtn.disabled = syncBtn.disabled = false;
+  exportBtn.disabled = syncBtn.disabled = audioBtn.disabled = audioForceBtn.disabled = false;
   exportBtn.textContent = 'Export to Anki';
 });
 
 syncBtn.addEventListener('click', async () => {
-  exportBtn.disabled = syncBtn.disabled = true;
+  exportBtn.disabled = syncBtn.disabled = audioBtn.disabled = audioForceBtn.disabled = true;
   syncBtn.textContent = 'Синхронизирую...';
   const log = showLog();
   log(`Колода: <b>${activeDeck.name}</b>`);
@@ -282,8 +381,28 @@ syncBtn.addEventListener('click', async () => {
     const updated = await runSync(activeDeck, log);
     if (updated) { currentTracker = updated; renderTable(tableDiv, currentTracker, activeDeck); }
   } catch (e) { log(`<span style="color:#d9534f">Fatal: ${e.message}</span>`); }
-  exportBtn.disabled = syncBtn.disabled = false;
+  exportBtn.disabled = syncBtn.disabled = audioBtn.disabled = audioForceBtn.disabled = false;
   syncBtn.textContent = 'Sync';
+});
+
+audioBtn.addEventListener('click', async () => {
+  exportBtn.disabled = syncBtn.disabled = audioBtn.disabled = audioForceBtn.disabled = true;
+  audioBtn.textContent = 'Загружаю аудио...';
+  const log = showLog();
+  try { await runAudioSync(activeDeck, log, false); }
+  catch (e) { log(`<span style="color:#d9534f">Fatal: ${e.message}</span>`); }
+  exportBtn.disabled = syncBtn.disabled = audioBtn.disabled = audioForceBtn.disabled = false;
+  audioBtn.textContent = 'Audio Sync';
+});
+
+audioForceBtn.addEventListener('click', async () => {
+  exportBtn.disabled = syncBtn.disabled = audioBtn.disabled = audioForceBtn.disabled = true;
+  audioForceBtn.textContent = 'Перезагружаю аудио...';
+  const log = showLog();
+  try { await runAudioSync(activeDeck, log, true); }
+  catch (e) { log(`<span style="color:#d9534f">Fatal: ${e.message}</span>`); }
+  exportBtn.disabled = syncBtn.disabled = audioBtn.disabled = audioForceBtn.disabled = false;
+  audioForceBtn.textContent = 'Audio Force';
 });
 
 await selectDeck(DECKS[0]);
