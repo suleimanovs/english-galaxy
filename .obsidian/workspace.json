@@ -4,6 +4,46 @@
     "type": "split",
     "children": [
       {
+        "id": "71fcdec528e7a400",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b4ecb74cafc2979",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "qT-od5pnqUE",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=qT-od5pnqUE"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    }
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 7"
+            }
+          }
+        ]
+      },
+      {
         "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
@@ -13,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "english-galaxy-turquoise-course/B2/Lesson 7 - 150 самых фразовых глаголов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Page"
+              "title": "Lesson 7 - 150 самых фразовых глаголов"
             }
           }
         ]
@@ -78,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -218,6 +259,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "english-galaxy-turquoise-course/B2/Lesson 7 - 150 самых фразовых глаголов.md",
+    "Home Page.md",
     "learn-5000-english-words/Lesson 17 (80-86).md",
     "learn-5000-english-words/Lesson 16(75-79).md",
     "learn-5000-english-words/Lesson 15(68-74).md",
@@ -237,7 +280,6 @@
     "learn-5000-english-words/Lesson 1(1).md",
     "learn-5000-english-words/Unknown Words.md",
     "english words/anki/word-families-data.js",
-    "Home Page.md",
     "english words/anki/Anki Decks.md",
     "english words/anki/audio/eg_egw_amazing_.mp3",
     "english words/anki/audio/eg_prep_without_a_doubt.mp3",
@@ -253,7 +295,6 @@
     "english-galaxy-titanium-course/A1/Lesson 7.md",
     "grammar/External Resources — внешние ресурсы.md",
     "english-galaxy-turquoise-course/A2/Lesson 15.md",
-    "english-galaxy-turquoise-course/A2/Lesson 14.md",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
