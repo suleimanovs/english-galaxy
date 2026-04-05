@@ -71,3 +71,12 @@ He couldn't imagine what I had gone through.
 go under - разориться
 
 The company will go under if the situation doesn't improve.
+
+---
+brighten up - скрасить, украсить
+
+It brightened up my day.
+It brightens up my life.
+It makes my life brighter 
+
+---
