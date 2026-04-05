@@ -1,62 +1,235 @@
 english_word|russian_word|exportedAt|status|knownAt|s1|s2|s3|family
 airport|аэропорт|||||||flight (n.), airline (n.)
+album|альбом|||||||
+alphabet|алфавит|||||||alphabetical (adj.)
+architect|архитектор|||||||architecture (n.), architectural (adj.)
+atmosphere|атмосфера|||||||atmospheric (adj.)
+automatic|автоматический|||||||automatically (adv.), automation (n.)
+ballet|балет|||||||ballerina (n.)
+banana|банан|||||||
 bank|банк|||||||banker (n.), banking (n.)
 bar|бар|||||||bartender (n.)
+baseball|бейсбол|||||||
+basketball|баскетбол|||||||
+biology|биология|||||||biologist (n.), biological (adj.)
 boss|босс|||||||bossy (adj.)
+brand|бренд|||||||branding (n.), branded (adj.)
+budget|бюджет|||||||budgeting (n.)
+buffet|буфет|||||||
 bus|автобус|||||||
+business|бизнес|||||||businessman (n.)
 café|кафе|||||||
+calendar|календарь|||||||
+career|карьера|||||||
+catalog|каталог|||||||
+category|категория|||||||categorize (v.), categorization (n.)
+cement|цемент|||||||
+center|центр|||||||central (adj.), centralize (v.)
+champion|чемпион|||||||championship (n.)
+channel|канал|||||||
+character|характер|||||||characteristic (adj., n.), characterize (v.)
+check|чек|||||||
+chess|шахматы|||||||
 chocolate|шоколад|||||||chocolatey (adj.)
+cigarette|сигарета|||||||
 class|класс|||||||classify (v.), classification (n.), classroom (n.)
+classic|классический|||||||classical (adj.), classicism (n.)
+climate|климат|||||||climatic (adj.), climatology (n.)
 club|клуб|||||||
+cocktail|коктейль|||||||
 coffee|кофе|||||||
+colleague|коллега|||||||
+collection|коллекция|||||||collect (v.), collector (n.), collective (adj.)
+comfort|комфорт|||||||comfortable (adj.), uncomfortable (adj.), comfortably (adv.)
+comment|комментарий|||||||commentary (n.), commentator (n.)
+communication|коммуникация|||||||communicate (v.), communicative (adj.)
+company|компания|||||||companion (n.)
+compass|компас|||||||
+competition|конкуренция|||||||compete (v.), competitive (adj.), competitor (n.)
 computer|компьютер|||||||computing (n.), computerize (v.)
 concert|концерт|||||||
+conflict|конфликт|||||||conflicting (adj.)
+constitution|конституция|||||||constitutional (adj.)
+contact|контакт|||||||contactless (adj.)
+content|контент|||||||
+contract|контракт|||||||contractor (n.)
+corridor|коридор|||||||
+credit|кредит|||||||creditor (n.)
+crisis|кризис|||||||
+culture|культура|||||||cultural (adj.), culturally (adv.)
+database|база данных|||||||
+debate|дебаты|||||||debatable (adj.)
+deficit|дефицит|||||||
+democracy|демократия|||||||democratic (adj.), democrat (n.)
+design|дизайн|||||||designer (n.)
+detail|деталь|||||||detailed (adj.)
+dialog|диалог|||||||
+diet|диета|||||||dietary (adj.), dieter (n.)
+diploma|диплом|||||||diplomatic (adj.), diplomacy (n.)
+disco|дискотека|||||||
+discount|дисконт/скидка|||||||
 doctor|доктор|||||||doctoral (adj.)
+document|документ|||||||documentation (n.), documentary (n., adj.)
+dollar|доллар|||||||
+drama|драма|||||||dramatic (adj.), dramatically (adv.), dramatize (v.)
+economy|экономика|||||||economic (adj.), economical (adj.), economist (n.)
+effect|эффект|||||||effective (adj.), effectively (adv.), ineffective (adj.)
+element|элемент|||||||elementary (adj.)
+emotion|эмоция|||||||emotional (adj.), emotionally (adv.), unemotional (adj.)
+energy|энергия|||||||energetic (adj.), energize (v.)
+engineer|инженер|||||||engineering (n.)
+episode|эпизод|||||||
+evolution|эволюция|||||||evolve (v.), evolutionary (adj.)
+exam|экзамен|||||||examine (v.), examiner (n.), examination (n.)
+experiment|эксперимент|||||||experimental (adj.), experimentally (adv.)
+export|экспорт|||||||exporter (n.), import (n., v.)
+fact|факт|||||||factual (adj.), factually (adv.)
+fan|фанат|||||||
+fantasy|фантазия|||||||fantastic (adj.), fantasize (v.)
+festival|фестиваль|||||||festive (adj.)
 film|фильм|||||||filming (n.), filmmaker (n.)
+final|финал|||||||finally (adv.), finalist (n.), finalize (v.)
 football|футбол|||||||footballer (n.)
+format|формат|||||||formatting (n.)
+formula|формула|||||||formulate (v.), formulation (n.)
+gallery|галерея|||||||
+garage|гараж|||||||
+generation|поколение|||||||generate (v.), generator (n.), generational (adj.)
+geography|география|||||||geographic (adj.), geographer (n.)
+golf|гольф|||||||golfer (n.)
+group|группа|||||||grouping (n.)
 guitar|гитара|||||||guitarist (n.)
+history|история|||||||historian (n.), historical (adj.), historically (adv.)
+hobby|хобби|||||||
+hockey|хоккей|||||||
+horizon|горизонт|||||||horizontal (adj.)
 hotel|отель|||||||
+humor|юмор|||||||humorous (adj.), humorously (adv.)
 idea|идея|||||||ideal (adj.), idealize (v.)
+import|импорт|||||||importer (n.), export (n., v.)
+industry|индустрия|||||||industrial (adj.), industrialize (v.)
+information|информация|||||||inform (v.), informative (adj.), informer (n.)
+innovation|инновация|||||||innovate (v.), innovative (adj.), innovator (n.)
+instrument|инструмент|||||||instrumental (adj.)
+interest|интерес|||||||interesting (adj.), interested (adj.), uninteresting (adj.)
 internet|интернет|||||||
+interview|интервью|||||||interviewer (n.)
+invest|инвестировать|||||||investment (n.), investor (n.)
 jazz|джаз|||||||
 jeans|джинсы|||||||
 journalist|журналист|||||||journalism (n.), journalistic (adj.)
+kilometer|километр|||||||
 lamp|лампа|||||||
+landscape|ландшафт|||||||
+lecture|лекция|||||||lecturer (n.)
 lemon|лимон|||||||lemonade (n.)
-marathon|марафон|||||||
+liberal|либеральный|||||||liberalism (n.), liberalize (v.)
+limit|лимит|||||||limitation (n.), limited (adj.), unlimited (adj.)
+logo|логотип|||||||
+machine|машина|||||||machinery (n.), machinist (n.)
 manager|менеджер|||||||manage (v.), management (n.)
+marathon|марафон|||||||
+marketing|маркетинг|||||||market (n., v.), marketer (n.)
+material|материал|||||||materialism (n.), materialistic (adj.)
+mechanism|механизм|||||||mechanical (adj.), mechanic (n.)
+media|медиа|||||||
+medicine|медицина|||||||medical (adj.), medically (adv.), medication (n.)
+melody|мелодия|||||||melodic (adj.), melodious (adj.)
+method|метод|||||||methodical (adj.), methodology (n.)
+million|миллион|||||||millionaire (n.)
 minute|минута|||||||
+modern|современный|||||||modernize (v.), modernization (n.)
+moment|момент|||||||momentary (adj.), momentarily (adv.)
+monitor|монитор|||||||monitoring (n.)
 museum|музей|||||||
 music|музыка|||||||musician (n.), musical (adj.), musically (adv.)
+nation|нация|||||||national (adj.), nationality (n.), nationalism (n.)
+normal|нормальный|||||||normally (adv.), abnormal (adj.), normalize (v.)
+object|объект|||||||objective (adj., n.), objection (n.)
 office|офис|||||||officer (n.), official (adj.), officially (adv.)
+opera|опера|||||||operatic (adj.)
+operation|операция|||||||operate (v.), operator (n.), operational (adj.)
+optimist|оптимист|||||||optimistic (adj.), optimism (n.)
+orchestra|оркестр|||||||orchestral (adj.), orchestrate (v.)
 park|парк|||||||parking (n.)
+parliament|парламент|||||||parliamentary (adj.)
+partner|партнёр|||||||partnership (n.)
 passport|паспорт|||||||
+pause|пауза|||||||
+period|период|||||||periodic (adj.), periodically (adv.)
+pessimist|пессимист|||||||pessimistic (adj.), pessimism (n.)
+philosophy|философия|||||||philosopher (n.), philosophical (adj.)
 photo|фото|||||||photograph (n.), photographer (n.), photography (n.)
+physics|физика|||||||physicist (n.), physical (adj.)
+piano|пианино|||||||pianist (n.)
 pilot|пилот|||||||
 pizza|пицца|||||||
 planet|планета|||||||planetary (adj.)
+plastic|пластик|||||||
+platform|платформа|||||||
 police|полиция|||||||policeman (n.), policewoman (n.)
+political|политический|||||||politics (n.), politician (n.), politically (adv.)
+popular|популярный|||||||popularity (n.), unpopular (adj.)
+position|позиция|||||||positioning (n.)
 president|президент|||||||presidential (adj.), presidency (n.)
 problem|проблема|||||||problematic (adj.)
-professor|профессор|||||||profession (n.), professional (adj.)
+process|процесс|||||||processing (n.), processor (n.)
+product|продукт|||||||production (n.), productive (adj.), productivity (n.)
+profession|профессия|||||||professional (adj., n.), professionally (adv.)
+professor|профессор|||||||
 program|программа|||||||programmer (n.), programming (n.)
+progress|прогресс|||||||progressive (adj.), progression (n.)
+project|проект|||||||projection (n.), projector (n.)
+protest|протест|||||||protester (n.)
+psychology|психология|||||||psychologist (n.), psychological (adj.)
 radio|радио|||||||
+reaction|реакция|||||||react (v.), reactive (adj.), reactor (n.)
+reform|реформа|||||||reformer (n.), reformist (n.)
+religion|религия|||||||religious (adj.)
+resort|курорт|||||||
 restaurant|ресторан|||||||
+result|результат|||||||resulting (adj.), resultant (adj.)
+revolution|революция|||||||revolutionary (adj., n.), revolutionize (v.)
+risk|риск|||||||risky (adj.), riskless (adj.)
 robot|робот|||||||robotic (adj.), robotics (n.)
+role|роль|||||||
 salad|салат|||||||
+scandal|скандал|||||||scandalous (adj.)
+season|сезон|||||||seasonal (adj.), seasonally (adv.)
+second|секунда|||||||secondary (adj.)
+secret|секрет|||||||secrecy (n.), secretive (adj.), secretly (adv.)
+semester|семестр|||||||
+service|сервис|||||||serve (v.), server (n.)
 signal|сигнал|||||||signalling (n.)
+situation|ситуация|||||||situational (adj.)
+sofa|софа/диван|||||||
 sport|спорт|||||||sportsman (n.), sporty (adj.), sportsmanship (n.)
+standard|стандарт|||||||standardize (v.), standardization (n.)
+strategy|стратегия|||||||strategic (adj.), strategist (n.), strategically (adv.)
+structure|структура|||||||structural (adj.), restructure (v.)
 student|студент|||||||study (v., n.), studious (adj.)
+style|стиль|||||||stylish (adj.), stylishly (adv.), stylist (n.)
+subject|субъект/предмет|||||||subjective (adj.)
 system|система|||||||systematic (adj.), systematically (adv.), systematize (v.)
+talent|талант|||||||talented (adj.)
 taxi|такси|||||||
+technology|технология|||||||technological (adj.), technologist (n.)
 telephone|телефон|||||||
 television|телевизор|||||||televise (v.)
+temperature|температура|||||||
 tennis|теннис|||||||
+territory|территория|||||||territorial (adj.)
 test|тест|||||||testing (n.), testable (adj.), retest (v.)
 text|текст|||||||textual (adj.), textbook (n.)
+theory|теория|||||||theoretical (adj.), theorist (n.), theorize (v.)
 tourist|турист|||||||tourism (n.), tour (n., v.)
+tradition|традиция|||||||traditional (adj.), traditionally (adv.)
+transport|транспорт|||||||transportation (n.)
 university|университет|||||||universal (adj.), universally (adv.)
+veteran|ветеран|||||||
 video|видео|||||||videographer (n.)
+virus|вирус|||||||viral (adj.)
 vitamin|витамин|||||||
+volleyball|волейбол|||||||
 yoga|йога|||||||
 zoo|зоопарк|||||||zoology (n.), zoologist (n.)
