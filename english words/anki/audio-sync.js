@@ -31,6 +31,7 @@ const DECKS = [
   { id: 'confusing',  name: 'EG — Confusing Words',         file: 'confusing-words-tracker.csv',       dir: ANKI_DIR, tagPrefix: 'cw',    label: 'Confusing Words',
     ttsTransform: key => key.split('/').map(s => s.trim()).join('. . . ') },
   { id: 'phrasal_v',  name: 'EG — Phrasal Verbs', file: 'phrasal-verbs-tracker.csv',      dir: ANKI_DIR, tagPrefix: 'pv',    label: 'Phrasal Verbs' },
+  { id: 'true',       name: 'EG — True Friends',          file: 'true-friends-tracker.csv',      dir: ANKI_DIR, tagPrefix: 'tf',    label: 'True Friends' },
   { id: 'egw',        name: 'EG — All Words',               file: 'word-tracker.csv',
     dir: path.join(ROOT, 'learn-5000-english-words'), tagPrefix: 'egw', label: '5000 Words' },
 ];

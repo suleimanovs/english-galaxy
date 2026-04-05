@@ -15,6 +15,7 @@ const DECKS = [
   { id: 'false',        name: 'EG — False Friends',         file: 'false-friends-tracker.csv',         label: 'False Friends',       fields: ['english_word','false_meaning','real_meaning','russian_word','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'english_word', backKey: null, tagPrefix: 'ff', custom: true },
   { id: 'phrasal_n',    name: 'EG — Phrasal Nouns',         file: 'phrasal-nouns-tracker.csv',         label: 'Phrasal Nouns',       fields: ['word','base_verb','translation','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'word', backKey: 'translation', tagPrefix: 'pn', extraFields: ['base_verb'] },
   { id: 'phrasal_v',    name: 'EG — Phrasal Verbs', file: 'phrasal-verbs-tracker.csv',  label: 'Phrasal Verbs',       fields: ['phrasal_verb','translation','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'phrasal_verb', backKey: 'translation', tagPrefix: 'pv' },
+  { id: 'true',         name: 'EG — True Friends',  file: 'true-friends-tracker.csv',   label: 'True Friends',        fields: ['english_word','russian_word','exportedAt','status','knownAt','s1','s2','s3','family'], frontKey: 'english_word', backKey: 'russian_word', tagPrefix: 'tf' },
 ];
 
 // ─── ANKI ────────────────────────────────────────────────────────────────────
