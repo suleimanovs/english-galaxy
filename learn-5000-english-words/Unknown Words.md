@@ -149,13 +149,45 @@ async function markAsKnown(filePath, word, translation) {
   return true;
 }
 
+// ─── AUDIO ──────────────────────────────────────────────────────────────────
+async function downloadAndAttachAudio(word, noteId) {
+  try {
+    const slug = word.toLowerCase().replace(/[^a-z0-9]/g, '_').replace(/_+/g, '_').replace(/^_|_$/g, '');
+    const filename = `eg_${slug}.mp3`;
+    const res = await requestUrl({
+      url: `https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en&q=${encodeURIComponent(word)}`,
+      method: 'GET'
+    });
+    const audioData = res.arrayBuffer;
+    if (audioData.byteLength < 100) return;
+    // Save locally
+    const audioFolder = FOLDER + '/../english words/anki/audio';
+    const audioPath = audioFolder + '/' + filename;
+    const existing = app.vault.getAbstractFileByPath(audioPath);
+    if (!existing) {
+      try { await app.vault.createBinary(audioPath, audioData); } catch {}
+    }
+    // Upload to Anki
+    const bytes = new Uint8Array(audioData);
+    let bin = '';
+    for (let i = 0; i < bytes.length; i++) bin += String.fromCharCode(bytes[i]);
+    await ankiReq('storeMediaFile', { filename, data: btoa(bin) });
+    // Update card
+    const info = await ankiReq('notesInfo', { notes: [noteId] });
+    if (info[0] && !info[0].fields.Front.value.includes(`[sound:${filename}]`)) {
+      const clean = info[0].fields.Front.value.replace(/\[sound:[^\]]+\]/g, '').trim();
+      await ankiReq('updateNoteFields', { note: { id: noteId, fields: { Front: clean + `\n[sound:${filename}]` } } });
+    }
+  } catch {}
+}
+
 // ─── ADD TO ANKI (from sentences array) ──────────────────────────────────────
 async function addToAnki(word, translation, filename, sentences) {
   const front =
     `<div style="font-size:1.4em;font-weight:bold;margin-bottom:0.8em">${word}</div>` +
     `<ol>${sentences.map(s => `<li>${s.replace(/\*\*(.+?)\*\*/g, '<b>$1</b>')}</li>`).join('')}</ol>`;
   const back = `<div style="font-size:1.2em">${translation}</div>`;
-  await ankiReq('addNote', {
+  const noteId = await ankiReq('addNote', {
     note: {
       deckName: ANKI_DECK, modelName: ANKI_MODEL,
       fields: { Front: front, Back: back },
@@ -163,6 +195,8 @@ async function addToAnki(word, translation, filename, sentences) {
       options: { allowDuplicate: false }
     }
   });
+  // Attach audio
+  await downloadAndAttachAudio(word, noteId);
 }
 
 // ─── SYNC ────────────────────────────────────────────────────────────────────
