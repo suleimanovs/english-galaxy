@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "belt",
+                "query": "c0504d",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -257,7 +257,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "461293fe0ab9d148",
+  "active": "7abd6fca1c8fa638",
   "lastOpenFiles": [
     "learn-5000-english-words/Lesson 19 (92-100).md",
     "learn-5000-english-words/Lesson 20(101-106).md",
