@@ -42,4 +42,20 @@ This woman was taken in.
 
 ---
 give off - издавать (запах)
-The food gives off
+
+The food gives off a bad smell.
+That food gives off a very unpleasent smell.
+
+---
+give out - раздавать
+
+The teacher gave out these materials.
+
+---
+bring about - принимать, вызывать, приводить к чему-то
+
+The government brought about a new law.
+It brought about very deep changes 
+
+---
+
