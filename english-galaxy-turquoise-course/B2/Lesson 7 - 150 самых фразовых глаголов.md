@@ -38,6 +38,8 @@ An interesting plan was brought forward during the meeting.
 take in - обманывать
 
 They want to take her in.
+This woman was taken in.
 
 ---
-This woman was taken in.
+give off - издавать (запах)
+The food gives off
