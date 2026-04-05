@@ -381,13 +381,93 @@ function renderAnkiTable(container, tracker) {
   }
 }
 
+// ─── SYNC STATUSES ONLY ─────────────────────────────────────────────────────
+async function runSyncStatuses(log) {
+  const tracker = await loadTracker();
+  const unknown = await scanUnknownWords();
+
+  try { await ankiReq('version'); } catch { log('<span style="color:#d9534f">Anki не запущен!</span>'); return null; }
+
+  const learning = Object.entries(tracker).filter(([, d]) => d.status === 'learning');
+  log(`Проверяю ${learning.length} learning слов...`);
+  let knownCount = 0;
+
+  for (const [word, data] of learning) {
+    try {
+      const noteIds = await ankiReq('findNotes', { query: `deck:"${ANKI_DECK}" tag:${wordToTag(word)}` });
+      if (!noteIds.length) continue;
+      const cards = await ankiReq('findCards', { query: `nid:${noteIds[0]}` });
+      if (!cards.length) continue;
+      const infos = await ankiReq('cardsInfo', { cards });
+      if (!infos.every(c => c.interval >= KNOWN_INTERVAL_DAYS)) continue;
+      const entry = unknown.find(w => w.word === word);
+      if (entry) await markAsKnown(entry.filePath, entry.word, entry.translation);
+      tracker[word].status  = 'known';
+      tracker[word].knownAt = new Date().toISOString().split('T')[0];
+      knownCount++;
+      await saveTracker(tracker);
+      log(`  <span style="color:#5cb85c">"${word}" — выучено ✓</span>`);
+    } catch {}
+  }
+
+  // Mark removed
+  const currentSet = new Set(unknown.map(w => w.word));
+  let removedCount = 0;
+  for (const [word, data] of Object.entries(tracker)) {
+    if (data.status === 'learning' && !currentSet.has(word)) {
+      tracker[word].status = 'removed';
+      removedCount++;
+    }
+  }
+  if (removedCount > 0) await saveTracker(tracker);
+
+  const stats = Object.values(tracker).reduce((a, d) => { a[d.status] = (a[d.status]||0)+1; return a; }, {});
+  log(`<b>Готово!</b> Выучено: +${knownCount} | Убрано: ${removedCount}`);
+  log(`learning=${stats.learning||0} | known=${stats.known||0} | removed=${stats.removed||0}`);
+  return tracker;
+}
+
+// ─── AUDIO SYNC ─────────────────────────────────────────────────────────────
+async function runAudioSync(log) {
+  const tracker = await loadTracker();
+
+  try { await ankiReq('version'); } catch { log('<span style="color:#d9534f">Anki не запущен!</span>'); return null; }
+
+  const entries = Object.entries(tracker).filter(([, d]) => d.exportedAt);
+  log(`Проверяю аудио для ${entries.length} слов...`);
+  let added = 0, skipped = 0;
+
+  for (const [word, data] of entries) {
+    const tag = wordToTag(word);
+    const noteIds = await ankiReq('findNotes', { query: `deck:"${ANKI_DECK}" tag:${tag}` });
+    if (!noteIds.length) continue;
+    const info = await ankiReq('notesInfo', { notes: [noteIds[0]] });
+    const slug = word.toLowerCase().replace(/[^a-z0-9]/g, '_').replace(/_+/g, '_').replace(/^_|_$/g, '');
+    const filename = `eg_${slug}.mp3`;
+    if (info[0].fields.Front.value.includes(`[sound:${filename}]`)) { skipped++; continue; }
+
+    try {
+      await downloadAndAttachAudio(word, noteIds[0]);
+      added++;
+      log(`  <span style="color:#5cb85c">"${word}" — аудио ✓</span>`);
+    } catch {
+      log(`  <span style="color:#d9534f">"${word}" — ошибка аудио</span>`);
+    }
+  }
+
+  log(`<b>Аудио готово!</b> Добавлено: ${added} | Уже есть: ${skipped}`);
+  return tracker;
+}
+
 // ─── UI ──────────────────────────────────────────────────────────────────────
 const wrap = dv.el('div', '');
 
-const btn = wrap.createEl('button', {
-  text: '▶ Sync to Anki',
-  attr: { style: 'padding:7px 20px;font-size:0.95em;cursor:pointer;background:#4caf50;color:#fff;border:none;border-radius:6px;margin-bottom:10px;font-weight:bold' }
-});
+const btnRow = wrap.createEl('div', { attr: { style: 'display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px' } });
+const btnStyle = 'padding:7px 16px;font-size:0.9em;cursor:pointer;color:#fff;border:none;border-radius:6px;font-weight:bold';
+const geminiBtn = btnRow.createEl('button', { text: 'Export + Gemini', attr: { style: btnStyle + ';background:#4caf50' } });
+const statusBtn = btnRow.createEl('button', { text: 'Sync Statuses', attr: { style: btnStyle + ';background:#2196f3' } });
+const audioBtn  = btnRow.createEl('button', { text: 'Audio Sync', attr: { style: btnStyle + ';background:#ff9800' } });
+
 const logDiv = wrap.createEl('div', {
   attr: { style: 'font-family:monospace;font-size:0.82em;background:var(--background-secondary);padding:10px 14px;border-radius:6px;max-height:260px;overflow-y:auto;display:none;line-height:1.7;margin-bottom:16px' }
 });
@@ -403,24 +483,58 @@ let currentTracker = await loadTracker();
 renderUnknownTable(unknownTableDiv, currentUnknown, currentTracker);
 renderAnkiTable(ankiTableDiv, currentTracker);
 
-btn.addEventListener('click', async () => {
-  btn.disabled = true;
-  btn.textContent = '⏳ Синхронизирую...';
+function showLog() {
   logDiv.style.display = 'block';
   logDiv.innerHTML = '';
-  const log = (msg) => { logDiv.innerHTML += msg + '<br>'; logDiv.scrollTop = logDiv.scrollHeight; };
+  return (msg) => { logDiv.innerHTML += msg + '<br>'; logDiv.scrollTop = logDiv.scrollHeight; };
+}
+
+function disableAll() { geminiBtn.disabled = statusBtn.disabled = audioBtn.disabled = true; }
+function enableAll()  { geminiBtn.disabled = statusBtn.disabled = audioBtn.disabled = false; }
+
+async function refreshTables() {
+  currentUnknown = await scanUnknownWords();
+  currentTracker = await loadTracker();
+  renderUnknownTable(unknownTableDiv, currentUnknown, currentTracker);
+  renderAnkiTable(ankiTableDiv, currentTracker);
+}
+
+// Export + Gemini (new words, sentences, Anki export)
+geminiBtn.addEventListener('click', async () => {
+  disableAll();
+  geminiBtn.textContent = '⏳ Экспортирую...';
+  const log = showLog();
   try {
-    const updatedTracker = await runSync(log);
-    if (updatedTracker) {
-      currentUnknown = await scanUnknownWords();
-      currentTracker = updatedTracker;
-      renderUnknownTable(unknownTableDiv, currentUnknown, currentTracker);
-      renderAnkiTable(ankiTableDiv, currentTracker);
-    }
-  } catch (e) {
-    log(`<span style="color:#d9534f">Fatal: ${e.message}</span>`);
-  }
-  btn.disabled = false;
-  btn.textContent = '▶ Sync to Anki';
+    const updated = await runSync(log);
+    if (updated) await refreshTables();
+  } catch (e) { log(`<span style="color:#d9534f">Fatal: ${e.message}</span>`); }
+  enableAll();
+  geminiBtn.textContent = 'Export + Gemini';
+});
+
+// Sync Statuses (check known, mark removed)
+statusBtn.addEventListener('click', async () => {
+  disableAll();
+  statusBtn.textContent = '⏳ Проверяю...';
+  const log = showLog();
+  try {
+    const updated = await runSyncStatuses(log);
+    if (updated) await refreshTables();
+  } catch (e) { log(`<span style="color:#d9534f">Fatal: ${e.message}</span>`); }
+  enableAll();
+  statusBtn.textContent = 'Sync Statuses';
+});
+
+// Audio Sync
+audioBtn.addEventListener('click', async () => {
+  disableAll();
+  audioBtn.textContent = '⏳ Аудио...';
+  const log = showLog();
+  try {
+    const updated = await runAudioSync(log);
+    if (updated) await refreshTables();
+  } catch (e) { log(`<span style="color:#d9534f">Fatal: ${e.message}</span>`); }
+  enableAll();
+  audioBtn.textContent = 'Audio Sync';
 });
 ```
