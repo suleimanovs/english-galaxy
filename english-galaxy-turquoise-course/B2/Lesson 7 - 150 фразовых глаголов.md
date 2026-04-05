@@ -55,7 +55,19 @@ The teacher gave out these materials.
 bring about - принимать, вызывать, приводить к чему-то
 
 The government brought about a new law.
-It brought about very deep changes 
+It brought about profound changes in the lives of ordinary people.
 
 ---
+come through - перенести что-то (трудности, испытания)
 
+He came through a very difficult operation.
+
+---
+go through - пройти через что-то
+
+He couldn't imagine what I had gone through.
+
+---
+go under - разориться
+
+The company will go under if the situation doesn't improve.
