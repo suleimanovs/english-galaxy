@@ -223,7 +223,7 @@ const AUDIO_FOLDER = FOLDER + '/audio';
 
 function audioFilename(deck, key) {
   const slug = key.toLowerCase().replace(/[^a-z0-9]/g, '_').replace(/_+/g, '_').replace(/^_|_$/g, '');
-  return `eg_${deck.id}_${slug}.mp3`;
+  return `eg_${slug}.mp3`;
 }
 
 function ttsText(deck, key) {

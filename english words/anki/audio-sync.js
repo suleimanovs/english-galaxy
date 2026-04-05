@@ -92,7 +92,7 @@ async function processDeck(deck, force = false) {
   for (let i = 0; i < keys.length; i++) {
     const key = keys[i];
     const slug = key.toLowerCase().replace(/[^a-z0-9]/g, '_').replace(/_+/g, '_').replace(/^_|_$/g, '');
-    const filename = `eg_${deck.id}_${slug}.mp3`;
+    const filename = `eg_${slug}.mp3`;
     const filepath = path.join(AUDIO_DIR, filename);
     const ttsText = deck.ttsTransform ? deck.ttsTransform(key) : key;
 
@@ -162,7 +162,7 @@ function listDecks() {
     const count = exists ? readKeys(csvPath).length : 0;
     const audioCount = exists ? readKeys(csvPath).filter(k => {
       const slug = k.toLowerCase().replace(/[^a-z0-9]/g, '_').replace(/_+/g, '_').replace(/^_|_$/g, '');
-      return fs.existsSync(path.join(AUDIO_DIR, `eg_${d.id}_${slug}.mp3`));
+      return fs.existsSync(path.join(AUDIO_DIR, `eg_${slug}.mp3`));
     }).length : 0;
     console.log(`  ${d.id.padEnd(13)} ${d.label.padEnd(18)} ${d.file.padEnd(35)} ${audioCount}/${count} audio`);
   }

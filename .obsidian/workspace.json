@@ -4,61 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d2543ed5b2af7eee",
+        "id": "f1d0ff4937f46d7c",
         "type": "tabs",
         "children": [
           {
-            "id": "461293fe0ab9d148",
+            "id": "7733cc76d471c211",
             "type": "leaf",
             "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "BYWYp-B_3ZA",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=BYWYp-B_3ZA"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    }
-                  }
-                }
-              },
-              "icon": "youtube",
-              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 19"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c70338478a3ad726",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7abd6fca1c8fa638",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learn-5000-english-words/Lesson 19 (92-100).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lesson 19 (92-100)"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -118,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -257,8 +212,12 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "7abd6fca1c8fa638",
+  "active": "7733cc76d471c211",
   "lastOpenFiles": [
+    "learn-5000-english-words/Unknown Words.md",
+    "learn-5000-english-words/Vocabulary Glossary.md",
+    "learn-5000-english-words/Lesson 19 (92-100).md",
+    "learn-5000-english-words/Lesson 20(101-106).md",
     "english words/anki/audio/eg_zoo.mp3",
     "english words/anki/audio/eg_yoga.mp3",
     "english words/anki/audio/eg_volleyball.mp3",
@@ -269,9 +228,6 @@
     "english words/anki/audio/eg_university.mp3",
     "english words/anki/audio/eg_transport.mp3",
     "english words/anki/audio/eg_tradition.mp3",
-    "english words/anki/audio/eg_tourist.mp3",
-    "learn-5000-english-words/Lesson 19 (92-100).md",
-    "learn-5000-english-words/Lesson 20(101-106).md",
     "learn-5000-english-words/Lesson 18 (87-91).md",
     "english-galaxy-turquoise-course/B2/Lesson 7 - 150 фразовых глаголов.md",
     "Home Page.md",
@@ -292,7 +248,6 @@
     "learn-5000-english-words/Lesson 3(4-7).md",
     "learn-5000-english-words/Lesson 2(2-3).md",
     "learn-5000-english-words/Lesson 1(1).md",
-    "learn-5000-english-words/Unknown Words.md",
     "english words/anki/Anki Decks.md",
     "english words/English Words.md",
     "Без названия.canvas",
