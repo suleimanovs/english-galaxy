@@ -17,4 +17,19 @@ Come on, let's do it!
 do up - застегнуть, ремонтировать
 fasten = do up в плане застегнуть
 
-He did up his jacke
+He did up his jacket.
+Do up the belt!
+Fasten the belt!
+She did up her apartment last summer.
+He bought an old house and did it up.
+
+---
+move on to - перейти к чему-то
+
+I moved on to the next exercise.
+Let's move on to the next question.
+
+---
+bring forward - предлагать 
+
+An interesting plan was brought forward during 
