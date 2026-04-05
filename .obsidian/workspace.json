@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english words/anki/Anki Decks.md",
+                "file": "learn-5000-english-words/Unknown Words.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anki Decks"
+              "title": "Unknown Words"
             }
           }
         ]
@@ -218,10 +218,12 @@
   },
   "active": "7733cc76d471c211",
   "lastOpenFiles": [
+    "learn-5000-english-words/Vocabulary Glossary.md",
+    "learn-5000-english-words/Unknown Words.md",
+    "learn-5000-english-words/Progress.md",
+    "english words/anki/Anki Decks.md",
     "english words/New.md",
     "conflict-files-obsidian-git.md",
-    "learn-5000-english-words/Unknown Words.md",
-    "learn-5000-english-words/Vocabulary Glossary.md",
     "learn-5000-english-words/Lesson 19 (92-100).md",
     "learn-5000-english-words/Lesson 20(101-106).md",
     "english words/anki/audio/eg_zoo.mp3",
@@ -252,8 +254,6 @@
     "learn-5000-english-words/Lesson 5(13-18).md",
     "learn-5000-english-words/Lesson 4(8-12).md",
     "learn-5000-english-words/Lesson 3(4-7).md",
-    "learn-5000-english-words/Lesson 2(2-3).md",
-    "learn-5000-english-words/Lesson 1(1).md",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
