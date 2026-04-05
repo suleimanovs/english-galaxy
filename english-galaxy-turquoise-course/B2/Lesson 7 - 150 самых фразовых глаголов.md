@@ -32,4 +32,12 @@ Let's move on to the next question.
 ---
 bring forward - предлагать 
 
-An interesting plan was brought forward during 
+An interesting plan was brought forward during the meeting.
+
+---
+take in - обманывать
+
+They want to take her in.
+
+---
+This woman was taken in.
