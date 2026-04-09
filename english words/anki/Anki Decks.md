@@ -361,11 +361,37 @@ const tabs = DECKS.map(deck => {
   return { btn, deck };
 });
 
-const btnRow = wrap.createEl('div', { attr: { style: 'display:flex;gap:10px;margin-bottom:10px' } });
-const exportBtn = btnRow.createEl('button', { text: 'Export to Anki', attr: { style: 'padding:7px 20px;font-size:0.95em;cursor:pointer;background:#4caf50;color:#fff;border:none;border-radius:6px;font-weight:bold' } });
-const syncBtn = btnRow.createEl('button', { text: 'Sync', attr: { style: 'padding:7px 20px;font-size:0.95em;cursor:pointer;background:#2196f3;color:#fff;border:none;border-radius:6px;font-weight:bold' } });
-const audioBtn = btnRow.createEl('button', { text: 'Audio Sync', attr: { style: 'padding:7px 20px;font-size:0.95em;cursor:pointer;background:#ff9800;color:#fff;border:none;border-radius:6px;font-weight:bold' } });
-const audioForceBtn = btnRow.createEl('button', { text: 'Audio Force', attr: { style: 'padding:7px 20px;font-size:0.95em;cursor:pointer;background:#f44336;color:#fff;border:none;border-radius:6px;font-weight:bold' } });
+const btnRow = wrap.createEl('div', { attr: { style: 'display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px' } });
+const bs = 'padding:7px 16px;font-size:0.9em;cursor:pointer;color:#fff;border:none;border-radius:6px;font-weight:bold';
+const exportBtn = btnRow.createEl('button', { text: 'Export', attr: { style: bs + ';background:#4caf50' } });
+const syncBtn = btnRow.createEl('button', { text: 'Sync', attr: { style: bs + ';background:#2196f3' } });
+const syncAllBtn = btnRow.createEl('button', { text: 'Sync All', attr: { style: bs + ';background:#673ab7' } });
+const audioBtn = btnRow.createEl('button', { text: 'Audio Sync', attr: { style: bs + ';background:#ff9800' } });
+
+// ─── Global progress bar ─────────────────────────────────────────────────────
+const progressDiv = wrap.createEl('div', { attr: { style: 'margin-bottom:12px' } });
+
+async function renderProgress() {
+  progressDiv.innerHTML = '';
+  let totalWords = 0, totalKnown = 0, totalLearning = 0;
+  for (const deck of DECKS) {
+    const tracker = await loadTracker(deck);
+    const entries = Object.values(tracker);
+    totalWords += entries.length;
+    totalKnown += entries.filter(d => d.status === 'known').length;
+    totalLearning += entries.filter(d => d.status === 'learning').length;
+  }
+  const pct = totalWords > 0 ? Math.round(totalKnown / totalWords * 100) : 0;
+  const lPct = totalWords > 0 ? Math.round(totalLearning / totalWords * 100) : 0;
+  progressDiv.innerHTML =
+    `<div style="display:flex;gap:16px;font-size:0.88em;margin-bottom:4px">` +
+    `<span>Всего: <b>${totalWords}</b></span>` +
+    `<span style="color:#5cb85c">Выучено: <b>${totalKnown}</b> (${pct}%)</span>` +
+    `<span style="color:#f0ad4e">Учу: <b>${totalLearning}</b> (${lPct}%)</span></div>` +
+    `<div style="width:100%;height:8px;background:var(--background-modifier-border);border-radius:4px;overflow:hidden">` +
+    `<div style="width:${pct + lPct}%;height:100%;background:linear-gradient(to right, #5cb85c ${pct}%, #f0ad4e ${pct}%);border-radius:4px"></div></div>`;
+}
+await renderProgress();
 
 // ─── Card types panel ────────────────────────────────────────────────────────
 const cardTypesDiv = wrap.createEl('div', { attr: { style: 'background:var(--background-secondary);padding:10px 14px;border-radius:6px;margin-bottom:12px;font-size:0.88em' } });
@@ -446,50 +472,60 @@ function showLog() {
   return (msg) => { logDiv.innerHTML += msg + '<br>'; logDiv.scrollTop = logDiv.scrollHeight; };
 }
 
+function disableAll() { exportBtn.disabled = syncBtn.disabled = syncAllBtn.disabled = audioBtn.disabled = true; }
+function enableAll()  { exportBtn.disabled = syncBtn.disabled = syncAllBtn.disabled = audioBtn.disabled = false; }
+
 exportBtn.addEventListener('click', async () => {
-  exportBtn.disabled = syncBtn.disabled = audioBtn.disabled = audioForceBtn.disabled = true;
-  exportBtn.textContent = 'Экспортирую...';
+  disableAll();
+  exportBtn.textContent = '...';
   const log = showLog();
   log(`Колода: <b>${activeDeck.name}</b>`);
   try {
     const updated = await runExport(activeDeck, log);
     if (updated) { currentTracker = updated; renderTable(tableDiv, currentTracker, activeDeck); }
   } catch (e) { log(`<span style="color:#d9534f">Fatal: ${e.message}</span>`); }
-  exportBtn.disabled = syncBtn.disabled = audioBtn.disabled = audioForceBtn.disabled = false;
-  exportBtn.textContent = 'Export to Anki';
+  enableAll(); exportBtn.textContent = 'Export';
 });
 
 syncBtn.addEventListener('click', async () => {
-  exportBtn.disabled = syncBtn.disabled = audioBtn.disabled = audioForceBtn.disabled = true;
-  syncBtn.textContent = 'Синхронизирую...';
+  disableAll();
+  syncBtn.textContent = '...';
   const log = showLog();
   log(`Колода: <b>${activeDeck.name}</b>`);
   try {
     const updated = await runSync(activeDeck, log);
     if (updated) { currentTracker = updated; renderTable(tableDiv, currentTracker, activeDeck); }
+    await renderProgress();
   } catch (e) { log(`<span style="color:#d9534f">Fatal: ${e.message}</span>`); }
-  exportBtn.disabled = syncBtn.disabled = audioBtn.disabled = audioForceBtn.disabled = false;
-  syncBtn.textContent = 'Sync';
+  enableAll(); syncBtn.textContent = 'Sync';
+});
+
+syncAllBtn.addEventListener('click', async () => {
+  disableAll();
+  syncAllBtn.textContent = '...';
+  const log = showLog();
+  log('<b>Sync All — все колоды</b>');
+  try {
+    await ankiReq('version');
+    for (const deck of DECKS) {
+      log(`<br><b>${deck.label}</b>`);
+      await runSync(deck, log);
+    }
+    await renderProgress();
+    currentTracker = await loadTracker(activeDeck);
+    renderTable(tableDiv, currentTracker, activeDeck);
+    await renderCardTypes(activeDeck);
+  } catch (e) { log(`<span style="color:#d9534f">Fatal: ${e.message}</span>`); }
+  enableAll(); syncAllBtn.textContent = 'Sync All';
 });
 
 audioBtn.addEventListener('click', async () => {
-  exportBtn.disabled = syncBtn.disabled = audioBtn.disabled = audioForceBtn.disabled = true;
-  audioBtn.textContent = 'Загружаю аудио...';
+  disableAll();
+  audioBtn.textContent = '...';
   const log = showLog();
   try { await runAudioSync(activeDeck, log, false); }
   catch (e) { log(`<span style="color:#d9534f">Fatal: ${e.message}</span>`); }
-  exportBtn.disabled = syncBtn.disabled = audioBtn.disabled = audioForceBtn.disabled = false;
-  audioBtn.textContent = 'Audio Sync';
-});
-
-audioForceBtn.addEventListener('click', async () => {
-  exportBtn.disabled = syncBtn.disabled = audioBtn.disabled = audioForceBtn.disabled = true;
-  audioForceBtn.textContent = 'Перезагружаю аудио...';
-  const log = showLog();
-  try { await runAudioSync(activeDeck, log, true); }
-  catch (e) { log(`<span style="color:#d9534f">Fatal: ${e.message}</span>`); }
-  exportBtn.disabled = syncBtn.disabled = audioBtn.disabled = audioForceBtn.disabled = false;
-  audioForceBtn.textContent = 'Audio Force';
+  enableAll(); audioBtn.textContent = 'Audio Sync';
 });
 
 await selectDeck(DECKS[0]);
