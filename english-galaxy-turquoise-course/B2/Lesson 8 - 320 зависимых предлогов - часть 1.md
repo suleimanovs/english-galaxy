@@ -51,3 +51,18 @@ shout at - кричать на
 He needs to stop shouting at her
 
 ---
+consist of  - состоять из
+
+The cake consists of flour, sugar and eggs
+
+---
+astonished by / at  
+
+I was really astonished by the result
+I was really astonished by the news
+
+---
+
+register for - регистрироваться на что-то
+
+Have you already  registe
