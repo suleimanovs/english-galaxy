@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2724f320fb8ee507",
+        "id": "af10b737676c7ce3",
         "type": "tabs",
         "children": [
           {
-            "id": "7478f2a43a70541a",
+            "id": "f025f89a25fe9454",
             "type": "leaf",
             "state": {
               "type": "mx-url",
@@ -39,26 +39,6 @@
               },
               "icon": "youtube",
               "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 8"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4509724f8bf84da7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english-galaxy-turquoise-course/B2/Lesson 8 - 320 зависимых предлогов - часть 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lesson 8 - 320 зависимых предлогов - часть 1"
             }
           }
         ]
@@ -114,13 +94,11 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -258,9 +236,10 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f025f89a25fe9454",
   "lastOpenFiles": [
     "english-galaxy-turquoise-course/B2/Lesson 8 - 320 зависимых предлогов - часть 1.md",
+    "english words/anki/Anki Decks.md",
     "english words/anki/dependent-prepositions-tracker.csv",
     "english-galaxy-turquoise-course/B2/Lesson 6 - 150 важных фразовых глаголов часть 6.md",
     "english-galaxy-turquoise-course/B2/Lesson 7 - 150 фразовых глаголов.md",
@@ -278,7 +257,6 @@
     "english words/anki/audio/eg_fame.mp3",
     "english words/anki/audio/eg_carton.mp3",
     "learn-5000-english-words/Progress.md",
-    "english words/anki/Anki Decks.md",
     "english words/New.md",
     "conflict-files-obsidian-git.md",
     "learn-5000-english-words/Lesson 19 (92-100).md",
