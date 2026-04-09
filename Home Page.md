@@ -253,11 +253,52 @@
 })()
 ```
 
+## Anki
+
+```dataviewjs
+(async () => {
+	const { requestUrl } = require('obsidian');
+	let ver;
+	try {
+		const res = await requestUrl({ url: 'http://localhost:8765', method: 'POST', headers: { 'Content-Type': 'application/json' },
+			body: JSON.stringify({ action: 'version', version: 6 }) });
+		ver = res.json.result;
+	} catch { dv.paragraph('Anki не запущен'); return; }
+
+	async function ankiReq(action, params = {}) {
+		const res = await requestUrl({ url: 'http://localhost:8765', method: 'POST', headers: { 'Content-Type': 'application/json' },
+			body: JSON.stringify({ action, version: 6, params }) });
+		return res.json.result;
+	}
+
+	const decks = (await ankiReq('deckNames')).filter(d => d.startsWith('EG'));
+	const rows = [];
+	let totalCards = 0, totalDue = 0, totalLearning = 0, totalKnown = 0;
+
+	for (const deck of decks.sort()) {
+		const short = deck.replace('EG — ', '');
+		const cards = await ankiReq('findCards', { query: `deck:"${deck}" note:"Простая"` });
+		const due = await ankiReq('findCards', { query: `deck:"${deck}" note:"Простая" is:due` });
+		const newC = await ankiReq('findCards', { query: `deck:"${deck}" note:"Простая" is:new` });
+		const total = cards.length;
+		const learning = total - newC.length;
+		const pct = total > 0 ? Math.round(learning / total * 100) : 0;
+		const filled = Math.round(pct / 10);
+		const bar = '█'.repeat(filled) + '░'.repeat(10 - filled);
+		rows.push([short, total, due.length, `${bar} ${pct}%`]);
+		totalCards += total; totalDue += due.length;
+	}
+
+	dv.table(['Колода', 'Карточек', 'На сегодня', 'Изучено'], rows);
+	dv.paragraph(`Всего: **${totalCards}** карточек, **${totalDue}** к повторению`);
+})()
+```
+
 ## Словарные материалы
 
-> [[English Words]] — единый справочник: глаголы/прилагательные/существительные + предлог, устойчивые выражения, Make vs Do, идиомы, похожие слова. С поиском и фильтрами.
+> [[Anki Decks]] — все колоды: idioms, collocations, phrasal verbs, false/true friends, dep. prepositions и др. Экспорт, синхронизация, аудио.
 >
-> [[New]] — новые слова на заметку.
+> [[Unknown Words]] — слова из уроков 5000 Words: сканирование, генерация предложений, экспорт в Anki.
 
 ## Последние занятия
 
