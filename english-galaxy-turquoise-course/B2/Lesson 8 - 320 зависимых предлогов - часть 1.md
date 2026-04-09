@@ -51,7 +51,7 @@ shout at - кричать на
 He needs to stop shouting at her
 
 ---
-consist of  - состоять из
+consist of - состоять из
 
 The cake consists of flour, sugar and eggs
 
@@ -76,4 +76,10 @@ He often complains about his salary because He is often underpaid
 ---
 key to - ключ к чему-то 
 
-What 
+What is the key to success ?
+Hard work  is the key to success?
+
+---
+excited about - взлонован чем-то/ в восторге от чего-то
+
+I'm so excited about the upcoming event 

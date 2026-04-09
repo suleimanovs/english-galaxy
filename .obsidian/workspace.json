@@ -231,8 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5,
-    "collapsed": true
+    "width": 509.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,6 +260,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "english-galaxy-turquoise-course/B2/Lesson 8 - 320 зависимых предлогов - часть 1.md",
+    "english words/anki/dependent-prepositions-tracker.csv",
     "english-galaxy-turquoise-course/B2/Lesson 6 - 150 важных фразовых глаголов часть 6.md",
     "english-galaxy-turquoise-course/B2/Lesson 7 - 150 фразовых глаголов.md",
     "Home Page.md",
@@ -276,7 +276,6 @@
     "english words/anki/audio/eg_fortune.mp3",
     "english words/anki/audio/eg_fame.mp3",
     "english words/anki/audio/eg_carton.mp3",
-    "english words/anki/audio/eg_purse.mp3",
     "learn-5000-english-words/Progress.md",
     "english words/anki/Anki Decks.md",
     "english words/New.md",
@@ -295,7 +294,6 @@
     "learn-5000-english-words/Lesson 9 (35-40).md",
     "learn-5000-english-words/Lesson 8 (28-34).md",
     "learn-5000-english-words/Lesson 7 (24-27).md",
-    "learn-5000-english-words/Lesson 6(19-23).md",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
