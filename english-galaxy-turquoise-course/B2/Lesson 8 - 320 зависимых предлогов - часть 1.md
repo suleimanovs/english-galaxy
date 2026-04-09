@@ -13,4 +13,15 @@ reaction to - реакция на
 I was surprised by his reaction to these words
 
 ---
- need for - необх
+ need for - необходимость в чем-то
+
+There was no need for such radical changes 
+
+---
+How did you manage to enter the room ?
+
+---
+aware of - осведомлен о чем-то, осознаю что-то
+
+The company is perfectly aware of this problem 
+I'm fully aware of
