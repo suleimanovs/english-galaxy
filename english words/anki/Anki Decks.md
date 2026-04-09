@@ -148,18 +148,45 @@ async function runSync(deck, log) {
 
   for (const [key, data] of exported) {
     try {
-      const noteIds = await ankiReq('findNotes', { query: `deck:"${deck.name}" tag:${toTag(deck.tagPrefix, key)}` });
-      if (!noteIds.length) continue;
-      const cards = await ankiReq('findCards', { query: `nid:${noteIds[0]}` });
-      if (!cards.length) continue;
-      const infos = await ankiReq('cardsInfo', { cards });
-      const allKnown = infos.every(c => c.interval >= KNOWN_INTERVAL_DAYS);
+      const tag = toTag(deck.tagPrefix, key);
 
-      if (allKnown && data.status !== 'known') {
+      // Find ALL notes for this word (basic + cloze + special)
+      const noteIds = await ankiReq('findNotes', { query: `deck:"${deck.name}" tag:${tag}` });
+      if (!noteIds.length) continue;
+
+      // Get all cards, filter out suspended (frozen)
+      let allCards = [];
+      for (const nid of noteIds) {
+        const cards = await ankiReq('findCards', { query: `nid:${nid}` });
+        allCards = allCards.concat(cards);
+      }
+      if (!allCards.length) continue;
+
+      const infos = await ankiReq('cardsInfo', { cards: allCards });
+      const activeCards = infos.filter(c => c.queue !== -1); // queue -1 = suspended
+      if (!activeCards.length) continue;
+
+      const allActiveKnown = activeCards.every(c => c.interval >= KNOWN_INTERVAL_DAYS);
+
+      // Auto-unlock: if all active cards are known, unsuspend frozen cards for this word
+      const frozenCards = infos.filter(c => c.queue === -1);
+      if (allActiveKnown && frozenCards.length > 0) {
+        await ankiReq('unsuspend', { cards: frozenCards.map(c => c.cardId) });
+        log(`  "<b>${key}</b>" — разблокирован доп. тип карточки`);
+        // After unlock, word is no longer known (new card type at interval 0)
+        if (data.status === 'known') {
+          tracker[key].status = 'learning';
+          tracker[key].knownAt = '';
+          returnedCount++;
+        }
+        continue;
+      }
+
+      if (allActiveKnown && data.status !== 'known') {
         tracker[key].status = 'known';
         tracker[key].knownAt = new Date().toISOString().split('T')[0];
         knownCount++;
-      } else if (!allKnown && data.status === 'known') {
+      } else if (!allActiveKnown && data.status === 'known') {
         tracker[key].status = 'learning';
         tracker[key].knownAt = '';
         returnedCount++;
