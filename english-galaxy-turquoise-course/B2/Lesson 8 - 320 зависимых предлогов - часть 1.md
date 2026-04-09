@@ -31,4 +31,23 @@ insist on - настаивать на чем-то
 
 punctual - пунктуальный
 punctuality - пунктуальность
-ou
+
+Our director insists on punctuality
+
+---
+absorbed in - поглощен чем-то
+totally absorbed - полностью поглощен
+
+He is totally absorbed in the movie
+
+---
+Engrossed in - поглощен чем-то
+
+He is engrossed in the book.
+
+---
+shout at - кричать на
+
+He needs to stop shouting at her
+
+---
