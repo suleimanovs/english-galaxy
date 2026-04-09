@@ -24,4 +24,11 @@ How did you manage to enter the room ?
 aware of - осведомлен о чем-то, осознаю что-то
 
 The company is perfectly aware of this problem 
-I'm fully aware of
+I'm fully aware of the fact that it takes time.
+
+---
+insist on - настаивать на чем-то 
+
+punctual - пунктуальный
+punctuality - пунктуальность
+ou
