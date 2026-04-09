@@ -62,7 +62,18 @@ I was really astonished by the result
 I was really astonished by the news
 
 ---
-
 register for - регистрироваться на что-то
 
-Have you already  registe
+Have you already registered for the course?
+I'm going to register for the course.
+
+---
+complain about - жаловаться на 
+
+Did he complain about it?
+He often complains about his salary because He is often underpaid
+
+---
+key to - ключ к чему-то 
+
+What 
