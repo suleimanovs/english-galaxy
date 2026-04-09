@@ -80,8 +80,16 @@ What is the key to success ?
 Hard work  is the key to success?
 
 ---
-excited about - взлонован чем-то/ в восторге от чего-то
+excited about - взволнован чем-то/ в восторге от чего-то
 
 I'm so excited about the upcoming event 
 
-He is really excited about the upcoming 
+He is really excited about the upcoming concert 
+
+---
+apply to - подать заявление куда-то
+
+She applied to this university and she was accepted 
+
+The book consists of ten chapters
+There are ten chapters in the book 
