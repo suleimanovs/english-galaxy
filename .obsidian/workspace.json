@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english words/anki/Anki Decks.md",
+                "file": "learn-5000-english-words/Unknown Words.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anki Decks"
+              "title": "Unknown Words"
             }
           }
         ]
@@ -189,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5
+    "width": 509.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,8 +216,12 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "1b1be49d8d171a57",
+  "active": "f025f89a25fe9454",
   "lastOpenFiles": [
+    "Setup.md",
+    "learn-5000-english-words/Vocabulary Glossary.md",
+    "learn-5000-english-words/Unknown Words.md",
+    "english words/anki/Anki Decks.md",
     "english words/anki/audio/eg_trouble_with.mp3",
     "english words/anki/audio/eg_tendency_to.mp3",
     "english words/anki/audio/eg_taste_for.mp3",
@@ -227,15 +232,11 @@
     "english words/anki/audio/eg_reliance_on.mp3",
     "english words/anki/audio/eg_provision_for.mp3",
     "english words/anki/audio/eg_progress_in.mp3",
-    "english words/anki/audio/eg_pride_in.mp3",
     "english-galaxy-turquoise-course/B2/Lesson 8 - 320 зависимых предлогов - часть 1.md",
-    "english words/anki/Anki Decks.md",
     "english-galaxy-turquoise-course/B2/Lesson 6 - 150 важных фразовых глаголов часть 6.md",
     "english-galaxy-turquoise-course/B2/Lesson 7 - 150 фразовых глаголов.md",
     "Home Page.md",
-    "learn-5000-english-words/Unknown Words.md",
     "learn-5000-english-words/Lesson 61.md",
-    "learn-5000-english-words/Vocabulary Glossary.md",
     "learn-5000-english-words/Progress.md",
     "english words/New.md",
     "conflict-files-obsidian-git.md",
