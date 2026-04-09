@@ -17,6 +17,7 @@ const DECKS = [
   { id: 'phrasal_v',    name: 'EG — Phrasal Verbs', file: 'phrasal-verbs-tracker.csv',  label: 'Phrasal Verbs',       fields: ['phrasal_verb','translation','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'phrasal_verb', backKey: 'translation', tagPrefix: 'pv' },
   { id: 'true',         name: 'EG — True Friends',  file: 'true-friends-tracker.csv',   label: 'True Friends',        fields: ['english_word','russian_word','exportedAt','status','knownAt','s1','s2','s3','family'], frontKey: 'english_word', backKey: 'russian_word', tagPrefix: 'tf' },
   { id: 'depprep',      name: 'EG — Dependent Prepositions', file: 'dependent-prepositions-tracker.csv', label: 'Dep. Prepositions', fields: ['phrase','type','translation','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'phrase', backKey: 'translation', tagPrefix: 'dp', extraFields: ['type'] },
+  { id: 'egw',          name: 'EG — All Words',              file: 'learn-5000-english-words/word-tracker.csv', label: 'All Words', fields: ['word','translation','filename','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'word', backKey: 'translation', tagPrefix: 'egw', absPath: true },
 ];
 
 // ─── ANKI ────────────────────────────────────────────────────────────────────
@@ -61,17 +62,22 @@ function toCSVStr(tracker, fields) {
   return rows.join('\n');
 }
 
+function trackerPath(deck) {
+  return deck.absPath ? deck.file : FOLDER + '/' + deck.file;
+}
+
 async function loadTracker(deck) {
-  const file = app.vault.getAbstractFileByPath(FOLDER + '/' + deck.file);
+  const file = app.vault.getAbstractFileByPath(trackerPath(deck));
   if (!file) return {};
   try { return parseCSV(await app.vault.read(file), deck.fields); } catch { return {}; }
 }
 
 async function saveTracker(deck, tracker) {
   const content = toCSVStr(tracker, deck.fields);
-  const file = app.vault.getAbstractFileByPath(FOLDER + '/' + deck.file);
+  const path = trackerPath(deck);
+  const file = app.vault.getAbstractFileByPath(path);
   if (file) await app.vault.modify(file, content);
-  else await app.vault.create(FOLDER + '/' + deck.file, content);
+  else await app.vault.create(path, content);
 }
 
 // ─── CARD BUILDERS ───────────────────────────────────────────────────────────
