@@ -4,6 +4,46 @@
     "type": "split",
     "children": [
       {
+        "id": "2724f320fb8ee507",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7478f2a43a70541a",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "c4V6-s37qr0",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=c4V6-s37qr0"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    }
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 8"
+            }
+          }
+        ]
+      },
+      {
         "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
@@ -13,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "english-galaxy-turquoise-course/B2/Lesson 8 - 320 зависимых предлогов - часть 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Page"
+              "title": "Lesson 8 - 320 зависимых предлогов - часть 1"
             }
           }
         ]
@@ -78,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -218,6 +259,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "english-galaxy-turquoise-course/B2/Lesson 8 - 320 зависимых предлогов - часть 1.md",
+    "english-galaxy-turquoise-course/B2/Lesson 6 - 150 важных фразовых глаголов часть 6.md",
+    "english-galaxy-turquoise-course/B2/Lesson 7 - 150 фразовых глаголов.md",
+    "Home Page.md",
     "learn-5000-english-words/Unknown Words.md",
     "learn-5000-english-words/Lesson 61.md",
     "learn-5000-english-words/Vocabulary Glossary.md",
@@ -238,8 +283,6 @@
     "learn-5000-english-words/Lesson 19 (92-100).md",
     "learn-5000-english-words/Lesson 20(101-106).md",
     "learn-5000-english-words/Lesson 18 (87-91).md",
-    "english-galaxy-turquoise-course/B2/Lesson 7 - 150 фразовых глаголов.md",
-    "Home Page.md",
     "learn-5000-english-words/Lesson 17 (80-86).md",
     "learn-5000-english-words/Lesson 16(75-79).md",
     "learn-5000-english-words/Lesson 15(68-74).md",
@@ -252,8 +295,6 @@
     "learn-5000-english-words/Lesson 8 (28-34).md",
     "learn-5000-english-words/Lesson 7 (24-27).md",
     "learn-5000-english-words/Lesson 6(19-23).md",
-    "learn-5000-english-words/Lesson 5(13-18).md",
-    "learn-5000-english-words/Lesson 4(8-12).md",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
