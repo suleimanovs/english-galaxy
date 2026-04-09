@@ -83,3 +83,5 @@ Hard work  is the key to success?
 excited about - взлонован чем-то/ в восторге от чего-то
 
 I'm so excited about the upcoming event 
+
+He is really excited about the upcoming 
