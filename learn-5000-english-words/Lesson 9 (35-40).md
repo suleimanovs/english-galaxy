@@ -68,7 +68,7 @@
 711. fall - падать
 712. kilo - килограм
 713. paper - бумага
-714. <font color="#c0504d">potatoes  - картошка</font>
+714. potatoes - картошка
 715. then - затем
 716. tree - дерево
 717. wine - вино
