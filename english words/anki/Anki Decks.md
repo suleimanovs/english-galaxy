@@ -174,20 +174,6 @@ async function runSync(deck, log) {
 
       const allActiveKnown = activeCards.every(c => c.interval >= KNOWN_INTERVAL_DAYS);
 
-      // Auto-unlock: if all active cards are known, unsuspend frozen cards for this word
-      const frozenCards = infos.filter(c => c.queue === -1);
-      if (allActiveKnown && frozenCards.length > 0) {
-        await ankiReq('unsuspend', { cards: frozenCards.map(c => c.cardId) });
-        log(`  "<b>${key}</b>" — разблокирован доп. тип карточки`);
-        // After unlock, word is no longer known (new card type at interval 0)
-        if (data.status === 'known') {
-          tracker[key].status = 'learning';
-          tracker[key].knownAt = '';
-          returnedCount++;
-        }
-        continue;
-      }
-
       if (allActiveKnown && data.status !== 'known') {
         tracker[key].status = 'known';
         tracker[key].knownAt = new Date().toISOString().split('T')[0];
