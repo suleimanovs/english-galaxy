@@ -11,34 +11,14 @@
             "id": "f025f89a25fe9454",
             "type": "leaf",
             "state": {
-              "type": "mx-url",
+              "type": "markdown",
               "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "c4V6-s37qr0",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=c4V6-s37qr0"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    }
-                  }
-                }
+                "file": "english words/anki/Anki Decks.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 8"
+              "icon": "lucide-file",
+              "title": "Anki Decks"
             }
           }
         ]
@@ -209,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5,
-    "collapsed": true
+    "width": 509.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,26 +215,27 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "f025f89a25fe9454",
+  "active": "1b1be49d8d171a57",
   "lastOpenFiles": [
+    "english words/anki/audio/eg_ban_on.mp3",
+    "english words/anki/audio/eg_attention_to.mp3",
+    "english words/anki/audio/eg_attempt_at.mp3",
+    "english words/anki/audio/eg_alternative_to.mp3",
+    "english words/anki/audio/eg_agreement_on.mp3",
+    "english words/anki/audio/eg_admiration_for.mp3",
+    "english words/anki/audio/eg_absence_from.mp3",
+    "english words/anki/audio/eg_weak_at.mp3",
+    "english words/anki/audio/eg_useful_for.mp3",
+    "english words/anki/audio/eg_sympathetic_to.mp3",
+    "english words/anki/audio/eg_sufficient_for.mp3",
     "english-galaxy-turquoise-course/B2/Lesson 8 - 320 зависимых предлогов - часть 1.md",
     "english words/anki/Anki Decks.md",
-    "english words/anki/dependent-prepositions-tracker.csv",
     "english-galaxy-turquoise-course/B2/Lesson 6 - 150 важных фразовых глаголов часть 6.md",
     "english-galaxy-turquoise-course/B2/Lesson 7 - 150 фразовых глаголов.md",
     "Home Page.md",
     "learn-5000-english-words/Unknown Words.md",
     "learn-5000-english-words/Lesson 61.md",
     "learn-5000-english-words/Vocabulary Glossary.md",
-    "english words/anki/audio/eg_ancient.mp3",
-    "english words/anki/audio/eg_alive.mp3",
-    "english words/anki/audio/eg_pillow.mp3",
-    "english words/anki/audio/eg_painting.mp3",
-    "english words/anki/audio/eg_curtains.mp3",
-    "english words/anki/audio/eg_recognition.mp3",
-    "english words/anki/audio/eg_fortune.mp3",
-    "english words/anki/audio/eg_fame.mp3",
-    "english words/anki/audio/eg_carton.mp3",
     "learn-5000-english-words/Progress.md",
     "english words/New.md",
     "conflict-files-obsidian-git.md",
