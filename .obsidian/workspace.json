@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learn-5000-english-words/Unknown Words.md",
+                "file": "english words/anki/Anki Decks.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unknown Words"
+              "title": "Anki Decks"
             }
           }
         ]
@@ -218,8 +218,8 @@
   },
   "active": "f025f89a25fe9454",
   "lastOpenFiles": [
-    "learn-5000-english-words/Lesson 61.md",
     "learn-5000-english-words/Unknown Words.md",
+    "learn-5000-english-words/Lesson 61.md",
     "Backlog.md",
     "Setup.md",
     "learn-5000-english-words/Vocabulary Glossary.md",

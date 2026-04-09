@@ -334,6 +334,57 @@ const syncBtn = btnRow.createEl('button', { text: 'Sync', attr: { style: 'paddin
 const audioBtn = btnRow.createEl('button', { text: 'Audio Sync', attr: { style: 'padding:7px 20px;font-size:0.95em;cursor:pointer;background:#ff9800;color:#fff;border:none;border-radius:6px;font-weight:bold' } });
 const audioForceBtn = btnRow.createEl('button', { text: 'Audio Force', attr: { style: 'padding:7px 20px;font-size:0.95em;cursor:pointer;background:#f44336;color:#fff;border:none;border-radius:6px;font-weight:bold' } });
 
+// ─── Card types panel ────────────────────────────────────────────────────────
+const cardTypesDiv = wrap.createEl('div', { attr: { style: 'background:var(--background-secondary);padding:10px 14px;border-radius:6px;margin-bottom:12px;font-size:0.88em' } });
+
+async function renderCardTypes(deck) {
+  cardTypesDiv.innerHTML = '';
+  try { await ankiReq('version'); } catch { cardTypesDiv.innerHTML = '<span style="color:var(--text-muted)">Anki не запущен</span>'; return; }
+
+  const types = [
+    { label: 'Basic', model: 'Простая' },
+    { label: 'Cloze', model: 'Задание с пропусками' },
+  ];
+
+  const header = cardTypesDiv.createEl('div', { attr: { style: 'font-weight:bold;margin-bottom:6px;color:var(--text-normal)' } });
+  header.textContent = 'Типы карточек';
+
+  for (const type of types) {
+    const allCards = await ankiReq('findCards', { query: `deck:"${deck.name}" note:"${type.model}"` });
+    if (allCards.length === 0) continue;
+
+    const suspended = await ankiReq('findCards', { query: `deck:"${deck.name}" note:"${type.model}" is:suspended` });
+    const active = allCards.length - suspended.length;
+    const isFrozen = suspended.length === allCards.length;
+
+    const row = cardTypesDiv.createEl('div', { attr: { style: 'display:flex;align-items:center;gap:8px;margin:4px 0' } });
+
+    const cb = row.createEl('input', { attr: { type: 'checkbox' } });
+    cb.checked = !isFrozen;
+
+    const label = row.createEl('span', { attr: { style: 'color:var(--text-normal)' } });
+    label.textContent = `${type.label} (${allCards.length})`;
+
+    const status = row.createEl('span', { attr: { style: 'font-size:0.85em;color:var(--text-muted)' } });
+    status.textContent = isFrozen ? 'frozen' : `${active} active`;
+
+    cb.addEventListener('change', async () => {
+      cb.disabled = true;
+      status.textContent = '...';
+      if (cb.checked) {
+        await ankiReq('unsuspend', { cards: allCards });
+        status.textContent = `${allCards.length} active`;
+        status.style.color = '#5cb85c';
+      } else {
+        await ankiReq('suspend', { cards: allCards });
+        status.textContent = 'frozen';
+        status.style.color = 'var(--text-muted)';
+      }
+      cb.disabled = false;
+    });
+  }
+}
+
 const logDiv = wrap.createEl('div', { attr: { style: 'font-family:monospace;font-size:0.82em;background:var(--background-secondary);padding:10px 14px;border-radius:6px;max-height:260px;overflow-y:auto;display:none;line-height:1.7;margin-bottom:16px' } });
 const tableDiv = wrap.createEl('div', '');
 
@@ -350,6 +401,7 @@ async function selectDeck(deck) {
   });
   currentTracker = await loadTracker(deck);
   renderTable(tableDiv, currentTracker, deck);
+  await renderCardTypes(deck);
   logDiv.style.display = 'none';
 }
 
