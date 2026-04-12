@@ -65,4 +65,25 @@ He made a substantial contribution to charity
 
 ---
 
-a
+accuse of - обвинять в чем-то
+unjustly - несправедливо
+
+He was unjustly accused of that crime 
+
+---
+
+resistance to - сопровивление чему-то
+
+There was so much resistances to this new law 
+
+---
+increase in - рост чего-то увеличение чего-то
+
+There was a sudden increase in sales 
+They predicted a huge increase in sales
+
+---
+
+decrease in - снижение чего-то
+
+There was unexpected 
