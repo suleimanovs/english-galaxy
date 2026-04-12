@@ -9,17 +9,35 @@
 1650. February - февраль
 1651. January - январь
 1652. July - июль
-1653. June - июн
+1653. June - июнь
 1654. March - март
 1655. Mexico - Мексика 
 1656. middle - середина
 1657. November - ноябрь
-1658. October - октоябрт
-1659. September - сентябрб
+1658. October - октябрь
+1659. September - сентябрь
 1660. till - до
 1661. until - до 
 1662. May - май
 1663. market - рынок
 1664. remote control - дистанционное управление 
 1665. six - шесть
-1666. 
+1666. somewhere - где-то
+1667. eleven - одиннадцать 
+1668. hat - шапка, кепка
+1669. <font color="#c0504d">hold - держать</font>
+1670. login - войти, логиниться
+1671. logout - выйти из системы
+1672. marriage - брак
+1673. T-shirt - футболка
+1674. biology - биология
+1675. brightly - ярко
+1676. chat - чат, болтать, переписываться
+1677. <font color="#c0504d">cheer - ободрить</font>
+1678. hamburger - гамбургер
+1679. <font color="#c0504d">polluted - загрязненный</font>
+1680. rain - дождь, дождиться
+1681. <font color="#c0504d">shine - светить</font>
+1682. shower - душ
+1683. snow - снег, снежиться
+1684. bake - вы
