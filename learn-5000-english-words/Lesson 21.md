@@ -59,3 +59,20 @@
 1700. <font color="#c0504d">take off - взлетать</font>
 1701. watch - часы, смотреть
 1702. boil - кипеть
+1703. <font color="#c0504d">brush - чистить</font>
+1704. comics - комикс
+1705. dad - папа
+1706. degree - степень 
+1707. <font color="#c0504d">disturb - беспокоить</font>
+1708. grandpa - дедушка
+1709. <font color="#c0504d">kettle - чайник</font>
+1710. knock - стучать 
+1711. Mom - мама
+1712. pack - поковать
+1713. <font color="#c0504d">pray - молиться</font>
+1714. teeth - зубы
+1715. <font color="#c0504d">through - через</font>
+1716. twins - близнецы
+1717. <font color="#c0504d">underground - метро</font>
+1718. slow down - замедлить
+1719. 
