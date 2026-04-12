@@ -46,3 +46,23 @@ It can lead to unforeseen circumstances
 
 ---
 
+invitation to - приглашение куда-то
+
+I will send you an invitation to the meeting 
+
+---
+occupied with - занят кем-то
+
+They are occupied with a very important project 
+
+---
+contribution to - вллад во что-то
+significant - значительный
+substantial - существенный
+
+He made a very significant contribution to our society 
+He made a substantial contribution to charity 
+
+---
+
+a
