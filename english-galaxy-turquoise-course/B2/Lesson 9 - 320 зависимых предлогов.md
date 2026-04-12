@@ -86,4 +86,7 @@ They predicted a huge increase in sales
 
 decrease in - снижение чего-то
 
-There was unexpected 
+There was an unexpected decrease in sales 
+
+---
+
