@@ -40,4 +40,22 @@
 1681. <font color="#c0504d">shine - светить</font>
 1682. shower - душ
 1683. snow - снег, снежиться
-1684. bake - вы
+1684. <font color="#c0504d">bake - выпекать</font>
+1685. <font color="#c0504d">bark - лаять</font>
+1686. bread - хлеб
+1687. directly - прямо
+1688. <font color="#c0504d">sausage - сосиска</font>
+1689. <font color="#c0504d">stool - стул</font>
+1690. <font color="#c0504d">tie - галстук </font>
+1691. airplane - самолет 
+1692. algebra - алгебра
+1693. bath - ванна
+1694. <font color="#c0504d">cookie - печенье </font>
+1695. <font color="#c0504d">doll - кукла</font>
+1696. fix - чинить
+1697. geometry - геометрия 
+1698. <font color="#c0504d">land - земля</font>
+1699. <font color="#c0504d">stranger - незнакомец</font>
+1700. <font color="#c0504d">take off - взлетать</font>
+1701. watch - часы, смотреть
+1702. boil - кипеть
