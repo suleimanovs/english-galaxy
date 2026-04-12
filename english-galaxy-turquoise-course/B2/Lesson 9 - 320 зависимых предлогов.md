@@ -27,3 +27,22 @@ depend on - зависеть от
 He doesn't want to depend on his parents any longer
 
 ---
+
+suffer from - страдать от
+
+He often suffers from depression
+She suffers from constant headaches
+
+---
+
+Lead to - ввести к чему-то
+It led the company to bankruptcy 
+
+Do you agree with the statement that hard work leads us to success?
+Unforeseen - непредвиденный
+circumstances - обстоятельства
+
+It can lead to unforeseen circumstances 
+
+---
+
