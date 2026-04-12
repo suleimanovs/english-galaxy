@@ -75,4 +75,14 @@
 1716. twins - близнецы
 1717. <font color="#c0504d">underground - метро</font>
 1718. slow down - замедлить
-1719. 
+1719. <font color="#c0504d">cope - справлять</font>
+1720. <font color="#c0504d">deserve - заслуживать</font>
+1721. exchange - обмен, обменять
+1722. <font color="#c0504d">firmly - твердо</font>
+1723. loud - громкий
+1724. <font color="#c0504d">owe - быть должным</font>
+1725. <font color="#c0504d">sharply - остро </font>
+1726. soup - суп
+1727. <font color="#c0504d">split up - расстаться</font>
+1728. <font color="#c0504d">suspicious - подозрительный</font>
+1729. <font color="#c0504d">thrilling - захватывающий</font>
