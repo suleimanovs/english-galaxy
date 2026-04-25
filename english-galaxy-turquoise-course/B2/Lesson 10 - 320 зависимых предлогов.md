@@ -9,15 +9,29 @@ They disagree on this issue.
 He disagrees with his colleagues on many issues.
 
 ---
-advantages of - преимущество чего-то
+Advantages of - преимущество чего-то
 
 It is one of the main advantages of this profession.
 It is one of the main advantages of living in this city.
 
 ---
-disadvantages of - недостатки чего-то
+Disadvantages of - недостатки чего-то
 
 It is one of the disadvantages of this work.
-What the adan
+What are the advantages and disadvantages of distance learning?
 
 ---
+Absence from - отсутствовать где-то
+
+How did he explain his absense from work?
+
+---
+compensate for - компенсировать что-то
+
+They must compensate you for these losses 
+
+---
+demand for - спрос на что-то
+a growing demand - растущий спрос
+
+There 
