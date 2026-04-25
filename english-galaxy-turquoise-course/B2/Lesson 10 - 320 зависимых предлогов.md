@@ -42,4 +42,16 @@ If we look at the current situation we can see that there is a growing demand fo
 ---
 Apologize to someone - извинять перед кем-то
 
-He went and 
+He went and apologised to her.
+
+---
+Apologise for something - извинять за что-то
+Apologise for doing something - извинять за что-то
+
+They apologised for the delay.
+I would like to apologise for being late 
+
+---
+stare at - уставиться на
+
+The stranger 
