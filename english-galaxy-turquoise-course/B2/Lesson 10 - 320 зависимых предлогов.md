@@ -49,9 +49,20 @@ Apologise for something - извинять за что-то
 Apologise for doing something - извинять за что-то
 
 They apologised for the delay.
-I would like to apologise for being late 
+I would like to apologise for being late.
 
 ---
 stare at - уставиться на
 
-The stranger 
+A stranger was staring at him.
+Everyone was staring at her.
+
+---
+interfere in - вмешиваться во что-то
+
+I think he shouldn't interfere in other people's affairs.
+
+---
+cure for - лечение от чего-то
+
+A cure for this disease hasn't been found yet.
