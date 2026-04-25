@@ -23,7 +23,7 @@ What are the advantages and disadvantages of distance learning?
 ---
 Absence from - отсутствовать где-то
 
-How did he explain his absense from work?
+How did he explain his absence from work?
 
 ---
 compensate for - компенсировать что-то
@@ -65,4 +65,10 @@ I think he shouldn't interfere in other people's affairs.
 ---
 cure for - лечение от чего-то
 
-A cure for this disease hasn't been found yet.
+A cure for this disease hasn't been found yet. *(present perfect passive)*
+A cure for this disease doesn't exist
+
+---
+cure of - излечить от чего-то
+
+He was cured of this disease.
