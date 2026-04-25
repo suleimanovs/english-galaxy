@@ -33,5 +33,13 @@ They must compensate you for these losses
 ---
 demand for - спрос на что-то
 a growing demand - растущий спрос
+an increasing demand - растущий спрос
 
-There 
+There is a growing demand for these products.
+There is an increasing demand for cheap housing.
+If we look at the current situation we can see that there is a growing demand for cheap housing.
+
+---
+Apologize to someone - извинять перед кем-то
+
+He went and 
