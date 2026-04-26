@@ -33,6 +33,8 @@ const DECKS = [
   { id: 'phrasal_v',  name: 'EG — Phrasal Verbs', file: 'phrasal-verbs-tracker.csv',      dir: ANKI_DIR, tagPrefix: 'pv',    label: 'Phrasal Verbs' },
   { id: 'true',       name: 'EG — True Friends',          file: 'true-friends-tracker.csv',      dir: ANKI_DIR, tagPrefix: 'tf',    label: 'True Friends' },
   { id: 'depprep',    name: 'EG — Dependent Prepositions', file: 'dependent-prepositions-tracker.csv', dir: ANKI_DIR, tagPrefix: 'dp', label: 'Dep. Prepositions' },
+  { id: 'vp',         name: 'EG — Verb Patterns',          file: 'verb-patterns-tracker.csv',     dir: ANKI_DIR, tagPrefix: 'vp',    label: 'Verb Patterns' },
+  { id: 'syn',        name: 'EG — Synonym Chains',         file: 'synonym-chains-tracker.csv',    dir: ANKI_DIR, tagPrefix: 'syn',   label: 'Synonyms' },
   { id: 'egw',        name: 'EG — All Words',               file: 'word-tracker.csv',
     dir: path.join(ROOT, 'learn-5000-english-words'), tagPrefix: 'egw', label: '5000 Words' },
 ];
