@@ -65,8 +65,14 @@ I'm absolutely certain about it
 
 danger of - опасность чего-то
 
-There is danger of new protests 
-There is danger of a new crisis
+There is a danger of new protests 
+There is a danger of a new crisis
 
 ---
 
+known for - известен чем-то
+
+He is known for his honesty
+This city is known for h
+
+---
