@@ -184,6 +184,8 @@ async function runSync(deck, log) {
         tracker[key].status = 'learning';
         tracker[key].knownAt = '';
         returnedCount++;
+        const minInterval = Math.min(...activeCards.map(c => c.interval));
+        log(`  <span style="color:#f0ad4e">"${key}" — забыто (интервал ${minInterval}d), вернулось в learning</span>`);
       }
     } catch { /* skip */ }
   }
