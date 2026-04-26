@@ -616,5 +616,16 @@ audioBtn.addEventListener('click', async () => {
   enableAll(); audioBtn.textContent = 'Audio Sync';
 });
 
+guidesBtn.addEventListener('click', async () => {
+  disableAll();
+  guidesBtn.textContent = '...';
+  const log = showLog();
+  log('<b>Sync Guides — все колоды</b>');
+  guidesCache = null; // reload from CSV
+  try { await runGuidesSync(log); }
+  catch (e) { log(`<span style="color:#d9534f">Fatal: ${e.message}</span>`); }
+  enableAll(); guidesBtn.textContent = 'Sync Guides';
+});
+
 await selectDeck(DECKS[0]);
 ```

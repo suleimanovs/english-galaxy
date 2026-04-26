@@ -134,6 +134,32 @@ async function scanUnknownWords() {
   return results;
 }
 
+// New words from lessons that aren't in the tracker yet (not exported to Anki).
+function filterNewWords(unknownWords, tracker) {
+  return unknownWords.filter(w => !tracker[w.word] || tracker[w.word].status === 'removed');
+}
+
+function renderNewWordsTable(container, newWords) {
+  container.innerHTML = '';
+  if (newWords.length === 0) {
+    container.createEl('p', { text: 'Все красные слова из уроков уже в Anki.', attr: { style: 'color:#5cb85c;font-weight:bold;margin:8px 0' } });
+    return;
+  }
+  const table = container.createEl('table', { attr: { style: 'width:100%;border-collapse:collapse' } });
+  const hr = table.createEl('thead').createEl('tr');
+  ['Файл', 'Слово', 'Перевод'].forEach(h =>
+    hr.createEl('th', { text: h, attr: { style: 'text-align:left;padding:4px 10px;border-bottom:1px solid var(--background-modifier-border)' } })
+  );
+  const tbody = table.createEl('tbody');
+  for (const { word, translation, filename, filePath } of newWords) {
+    const tr = tbody.createEl('tr');
+    const link = tr.createEl('td', { attr: { style: 'padding:3px 10px' } });
+    link.createEl('a', { text: filename.replace('.md',''), attr: { href: filePath, class: 'internal-link' } });
+    tr.createEl('td', { text: word, attr: { style: `padding:3px 10px;font-weight:bold;color:${TARGET_COLOR}` } });
+    tr.createEl('td', { text: translation, attr: { style: 'padding:3px 10px;color:var(--text-muted)' } });
+  }
+}
+
 // ─── MARK AS KNOWN IN LESSON FILE ────────────────────────────────────────────
 function esc(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
 async function markAsKnown(filePath, word, translation) {
@@ -332,41 +358,17 @@ async function runSync(log) {
 }
 
 // ─── RENDER TABLES ───────────────────────────────────────────────────────────
-function renderUnknownTable(container, unknownWords, tracker) {
+function renderLearningTable(container, tracker) {
   container.innerHTML = '';
-  if (unknownWords.length === 0) {
-    container.createEl('p', { text: 'Нет неизвестных слов. Все выучено!', attr: { style: 'color:#5cb85c;font-weight:bold;margin:8px 0' } });
-    return;
-  }
-  const table = container.createEl('table', { attr: { style: 'width:100%;border-collapse:collapse;margin-bottom:20px' } });
-  const hr = table.createEl('thead').createEl('tr');
-  ['Файл', 'Слово', 'Перевод', 'Статус'].forEach(h =>
-    hr.createEl('th', { text: h, attr: { style: 'text-align:left;padding:4px 10px;border-bottom:1px solid var(--background-modifier-border)' } })
-  );
-  const tbody = table.createEl('tbody');
-  for (const { word, translation, filename, filePath } of unknownWords) {
-    const tr = tbody.createEl('tr');
-    const link = tr.createEl('td', { attr: { style: 'padding:3px 10px' } });
-    link.createEl('a', { text: filename.replace('.md',''), attr: { href: filePath, class: 'internal-link' } });
-    tr.createEl('td', { text: word, attr: { style: `padding:3px 10px;font-weight:bold;color:${TARGET_COLOR}` } });
-    tr.createEl('td', { text: translation, attr: { style: 'padding:3px 10px;color:var(--text-muted)' } });
-    const s = tracker[word]?.status;
-    const label = s === 'learning' ? '📚 В Anki' : s === 'removed' ? '🔄 Вернулось' : '—';
-    tr.createEl('td', { text: label, attr: { style: 'padding:3px 10px' } });
-  }
-}
-
-function renderAnkiTable(container, tracker) {
-  container.innerHTML = '';
-  const entries = Object.entries(tracker).filter(([, d]) => d.status === 'learning' || d.status === 'known');
+  const entries = Object.entries(tracker).filter(([, d]) => d.status === 'learning');
   if (entries.length === 0) {
-    container.createEl('p', { text: 'В Anki пока нет слов.', attr: { style: 'color:var(--text-muted);margin:8px 0' } });
+    container.createEl('p', { text: 'В Anki нет слов в обучении.', attr: { style: 'color:var(--text-muted);margin:8px 0' } });
     return;
   }
-  entries.sort(([, a], [, b]) => (a.status === 'known' ? 1 : 0) - (b.status === 'known' ? 1 : 0));
+  entries.sort(([a], [b]) => a.localeCompare(b));
   const table = container.createEl('table', { attr: { style: 'width:100%;border-collapse:collapse' } });
   const hr = table.createEl('thead').createEl('tr');
-  ['Слово', 'Перевод', 'Статус', 'Добавлено', 'Выучено'].forEach(h =>
+  ['Слово', 'Перевод', 'Добавлено'].forEach(h =>
     hr.createEl('th', { text: h, attr: { style: 'text-align:left;padding:4px 10px;border-bottom:1px solid var(--background-modifier-border)' } })
   );
   const tbody = table.createEl('tbody');
@@ -374,10 +376,7 @@ function renderAnkiTable(container, tracker) {
     const tr = tbody.createEl('tr');
     tr.createEl('td', { text: word, attr: { style: 'padding:3px 10px;font-weight:bold' } });
     tr.createEl('td', { text: d.translation, attr: { style: 'padding:3px 10px;color:var(--text-muted)' } });
-    const isKnown = d.status === 'known';
-    tr.createEl('td', { text: isKnown ? '✅ Выучено' : '📚 Учу', attr: { style: `padding:3px 10px;color:${isKnown ? '#5cb85c' : '#f0ad4e'}` } });
     tr.createEl('td', { text: d.exportedAt || '—', attr: { style: 'padding:3px 10px;color:var(--text-muted);font-size:0.9em' } });
-    tr.createEl('td', { text: d.knownAt || '—', attr: { style: 'padding:3px 10px;color:var(--text-muted);font-size:0.9em' } });
   }
 }
 
@@ -472,16 +471,20 @@ const logDiv = wrap.createEl('div', {
   attr: { style: 'font-family:monospace;font-size:0.82em;background:var(--background-secondary);padding:10px 14px;border-radius:6px;max-height:260px;overflow-y:auto;display:none;line-height:1.7;margin-bottom:16px' }
 });
 
-wrap.createEl('h3', { text: 'Неизвестные слова (в уроках)', attr: { style: 'margin:16px 0 6px' } });
-const unknownTableDiv = wrap.createEl('div', '');
+const newHeaderEl = wrap.createEl('h3', { text: 'Новые слова (ещё не в Anki)', attr: { style: 'margin:16px 0 6px' } });
+const newTableDiv = wrap.createEl('div', '');
 
-wrap.createEl('h3', { text: 'Все слова в Anki', attr: { style: 'margin:20px 0 6px' } });
-const ankiTableDiv = wrap.createEl('div', '');
+const learningHeaderEl = wrap.createEl('h3', { text: 'В Anki — учу', attr: { style: 'margin:20px 0 6px' } });
+const learningTableDiv = wrap.createEl('div', '');
 
 let currentUnknown = await scanUnknownWords();
 let currentTracker = await loadTracker();
-renderUnknownTable(unknownTableDiv, currentUnknown, currentTracker);
-renderAnkiTable(ankiTableDiv, currentTracker);
+let currentNew = filterNewWords(currentUnknown, currentTracker);
+newHeaderEl.textContent = `Новые слова (ещё не в Anki) — ${currentNew.length}`;
+const learnCount = Object.values(currentTracker).filter(d => d.status === 'learning').length;
+learningHeaderEl.textContent = `В Anki — учу (${learnCount})`;
+renderNewWordsTable(newTableDiv, currentNew);
+renderLearningTable(learningTableDiv, currentTracker);
 
 function showLog() {
   logDiv.style.display = 'block';
@@ -495,8 +498,12 @@ function enableAll()  { geminiBtn.disabled = statusBtn.disabled = audioBtn.disab
 async function refreshTables() {
   currentUnknown = await scanUnknownWords();
   currentTracker = await loadTracker();
-  renderUnknownTable(unknownTableDiv, currentUnknown, currentTracker);
-  renderAnkiTable(ankiTableDiv, currentTracker);
+  currentNew = filterNewWords(currentUnknown, currentTracker);
+  newHeaderEl.textContent = `Новые слова (ещё не в Anki) — ${currentNew.length}`;
+  const lc = Object.values(currentTracker).filter(d => d.status === 'learning').length;
+  learningHeaderEl.textContent = `В Anki — учу (${lc})`;
+  renderNewWordsTable(newTableDiv, currentNew);
+  renderLearningTable(learningTableDiv, currentTracker);
 }
 
 // Export + Gemini (new words, sentences, Anki export)
