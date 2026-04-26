@@ -26,7 +26,8 @@
 | Collocations quiz | Карточка: "make / do" + "a decision" — выбери правильный глагол | Идея |
 | Pronunciation drill | Карточка показывает IPA транскрипцию, ты произносишь, потом слышишь эталон | Идея |
 | Phrasal verb stories | Мини-история из 5-6 предложений с 3-4 фразовыми глаголами вместе — контекстное запоминание группой | Идея |
-| Progress heatmap | Календарь-тепловая карта на Home Page как на GitHub — в какие дни занимался | Идея |
+| Progress heatmap | GitHub-style 53×7 heatmap на Home Page по review активности из Anki, hover tooltips с датой и числом карточек | Сделано |
+| Home Page redesign | Полный редизайн главной: hero stats, continue learning cards, прогресс курсов, Anki dashboard, грамматика, recent timeline | Сделано |
 | Grammar → Anki bridge | Из 129 грамматических тем автоматически генерировать Anki карточки с правилами и примерами | Идея |
 | Difficulty tiers | Автоматическая пометка карточек по сложности (A1-C2), показывать сначала частотные | Идея |
 | Exam simulator | 50 случайных вопросов из всех колод, таймер, результат в процентах | Идея |

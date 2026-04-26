@@ -1,0 +1,15 @@
+deck_id|bg_color|accent_color|icon|description
+ff|#fef0f0|#e74c3c|🪤|False Friends — красный, ловушка
+true|#f0fdf4|#10b981|✓|True Friends — зелёный, безопасно
+idioms|#fefce8|#eab308|💡|Idioms — жёлтый, образное
+collocations|#eff6ff|#3b82f6|🔗|Collocations — синий, сочетания
+prep|#f0f9ff|#0ea5e9|📍|Prep Phrases — голубой
+linking|#faf5ff|#a855f7|🔗|Linking Words — фиолетовый
+confusing|#f5f3ff|#8b5cf6|🔄|Confusing — фиолетовый
+irregular|#fff7ed|#f97316|⚙️|Irregular Verbs — оранжевый
+phrasal_n|#f0fdfa|#14b8a6|📦|Phrasal Nouns — бирюзовый
+phrasal_v|#ecfeff|#06b6d4|🔁|Phrasal Verbs — голубой
+depprep|#fdf4ff|#d946ef|🔗|Dep Prepositions — розовый
+vp|#fef3c7|#f59e0b|🎯|Verb Patterns — янтарный
+syn|#f0f9ff|#0284c7|💎|Synonyms — синий
+egw|#f8fafc|#64748b|📖|All Words — серый, нейтральный

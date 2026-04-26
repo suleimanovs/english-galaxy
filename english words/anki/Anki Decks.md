@@ -381,6 +381,7 @@ const syncBtn = btnRow.createEl('button', { text: 'Sync', attr: { style: bs + ';
 const syncAllBtn = btnRow.createEl('button', { text: 'Sync All', attr: { style: bs + ';background:#673ab7' } });
 const audioBtn = btnRow.createEl('button', { text: 'Audio Sync', attr: { style: bs + ';background:#ff9800' } });
 const guidesBtn = btnRow.createEl('button', { text: 'Sync Guides', attr: { style: bs + ';background:#795548' } });
+const stylesBtn = btnRow.createEl('button', { text: 'Apply Styles', attr: { style: bs + ';background:#9c27b0' } });
 
 // ─── Global progress bar ─────────────────────────────────────────────────────
 const progressDiv = wrap.createEl('div', { attr: { style: 'margin-bottom:12px' } });
