@@ -11,10 +11,14 @@
             "id": "3598633795d7cf4c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "learn-5000-english-words/Unknown Words.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Unknown Words"
             }
           }
         ]
@@ -214,17 +218,17 @@
   },
   "active": "3598633795d7cf4c",
   "lastOpenFiles": [
-    "english words/anki/audio/eg_help.mp3",
-    "english words/anki/audio/eg_would_like.mp3",
-    "english words/anki/audio/eg_warn.mp3",
-    "english words/anki/audio/eg_remind.mp3",
-    "english words/anki/audio/eg_persuade.mp3",
-    "english words/anki/audio/eg_order.mp3",
-    "english words/anki/audio/eg_invite.mp3",
-    "english words/anki/audio/eg_force.mp3",
-    "english words/anki/audio/eg_encourage.mp3",
-    "english words/anki/audio/eg_allow.mp3",
-    "english words/anki/audio/eg_advise.mp3",
+    "english words/anki/audio/eg_discover.mp3",
+    "english words/anki/audio/eg_believe.mp3",
+    "english words/anki/audio/eg_continue.mp3",
+    "english words/anki/audio/eg_start.mp3",
+    "english words/anki/audio/eg_prefer.mp3",
+    "english words/anki/audio/eg_hate.mp3",
+    "english words/anki/audio/eg_love.mp3",
+    "english words/anki/audio/eg_like.mp3",
+    "english words/anki/audio/eg_regret.mp3",
+    "english words/anki/audio/eg_try.mp3",
+    "english words/anki/audio/eg_remember.mp3",
     "learn-5000-english-words/Unknown Words.md",
     "Home Page.md",
     "learn-5000-english-words/Lesson 22(115-121).md",
