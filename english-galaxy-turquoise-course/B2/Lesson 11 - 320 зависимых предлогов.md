@@ -32,6 +32,9 @@ The company provides very good conditions for its employees
 delighted by - в восторге от чего-то
 
 I was delighted by this result.
+I'm absolutely delighted to see you
+I'm absolutely delighted to be here
 
 ---
+
 
