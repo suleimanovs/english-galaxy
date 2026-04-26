@@ -34,7 +34,21 @@ delighted by - в восторге от чего-то
 I was delighted by this result.
 I'm absolutely delighted to see you
 I'm absolutely delighted to be here
+I'm absolutely delighted to hear it
 
 ---
 
+dependent on - зависящий от, зависит от
+
+He is heavily dependent on his parents
+
+---
+
+familiar to someone - знаком кому-то
+
+This place doesn't seem familiar to me
+
+---
+
+optimistic about - оптимистичный на счет чего-то
 
