@@ -30,15 +30,16 @@
 | Grammar → Anki bridge | Из 129 грамматических тем автоматически генерировать Anki карточки с правилами и примерами | Идея |
 | Difficulty tiers | Автоматическая пометка карточек по сложности (A1-C2), показывать сначала частотные | Идея |
 | Exam simulator | 50 случайных вопросов из всех колод, таймер, результат в процентах | Идея |
-| Synonym chains | К каждому слову добавить 2-3 синонима с оттенками значений: big/large/huge | Идея |
+| Synonym chains | Группы синонимов с оттенками значений: big/large/huge — отдельная колода 61 запись | Сделано |
+| Verb patterns | Колода паттернов: want to do, enjoy doing, suggest doing — 105 записей | Сделано |
 | Mobile-friendly export | Экспорт колоды в .apkg файл чтобы учить на телефоне без десктопа | Идея |
 | Cross-deck linking | Если слово встречается в нескольких колодах — показать это на карточке | Идея |
 | Native speaker audio | Заменить Google TTS на реальные записи носителей (Forvo API) когда доступно | Идея |
-| Forgotten words resurrector | Слова со статусом known но интервал упал ниже порога — вернуть в learning | Идея |
+| Forgotten words resurrector | Слова со статусом known но интервал упал ниже 8 дней — возврат в learning + восстановление красной пометки в уроке | Сделано |
 | Daily word widget | На Home Page одно случайное слово дня из всех колод с предложением и аудио | Идея |
 | Writing prompts | Каждый день тема для короткого эссе используя 5 слов из текущих learning карточек | Идея |
-| Deck preview pages | Markdown-страницы для каждой колоды с правилами и паттернами (V1/V2/V3, gerund vs infinitive, separable phrasal verbs и т.д.) | Идея |
-| IPA транскрипция | Добавить /ˈbreɪk/ под словом на каждой карточке | Идея |
+| Deck preview pages | Гайды для всех 14 колод в deck-guides.csv, отображаются в Anki Decks.md как сворачиваемая панель + синхронизируются в Anki как замороженные guide-карточки | Сделано |
+| IPA транскрипция | /ˈbreɪk/ под словом для 749 карточек в 6 колодах (False/True Friends, Irregular, Phrasal Nouns, Verb Patterns, All Words). Хранится в CSV колонке `ipa`, кэш в ipa-cache.json | Сделано |
 | Тип паттерна для irregular verbs | Метка типа изменения (vowel change / -en / no change) | Идея |
 | Separable/inseparable для phrasal verbs | Маркер на карточке: можно ли разделить (look it up vs deal with it) | Идея |
 | Register marker для idioms | Пометка formal/casual/slang на карточке | Идея |

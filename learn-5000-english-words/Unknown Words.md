@@ -175,6 +175,21 @@ async function markAsKnown(filePath, word, translation) {
   return true;
 }
 
+// Restore red color when word is forgotten in Anki
+async function markAsForgotten(filename, word, translation) {
+  const filePath = FOLDER + '/' + filename + (filename.endsWith('.md') ? '' : '.md');
+  const file = app.vault.getAbstractFileByPath(filePath);
+  if (!file) return false;
+  const content = await app.vault.read(file);
+  // Find plain "word - translation" not already in font tag, replace with red font
+  const escWord = esc(word), escTrans = esc(translation);
+  const plainPattern = new RegExp(`(?<!<font[^>]*>)\\b${escWord}\\s*-\\s*${escTrans}\\b(?!<\\/font>)`, 'g');
+  const updated = content.replace(plainPattern, `<font color="${TARGET_COLOR}">${word} - ${translation}</font>`);
+  if (updated === content) return false;
+  await app.vault.modify(file, updated);
+  return true;
+}
+
 // ─── AUDIO ──────────────────────────────────────────────────────────────────
 async function downloadAndAttachAudio(word, noteId) {
   try {
@@ -409,6 +424,29 @@ async function runSyncStatuses(log) {
     } catch {}
   }
 
+  // Check forgotten words (known → learning if interval dropped below threshold)
+  const known = Object.entries(tracker).filter(([, d]) => d.status === 'known');
+  let forgottenCount = 0;
+  for (const [word, data] of known) {
+    try {
+      const noteIds = await ankiReq('findNotes', { query: `deck:"${ANKI_DECK}" tag:${wordToTag(word)}` });
+      if (!noteIds.length) continue;
+      const cards = await ankiReq('findCards', { query: `nid:${noteIds[0]}` });
+      if (!cards.length) continue;
+      const infos = await ankiReq('cardsInfo', { cards });
+      const minInterval = Math.min(...infos.map(c => c.interval));
+      if (minInterval >= KNOWN_INTERVAL_DAYS) continue;
+
+      // Word was forgotten — restore red mark in lesson and revert status
+      tracker[word].status = 'learning';
+      tracker[word].knownAt = '';
+      forgottenCount++;
+      if (data.filename) await markAsForgotten(data.filename, word, data.translation);
+      await saveTracker(tracker);
+      log(`  <span style="color:#f0ad4e">"${word}" — забыто (${minInterval}d), вернулось в learning</span>`);
+    } catch {}
+  }
+
   // Mark removed
   const currentSet = new Set(unknown.map(w => w.word));
   let removedCount = 0;
@@ -421,7 +459,7 @@ async function runSyncStatuses(log) {
   if (removedCount > 0) await saveTracker(tracker);
 
   const stats = Object.values(tracker).reduce((a, d) => { a[d.status] = (a[d.status]||0)+1; return a; }, {});
-  log(`<b>Готово!</b> Выучено: +${knownCount} | Убрано: ${removedCount}`);
+  log(`<b>Готово!</b> Выучено: +${knownCount} | Забыто: ${forgottenCount} | Убрано: ${removedCount}`);
   log(`learning=${stats.learning||0} | known=${stats.known||0} | removed=${stats.removed||0}`);
   return tracker;
 }
