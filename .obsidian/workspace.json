@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learn-5000-english-words/Vocabulary Glossary.md",
+                "file": "learn-5000-english-words/Unknown Words.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vocabulary Glossary"
+              "title": "Unknown Words"
             }
           }
         ]
@@ -218,7 +218,9 @@
   },
   "active": "3598633795d7cf4c",
   "lastOpenFiles": [
+    "learn-5000-english-words/Lesson 48.md",
     "learn-5000-english-words/Unknown Words.md",
+    "learn-5000-english-words/Lesson 61.md",
     "learn-5000-english-words/Vocabulary Glossary.md",
     "learn-5000-english-words/Lesson 53.md",
     "english words/anki/ipa-cache.json",
@@ -244,7 +246,6 @@
     "english words/anki/Anki Decks.md",
     "english-galaxy-turquoise-course/B2/Lesson 3 - 150 важных фразовых глаголов часть 3.md",
     "conflict-files-obsidian-git.md",
-    "learn-5000-english-words/Lesson 61.md",
     "Backlog.md",
     "Setup.md",
     "english-galaxy-turquoise-course/B2/Lesson 8 - 320 зависимых предлогов - часть 1.md",
@@ -253,7 +254,6 @@
     "learn-5000-english-words/Progress.md",
     "english words/New.md",
     "learn-5000-english-words/Lesson 19 (92-100).md",
-    "learn-5000-english-words/Lesson 18 (87-91).md",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]

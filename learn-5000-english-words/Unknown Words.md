@@ -68,30 +68,34 @@ async function generateSentences(word, translation) {
 function parseCSV(text) {
   const lines = text.trim().split('\n').filter(l => l.trim());
   const tracker = {};
+  // Detect format: with or without ipa column
+  const header = lines[0].split('|').map(h => h.trim());
+  const hasIpa = header[1] === 'ipa';
+  const off = hasIpa ? 1 : 0;
   for (let i = 1; i < lines.length; i++) {
     const p = lines[i].split('|');
     const word = p[0]?.trim();
     if (!word) continue;
     const unesc = s => (s || '').trim().replace(/\\n/g, '\n');
     tracker[word] = {
-      translation: p[1]?.trim() || '',
-      filename:    p[2]?.trim() || '',
-      exportedAt:  p[3]?.trim() || '',
-      status:      p[4]?.trim() || 'learning',
-      knownAt:     p[5]?.trim() || '',
-      sentences:   [unesc(p[6]), unesc(p[7]), unesc(p[8])].filter(s => s)
+      ipa:         hasIpa ? (p[1]?.trim() || '') : '',
+      translation: p[1 + off]?.trim() || '',
+      filename:    p[2 + off]?.trim() || '',
+      exportedAt:  p[3 + off]?.trim() || '',
+      status:      p[4 + off]?.trim() || 'learning',
+      knownAt:     p[5 + off]?.trim() || '',
+      sentences:   [unesc(p[6 + off]), unesc(p[7 + off]), unesc(p[8 + off])].filter(s => s)
     };
   }
   return tracker;
 }
 
 function toCSV(tracker) {
-  const rows = ['word|translation|filename|exportedAt|status|knownAt|s1|s2|s3'];
+  const rows = ['word|ipa|translation|filename|exportedAt|status|knownAt|s1|s2|s3'];
   for (const [word, d] of Object.entries(tracker)) {
     const s = d.sentences || [];
-    // Escape newlines and strip | to prevent CSV row splitting
     const esc = x => (x || '').replace(/\r/g, '').replace(/\n/g, '\\n').replace(/\|/g, ' ');
-    rows.push([word, d.translation, d.filename, d.exportedAt, d.status, d.knownAt || '',
+    rows.push([word, d.ipa || '', d.translation, d.filename, d.exportedAt, d.status, d.knownAt || '',
                esc(s[0]), esc(s[1]), esc(s[2])].join('|'));
   }
   return rows.join('\n');
@@ -181,10 +185,11 @@ async function markAsForgotten(filename, word, translation) {
   const file = app.vault.getAbstractFileByPath(filePath);
   if (!file) return false;
   const content = await app.vault.read(file);
-  // Find plain "word - translation" not already in font tag, replace with red font
   const escWord = esc(word), escTrans = esc(translation);
-  const plainPattern = new RegExp(`(?<!<font[^>]*>)\\b${escWord}\\s*-\\s*${escTrans}\\b(?!<\\/font>)`, 'g');
-  const updated = content.replace(plainPattern, `<font color="${TARGET_COLOR}">${word} - ${translation}</font>`);
+  // Match "word - translation" only when NOT preceded by ">" (which would indicate it's inside a tag)
+  const pattern = new RegExp(`(^|[^>])${escWord}\\s*-\\s*${escTrans}`, 'g');
+  const replacement = `$1<font color="${TARGET_COLOR}">${word} - ${translation}</font>`;
+  const updated = content.replace(pattern, replacement);
   if (updated === content) return false;
   await app.vault.modify(file, updated);
   return true;
