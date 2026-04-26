@@ -355,6 +355,7 @@ const exportBtn = btnRow.createEl('button', { text: 'Export', attr: { style: bs 
 const syncBtn = btnRow.createEl('button', { text: 'Sync', attr: { style: bs + ';background:#2196f3' } });
 const syncAllBtn = btnRow.createEl('button', { text: 'Sync All', attr: { style: bs + ';background:#673ab7' } });
 const audioBtn = btnRow.createEl('button', { text: 'Audio Sync', attr: { style: bs + ';background:#ff9800' } });
+const guidesBtn = btnRow.createEl('button', { text: 'Sync Guides', attr: { style: bs + ';background:#795548' } });
 
 // ─── Global progress bar ─────────────────────────────────────────────────────
 const progressDiv = wrap.createEl('div', { attr: { style: 'margin-bottom:12px' } });
@@ -433,9 +434,9 @@ async function renderCardTypes(deck) {
 }
 
 // ─── Guide panel ─────────────────────────────────────────────────────────────
-const guideDiv = wrap.createEl('div', { attr: { style: 'background:var(--background-secondary);padding:12px 16px;border-radius:6px;margin-bottom:12px;font-size:0.9em;line-height:1.6;border-left:3px solid var(--interactive-accent);display:none' } });
 const guideHeader = wrap.createEl('div', { attr: { style: 'display:flex;align-items:center;gap:8px;margin-bottom:8px;cursor:pointer;user-select:none' } });
 const guideToggle = guideHeader.createEl('span', { text: '▶ Гайд по колоде', attr: { style: 'font-weight:bold;color:var(--text-normal)' } });
+const guideDiv = wrap.createEl('div', { attr: { style: 'background:var(--background-secondary);padding:12px 16px;border-radius:6px;margin-bottom:12px;font-size:0.9em;line-height:1.6;border-left:3px solid var(--interactive-accent);display:none' } });
 let guideOpen = false;
 
 guideHeader.addEventListener('click', () => {
@@ -482,6 +483,54 @@ async function renderGuide(deck) {
   guideDiv.innerHTML = `<div style="font-weight:bold;font-size:1.05em;margin-bottom:8px">${guide.title}</div>${renderMarkdown(guide.content)}`;
 }
 
+async function runGuidesSync(log) {
+  const guides = await loadGuides();
+  log(`Загружено гайдов: <b>${Object.keys(guides).length}</b>`);
+
+  try { await ankiReq('version'); } catch { log('<span style="color:#d9534f">Anki не запущен!</span>'); return; }
+
+  let created = 0, updated = 0, skipped = 0;
+
+  for (const deck of DECKS) {
+    const guide = guides[deck.id];
+    if (!guide) { skipped++; continue; }
+
+    const front = `<div style="background:#673ab7;color:#fff;padding:6px 12px;border-radius:4px;display:inline-block;font-size:0.85em;margin-bottom:0.8em">📚 GUIDE</div>` +
+      `<div style="font-size:1.2em;font-weight:bold;margin-bottom:0.5em">${guide.title}</div>` +
+      `<div style="color:#888;font-size:0.85em">Click "Show Answer" to read the guide</div>`;
+    const back = `<div style="font-size:0.95em;line-height:1.7;text-align:left">${renderMarkdown(guide.content)}</div>`;
+
+    const tag = `guide_${deck.id}`;
+    const existing = await ankiReq('findNotes', { query: `deck:"${deck.name}" tag:guide tag:${tag}` });
+
+    try {
+      if (existing.length > 0) {
+        await ankiReq('updateNoteFields', { note: { id: existing[0], fields: { Front: front, Back: back } } });
+        updated++;
+        log(`  <span style="color:#5cb85c">${deck.label} ✓ (обновлён)</span>`);
+      } else {
+        const noteId = await ankiReq('addNote', {
+          note: {
+            deckName: deck.name, modelName: ANKI_MODEL,
+            fields: { Front: front, Back: back },
+            tags: ['guide', tag],
+            options: { allowDuplicate: false }
+          }
+        });
+        // Suspend it so it doesn't appear in regular study
+        const cards = await ankiReq('findCards', { query: `nid:${noteId}` });
+        if (cards.length > 0) await ankiReq('suspend', { cards });
+        created++;
+        log(`  <span style="color:#5cb85c">${deck.label} ✓ (создан)</span>`);
+      }
+    } catch (e) {
+      log(`  <span style="color:#d9534f">${deck.label} ✗ ${e.message}</span>`);
+    }
+  }
+
+  log(`<br><b>Готово!</b> Создано: ${created} | Обновлено: ${updated} | Пропущено: ${skipped}`);
+}
+
 const logDiv = wrap.createEl('div', { attr: { style: 'font-family:monospace;font-size:0.82em;background:var(--background-secondary);padding:10px 14px;border-radius:6px;max-height:260px;overflow-y:auto;display:none;line-height:1.7;margin-bottom:16px' } });
 const tableDiv = wrap.createEl('div', '');
 
@@ -511,8 +560,8 @@ function showLog() {
   return (msg) => { logDiv.innerHTML += msg + '<br>'; logDiv.scrollTop = logDiv.scrollHeight; };
 }
 
-function disableAll() { exportBtn.disabled = syncBtn.disabled = syncAllBtn.disabled = audioBtn.disabled = true; }
-function enableAll()  { exportBtn.disabled = syncBtn.disabled = syncAllBtn.disabled = audioBtn.disabled = false; }
+function disableAll() { exportBtn.disabled = syncBtn.disabled = syncAllBtn.disabled = audioBtn.disabled = guidesBtn.disabled = true; }
+function enableAll()  { exportBtn.disabled = syncBtn.disabled = syncAllBtn.disabled = audioBtn.disabled = guidesBtn.disabled = false; }
 
 exportBtn.addEventListener('click', async () => {
   disableAll();
