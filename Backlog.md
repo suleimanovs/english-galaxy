@@ -50,3 +50,15 @@
 | Mnemonics for hard words | Ручной ввод ассоциаций для проблемных слов | Идея |
 | Custom CSS by category | Цветовая дифференциация карточек по колодам через card-styles.csv + кнопка Apply Styles в Anki Decks.md (фон + accent border + иконка для каждой колоды) | Сделано |
 | Frequency tags | Топ-1000 частотных слов получают приоритет 1 в обучении | Идея |
+| Pop-up dictionary в Obsidian | Hover на слово → перевод, аудио, статус Anki, кнопка "Add to deck" через Hover Editor + кастомная логика | Идея |
+| Mistake bank | Отдельная "проблемная" колода: слова с 5+ провалами автоматически в неё попадают, фильтр через Anki tag | Идея |
+| Topical study sessions | Теги по темам (travel/business/food/science) в CSV → Anki filtered decks. Перед поездкой учу только travel | Идея |
+| Spaced lesson review | Уроки по SRS — пересматривать конспект через 1/3/7/14 дней. Уведомления на Home Page | Идея |
+| AI tutor mini-quiz | Gemini каждое утро генерирует 5 вопросов на слова из вчерашнего learning. "Use X in a sentence about your weekend" | Идея |
+| Reverse engineering статей | Вставляешь URL/текст. Скрипт парсит, помечает known/learning/unknown. Unknown добавляются в All Words автоматически | Идея |
+| Smart sentence improvement | Пишешь предложение по-английски, Gemini проверяет, предлагает варианты с твоими learning-словами | Идея |
+| Линки Obsidian ↔ Anki | Клик на слово в уроке → открывается карточка в Anki через AnkiConnect | Идея |
+| Daily review note | Templater создаёт ежедневную заметку: "Сегодня: 25 due · 3 новых · streak 5 дней" — журнал прогресса | Идея |
+| Active recall mode | Плагин скрывает красные слова чёрными квадратами в уроке. Читаешь и подставляешь сам | Идея |
+| Real examples scraper | Реальные предложения из News on the Web corpus для каждого слова (живее чем учебные) | Идея |
+| Speaking prompts | Ежедневная тема для устной речи 1 мин с 5 словами из learning | Идея |

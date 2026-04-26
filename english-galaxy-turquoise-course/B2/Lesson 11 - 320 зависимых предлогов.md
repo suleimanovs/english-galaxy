@@ -73,6 +73,13 @@ There is a danger of a new crisis
 known for - известен чем-то
 
 He is known for his honesty
-This city is known for h
+This city is known for his rich history 
+He is known for his kindness
 
 ---
+
+a lack of - нехватка чего-то
+
+They demonstrated a lack of knowledge and experience 
+I know that i have a lack of confidence but i try to work on this problem
+I know that I lack of confidence 
