@@ -48,5 +48,5 @@
 | British/American варианты | Показывать оба написания (color/colour) | Идея |
 | Cross-deck links | На карточке "break" показать связанные: breakdown, breakthrough, break down | Идея |
 | Mnemonics for hard words | Ручной ввод ассоциаций для проблемных слов | Идея |
-| Custom CSS by category | Цвет фона карточки по типу (idioms жёлтый, false friends красный) | Идея |
+| Custom CSS by category | Цветовая дифференциация карточек по колодам через card-styles.csv + кнопка Apply Styles в Anki Decks.md (фон + accent border + иконка для каждой колоды) | Сделано |
 | Frequency tags | Топ-1000 частотных слов получают приоритет 1 в обучении | Идея |

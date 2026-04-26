@@ -509,6 +509,66 @@ async function renderGuide(deck) {
   guideDiv.innerHTML = `<div style="font-weight:bold;font-size:1.05em;margin-bottom:8px">${guide.title}</div>${renderMarkdown(guide.content)}`;
 }
 
+async function loadCardStyles() {
+  const file = app.vault.getAbstractFileByPath(FOLDER + '/card-styles.csv');
+  if (!file) return {};
+  const text = await app.vault.read(file);
+  const lines = text.trim().split('\n').filter(l => l.trim());
+  const styles = {};
+  for (let i = 1; i < lines.length; i++) {
+    const [id, bg, accent, icon, desc] = lines[i].split('|').map(s => s.trim());
+    if (id) styles[id] = { bg, accent, icon, desc };
+  }
+  return styles;
+}
+
+async function runApplyStyles(log) {
+  const styles = await loadCardStyles();
+  log(`Загружено стилей: <b>${Object.keys(styles).length}</b>`);
+
+  try { await ankiReq('version'); } catch { log('<span style="color:#d9534f">Anki не запущен!</span>'); return; }
+
+  let totalUpdated = 0;
+  for (const deck of DECKS) {
+    const style = styles[deck.id];
+    if (!style) { log(`  ${deck.label}: стиль не задан, пропуск`); continue; }
+
+    const noteIds = await ankiReq('findNotes', { query: `deck:"${deck.name}" -tag:guide` });
+    if (noteIds.length === 0) continue;
+
+    let updated = 0;
+    // Process in batches of 100
+    for (let batchStart = 0; batchStart < noteIds.length; batchStart += 100) {
+      const batch = noteIds.slice(batchStart, batchStart + 100);
+      const infos = await ankiReq('notesInfo', { notes: batch });
+
+      for (const note of infos) {
+        const fields = {};
+        let changed = false;
+        for (const [fieldName, fieldData] of Object.entries(note.fields)) {
+          let val = fieldData.value;
+          // Strip existing wrapper if present
+          val = val.replace(/^<div class="eg-card eg-deck-[^"]+"[^>]*>([\s\S]*)<\/div>\s*$/, '$1');
+          // Wrap with new style
+          const wrapper = `<div class="eg-card eg-deck-${deck.id}" style="background:${style.bg};border-left:4px solid ${style.accent};padding:14px 16px;border-radius:8px;color:#1a1a1a">`;
+          fields[fieldName] = wrapper + val + '</div>';
+          changed = true;
+        }
+        if (changed) {
+          try {
+            await ankiReq('updateNoteFields', { note: { id: note.noteId, fields } });
+            updated++;
+          } catch {}
+        }
+      }
+    }
+    log(`  <span style="color:#5cb85c">${deck.label} ${style.icon} — ${updated} карточек</span>`);
+    totalUpdated += updated;
+  }
+
+  log(`<br><b>Готово!</b> Стилизовано: ${totalUpdated} карточек`);
+}
+
 async function runGuidesSync(log) {
   const guides = await loadGuides();
   log(`Загружено гайдов: <b>${Object.keys(guides).length}</b>`);
@@ -586,8 +646,8 @@ function showLog() {
   return (msg) => { logDiv.innerHTML += msg + '<br>'; logDiv.scrollTop = logDiv.scrollHeight; };
 }
 
-function disableAll() { exportBtn.disabled = syncBtn.disabled = syncAllBtn.disabled = audioBtn.disabled = guidesBtn.disabled = true; }
-function enableAll()  { exportBtn.disabled = syncBtn.disabled = syncAllBtn.disabled = audioBtn.disabled = guidesBtn.disabled = false; }
+function disableAll() { exportBtn.disabled = syncBtn.disabled = syncAllBtn.disabled = audioBtn.disabled = guidesBtn.disabled = stylesBtn.disabled = true; }
+function enableAll()  { exportBtn.disabled = syncBtn.disabled = syncAllBtn.disabled = audioBtn.disabled = guidesBtn.disabled = stylesBtn.disabled = false; }
 
 exportBtn.addEventListener('click', async () => {
   disableAll();
@@ -651,6 +711,16 @@ guidesBtn.addEventListener('click', async () => {
   try { await runGuidesSync(log); }
   catch (e) { log(`<span style="color:#d9534f">Fatal: ${e.message}</span>`); }
   enableAll(); guidesBtn.textContent = 'Sync Guides';
+});
+
+stylesBtn.addEventListener('click', async () => {
+  disableAll();
+  stylesBtn.textContent = '...';
+  const log = showLog();
+  log('<b>Apply Card Styles — все колоды</b>');
+  try { await runApplyStyles(log); }
+  catch (e) { log(`<span style="color:#d9534f">Fatal: ${e.message}</span>`); }
+  enableAll(); stylesBtn.textContent = 'Apply Styles';
 });
 
 await selectDeck(DECKS[0]);

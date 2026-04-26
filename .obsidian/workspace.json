@@ -4,6 +4,46 @@
     "type": "split",
     "children": [
       {
+        "id": "d28fed6fd89cdbde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "224c6865d0fcb26b",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "-3HyR1NcIRE",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=-3HyR1NcIRE"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    }
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 11"
+            }
+          }
+        ]
+      },
+      {
         "id": "6bb3ca76f9a9b30b",
         "type": "tabs",
         "children": [
@@ -51,12 +91,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english words/New.md",
+                "file": "english-galaxy-turquoise-course/B2/Lesson 11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New"
+              "title": "Lesson 11"
             }
           }
         ],
@@ -117,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5024719238281
+    "width": 283.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -257,6 +298,8 @@
   },
   "active": "8b10fcad76b98ecc",
   "lastOpenFiles": [
+    "english-galaxy-turquoise-course/B2/Lesson 11.md",
+    "english words/New.md",
     "english words/anki/card-styles.csv",
     "english words/anki/Anki Decks.md",
     "learn-5000-english-words/Lesson 22(115-121).md",
@@ -282,7 +325,6 @@
     "english words/anki/audio/eg_hate.mp3",
     "english words/anki/audio/eg_love.mp3",
     "english words/anki/audio/eg_like.mp3",
-    "english words/anki/audio/eg_regret.mp3",
     "learn-5000-english-words/Lesson 20(101-106).md",
     "english-galaxy-turquoise-course/B2/Lesson 10 - 320 зависимых предлогов.md",
     "grammar/times/present-tenses/Present Perfect — Настоящее совершённое время.md",
@@ -292,7 +334,6 @@
     "english-galaxy-turquoise-course/B2/Lesson 9 - 320 зависимых предлогов.md",
     "english-galaxy-turquoise-course/B2/Lesson 3 - 150 важных фразовых глаголов часть 3.md",
     "conflict-files-obsidian-git.md",
-    "english-galaxy-turquoise-course/B2/Lesson 8 - 320 зависимых предлогов - часть 1.md",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
