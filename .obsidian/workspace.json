@@ -92,7 +92,7 @@
               "type": "markdown",
               "state": {
                 "file": "english words/anki/Anki Decks.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -297,6 +297,8 @@
   },
   "active": "8b10fcad76b98ecc",
   "lastOpenFiles": [
+    "english words/anki/audio/eg_come_rain_or_shine.mp3",
+    "english words/anki/audio/eg_that_s_the_last_straw.mp3",
     "english-galaxy-turquoise-course/B2/Lesson 11 - 320 зависимых предлогов.md",
     "english words/anki/temp-prep-missing.csv",
     "english words/anki/temp-depprep-missing.csv",
@@ -325,7 +327,6 @@
     "english words/anki/audio/eg_discover.mp3",
     "english words/anki/audio/eg_believe.mp3",
     "english words/anki/audio/eg_continue.mp3",
-    "english words/anki/audio/eg_start.mp3",
     "learn-5000-english-words/Lesson 20(101-106).md",
     "english-galaxy-turquoise-course/B2/Lesson 10 - 320 зависимых предлогов.md",
     "grammar/times/present-tenses/Present Perfect — Настоящее совершённое время.md",
