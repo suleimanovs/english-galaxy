@@ -18,7 +18,7 @@ const DECKS = [
   { id: 'true',         name: 'EG — True Friends',  file: 'true-friends-tracker.csv',   label: 'True Friends',        fields: ['english_word','russian_word','exportedAt','status','knownAt','s1','s2','s3','family'], frontKey: 'english_word', backKey: 'russian_word', tagPrefix: 'tf' },
   { id: 'depprep',      name: 'EG — Dependent Prepositions', file: 'dependent-prepositions-tracker.csv', label: 'Dep. Prepositions', fields: ['phrase','type','translation','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'phrase', backKey: 'translation', tagPrefix: 'dp', extraFields: ['type'] },
   { id: 'egw',          name: 'EG — All Words',              file: 'learn-5000-english-words/word-tracker.csv', label: 'All Words', fields: ['word','translation','filename','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'word', backKey: 'translation', tagPrefix: 'egw', absPath: true },
-  { id: 'vp',           name: 'EG — Verb Patterns',          file: 'verb-patterns-tracker.csv', label: 'Verb Patterns', fields: ['verb','pattern','translation','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'verb', backKey: 'translation', tagPrefix: 'vp', extraFields: ['pattern'] },
+  { id: 'vp',           name: 'EG — Verb Patterns',          file: 'verb-patterns-tracker.csv', label: 'Verb Patterns', fields: ['verb','ipa','pattern','hint','translation','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'verb', backKey: 'translation', tagPrefix: 'vp', extraFields: ['pattern'] },
   { id: 'syn',          name: 'EG — Synonym Chains',         file: 'synonym-chains-tracker.csv', label: 'Synonyms', fields: ['group','description','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'group', backKey: 'description', tagPrefix: 'syn' },
 ];
 
@@ -88,59 +88,56 @@ function buildCard(deck, key, data) {
   const sentences = [data.s1, data.s2, data.s3].filter(s => s);
   const sentHtml = sentences.length > 0 ? `<ol>${sentences.map(s => `<li>${bold(s)}</li>`).join('')}</ol>` : '';
 
+  // IPA & Family blocks (used by all card types if data is present)
+  const ipaHtml = data.ipa ? `<div style="color:#888;font-size:0.85em;margin-bottom:0.5em;font-family:monospace">${data.ipa}</div>` : '';
+  const familyHtml = data.family ? `<div style="margin-top:0.6em;padding-top:0.5em;border-top:1px solid #444;font-size:0.9em;color:#aaa">Word family: ${data.family.replace(/(\w[\w\s-]*?) \(/g, '<b>$1</b> (')}</div>` : '';
+
   let front, back;
 
   if (deck.id === 'confusing') {
-    front = `<div style="font-size:1.3em;font-weight:bold;margin-bottom:0.8em">${key}</div>${sentHtml}`;
-    back = `<div style="font-size:1.1em"><b>${data.word_a}</b> — ${data.meaning_a}<br><b>${data.word_b}</b> — ${data.meaning_b}</div>`;
+    front = `<div style="font-size:1.3em;font-weight:bold;margin-bottom:0.5em">${key}</div>${ipaHtml}${sentHtml}`;
+    back = `<div style="font-size:1.1em"><b>${data.word_a}</b> — ${data.meaning_a}<br><b>${data.word_b}</b> — ${data.meaning_b}</div>${familyHtml}`;
   } else if (deck.id === 'irregular') {
-    front = `<div style="font-size:1.4em;font-weight:bold;margin-bottom:0.5em">${key}</div><div style="color:#888;margin-bottom:0.8em">${data.translation}</div>${sentHtml}`;
-    back = `<div style="font-size:1.3em"><b>V2:</b> ${data.v2}<br><b>V3:</b> ${data.v3}</div>`;
+    front = `<div style="font-size:1.4em;font-weight:bold;margin-bottom:0.4em">${key}</div>${ipaHtml}<div style="color:#888;margin-bottom:0.8em">${data.translation}</div>${sentHtml}`;
+    back = `<div style="font-size:1.3em"><b>V2:</b> ${data.v2}<br><b>V3:</b> ${data.v3}</div>${familyHtml}`;
   } else if (deck.id === 'false') {
-    front = `<div style="font-size:1.4em;font-weight:bold;margin-bottom:0.5em">${key}</div><div style="color:#f0ad4e;margin-bottom:0.5em;font-size:0.9em">Похоже на «${data.false_meaning}»</div>${sentHtml}`;
-    back = `<div style="font-size:1.2em">${data.real_meaning}</div><div style="color:#888;margin-top:0.3em;font-size:0.9em">${data.russian_word}</div>`;
+    front = `<div style="font-size:1.4em;font-weight:bold;margin-bottom:0.4em">${key}</div>${ipaHtml}<div style="color:#f0ad4e;margin-bottom:0.5em;font-size:0.9em">Похоже на «${data.false_meaning}»</div>${sentHtml}`;
+    back = `<div style="font-size:1.2em">${data.real_meaning}</div><div style="color:#888;margin-top:0.3em;font-size:0.9em">${data.russian_word}</div>${familyHtml}`;
   } else if (deck.id === 'vp') {
-    // Verb Patterns: hide the pattern in sentences, reveal on back
     const pattern = data.pattern || '';
     const sentencesFront = sentences.map(s => s.replace(/\*\*([^*]+?)\*\*/g, (m, inner) => {
       const words = inner.trim().split(/\s+/);
-      const firstWord = words[0];
-      return `<b>${firstWord}</b> <span style="color:#5cb85c;font-weight:bold">___</span>`;
+      return `<b>${words[0]}</b> <span style="color:#5cb85c;font-weight:bold">___</span>`;
     }));
     const sentencesBack = sentences.map(s => s.replace(/\*\*(.+?)\*\*/g, '<b style="color:#5cb85c">$1</b>'));
-    const sentFrontHtml = `<ol style="line-height:1.8">${sentencesFront.map(s => `<li>${s}</li>`).join('')}</ol>`;
-    const sentBackHtml = `<ol style="line-height:1.8">${sentencesBack.map(s => `<li>${s}</li>`).join('')}</ol>`;
     const hint = data.hint || pattern;
-    front = `<div style="font-size:1.6em;font-weight:bold;margin-bottom:0.4em">${key}</div>` +
+    front = `<div style="font-size:1.6em;font-weight:bold;margin-bottom:0.4em">${key}</div>${ipaHtml}` +
       `<div style="color:#888;font-size:0.9em;margin-bottom:0.8em;font-style:italic">какой паттерн следует?</div>` +
-      sentFrontHtml;
+      `<ol style="line-height:1.8">${sentencesFront.map(s => `<li>${s}</li>`).join('')}</ol>`;
     back = `<div style="font-size:1.6em;font-weight:bold;color:#5cb85c;margin-bottom:0.3em">+ ${pattern}</div>` +
       `<div style="color:#888;font-size:0.9em;margin-bottom:0.8em">${hint}</div>` +
-      sentBackHtml +
-      `<div style="margin-top:0.8em;color:#666;font-size:1.05em">${data.translation}</div>`;
+      `<ol style="line-height:1.8">${sentencesBack.map(s => `<li>${s}</li>`).join('')}</ol>` +
+      `<div style="margin-top:0.8em;color:#666;font-size:1.05em">${data.translation}</div>${familyHtml}`;
   } else if (deck.id === 'depprep') {
-    // Dependent Prepositions: hide preposition in sentences, reveal on back
     const phrase = key;
     const words = phrase.split(/\s+/);
     const prep = words[words.length - 1];
     const type = data.type || '';
     const sentencesFront = sentences.map(s => s.replace(/\*\*([^*]+?)\*\*/g, (m, inner) => {
-      // bold span = "verb prep" or "verb form prep" → keep all but last word
       const sw = inner.trim().split(/\s+/);
-      const lastIdx = sw.length - 1;
-      return `<b>${sw.slice(0, lastIdx).join(' ')}</b> <span style="color:#5cb85c;font-weight:bold">___</span>`;
+      return `<b>${sw.slice(0, sw.length - 1).join(' ')}</b> <span style="color:#5cb85c;font-weight:bold">___</span>`;
     }));
     const sentencesBack = sentences.map(s => s.replace(/\*\*(.+?)\*\*/g, '<b style="color:#5cb85c">$1</b>'));
-    front = `<div style="font-size:1.6em;font-weight:bold;margin-bottom:0.4em">${words.slice(0, -1).join(' ')} <span style="color:#5cb85c">___</span></div>` +
+    front = `<div style="font-size:1.6em;font-weight:bold;margin-bottom:0.4em">${words.slice(0, -1).join(' ')} <span style="color:#5cb85c">___</span></div>${ipaHtml}` +
       `<div style="color:#888;font-size:0.9em;margin-bottom:0.8em">${type} — ${data.translation}</div>` +
       `<ol style="line-height:1.8">${sentencesFront.map(s => `<li>${s}</li>`).join('')}</ol>`;
     back = `<div style="font-size:2em;font-weight:bold;color:#5cb85c;margin-bottom:0.3em">${prep}</div>` +
       `<div style="color:#888;font-size:1em;margin-bottom:0.6em">${phrase}</div>` +
-      `<ol style="line-height:1.8">${sentencesBack.map(s => `<li>${s}</li>`).join('')}</ol>`;
+      `<ol style="line-height:1.8">${sentencesBack.map(s => `<li>${s}</li>`).join('')}</ol>${familyHtml}`;
   } else {
     const extra = deck.extraFields ? deck.extraFields.map(f => data[f] ? `<div style="color:#888;font-size:0.9em;margin-bottom:0.5em">${data[f]}</div>` : '').join('') : '';
-    front = `<div style="font-size:1.4em;font-weight:bold;margin-bottom:0.5em">${key}</div>${extra}${sentHtml}`;
-    back = `<div style="font-size:1.2em">${data[deck.backKey]}</div>`;
+    front = `<div style="font-size:1.4em;font-weight:bold;margin-bottom:0.4em">${key}</div>${ipaHtml}${extra}${sentHtml}`;
+    back = `<div style="font-size:1.2em">${data[deck.backKey]}</div>${familyHtml}`;
   }
 
   return { front, back };
