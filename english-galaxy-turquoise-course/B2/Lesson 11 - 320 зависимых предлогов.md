@@ -52,3 +52,21 @@ This place doesn't seem familiar to me
 
 optimistic about - оптимистичный на счет чего-то
 
+He is very optimistic about the future of the company.
+
+---
+
+sure about - уверен в чем-то
+certain about - уверен в чем-то
+
+I'm absolutely certain about it
+
+---
+
+danger of - опасность чего-то
+
+There is danger of new protests 
+There is danger of a new crisis
+
+---
+

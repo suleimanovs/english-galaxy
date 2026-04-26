@@ -91,12 +91,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-galaxy-turquoise-course/B2/Lesson 11 - 320 зависимых предлогов.md",
+                "file": "english words/anki/Anki Decks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 11 - 320 зависимых предлогов"
+              "title": "Anki Decks"
             }
           }
         ],
@@ -157,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5024719238281,
-    "collapsed": true
+    "width": 283.5024719238281
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -298,10 +297,14 @@
   },
   "active": "8b10fcad76b98ecc",
   "lastOpenFiles": [
+    "english-galaxy-turquoise-course/B2/Lesson 11 - 320 зависимых предлогов.md",
+    "english words/anki/temp-prep-missing.csv",
+    "english words/anki/temp-depprep-missing.csv",
+    "english words/anki/temp-phrasal-missing.csv",
+    "english words/anki/temp-audit.csv",
     "english words/anki/Anki Decks.md",
     "english words/New.md",
     "english-galaxy-turquoise-course/B2/Lesson 11.md",
-    "english-galaxy-turquoise-course/B2/Lesson 11 - 320 зависимых предлогов.md",
     "english-galaxy-turquoise-course/B2/Lesson 8 - 320 зависимых предлогов.md",
     "english words/anki/card-styles.csv",
     "learn-5000-english-words/Lesson 22(115-121).md",
@@ -323,17 +326,12 @@
     "english words/anki/audio/eg_believe.mp3",
     "english words/anki/audio/eg_continue.mp3",
     "english words/anki/audio/eg_start.mp3",
-    "english words/anki/audio/eg_prefer.mp3",
-    "english words/anki/audio/eg_hate.mp3",
-    "english words/anki/audio/eg_love.mp3",
-    "english words/anki/audio/eg_like.mp3",
     "learn-5000-english-words/Lesson 20(101-106).md",
     "english-galaxy-turquoise-course/B2/Lesson 10 - 320 зависимых предлогов.md",
     "grammar/times/present-tenses/Present Perfect — Настоящее совершённое время.md",
     "learn-5000-english-words/Lesson 59.md",
     "learn-5000-english-words/Lesson 55.md",
     "learn-5000-english-words/Lesson 49.md",
-    "english-galaxy-turquoise-course/B2/Lesson 9 - 320 зависимых предлогов.md",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
