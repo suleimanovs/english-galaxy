@@ -5,4 +5,21 @@
 
 suitable for - подходящий, подходит для 
 
-This appartment 
+This apartment is suitable for a small family.
+This documentary is perfectly suitable for people of all ages.
+
+---
+bored with - надоело, наскучило
+
+He says that he is really bored with his present job.
+
+---
+get bored with - надоело, наскучило
+
+The kids got bored with the game
+
+---
+provide with - предоставлять что-то
+
+
+---
