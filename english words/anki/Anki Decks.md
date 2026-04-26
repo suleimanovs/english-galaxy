@@ -432,6 +432,56 @@ async function renderCardTypes(deck) {
   }
 }
 
+// ─── Guide panel ─────────────────────────────────────────────────────────────
+const guideDiv = wrap.createEl('div', { attr: { style: 'background:var(--background-secondary);padding:12px 16px;border-radius:6px;margin-bottom:12px;font-size:0.9em;line-height:1.6;border-left:3px solid var(--interactive-accent);display:none' } });
+const guideHeader = wrap.createEl('div', { attr: { style: 'display:flex;align-items:center;gap:8px;margin-bottom:8px;cursor:pointer;user-select:none' } });
+const guideToggle = guideHeader.createEl('span', { text: '▶ Гайд по колоде', attr: { style: 'font-weight:bold;color:var(--text-normal)' } });
+let guideOpen = false;
+
+guideHeader.addEventListener('click', () => {
+  guideOpen = !guideOpen;
+  guideDiv.style.display = guideOpen ? 'block' : 'none';
+  guideToggle.textContent = guideOpen ? '▼ Гайд по колоде' : '▶ Гайд по колоде';
+});
+
+let guidesCache = null;
+async function loadGuides() {
+  if (guidesCache) return guidesCache;
+  const file = app.vault.getAbstractFileByPath(FOLDER + '/deck-guides.csv');
+  if (!file) return {};
+  const text = await app.vault.read(file);
+  const lines = text.trim().split('\n').filter(l => l.trim());
+  const guides = {};
+  for (let i = 1; i < lines.length; i++) {
+    const cols = lines[i].split('|');
+    const id = cols[0]?.trim();
+    const title = cols[1]?.trim();
+    const content = (cols.slice(2).join('|') || '').replace(/\\n/g, '\n');
+    if (id) guides[id] = { title, content };
+  }
+  guidesCache = guides;
+  return guides;
+}
+
+function renderMarkdown(md) {
+  return md
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+    .replace(/\*\*(.+?)\*\*/g, '<b>$1</b>')
+    .replace(/^•\s/gm, '&nbsp;&nbsp;•&nbsp;')
+    .replace(/\n\n/g, '<br><br>')
+    .replace(/\n/g, '<br>');
+}
+
+async function renderGuide(deck) {
+  const guides = await loadGuides();
+  const guide = guides[deck.id];
+  if (!guide) {
+    guideDiv.innerHTML = '<span style="color:var(--text-muted)">Гайд для этой колоды пока не написан.</span>';
+    return;
+  }
+  guideDiv.innerHTML = `<div style="font-weight:bold;font-size:1.05em;margin-bottom:8px">${guide.title}</div>${renderMarkdown(guide.content)}`;
+}
+
 const logDiv = wrap.createEl('div', { attr: { style: 'font-family:monospace;font-size:0.82em;background:var(--background-secondary);padding:10px 14px;border-radius:6px;max-height:260px;overflow-y:auto;display:none;line-height:1.7;margin-bottom:16px' } });
 const tableDiv = wrap.createEl('div', '');
 
@@ -449,6 +499,7 @@ async function selectDeck(deck) {
   currentTracker = await loadTracker(deck);
   renderTable(tableDiv, currentTracker, deck);
   await renderCardTypes(deck);
+  await renderGuide(deck);
   logDiv.style.display = 'none';
 }
 

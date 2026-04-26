@@ -37,3 +37,14 @@
 | Forgotten words resurrector | Слова со статусом known но интервал упал ниже порога — вернуть в learning | Идея |
 | Daily word widget | На Home Page одно случайное слово дня из всех колод с предложением и аудио | Идея |
 | Writing prompts | Каждый день тема для короткого эссе используя 5 слов из текущих learning карточек | Идея |
+| Deck preview pages | Markdown-страницы для каждой колоды с правилами и паттернами (V1/V2/V3, gerund vs infinitive, separable phrasal verbs и т.д.) | Идея |
+| IPA транскрипция | Добавить /ˈbreɪk/ под словом на каждой карточке | Идея |
+| Тип паттерна для irregular verbs | Метка типа изменения (vowel change / -en / no change) | Идея |
+| Separable/inseparable для phrasal verbs | Маркер на карточке: можно ли разделить (look it up vs deal with it) | Идея |
+| Register marker для idioms | Пометка formal/casual/slang на карточке | Идея |
+| CEFR level | Метка A1-C2 на каждой карточке для приоритезации | Идея |
+| British/American варианты | Показывать оба написания (color/colour) | Идея |
+| Cross-deck links | На карточке "break" показать связанные: breakdown, breakthrough, break down | Идея |
+| Mnemonics for hard words | Ручной ввод ассоциаций для проблемных слов | Идея |
+| Custom CSS by category | Цвет фона карточки по типу (idioms жёлтый, false friends красный) | Идея |
+| Frequency tags | Топ-1000 частотных слов получают приоритет 1 в обучении | Идея |
