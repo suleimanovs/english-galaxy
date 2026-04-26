@@ -82,4 +82,4 @@ a lack of - нехватка чего-то
 
 They demonstrated a lack of knowledge and experience 
 I know that i have a lack of confidence but i try to work on this problem
-I know that I lack of confidence 
+I know that I lack confidence but i try to work on this problem
