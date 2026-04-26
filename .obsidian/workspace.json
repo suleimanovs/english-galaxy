@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "064ed7999cc36c74",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "0e0e437512432c9f",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "learn-5000-english-words/Unknown Words.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Unknown Words"
             }
           }
         ]
@@ -212,31 +216,32 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "0e0e437512432c9f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "english words/anki/synonym-chains-tracker.csv",
+    "english words/anki/audio/eg_land.mp3",
+    "english words/anki/audio/eg_doll.mp3",
+    "english words/anki/verb-patterns-tracker.csv",
+    "english words/anki/audio/eg_cookie.mp3",
+    "english words/anki/audio/eg_tie.mp3",
+    "english words/anki/audio/eg_stool.mp3",
+    "Home Page.md",
     "learn-5000-english-words/Unknown Words.md",
     "english words/anki/audio/eg_stranger.mp3",
     "english words/anki/audio/eg_sausage.mp3",
     "english words/anki/audio/eg_bark.mp3",
     "english words/anki/audio/eg_bake.mp3",
-    "english words/anki/audio/eg_polluted.mp3",
-    "english words/anki/audio/eg_cheer.mp3",
     "learn-5000-english-words/Lesson 22(115-121).md",
     "learn-5000-english-words/Lesson 21(107-).md",
     "learn-5000-english-words/Lesson 20(101-106).md",
     "english-galaxy-turquoise-course/B2/Lesson 10 - 320 зависимых предлогов.md",
     "grammar/times/present-tenses/Present Perfect — Настоящее совершённое время.md",
-    "Home Page.md",
     "learn-5000-english-words/Lesson 59.md",
     "learn-5000-english-words/Lesson 55.md",
     "learn-5000-english-words/Lesson 49.md",
     "english-galaxy-turquoise-course/B2/Lesson 9 - 320 зависимых предлогов.md",
     "english words/anki/Anki Decks.md",
     "english-galaxy-turquoise-course/B2/Lesson 3 - 150 важных фразовых глаголов часть 3.md",
-    "english words/anki/audio/eg_written.mp3",
-    "english words/anki/audio/eg_wrote.mp3",
-    "english words/anki/audio/eg_won.mp3",
-    "english words/anki/audio/eg_worn.mp3",
     "conflict-files-obsidian-git.md",
     "learn-5000-english-words/Lesson 61.md",
     "Backlog.md",
