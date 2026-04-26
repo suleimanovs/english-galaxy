@@ -97,8 +97,46 @@ function buildCard(deck, key, data) {
     front = `<div style="font-size:1.4em;font-weight:bold;margin-bottom:0.5em">${key}</div><div style="color:#888;margin-bottom:0.8em">${data.translation}</div>${sentHtml}`;
     back = `<div style="font-size:1.3em"><b>V2:</b> ${data.v2}<br><b>V3:</b> ${data.v3}</div>`;
   } else if (deck.id === 'false') {
-    front = `<div style="font-size:1.4em;font-weight:bold;margin-bottom:0.5em">${key}</div><div style="color:#d9534f;margin-bottom:0.5em">Это НЕ «${data.false_meaning}»</div>${sentHtml}`;
-    back = `<div style="font-size:1.2em">${data.real_meaning}</div><div style="color:#888;margin-top:0.3em">${data.russian_word}</div>`;
+    front = `<div style="font-size:1.4em;font-weight:bold;margin-bottom:0.5em">${key}</div><div style="color:#f0ad4e;margin-bottom:0.5em;font-size:0.9em">Похоже на «${data.false_meaning}»</div>${sentHtml}`;
+    back = `<div style="font-size:1.2em">${data.real_meaning}</div><div style="color:#888;margin-top:0.3em;font-size:0.9em">${data.russian_word}</div>`;
+  } else if (deck.id === 'vp') {
+    // Verb Patterns: hide the pattern in sentences, reveal on back
+    const pattern = data.pattern || '';
+    const sentencesFront = sentences.map(s => s.replace(/\*\*([^*]+?)\*\*/g, (m, inner) => {
+      const words = inner.trim().split(/\s+/);
+      const firstWord = words[0];
+      return `<b>${firstWord}</b> <span style="color:#5cb85c;font-weight:bold">___</span>`;
+    }));
+    const sentencesBack = sentences.map(s => s.replace(/\*\*(.+?)\*\*/g, '<b style="color:#5cb85c">$1</b>'));
+    const sentFrontHtml = `<ol style="line-height:1.8">${sentencesFront.map(s => `<li>${s}</li>`).join('')}</ol>`;
+    const sentBackHtml = `<ol style="line-height:1.8">${sentencesBack.map(s => `<li>${s}</li>`).join('')}</ol>`;
+    const hint = data.hint || pattern;
+    front = `<div style="font-size:1.6em;font-weight:bold;margin-bottom:0.4em">${key}</div>` +
+      `<div style="color:#888;font-size:0.9em;margin-bottom:0.8em;font-style:italic">какой паттерн следует?</div>` +
+      sentFrontHtml;
+    back = `<div style="font-size:1.6em;font-weight:bold;color:#5cb85c;margin-bottom:0.3em">+ ${pattern}</div>` +
+      `<div style="color:#888;font-size:0.9em;margin-bottom:0.8em">${hint}</div>` +
+      sentBackHtml +
+      `<div style="margin-top:0.8em;color:#666;font-size:1.05em">${data.translation}</div>`;
+  } else if (deck.id === 'depprep') {
+    // Dependent Prepositions: hide preposition in sentences, reveal on back
+    const phrase = key;
+    const words = phrase.split(/\s+/);
+    const prep = words[words.length - 1];
+    const type = data.type || '';
+    const sentencesFront = sentences.map(s => s.replace(/\*\*([^*]+?)\*\*/g, (m, inner) => {
+      // bold span = "verb prep" or "verb form prep" → keep all but last word
+      const sw = inner.trim().split(/\s+/);
+      const lastIdx = sw.length - 1;
+      return `<b>${sw.slice(0, lastIdx).join(' ')}</b> <span style="color:#5cb85c;font-weight:bold">___</span>`;
+    }));
+    const sentencesBack = sentences.map(s => s.replace(/\*\*(.+?)\*\*/g, '<b style="color:#5cb85c">$1</b>'));
+    front = `<div style="font-size:1.6em;font-weight:bold;margin-bottom:0.4em">${words.slice(0, -1).join(' ')} <span style="color:#5cb85c">___</span></div>` +
+      `<div style="color:#888;font-size:0.9em;margin-bottom:0.8em">${type} — ${data.translation}</div>` +
+      `<ol style="line-height:1.8">${sentencesFront.map(s => `<li>${s}</li>`).join('')}</ol>`;
+    back = `<div style="font-size:2em;font-weight:bold;color:#5cb85c;margin-bottom:0.3em">${prep}</div>` +
+      `<div style="color:#888;font-size:1em;margin-bottom:0.6em">${phrase}</div>` +
+      `<ol style="line-height:1.8">${sentencesBack.map(s => `<li>${s}</li>`).join('')}</ol>`;
   } else {
     const extra = deck.extraFields ? deck.extraFields.map(f => data[f] ? `<div style="color:#888;font-size:0.9em;margin-bottom:0.5em">${data[f]}</div>` : '').join('') : '';
     front = `<div style="font-size:1.4em;font-weight:bold;margin-bottom:0.5em">${key}</div>${extra}${sentHtml}`;
