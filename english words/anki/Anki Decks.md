@@ -6,20 +6,20 @@ const KNOWN_INTERVAL_DAYS = 7;
 const FOLDER     = dv.current().file.folder;
 
 const DECKS = [
-  { id: 'idioms',       name: 'EG — Idioms',              file: 'idioms-tracker.csv',              label: 'Idioms',              fields: ['idiom','translation','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'idiom', backKey: 'translation', tagPrefix: 'idiom' },
-  { id: 'collocations', name: 'EG — Collocations',         file: 'collocations-tracker.csv',         label: 'Collocations',        fields: ['collocation','translation','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'collocation', backKey: 'translation', tagPrefix: 'coll' },
-  { id: 'prep',         name: 'EG — Prepositional Phrases', file: 'prepositional-phrases-tracker.csv', label: 'Prep. Phrases',       fields: ['phrase','translation','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'phrase', backKey: 'translation', tagPrefix: 'prep' },
-  { id: 'linking',      name: 'EG — Linking Words',         file: 'linking-words-tracker.csv',         label: 'Linking Words',       fields: ['word','translation','category','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'word', backKey: 'translation', tagPrefix: 'lw', extraFields: ['category'] },
-  { id: 'confusing',    name: 'EG — Confusing Words',       file: 'confusing-words-tracker.csv',       label: 'Confusing Pairs',     fields: ['pair','word_a','meaning_a','word_b','meaning_b','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'pair', backKey: null, tagPrefix: 'cw', custom: true },
-  { id: 'irregular',    name: 'EG — Irregular Verbs',       file: 'irregular-verbs-tracker.csv',       label: 'Irregular Verbs',     fields: ['verb','ipa','v2','v3','translation','exportedAt','status','knownAt','s1','s2','s3','family'], frontKey: 'verb', backKey: null, tagPrefix: 'iv', custom: true },
-  { id: 'false',        name: 'EG — False Friends',         file: 'false-friends-tracker.csv',         label: 'False Friends',       fields: ['english_word','ipa','false_meaning','real_meaning','russian_word','exportedAt','status','knownAt','s1','s2','s3','family'], frontKey: 'english_word', backKey: null, tagPrefix: 'ff', custom: true },
-  { id: 'phrasal_n',    name: 'EG — Phrasal Nouns',         file: 'phrasal-nouns-tracker.csv',         label: 'Phrasal Nouns',       fields: ['word','ipa','base_verb','translation','exportedAt','status','knownAt','s1','s2','s3','family'], frontKey: 'word', backKey: 'translation', tagPrefix: 'pn', extraFields: ['base_verb'] },
-  { id: 'phrasal_v',    name: 'EG — Phrasal Verbs', file: 'phrasal-verbs-tracker.csv',  label: 'Phrasal Verbs',       fields: ['phrasal_verb','translation','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'phrasal_verb', backKey: 'translation', tagPrefix: 'pv' },
-  { id: 'true',         name: 'EG — True Friends',  file: 'true-friends-tracker.csv',   label: 'True Friends',        fields: ['english_word','ipa','russian_word','exportedAt','status','knownAt','s1','s2','s3','family'], frontKey: 'english_word', backKey: 'russian_word', tagPrefix: 'tf' },
-  { id: 'depprep',      name: 'EG — Dependent Prepositions', file: 'dependent-prepositions-tracker.csv', label: 'Dep. Prepositions', fields: ['phrase','type','translation','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'phrase', backKey: 'translation', tagPrefix: 'dp', extraFields: ['type'] },
-  { id: 'egw',          name: 'EG — All Words',              file: 'learn-5000-english-words/word-tracker.csv', label: 'All Words', fields: ['word','translation','filename','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'word', backKey: 'translation', tagPrefix: 'egw', absPath: true },
-  { id: 'vp',           name: 'EG — Verb Patterns',          file: 'verb-patterns-tracker.csv', label: 'Verb Patterns', fields: ['verb','ipa','pattern','hint','translation','exportedAt','status','knownAt','s1','s2','s3','family'], frontKey: 'verb', backKey: 'translation', tagPrefix: 'vp', extraFields: ['pattern'] },
-  { id: 'syn',          name: 'EG — Synonym Chains',         file: 'synonym-chains-tracker.csv', label: 'Synonyms', fields: ['group','description','exportedAt','status','knownAt','s1','s2','s3'], frontKey: 'group', backKey: 'description', tagPrefix: 'syn' },
+  { id: 'idioms',       name: 'EG — Idioms',              file: 'idioms-tracker.csv',              label: 'Idioms',              fields: ['idiom','translation','exportedAt','status','knownAt','s1','s2','s3','note'], frontKey: 'idiom', backKey: 'translation', tagPrefix: 'idiom' },
+  { id: 'collocations', name: 'EG — Collocations',         file: 'collocations-tracker.csv',         label: 'Collocations',        fields: ['collocation','translation','exportedAt','status','knownAt','s1','s2','s3','note'], frontKey: 'collocation', backKey: 'translation', tagPrefix: 'coll' },
+  { id: 'prep',         name: 'EG — Prepositional Phrases', file: 'prepositional-phrases-tracker.csv', label: 'Prep. Phrases',       fields: ['phrase','translation','exportedAt','status','knownAt','s1','s2','s3','note'], frontKey: 'phrase', backKey: 'translation', tagPrefix: 'prep' },
+  { id: 'linking',      name: 'EG — Linking Words',         file: 'linking-words-tracker.csv',         label: 'Linking Words',       fields: ['word','translation','category','exportedAt','status','knownAt','s1','s2','s3','note'], frontKey: 'word', backKey: 'translation', tagPrefix: 'lw', extraFields: ['category'] },
+  { id: 'confusing',    name: 'EG — Confusing Words',       file: 'confusing-words-tracker.csv',       label: 'Confusing Pairs',     fields: ['pair','word_a','meaning_a','word_b','meaning_b','exportedAt','status','knownAt','s1','s2','s3','note'], frontKey: 'pair', backKey: null, tagPrefix: 'cw', custom: true },
+  { id: 'irregular',    name: 'EG — Irregular Verbs',       file: 'irregular-verbs-tracker.csv',       label: 'Irregular Verbs',     fields: ['verb','ipa','v2','v3','translation','exportedAt','status','knownAt','s1','s2','s3','family','note'], frontKey: 'verb', backKey: null, tagPrefix: 'iv', custom: true },
+  { id: 'false',        name: 'EG — False Friends',         file: 'false-friends-tracker.csv',         label: 'False Friends',       fields: ['english_word','ipa','false_meaning','real_meaning','russian_word','exportedAt','status','knownAt','s1','s2','s3','family','note'], frontKey: 'english_word', backKey: null, tagPrefix: 'ff', custom: true },
+  { id: 'phrasal_n',    name: 'EG — Phrasal Nouns',         file: 'phrasal-nouns-tracker.csv',         label: 'Phrasal Nouns',       fields: ['word','ipa','base_verb','translation','exportedAt','status','knownAt','s1','s2','s3','family','note'], frontKey: 'word', backKey: 'translation', tagPrefix: 'pn', extraFields: ['base_verb'] },
+  { id: 'phrasal_v',    name: 'EG — Phrasal Verbs', file: 'phrasal-verbs-tracker.csv',  label: 'Phrasal Verbs',       fields: ['phrasal_verb','translation','exportedAt','status','knownAt','s1','s2','s3','note'], frontKey: 'phrasal_verb', backKey: 'translation', tagPrefix: 'pv' },
+  { id: 'true',         name: 'EG — True Friends',  file: 'true-friends-tracker.csv',   label: 'True Friends',        fields: ['english_word','ipa','russian_word','exportedAt','status','knownAt','s1','s2','s3','family','note'], frontKey: 'english_word', backKey: 'russian_word', tagPrefix: 'tf' },
+  { id: 'depprep',      name: 'EG — Dependent Prepositions', file: 'dependent-prepositions-tracker.csv', label: 'Dep. Prepositions', fields: ['phrase','type','translation','exportedAt','status','knownAt','s1','s2','s3','note'], frontKey: 'phrase', backKey: 'translation', tagPrefix: 'dp', extraFields: ['type'] },
+  { id: 'egw',          name: 'EG — All Words',              file: 'learn-5000-english-words/word-tracker.csv', label: 'All Words', fields: ['word','translation','filename','exportedAt','status','knownAt','s1','s2','s3','note'], frontKey: 'word', backKey: 'translation', tagPrefix: 'egw', absPath: true },
+  { id: 'vp',           name: 'EG — Verb Patterns',          file: 'verb-patterns-tracker.csv', label: 'Verb Patterns', fields: ['verb','ipa','pattern','hint','translation','exportedAt','status','knownAt','s1','s2','s3','family','note'], frontKey: 'verb', backKey: 'translation', tagPrefix: 'vp', extraFields: ['pattern'] },
+  { id: 'syn',          name: 'EG — Synonym Chains',         file: 'synonym-chains-tracker.csv', label: 'Synonyms', fields: ['group','description','exportedAt','status','knownAt','s1','s2','s3','note'], frontKey: 'group', backKey: 'description', tagPrefix: 'syn' },
 ];
 
 // ─── ANKI ────────────────────────────────────────────────────────────────────
@@ -88,21 +88,22 @@ function buildCard(deck, key, data) {
   const sentences = [data.s1, data.s2, data.s3].filter(s => s);
   const sentHtml = sentences.length > 0 ? `<ol>${sentences.map(s => `<li>${bold(s)}</li>`).join('')}</ol>` : '';
 
-  // IPA & Family blocks (used by all card types if data is present)
+  // IPA & Family & Note blocks (used by all card types if data is present)
   const ipaHtml = data.ipa ? `<div style="color:#888;font-size:0.85em;margin-bottom:0.5em;font-family:monospace">${data.ipa}</div>` : '';
   const familyHtml = data.family ? `<div style="margin-top:0.6em;padding-top:0.5em;border-top:1px solid #444;font-size:0.9em;color:#aaa">Word family: ${data.family.replace(/(\w[\w\s-]*?) \(/g, '<b>$1</b> (')}</div>` : '';
+  const noteHtml = data.note ? `<div style="margin-top:0.8em;padding:8px 12px;background:rgba(99,102,241,0.08);border-left:3px solid #6366f1;border-radius:4px;font-size:0.88em;color:#888;font-style:italic">💡 ${data.note}</div>` : '';
 
   let front, back;
 
   if (deck.id === 'confusing') {
     front = `<div style="font-size:1.3em;font-weight:bold;margin-bottom:0.5em">${key}</div>${ipaHtml}${sentHtml}`;
-    back = `<div style="font-size:1.1em"><b>${data.word_a}</b> — ${data.meaning_a}<br><b>${data.word_b}</b> — ${data.meaning_b}</div>${familyHtml}`;
+    back = `<div style="font-size:1.1em"><b>${data.word_a}</b> — ${data.meaning_a}<br><b>${data.word_b}</b> — ${data.meaning_b}</div>${familyHtml}${noteHtml}`;
   } else if (deck.id === 'irregular') {
     front = `<div style="font-size:1.4em;font-weight:bold;margin-bottom:0.4em">${key}</div>${ipaHtml}<div style="color:#888;margin-bottom:0.8em">${data.translation}</div>${sentHtml}`;
-    back = `<div style="font-size:1.3em"><b>V2:</b> ${data.v2}<br><b>V3:</b> ${data.v3}</div>${familyHtml}`;
+    back = `<div style="font-size:1.3em"><b>V2:</b> ${data.v2}<br><b>V3:</b> ${data.v3}</div>${familyHtml}${noteHtml}`;
   } else if (deck.id === 'false') {
     front = `<div style="font-size:1.4em;font-weight:bold;margin-bottom:0.4em">${key}</div>${ipaHtml}<div style="color:#f0ad4e;margin-bottom:0.5em;font-size:0.9em">Похоже на «${data.false_meaning}»</div>${sentHtml}`;
-    back = `<div style="font-size:1.2em">${data.real_meaning}</div><div style="color:#888;margin-top:0.3em;font-size:0.9em">${data.russian_word}</div>${familyHtml}`;
+    back = `<div style="font-size:1.2em">${data.real_meaning}</div><div style="color:#888;margin-top:0.3em;font-size:0.9em">${data.russian_word}</div>${familyHtml}${noteHtml}`;
   } else if (deck.id === 'vp') {
     const pattern = data.pattern || '';
     const sentencesFront = sentences.map(s => s.replace(/\*\*([^*]+?)\*\*/g, (m, inner) => {
@@ -117,7 +118,7 @@ function buildCard(deck, key, data) {
     back = `<div style="font-size:1.6em;font-weight:bold;color:#5cb85c;margin-bottom:0.3em">+ ${pattern}</div>` +
       `<div style="color:#888;font-size:0.9em;margin-bottom:0.8em">${hint}</div>` +
       `<ol style="line-height:1.8">${sentencesBack.map(s => `<li>${s}</li>`).join('')}</ol>` +
-      `<div style="margin-top:0.8em;color:#666;font-size:1.05em">${data.translation}</div>${familyHtml}`;
+      `<div style="margin-top:0.8em;color:#666;font-size:1.05em">${data.translation}</div>${familyHtml}${noteHtml}`;
   } else if (deck.id === 'depprep') {
     const phrase = key;
     const words = phrase.split(/\s+/);
@@ -133,11 +134,11 @@ function buildCard(deck, key, data) {
       `<ol style="line-height:1.8">${sentencesFront.map(s => `<li>${s}</li>`).join('')}</ol>`;
     back = `<div style="font-size:2em;font-weight:bold;color:#5cb85c;margin-bottom:0.3em">${prep}</div>` +
       `<div style="color:#888;font-size:1em;margin-bottom:0.6em">${phrase}</div>` +
-      `<ol style="line-height:1.8">${sentencesBack.map(s => `<li>${s}</li>`).join('')}</ol>${familyHtml}`;
+      `<ol style="line-height:1.8">${sentencesBack.map(s => `<li>${s}</li>`).join('')}</ol>${familyHtml}${noteHtml}`;
   } else {
     const extra = deck.extraFields ? deck.extraFields.map(f => data[f] ? `<div style="color:#888;font-size:0.9em;margin-bottom:0.5em">${data[f]}</div>` : '').join('') : '';
     front = `<div style="font-size:1.4em;font-weight:bold;margin-bottom:0.4em">${key}</div>${ipaHtml}${extra}${sentHtml}`;
-    back = `<div style="font-size:1.2em">${data[deck.backKey]}</div>${familyHtml}`;
+    back = `<div style="font-size:1.2em">${data[deck.backKey]}</div>${familyHtml}${noteHtml}`;
   }
 
   return { front, back };
