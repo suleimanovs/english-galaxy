@@ -143,6 +143,25 @@ async function runExport(deck, log) {
   return tracker;
 }
 
+// ─── RESTORE RED IN LESSON (for EGW deck) ──────────────────────────────────
+const EGW_TARGET_COLOR = '#c0504d';
+const EGW_LESSON_FOLDER = 'learn-5000-english-words';
+function escRegex(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
+async function restoreRedInLesson(filename, word, translation) {
+  const fname = filename + (filename.endsWith('.md') ? '' : '.md');
+  const filePath = EGW_LESSON_FOLDER + '/' + fname;
+  const file = app.vault.getAbstractFileByPath(filePath);
+  if (!file) return false;
+  const content = await app.vault.read(file);
+  const escWord = escRegex(word), escTrans = escRegex(translation);
+  const pattern = new RegExp(`(^|[^>])${escWord}\\s*-\\s*${escTrans}`, 'g');
+  const replacement = `$1<font color="${EGW_TARGET_COLOR}">${word} - ${translation}</font>`;
+  const updated = content.replace(pattern, replacement);
+  if (updated === content) return false;
+  await app.vault.modify(file, updated);
+  return true;
+}
+
 // ─── SYNC ────────────────────────────────────────────────────────────────────
 async function runSync(deck, log) {
   const tracker = await loadTracker(deck);
@@ -186,6 +205,10 @@ async function runSync(deck, log) {
         returnedCount++;
         const minInterval = Math.min(...activeCards.map(c => c.interval));
         log(`  <span style="color:#f0ad4e">"${key}" — забыто (интервал ${minInterval}d), вернулось в learning</span>`);
+        // For EGW deck — restore red mark in lesson file
+        if (deck.id === 'egw' && data.filename) {
+          await restoreRedInLesson(data.filename, key, data.translation);
+        }
       }
     } catch { /* skip */ }
   }
