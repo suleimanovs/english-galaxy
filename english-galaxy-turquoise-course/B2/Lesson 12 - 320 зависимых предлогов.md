@@ -34,6 +34,17 @@ I'm really impressed by his knowledge
 ---
 benefits of - преимущество чего-то
 
-What are the benefits of home education?
-
+What are the benefits of home education? 
 You can't deny the benefits of a good education.
+
+---
+similar to - схож с чем-то / похож на
+
+As I see your idea is similar to mine.
+His beliefs are very similar to hers.
+Her beliefs are quite similar to his.
+
+---
+protect from - защищать от чего-то
+
+We need to protect her from these possible risks.
