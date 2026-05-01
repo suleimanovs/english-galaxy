@@ -62,41 +62,74 @@ async function generateSentences(word, translation) {
 }
 
 // ─── CSV TRACKER ─────────────────────────────────────────────────────────────
-// Format: word|translation|filename|exportedAt|status|knownAt|s1|s2|s3
-// CSV is the single source of truth. Never auto-delete from Anki.
+// Canonical format: word|ipa|translation|filename|exportedAt|status|knownAt|s1|s2|s3|note
+// Header-driven: parser locates each known field by header name. The header
+// (and any trailing columns it doesn't recognise) is stashed via a Symbol so
+// that toCSV re-emits the exact column layout — adding a column to the CSV
+// won't be wiped on save by code that doesn't know about it.
+
+const KNOWN_FIELDS = ['word','ipa','translation','filename','exportedAt','status','knownAt','s1','s2','s3','note'];
+const HEADER_SYM = Symbol.for('eg.tracker.header');
+const EXTRAS_SYM = Symbol.for('eg.tracker.extras');
 
 function parseCSV(text) {
   const lines = text.trim().split('\n').filter(l => l.trim());
   const tracker = {};
-  // Detect format: with or without ipa column
+  tracker[HEADER_SYM] = KNOWN_FIELDS.slice();
+  tracker[EXTRAS_SYM] = [];
+  if (lines.length === 0) return tracker;
   const header = lines[0].split('|').map(h => h.trim());
-  const hasIpa = header[1] === 'ipa';
-  const off = hasIpa ? 1 : 0;
+  const idx = name => header.indexOf(name);
+  const extras = header.filter(h => !KNOWN_FIELDS.includes(h) && h !== '');
+  tracker[HEADER_SYM] = header;
+  tracker[EXTRAS_SYM] = extras;
   for (let i = 1; i < lines.length; i++) {
     const p = lines[i].split('|');
     const word = p[0]?.trim();
     if (!word) continue;
     const unesc = s => (s || '').trim().replace(/\\n/g, '\n');
+    const get = name => { const j = idx(name); return j >= 0 ? (p[j]?.trim() || '') : ''; };
+    const sentences = [unesc(p[idx('s1')]), unesc(p[idx('s2')]), unesc(p[idx('s3')])].filter(s => s);
+    const extraVals = {};
+    for (const name of extras) extraVals[name] = get(name);
     tracker[word] = {
-      ipa:         hasIpa ? (p[1]?.trim() || '') : '',
-      translation: p[1 + off]?.trim() || '',
-      filename:    p[2 + off]?.trim() || '',
-      exportedAt:  p[3 + off]?.trim() || '',
-      status:      p[4 + off]?.trim() || 'learning',
-      knownAt:     p[5 + off]?.trim() || '',
-      sentences:   [unesc(p[6 + off]), unesc(p[7 + off]), unesc(p[8 + off])].filter(s => s)
+      ipa:         get('ipa'),
+      translation: get('translation'),
+      filename:    get('filename'),
+      exportedAt:  get('exportedAt'),
+      status:      get('status') || 'learning',
+      knownAt:     get('knownAt'),
+      note:        get('note'),
+      sentences,
+      _extras: extraVals
     };
   }
   return tracker;
 }
 
 function toCSV(tracker) {
-  const rows = ['word|ipa|translation|filename|exportedAt|status|knownAt|s1|s2|s3'];
+  const header = tracker[HEADER_SYM] || KNOWN_FIELDS.slice();
+  const esc = x => (x || '').replace(/\r/g, '').replace(/\n/g, '\\n').replace(/\|/g, ' ');
+  const rows = [header.join('|')];
   for (const [word, d] of Object.entries(tracker)) {
     const s = d.sentences || [];
-    const esc = x => (x || '').replace(/\r/g, '').replace(/\n/g, '\\n').replace(/\|/g, ' ');
-    rows.push([word, d.ipa || '', d.translation, d.filename, d.exportedAt, d.status, d.knownAt || '',
-               esc(s[0]), esc(s[1]), esc(s[2])].join('|'));
+    const fieldVal = name => {
+      switch (name) {
+        case 'word': return word;
+        case 'ipa': return d.ipa || '';
+        case 'translation': return esc(d.translation || '');
+        case 'filename': return d.filename || '';
+        case 'exportedAt': return d.exportedAt || '';
+        case 'status': return d.status || 'learning';
+        case 'knownAt': return d.knownAt || '';
+        case 's1': return esc(s[0]);
+        case 's2': return esc(s[1]);
+        case 's3': return esc(s[2]);
+        case 'note': return esc(d.note || '');
+        default:    return esc((d._extras || {})[name] || '');
+      }
+    };
+    rows.push(header.map(fieldVal).join('|'));
   }
   return rows.join('\n');
 }
@@ -350,11 +383,13 @@ async function runSync(log) {
         await addToAnki(word, translation, filename, sentences);
       }
 
+      const prev = tracker[word] || {};
       tracker[word] = {
+        ...prev,
         translation, filename,
-        exportedAt: tracker[word]?.exportedAt || new Date().toISOString().split('T')[0],
-        status: tracker[word]?.status || 'learning',
-        knownAt: tracker[word]?.knownAt || '',
+        exportedAt: prev.exportedAt || new Date().toISOString().split('T')[0],
+        status: prev.status || 'learning',
+        knownAt: prev.knownAt || '',
         sentences
       };
       exported++;
