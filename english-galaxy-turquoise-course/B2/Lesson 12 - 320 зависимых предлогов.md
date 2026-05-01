@@ -67,4 +67,4 @@ make an impression on - произвести впечатление на
 
 He made a very favorable impression on me.
 It made a very negative impression on me
-This thing made an um
+This thing made an unforgettable impression on me
