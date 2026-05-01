@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5bf6d801f6ea7576",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "c0acac9b5feb4af4",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "mx-url",
+              "type": "markdown",
               "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "7IkhWVnqXYQ",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=7IkhWVnqXYQ"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    }
-                  }
-                }
+                "file": "english words/anki/Anki Decks.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "youtube",
-              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 23"
+              "icon": "lucide-file",
+              "title": "Anki Decks"
             }
           }
         ]
@@ -236,8 +216,9 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "c0acac9b5feb4af4",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home Page.md",
     "english words/anki/audio/eg_treat.mp3",
     "english words/anki/audio/eg_praise.mp3",
     "english words/anki/audio/eg_closely.mp3",
@@ -248,13 +229,11 @@
     "english words/anki/audio/eg_damage.mp3",
     "learn-5000-english-words/Lesson 23 (122-130).md",
     "english-galaxy-turquoise-course/B2/Lesson 12 - 320 зависимых предлогов.md",
-    "Home Page.md",
     "english words/anki/Anki Decks.md",
     "english-galaxy-turquoise-course/B2/Lesson 11 - 320 зависимых предлогов.md",
     "english words/anki/vp-pattern-hints.csv",
     "english words/anki/audio/eg_come_rain_or_shine.mp3",
     "english words/anki/audio/eg_that_s_the_last_straw.mp3",
-    "english words/anki/temp-prep-missing.csv",
     "english words/New.md",
     "english-galaxy-turquoise-course/B2/Lesson 11.md",
     "english-galaxy-turquoise-course/B2/Lesson 8 - 320 зависимых предлогов.md",
