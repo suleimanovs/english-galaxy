@@ -25,11 +25,14 @@ function pvToTag(pv) {
 }
 
 // ─── CSV TRACKER ─────────────────────────────────────────────────────────────
-// Format: phrasal_verb|translation|exportedAt|status|knownAt|s1|s2|s3
+// Format: phrasal_verb|translation|exportedAt|status|knownAt|s1|s2|s3|note
+// `note` (and any future trailing columns) is preserved verbatim through
+// parse → save so old scripts cannot wipe column data they don't recognise.
 
 function parseCSV(text) {
   const lines = text.trim().split('\n').filter(l => l.trim());
   const tracker = {};
+  if (lines.length === 0) return tracker;
   for (let i = 1; i < lines.length; i++) {
     const p = lines[i].split('|');
     const pv = p[0]?.trim();
@@ -40,19 +43,20 @@ function parseCSV(text) {
       exportedAt:  p[2]?.trim() || '',
       status:      p[3]?.trim() || '',
       knownAt:     p[4]?.trim() || '',
-      sentences:   [unesc(p[5]), unesc(p[6]), unesc(p[7])].filter(s => s)
+      sentences:   [unesc(p[5]), unesc(p[6]), unesc(p[7])].filter(s => s),
+      note:        p[8]?.trim() || ''
     };
   }
   return tracker;
 }
 
 function toCSV(tracker) {
-  const rows = ['phrasal_verb|translation|exportedAt|status|knownAt|s1|s2|s3'];
+  const rows = ['phrasal_verb|translation|exportedAt|status|knownAt|s1|s2|s3|note'];
   for (const [pv, d] of Object.entries(tracker)) {
     const s = d.sentences || [];
     const esc = x => (x || '').replace(/\r/g, '').replace(/\n/g, '\\n').replace(/\|/g, ' ');
-    rows.push([pv, d.translation, d.exportedAt, d.status, d.knownAt || '',
-               esc(s[0]), esc(s[1]), esc(s[2])].join('|'));
+    rows.push([pv, esc(d.translation), d.exportedAt, d.status, d.knownAt || '',
+               esc(s[0]), esc(s[1]), esc(s[2]), esc(d.note || '')].join('|'));
   }
   return rows.join('\n');
 }
