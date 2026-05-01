@@ -60,4 +60,11 @@ He is brilliant at playing football
 confident in - уверен в чем-то
 
 I feel much more confident in English thanks to this course.
-I feel much more confi
+I feel much more confident in English, and it really motivates me to continue
+
+---
+make an impression on - произвести впечатление на 
+
+He made a very favorable impression on me.
+It made a very negative impression on me
+This thing made an um
