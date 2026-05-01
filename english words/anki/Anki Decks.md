@@ -10,7 +10,7 @@ const DECKS = [
   { id: 'collocations', name: 'EG — Collocations',         file: 'collocations-tracker.csv',         label: 'Collocations',        fields: ['collocation','translation','exportedAt','status','knownAt','s1','s2','s3','note'], frontKey: 'collocation', backKey: 'translation', tagPrefix: 'coll' },
   { id: 'prep',         name: 'EG — Prepositional Phrases', file: 'prepositional-phrases-tracker.csv', label: 'Prep. Phrases',       fields: ['phrase','translation','exportedAt','status','knownAt','s1','s2','s3','note'], frontKey: 'phrase', backKey: 'translation', tagPrefix: 'prep' },
   { id: 'linking',      name: 'EG — Linking Words',         file: 'linking-words-tracker.csv',         label: 'Linking Words',       fields: ['word','translation','category','exportedAt','status','knownAt','s1','s2','s3','note'], frontKey: 'word', backKey: 'translation', tagPrefix: 'lw', extraFields: ['category'] },
-  { id: 'confusing',    name: 'EG — Confusing Words',       file: 'confusing-words-tracker.csv',       label: 'Confusing Pairs',     fields: ['pair','word_a','meaning_a','word_b','meaning_b','exportedAt','status','knownAt','s1','s2','s3','note'], frontKey: 'pair', backKey: null, tagPrefix: 'cw', custom: true },
+  { id: 'confusing',    name: 'EG — Confusing Words',       file: 'confusing-words-tracker.csv',       label: 'Confusing Pairs',     fields: ['pair','word_a','meaning_a','word_b','meaning_b','word_c','meaning_c','exportedAt','status','knownAt','s1','s2','s3','note'], frontKey: 'pair', backKey: null, tagPrefix: 'cw', custom: true },
   { id: 'irregular',    name: 'EG — Irregular Verbs',       file: 'irregular-verbs-tracker.csv',       label: 'Irregular Verbs',     fields: ['verb','ipa','v2','v3','translation','exportedAt','status','knownAt','s1','s2','s3','family','note'], frontKey: 'verb', backKey: null, tagPrefix: 'iv', custom: true },
   { id: 'false',        name: 'EG — False Friends',         file: 'false-friends-tracker.csv',         label: 'False Friends',       fields: ['english_word','ipa','false_meaning','real_meaning','russian_word','exportedAt','status','knownAt','s1','s2','s3','family','note'], frontKey: 'english_word', backKey: null, tagPrefix: 'ff', custom: true },
   { id: 'phrasal_n',    name: 'EG — Phrasal Nouns',         file: 'phrasal-nouns-tracker.csv',         label: 'Phrasal Nouns',       fields: ['word','ipa','base_verb','translation','exportedAt','status','knownAt','s1','s2','s3','family','note'], frontKey: 'word', backKey: 'translation', tagPrefix: 'pn', extraFields: ['base_verb'] },
@@ -96,8 +96,9 @@ function buildCard(deck, key, data) {
   let front, back;
 
   if (deck.id === 'confusing') {
+    const wcLine = data.word_c ? `<br><b>${data.word_c}</b> — ${data.meaning_c || ''}` : '';
     front = `<div style="font-size:1.3em;font-weight:bold;margin-bottom:0.5em">${key}</div>${ipaHtml}${sentHtml}`;
-    back = `<div style="font-size:1.1em"><b>${data.word_a}</b> — ${data.meaning_a}<br><b>${data.word_b}</b> — ${data.meaning_b}</div>${familyHtml}${noteHtml}`;
+    back = `<div style="font-size:1.1em"><b>${data.word_a}</b> — ${data.meaning_a}<br><b>${data.word_b}</b> — ${data.meaning_b}${wcLine}</div>${familyHtml}${noteHtml}`;
   } else if (deck.id === 'irregular') {
     front = `<div style="font-size:1.4em;font-weight:bold;margin-bottom:0.4em">${key}</div>${ipaHtml}<div style="color:#888;margin-bottom:0.8em">${data.translation}</div>${sentHtml}`;
     back = `<div style="font-size:1.3em"><b>V2:</b> ${data.v2}<br><b>V3:</b> ${data.v3}</div>${familyHtml}${noteHtml}`;
