@@ -48,3 +48,16 @@ Her beliefs are quite similar to his.
 protect from - защищать от чего-то
 
 We need to protect her from these possible risks.
+
+---
+brilliant at - блестяще владеть чем-то
+
+He is brilliant at foreign languages 
+As we see she is brilliant at English
+He is brilliant at playing football
+
+---
+confident in - уверен в чем-то
+
+I feel much more confident in English thanks to this course.
+I feel much more confi
