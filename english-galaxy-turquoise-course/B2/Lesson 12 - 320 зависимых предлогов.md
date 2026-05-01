@@ -26,4 +26,14 @@ This fragrance has a smell of flowers.
 ---
 impressed with / by - впечатлен чем-то
 
-I 
+I'm impressed with their professionalism.
+
+I'm truly impressed with the beauty of this place
+I'm really impressed by his knowledge
+
+---
+benefits of - преимущество чего-то
+
+What are the benefits of home education?
+
+You can't deny the benefits of a good education.
