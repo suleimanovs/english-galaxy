@@ -5,4 +5,17 @@
 
  answer to - ответ на что-то
 
-I'm waiting an answer to this question
+I'm waiting for their answer to this question
+What is the best answer to this question?
+
+---
+effect on - влияние на
+detrimental - пагубный, губительный
+
+It can have a very negative effect on our economy
+It can have a very detrimental effect on your health
+
+---
+
+praise for - хвалить за что-то
+
