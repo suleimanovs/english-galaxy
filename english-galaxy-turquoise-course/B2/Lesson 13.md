@@ -16,6 +16,25 @@ It can have a very negative effect on our economy
 It can have a very detrimental effect on your health
 
 ---
-
 praise for - хвалить за что-то
+
+He was praised for his brilliant performance 
+
+---
+interest in - интерес к чему-то
+
+She shows a growing interest in languages.
+
+---
+exchange for - обменять на что-то
+
+I exchanged dollars for pounds.
+I exchanged dollars for euros.
+
+---
+surprised by / at - удивлен
+
+I was greatly surprised by this news
+
+---
 
