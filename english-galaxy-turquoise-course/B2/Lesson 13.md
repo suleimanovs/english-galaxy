@@ -35,6 +35,11 @@ I exchanged dollars for euros.
 surprised by / at - удивлен
 
 I was greatly surprised by this news
+No one was surprised by such a decision
+I was particularly surprised by his reaction to these words
 
 ---
 
+indifferent to - равнодушен к 
+
+She says that she is indifferent to money but I don't think so 
