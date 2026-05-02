@@ -52,3 +52,17 @@ in spite of / despite - не смотря на
 He is always full of energy in spite of his age.
 It is easy to notice that he is full of confidence 
 
+---
+anxious about - волнующийся из-за чего-то
+
+She is very anxious about the interview
+
+---
+worried about - обеспокоен чем-то / по какому-то поводу
+
+I have never been worried about it.
+To be honest I have never really worried about it  
+
+---
+
+

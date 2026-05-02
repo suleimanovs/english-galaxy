@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-galaxy-turquoise-course/B2/Lesson 13.md",
+                "file": "english-galaxy-turquoise-course/B2/Lesson 14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 13"
+              "title": "Lesson 14"
             }
           }
         ]
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5024719238281,
-    "collapsed": true
+    "width": 283.5024719238281
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -257,9 +256,10 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "71d58814e0657355",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "english-galaxy-turquoise-course/B2/Lesson 13.md",
+    "english-galaxy-turquoise-course/B2/Lesson 13 - 320 зависимых предлогов.md",
+    "english-galaxy-turquoise-course/B2/Lesson 12 - 320 зависимых предлогов.md",
     "english words/anki/Anki Decks.md",
     "learn-5000-english-words/word-tracker.csv.pre-migrate.bak",
     "Home Page.md",
@@ -272,7 +272,6 @@
     "english words/anki/audio/eg_jewellery.mp3",
     "english words/anki/audio/eg_damage.mp3",
     "learn-5000-english-words/Lesson 23 (122-130).md",
-    "english-galaxy-turquoise-course/B2/Lesson 12 - 320 зависимых предлогов.md",
     "english-galaxy-turquoise-course/B2/Lesson 11 - 320 зависимых предлогов.md",
     "english words/anki/vp-pattern-hints.csv",
     "english words/anki/audio/eg_come_rain_or_shine.mp3",
