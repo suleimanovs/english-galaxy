@@ -39,7 +39,16 @@ No one was surprised by such a decision
 I was particularly surprised by his reaction to these words
 
 ---
-
 indifferent to - равнодушен к 
 
-She says that she is indifferent to money but I don't think so 
+She says that she is indifferent to money but I don't think so.
+He is indifferent to needs of other people
+He is indifferent to other people's needs
+
+---
+full of -  полон чего-то
+in spite of / despite - не смотря на
+
+He is always full of energy in spite of his age.
+It is easy to notice that he is full of confidence 
+
