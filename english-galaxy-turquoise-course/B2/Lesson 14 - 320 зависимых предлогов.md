@@ -60,6 +60,8 @@ She persisted in asking questions.
 
 ---
 point at - указывать на 
-point out - указывать на ошибки
+point out - указывать на (в плане ошибок )
 
 It is considered impolite to point at people 
+
+The teacher pointed out my mistakes 
