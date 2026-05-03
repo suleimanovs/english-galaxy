@@ -37,7 +37,17 @@ This place is worth visiting.
 worthy of - достойно чего-то
 
 It is worthy of our attention
-W
+Such a brave action is worthy of admiration
 
 ---
 
+polite to - вежлив с 
+
+You should be polite to others 
+He is always very polite to other people
+
+---
+different from/to - отличаться от 
+
+This method is completely different from that one 
+It is often said that American English is 
