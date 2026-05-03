@@ -23,4 +23,21 @@ They deprived him of his property
 ---
 attitude to  / towards - отношение к 
 
-What is your att
+What is your attitude to online education?
+
+---
+approve of - одобрять что 
+disapprove of - не одобрять что 
+
+He strongly disapproves of this decision.
+
+---
+It is worth reading
+This place is worth visiting.
+worthy of - достойно чего-то
+
+It is worthy of our attention
+W
+
+---
+
