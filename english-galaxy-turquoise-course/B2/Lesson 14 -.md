@@ -50,4 +50,16 @@ He is always very polite to other people
 different from/to - отличаться от 
 
 This method is completely different from that one 
-It is often said that American English is 
+It is often said that American English is slightly different from British English.
+
+---
+persist in - упорствовать в чем-то /  упорно продолжать что-то
+
+She persisted in her refusal to accept this fact.
+She persisted in asking questions.
+
+---
+point at - указывать на 
+point out - указывать на ошибки
+
+It is considered impolite to point at people 
