@@ -16,3 +16,19 @@ She is particularly interested in photography.
 ---
 focus on - фокусировать на, сконцентрироваться на, сосредоточиться на
 
+We need to focus on more significant problems.
+
+---
+inform of / about - информировать о чем-то , сообщить о чем-то
+
+Please, inform us about these changes.
+He was informed of it.
+
+---
+leave for - уезжать куда-то
+
+She left for London
+I have already left for work
+
+---
+covered  with - покрыт чем
