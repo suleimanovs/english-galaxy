@@ -76,4 +76,4 @@ I look forward to meeting you.
 way of - способ чего-то
 
 There is another possible way of solving this problem.
-It is one of the 
+It is the most effective way of learning foreign languages
