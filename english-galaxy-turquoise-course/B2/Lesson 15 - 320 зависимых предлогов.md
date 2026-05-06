@@ -63,4 +63,17 @@ exhausted from - измучен чем-тo
 utterly exhausted - совершенно измучен
 
 She is absolutely exhausted from working all day without any breaks
-He is utterly exhausted from such a 
+He is utterly exhausted from such a tight schedule.
+
+---
+look forward to - ждать с нетерпением
+
+I'm looking forward to this party.
+I look forward to our meeting.
+I look forward to meeting you.
+
+---
+way of - способ чего-то
+
+There is another possible way of solving this problem.
+It is one of the 
