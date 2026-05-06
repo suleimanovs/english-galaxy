@@ -48,4 +48,13 @@ We need to concentrate our attention on a more important thing.
 ---
 result in - закончиться с чем-то, привести к чему то
 
-These measures 
+These measures resulted in very big losses.
+Unfortunately, all these attempts resulted in a complete failure 
+
+---
+react to - реагировать на 
+
+He reacted very angrily to this remark.
+In your place  i wouldn't react to it 
+
+---
