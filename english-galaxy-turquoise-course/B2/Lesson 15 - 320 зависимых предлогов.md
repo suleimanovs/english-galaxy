@@ -31,4 +31,21 @@ She left for London
 I have already left for work
 
 ---
-covered  with - покрыт чем
+covered  with - покрыт чем-то
+
+His shoes are covered with dirt.
+
+---
+lead to - привести к чему-то
+
+It led to new unforeseen problems 
+
+---
+concentrate on - концентрироваться на
+
+We need to concentrate our attention on a more important thing.
+
+---
+result in - закончиться с чем-то, привести к чему то
+
+These measures 
