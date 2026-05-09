@@ -189,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5,
-    "collapsed": true
+    "width": 509.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,19 +215,19 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "1b1be49d8d171a57",
   "lastOpenFiles": [
+    "english words/anki/audio/eg_considerably.mp3",
+    "english words/anki/audio/eg_concern.mp3",
+    "english words/anki/audio/eg_breathe_out.mp3",
+    "english words/anki/audio/eg_breathe_in.mp3",
+    "english words/anki/audio/eg_below.mp3",
+    "english words/anki/audio/eg_guilt.mp3",
+    "english words/anki/audio/eg_cite.mp3",
     "english words/anki/audio/eg_accusation.mp3",
     "english words/anki/audio/eg_hunder.mp3",
     "english words/anki/audio/eg_consideerably.mp3",
     "english words/anki/audio/eg_audience.mp3",
-    "english words/anki/audio/eg_notion.mp3",
-    "english words/anki/audio/eg_disaster.mp3",
-    "english words/anki/audio/eg_despite.mp3",
-    "english words/anki/audio/eg_confuse.mp3",
-    "english words/anki/audio/eg_catastrophe.mp3",
-    "english words/anki/audio/eg_carelessly.mp3",
-    "english words/anki/audio/eg_briefcase.mp3",
     "learn-5000-english-words/Lesson 24 (131-136).md",
     "Home Page.md",
     "learn-5000-english-words/Lesson 23 (122-130).md",

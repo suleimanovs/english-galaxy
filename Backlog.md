@@ -40,7 +40,7 @@
 | Daily word widget | На Home Page одно случайное слово дня из всех колод с предложением и аудио | Идея |
 | Writing prompts | Каждый день тема для короткого эссе используя 5 слов из текущих learning карточек | Идея |
 | Deck preview pages | Гайды для всех 14 колод в deck-guides.csv, отображаются в Anki Decks.md как сворачиваемая панель + синхронизируются в Anki как замороженные guide-карточки | Сделано |
-| IPA транскрипция | /ˈbreɪk/ под словом для 749 карточек в 6 колодах (False/True Friends, Irregular, Phrasal Nouns, Verb Patterns, All Words). Хранится в CSV колонке `ipa`, кэш в ipa-cache.json | Сделано |
+| IPA транскрипция | /ˈbreɪk/ под словом для 749 карточек в 6 колодах (False/True Friends, Irregular, Phrasal Nouns, Verb Patterns, All Words). Хранится в CSV колонке `ipa`. | Сделано |
 | Тип паттерна для irregular verbs | Метка типа изменения (vowel change / -en / no change) | Идея |
 | Separable/inseparable для phrasal verbs | Маркер на карточке: можно ли разделить (look it up vs deal with it) | Идея |
 | Register marker для idioms | Пометка formal/casual/slang на карточке | Идея |
