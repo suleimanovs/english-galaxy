@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "450e118576724964",
+        "id": "314cf4efc56ec9de",
         "type": "tabs",
-        "dimension": 41.477832512315274,
         "children": [
           {
-            "id": "c04841c7885becbe",
+            "id": "fe2bad0bb870c082",
             "type": "leaf",
             "state": {
               "type": "mx-url",
@@ -39,18 +38,17 @@
                 }
               },
               "icon": "youtube",
-              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 24"
+              "title": "YouTube - 3r6PKoGL7i8"
             }
           }
         ]
       },
       {
-        "id": "e67034262e835bb1",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 58.522167487684726,
         "children": [
           {
-            "id": "c21a28b920e39556",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -259,13 +257,13 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "c21a28b920e39556",
+  "active": "fe2bad0bb870c082",
   "lastOpenFiles": [
     "learn-5000-english-words/Lesson 24 (131-136).md",
+    "Home Page.md",
     "learn-5000-english-words/Lesson 23 (122-130).md",
     "english-galaxy-turquoise-course/B2/Lesson 16.md",
     "english-galaxy-turquoise-course/B2/Lesson 15 - 320 зависимых предлогов.md",
-    "Home Page.md",
     "english words/anki/Anki Decks.md",
     "english words/anki/audio/eg_attitude_towards.mp3",
     "english words/anki/audio/eg_worthy_of.mp3",
