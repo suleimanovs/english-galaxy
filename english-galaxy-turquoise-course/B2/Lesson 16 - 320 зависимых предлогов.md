@@ -3,5 +3,19 @@
 
 ---
 
-used to - 
-accostumed to - 
+used to - привышкий к 
+accostomed to - привышкий к 
+
+I'm not accustomed to this kind of treatment
+
+---
+
+amazed by / at - порожен чем-то
+
+Everyone was truly amazed by her talent
+
+---
+amazement at - изумление чем-то
+
+He couldn't hide his amazement at this news
+He couldn't hide his amazement at  the quality of this work
