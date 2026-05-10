@@ -29,3 +29,15 @@ So many people are concern about such issues as corruption, bureaucracy, poverty
 
 ---
 adaptation to - адаптация / привыкание к чем-то 
+
+I think you will need some kind of adaptation to it 
+The process of adaptation to these conditions can take some time
+
+---
+attach to - приложить к чему-то
+
+He forgot to attach these documents to the letter
+I forgot to attach these documents to the letter
+
+---
+vote for - голосовать 
