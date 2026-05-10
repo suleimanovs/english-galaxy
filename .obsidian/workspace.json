@@ -4,6 +4,46 @@
     "type": "split",
     "children": [
       {
+        "id": "290863d3f00a9e24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d21f7ef5f7964e77",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "Hk3er4kpvMo",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=Hk3er4kpvMo"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    }
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 16"
+            }
+          }
+        ]
+      },
+      {
         "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
@@ -13,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learn-5000-english-words/Unknown Words.md",
-                "mode": "preview",
+                "file": "english-galaxy-turquoise-course/B2/Lesson 16 - 320 зависимых предлогов.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unknown Words"
+              "title": "Lesson 16 - 320 зависимых предлогов"
             }
           }
         ]
@@ -78,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5024719238281
+    "width": 283.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -218,22 +259,21 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "english-galaxy-turquoise-course/B2/Lesson 16 - 320 зависимых предлогов.md",
+    "learn-5000-english-words/Unknown Words.md",
     "english words/anki/audio/eg_harmful.mp3",
     "english words/anki/audio/eg_necklace.mp3",
     "english words/anki/audio/eg_predictable.mp3",
     "Home Page.md",
     "english words/anki/ipa-cache.json",
-    "learn-5000-english-words/Unknown Words.md",
     "english words/anki/audio/eg_considerably.mp3",
     "english words/anki/audio/eg_concern.mp3",
     "english words/anki/audio/eg_breathe_out.mp3",
     "english words/anki/audio/eg_breathe_in.mp3",
     "english words/anki/audio/eg_below.mp3",
     "english words/anki/audio/eg_guilt.mp3",
-    "english words/anki/audio/eg_cite.mp3",
     "learn-5000-english-words/Lesson 24 (131-136).md",
     "learn-5000-english-words/Lesson 23 (122-130).md",
-    "english-galaxy-turquoise-course/B2/Lesson 16.md",
     "english-galaxy-turquoise-course/B2/Lesson 15 - 320 зависимых предлогов.md",
     "english words/anki/Anki Decks.md",
     "english-galaxy-turquoise-course/B2/Lesson 14 - 320 зависимых предлогов.md",
