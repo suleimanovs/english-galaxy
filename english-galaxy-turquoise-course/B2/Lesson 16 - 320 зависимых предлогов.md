@@ -40,4 +40,17 @@ He forgot to attach these documents to the letter
 I forgot to attach these documents to the letter
 
 ---
-vote for - голосовать 
+vote for - голосовать за 
+
+Did they vote for or against it?
+He voted for another candidate 
+
+---
+objection to - возражение против чего-то
+
+It was their main objection to it.
+I don't have an objection to it
+There were several objections to that proposal
+
+---
+
