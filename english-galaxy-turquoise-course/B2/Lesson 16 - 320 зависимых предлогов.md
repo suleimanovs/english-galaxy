@@ -53,4 +53,15 @@ I don't have an objection to it
 There were several objections to that proposal
 
 ---
+object to - возвражать против чего-то
 
+Many people object to such strict measures
+
+---
+distinguish from - отличать от 
+
+This quality distinguishes him from his peers.
+It is often difficult to distinguish right from wrong
+
+---
+punish
