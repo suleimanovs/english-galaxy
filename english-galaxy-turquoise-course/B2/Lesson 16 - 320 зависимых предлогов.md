@@ -64,4 +64,15 @@ This quality distinguishes him from his peers.
 It is often difficult to distinguish right from wrong
 
 ---
-punish
+punished for -  наказать за
+
+No one was punished for it
+He was punished for it.
+
+---
+marvel at -  восхищаться чем-то
+
+I marvel at the beauty of this place
+I marvel at her wisdom and experience
+
+I have never been stoppingg to marvel 
