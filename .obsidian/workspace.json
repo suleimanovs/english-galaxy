@@ -11,34 +11,14 @@
             "id": "d21f7ef5f7964e77",
             "type": "leaf",
             "state": {
-              "type": "mx-url",
+              "type": "markdown",
               "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "Hk3er4kpvMo",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=Hk3er4kpvMo"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    }
-                  }
-                }
+                "file": "english-galaxy-turquoise-course/B2/Lesson 16 - 320 зависимых предлогов.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 16"
+              "icon": "lucide-file",
+              "title": "Lesson 16 - 320 зависимых предлогов"
             }
           }
         ]
@@ -118,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5024719238281,
-    "collapsed": true
+    "width": 283.5024719238281
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -257,7 +236,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6fc422490737c0b3",
   "lastOpenFiles": [
     "english-galaxy-turquoise-course/B2/Lesson 16 - 320 зависимых предлогов.md",
     "learn-5000-english-words/Unknown Words.md",

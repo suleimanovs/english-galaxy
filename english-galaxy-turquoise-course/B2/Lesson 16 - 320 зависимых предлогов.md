@@ -75,4 +75,4 @@ marvel at -  восхищаться чем-то
 I marvel at the beauty of this place
 I marvel at her wisdom and experience
 
-I have never been stopping to marvel at the beauty of this place
+I have never stopped to marvel at the beauty of this place
