@@ -213,8 +213,7 @@
       "templater-obsidian:Templater": false,
       "terminal:Open terminal": false,
       "markdown-importer:Импорт Markdown-файлов": false,
-      "workspaces:Пространства": false,
-      "obsidian-livesync:Show Customization sync": false
+      "workspaces:Пространства": false
     }
   },
   "active": "e7a7b303c61786dc",
