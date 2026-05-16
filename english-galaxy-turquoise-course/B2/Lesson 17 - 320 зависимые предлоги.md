@@ -19,4 +19,10 @@ What is the main reason for his refusal?
 ---
 get rid of - избавить от 
 
-I'd like to get rid of these mista
+I'd like to get rid of these mistakes
+My main aim is to get rid of these mistakes.
+I managed to get rid of these mistakes.
+I succeeded in solving this problem without any effort.
+I succeeded in passing this exam.
+
+---
