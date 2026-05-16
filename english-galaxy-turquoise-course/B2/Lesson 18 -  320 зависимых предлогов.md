@@ -67,7 +67,16 @@ puzzled by - озадачен чем-то
 
 I was very puzzled by it 
 I am so puzzled by all this.
-I am really puzzled by his reaction to this 
+I am really puzzled by his reaction to this question
 
 ---
+
+solution to - решение чего-то
+
+I am absolutely certain that it is the only right solution to this problem
+It is only a partial solution to this problem
+I'm not satisfied with this decision because it is only a partial solution to this problem
+
+---
+
 
