@@ -17,4 +17,23 @@ I'm intent on doing it.
 
 ---
 
-peer at - пристально смотреть/уставиться 
+peer at - пристально смотреть/уставиться на 
+
+He peered at the photo
+
+---
+
+She peered at this image.
+He peered at the screen 
+
+---
+
+subscribe to - подписаться на
+to be subscribed to - быть подписанным на
+
+I have already subscribed to that channel
+I'm subscribed to these channels.
+I'm subscribed to several channels.
+Ten million people are subscribed to this channel
+
+---
