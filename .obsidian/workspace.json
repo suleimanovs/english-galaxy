@@ -4,6 +4,46 @@
     "type": "split",
     "children": [
       {
+        "id": "0e7bc9ebdf0b4026",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a4ae49d72734fa8",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "lbvrCBaTgv4",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=lbvrCBaTgv4"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    }
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 17"
+            }
+          }
+        ]
+      },
+      {
         "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
@@ -13,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "english-galaxy-turquoise-course/B2/Lesson 17 - 320 зависимые предлоги.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Page"
+              "title": "Lesson 17 - 320 зависимые предлоги"
             }
           }
         ]
@@ -213,11 +253,13 @@
       "templater-obsidian:Templater": false,
       "terminal:Open terminal": false,
       "markdown-importer:Импорт Markdown-файлов": false,
-      "workspaces:Пространства": false
+      "workspaces:Пространства": false,
+      "obsidian-livesync:Show Customization sync": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "english-galaxy-turquoise-course/B2/Lesson 17 - 320 зависимые предлоги.md",
     "Home Page.md",
     "english-galaxy-turquoise-course/B2/Lesson 16 - 320 зависимых предлогов.md",
     "english words/anki/audio/eg_marvel_at.mp3",
@@ -238,7 +280,6 @@
     "english-galaxy-turquoise-course/B2/Lesson 14 - 320 зависимых предлогов.md",
     "english-galaxy-turquoise-course/B2/Lesson 1 - 150 важных фразовых глаголов часть 1.md",
     "english-galaxy-turquoise-course/B2/Lesson 13 - 320 зависимых предлогов.md",
-    "english-galaxy-turquoise-course/B2/Lesson 17.md",
     "english-galaxy-turquoise-course/B2/Lesson 18.md",
     "english-galaxy-turquoise-course/B2/Lesson 12 - 320 зависимых предлогов.md",
     "english-galaxy-turquoise-course/B2/Lesson 11 - 320 зависимых предлогов.md",
