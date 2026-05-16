@@ -4,64 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "0e7bc9ebdf0b4026",
-        "type": "tabs",
+        "id": "c80aaae46e444b8f",
+        "type": "split",
         "children": [
           {
-            "id": "9a4ae49d72734fa8",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "lbvrCBaTgv4",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=lbvrCBaTgv4"
-                    },
-                    "hash": {}
+            "id": "24fae56a0aca1721",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d7ef902540250d9d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "english-galaxy-turquoise-course/B2/Lesson 20.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    }
-                  }
+                  "icon": "lucide-file",
+                  "title": "Lesson 20"
                 }
-              },
-              "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 17"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4509724f8bf84da7",
-        "type": "tabs",
-        "children": [
+              }
+            ]
+          },
           {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english-galaxy-turquoise-course/B2/Lesson 17 - 320 зависимые предлоги.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lesson 17 - 320 зависимые предлоги"
-            }
+            "id": "d1d0906e1beefe47",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "22ea4acb2be82460",
+                "type": "leaf",
+                "state": {
+                  "type": "mx-url",
+                  "state": {
+                    "mx": {
+                      "json": {
+                        "media": {
+                          "type": "url:hosted",
+                          "vid": {
+                            "host": "youtube",
+                            "vid": "p9VzFRRjE4A",
+                            "t": null,
+                            "start": null,
+                            "end": null
+                          },
+                          "url": "https://www.youtube.com/watch?v=p9VzFRRjE4A"
+                        },
+                        "hash": {}
+                      },
+                      "meta": {
+                        "values": {
+                          "media.url": [
+                            "URL"
+                          ]
+                        }
+                      }
+                    }
+                  },
+                  "icon": "youtube",
+                  "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 20"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -118,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5024719238281,
-    "collapsed": true
+    "width": 283.5024719238281
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -257,8 +263,10 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "9a4ae49d72734fa8",
+  "active": "22ea4acb2be82460",
   "lastOpenFiles": [
+    "english-galaxy-turquoise-course/B2/Lesson 20.md",
+    "english-galaxy-turquoise-course/B2/Lesson 18.md",
     "english-galaxy-turquoise-course/B2/Lesson 17 - 320 зависимые предлоги.md",
     "Home Page.md",
     "english-galaxy-turquoise-course/B2/Lesson 16 - 320 зависимых предлогов.md",
@@ -280,7 +288,6 @@
     "english-galaxy-turquoise-course/B2/Lesson 14 - 320 зависимых предлогов.md",
     "english-galaxy-turquoise-course/B2/Lesson 1 - 150 важных фразовых глаголов часть 1.md",
     "english-galaxy-turquoise-course/B2/Lesson 13 - 320 зависимых предлогов.md",
-    "english-galaxy-turquoise-course/B2/Lesson 18.md",
     "english-galaxy-turquoise-course/B2/Lesson 12 - 320 зависимых предлогов.md",
     "english-galaxy-turquoise-course/B2/Lesson 11 - 320 зависимых предлогов.md",
     "english words/New.md",

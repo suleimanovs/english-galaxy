@@ -45,6 +45,10 @@ Are you allergic to anything ?
 She is allergic to nuts
 I'm allergic to this food
 She is really furious about his refusal
-He was really furious with 
+He was really furious with one of his colleagues 
 
 ---
+faithful to - верен кому-то / чему-то
+
+He remained faithful to these beliefs 
+She remained faithful to her principles and beliefs
