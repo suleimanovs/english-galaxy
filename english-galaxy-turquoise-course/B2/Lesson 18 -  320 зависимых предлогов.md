@@ -37,3 +37,15 @@ I'm subscribed to several channels.
 Ten million people are subscribed to this channel
 
 ---
+
+thankful to someone for something
+
+I'm really thankful to you for it.
+I'm very thankful to you for your advice  
+I'm really thankful to you for your help.
+
+---
+
+laugh at - смеяться над 
+
+I wouldn't laugh at him in your place 
