@@ -36,4 +36,15 @@ He hasn't commented on this issue yet
 ---
 concentrate on - концентрироваться/сосредоточится на чем-то
 
-I'd like to concentrate on 
+I'd like to concentrate on the main problems.
+
+---
+allergic to - аллергия на 
+
+Are you allergic to anything ?
+She is allergic to nuts
+I'm allergic to this food
+She is really furious about his refusal
+He was really furious with 
+
+---
