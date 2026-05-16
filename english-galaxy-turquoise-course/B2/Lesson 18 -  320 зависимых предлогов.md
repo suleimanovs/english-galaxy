@@ -49,3 +49,25 @@ I'm really thankful to you for your help.
 laugh at - смеяться над 
 
 I wouldn't laugh at him in your place 
+
+---
+
+fined for - оштрафован за что-то
+
+He was fined for careless driving 
+He was fined for it 
+
+---
+filled with - наполнен чем-то
+
+Her eyes were filled with tears
+
+---
+puzzled by - озадачен чем-то
+
+I was very puzzled by it 
+I am so puzzled by all this.
+I am really puzzled by his reaction to this 
+
+---
+
