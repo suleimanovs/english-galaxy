@@ -37,8 +37,16 @@ totally unaware - совершенно не осведемодлен/ не в к
 
 We were unaware of these potential risks.
 He is totally unaware of this problem.
-As far as I can see she is totally unaware of what is happening here 
+As far as I can see she is totally unaware of what is happening here.
+
+---
+fall in - падение чего-то
+
+The company is experiencing a temporary fall in sales.
+There was a sharp fall in demand for these products.
 
 ---
 
+innocent of - не виновен в чем-то
 
+He is innocent of this crime 
