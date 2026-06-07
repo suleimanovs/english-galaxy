@@ -31,4 +31,14 @@ sensitive to - чувствителен к
 
 He is very sensitive to criticism.
 
+---
+unaware of - не осведомлен о чем-то /. не в курсе чего-то
+totally unaware - совершенно не осведемодлен/ не в курсе
+
+We were unaware of these potential risks.
+He is totally unaware of this problem.
+As far as I can see she is totally unaware of what is happening here 
+
+---
+
 
