@@ -1,64 +1,72 @@
-**Дата изучения:** 27.12.2025  
-**Видео:** https://www.youtube.com/watch?v=GTMNc9v0KAw
+**Уровень:** B1 · **Дата изучения:** 27.12.2025 · **Видео:** [YouTube](https://www.youtube.com/watch?v=GTMNc9v0KAw)
 
 ---
 
-attitude to / towards - отношение к
-influence something - влиять на что-то - глагол
-influence on something - влияние на что-то - существительнон
-lack something - не хватать чего-то
-a lack something - недостаток, нехватка чего-то
-apologise for - извинятся за
-divide into - разделять на
-answer something -  answer как глагол
-answer to something - answer как существительное
-reason for - причина чего-то
-recover from  - выздороветь после /. оправиться от
-alternative to - алтернатива чего-то
-I come to the conclusion that - я прихожу к выводу что
-demand - спрос
-demand for - спрос на
-solution to - решение чкго-то
-refer to - ссылаться на
-quote - цитата
-source - источник
-insist on - настаивать на 
-way of - способ чего-то
+##### attitude to / towards — отношение к
+- What is your <font color="#10b981">**attitude to**</font> it?
+- He has a very negative <font color="#10b981">**attitude to**</font> smoking.
 
-What is your attitude to it ?
-He has a very negative attitude to smoking
-This event influenced my life greatly 
-This event had a very great influence on my life
+##### influence something — влиять на что-то (глагол)
+- This event <font color="#10b981">**influenced**</font> my life greatly.
 
-She lacks work experience 
-He lacks confidence 
-He has a lack of  experience
-He has a lack of confidence
-She apologised for being late
+##### influence on something — влияние на что-то (сущ.)
+- This event had a very great <font color="#10b981">**influence on**</font> my life.
 
-How did you enter the building?
-I divided my presentation into three parts
-I haven't answered this letter yet
+##### lack something — не хватать чего-то
+- She <font color="#10b981">**lacks**</font> work experience.
+- He <font color="#10b981">**lacks**</font> confidence.
 
-What is the answer to this question? 
-It is the best answer to that question
-What is the reason for it? 
+##### a lack of something — недостаток, нехватка чего-то
+- He has a <font color="#10b981">**lack of**</font> experience.
+- He has a <font color="#10b981">**lack of**</font> confidence.
 
-It will take hime some time to recover from the operation
-It seems to me, it is a good alternative to that offer
-It is a good alternative to this method
-The demand for this product is very high
-The demand for this product became/got lower 
-It is the best solution to these problems
-I think that it is the best solution to such a difficult problem
-He often refers to these quotes
-He always refers to these sources
+##### apologise for — извиняться за
+- She <font color="#10b981">**apologised for**</font> being late.
 
-He insisted on doing it
+##### divide into — разделять на
+- I <font color="#10b981">**divided**</font> my presentation <font color="#10b981">**into**</font> three parts.
 
-It is one of the most effective ways of learning foreign languages 
-I come to the conclusion that it is the most effective way of learning foreign languages 
+##### answer something — answer как глагол
+- I haven't <font color="#10b981">**answered**</font> this letter yet.
 
+##### answer to something — answer как существительное
+- What is the <font color="#10b981">**answer to**</font> this question?
+- It is the best <font color="#10b981">**answer to**</font> that question.
 
+##### reason for — причина чего-то
+- What is the <font color="#10b981">**reason for**</font> it?
 
+##### recover from — выздороветь после / оправиться от
+- It will take him some time to <font color="#10b981">**recover from**</font> the operation.
 
+##### alternative to — альтернатива чего-то
+- It seems to me, it is a good <font color="#10b981">**alternative to**</font> that offer.
+- It is a good <font color="#10b981">**alternative to**</font> this method.
+
+##### demand — спрос
+##### demand for — спрос на
+- The <font color="#10b981">**demand for**</font> this product is very high.
+- The <font color="#10b981">**demand for**</font> this product became/got lower.
+
+##### solution to — решение чего-то
+- It is the best <font color="#10b981">**solution to**</font> these problems.
+- I think that it is the best <font color="#10b981">**solution to**</font> such a difficult problem.
+
+##### refer to — ссылаться на
+- He often <font color="#10b981">**refers to**</font> these quotes.
+- He always <font color="#10b981">**refers to**</font> these sources.
+
+##### quote — цитата
+##### source — источник
+
+##### insist on — настаивать на
+- He <font color="#10b981">**insisted on**</font> doing it.
+
+##### way of — способ чего-то
+- It is one of the most effective <font color="#10b981">**ways of**</font> learning foreign languages.
+
+##### I come to the conclusion that — я прихожу к выводу что
+- <font color="#10b981">**I come to the conclusion that**</font> it is the most effective way of learning foreign languages.
+
+##### Практика
+- How did you enter the building?

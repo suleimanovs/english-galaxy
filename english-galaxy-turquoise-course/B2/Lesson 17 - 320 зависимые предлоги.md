@@ -1,54 +1,48 @@
-**Дата изучения:** 16.05.2026
-**Видео:** https://www.youtube.com/watch?v=lbvrCBaTgv4
+**Уровень:** B2 · **Дата изучения:** 16.05.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=lbvrCBaTgv4)
 
 ---
-congratulate on - поздравлять с
 
-I'd like to congratulate you on it.
-I'd like to congratulate you on your birthday.
-I'd like to congratulate you on passing such a difficult test.
-He congratulated me on passing this exam.
+##### congratulate on — поздравлять с
 
----
-reason for - причина чего-то
+- I'd like to <font color="#10b981">**congratulate**</font> you <font color="#10b981">**on**</font> it.
+- I'd like to <font color="#10b981">**congratulate**</font> you <font color="#10b981">**on**</font> your birthday.
+- I'd like to <font color="#10b981">**congratulate**</font> you <font color="#10b981">**on**</font> passing such a difficult test.
+- He <font color="#10b981">**congratulated**</font> me <font color="#10b981">**on**</font> passing this exam.
 
-What is the reason for his visit?
-What is the main reason for it?
-What is the main reason for his refusal?
+##### reason for — причина чего-то
 
----
-get rid of - избавить от 
+- What is the <font color="#10b981">**reason for**</font> his visit?
+- What is the main <font color="#10b981">**reason for**</font> it?
+- What is the main <font color="#10b981">**reason for**</font> his refusal?
 
-I'd like to get rid of these mistakes.
-My main aim is to get rid of these mistakes.
-I managed to get rid of these mistakes.
-I succeeded in solving this problem without any effort.
-I succeeded in passing this exam.
-I succeeded in getting rid of these mistakes
+##### get rid of — избавиться от
 
----
-comment on - комментировать что-то
+- I'd like to <font color="#10b981">**get rid of**</font> these mistakes.
+- My main aim is to <font color="#10b981">**get rid of**</font> these mistakes.
+- I managed to <font color="#10b981">**get rid of**</font> these mistakes.
+- I succeeded in solving this problem without any effort.
+- I succeeded in passing this exam.
+- I succeeded in <font color="#10b981">**getting rid of**</font> these mistakes.
 
-I can comment on this decision 
-Will you comment on this issue?
-He hasn't commented on this issue yet 
+##### comment on — комментировать что-то
 
----
-concentrate on - концентрироваться/сосредоточится на чем-то
+- I can <font color="#10b981">**comment on**</font> this decision.
+- Will you <font color="#10b981">**comment on**</font> this issue?
+- He hasn't <font color="#10b981">**commented on**</font> this issue yet.
 
-I'd like to concentrate on the main problems.
+##### concentrate on — концентрироваться / сосредоточиться на чём-то
 
----
-allergic to - аллергия на 
+- I'd like to <font color="#10b981">**concentrate on**</font> the main problems.
 
-Are you allergic to anything ?
-She is allergic to nuts
-I'm allergic to this food
-She is really furious about his refusal
-He was really furious with one of his colleagues 
+##### allergic to — аллергия на
 
----
-faithful to - верен кому-то / чему-то
+- Are you <font color="#10b981">**allergic to**</font> anything?
+- She is <font color="#10b981">**allergic to**</font> nuts.
+- I'm <font color="#10b981">**allergic to**</font> this food.
+- She is really furious about his refusal.
+- He was really furious with one of his colleagues.
 
-He remained faithful to these beliefs 
-She remained faithful to her principles and beliefs
+##### faithful to — верен кому-то / чему-то
+
+- He remained <font color="#10b981">**faithful to**</font> these beliefs.
+- She remained <font color="#10b981">**faithful to**</font> her principles and beliefs.

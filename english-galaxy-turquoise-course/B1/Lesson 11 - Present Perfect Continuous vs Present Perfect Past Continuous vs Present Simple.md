@@ -1,62 +1,75 @@
-**Дата изучения:** 14.01.2026  
-**Видео:** https://www.youtube.com/watch?v=tR3K4-4KtB4
+**Уровень:** B1 · **Дата изучения:** 14.01.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=tR3K4-4KtB4)
 
 ---
-### Present Perfect Continuous
 
-have / has + been + verb + ing 
+## Present Perfect Continuous
 
-for - на протяжений какого-то времени, и указывает на Present Perfect Continuous если действие началось в прошлом и все еще продолжается
-since - с какого-то времени в прошлом, если все еще происходит, то и указывает на Present Perfect Continuous
+### Формула
 
-all day - весь день, указывает на Present Perfect Continuous если действие все еще продолжается
+**have / has + been + verb + -ing**
 
-How long..? - как долго, указывает на Present Perfect Continuous, если указывает на то что началось раньше и все еще продолжается
+### Временные указатели
 
-I have been living in this city for about a year.
-I have been learning English very intensively since last year 
-How long have you been doing it ? 
-We have been training very intensively lately
-I have been learning English all day
+- **for** — на протяжении какого-то времени; указывает на Present Perfect Continuous, если действие началось в прошлом и всё ещё продолжается.
+- **since** — с какого-то времени в прошлом; если действие всё ещё происходит, тоже указывает на Present Perfect Continuous.
+- **all day** — весь день; указывает на Present Perfect Continuous, если действие всё ещё продолжается.
+- **How long..?** — как долго; указывает на Present Perfect Continuous, если речь о том, что началось раньше и всё ещё продолжается.
 
+### Примеры
 
-I learn English 
-I'm learning English
-I did it all day yesterday 
-I was doing it all day yesterday 
+- I <font color="#10b981">**have been living**</font> in this city for about a year.
+- I <font color="#10b981">**have been learning**</font> English very intensively since last year.
+- How long <font color="#10b981">**have**</font> you <font color="#10b981">**been doing**</font> it?
+- We <font color="#10b981">**have been training**</font> very intensively lately.
+- I <font color="#10b981">**have been learning**</font> English all day.
 
-### Present Perfect
+### Сравнение времён
 
-just - только что
-already - уже
-yet - еще
-since - c, с какого-то времени в прошлом
-for - на протяжении какого-то времени
+- I learn English.
+- I'm learning English.
+- I did it all day yesterday.
+- I was doing it all day yesterday.
 
-He has just said it 
-He has already done it
-I haven't thought about it yet
+## Present Perfect
 
-I have known him since childhood – глагол **know** описывает состояние, а не действие, поэтому его называют **статическим (stative)**. Такие глаголы **не используют форму -ing**, потому что они не показывают процесс, а факт состояния.
+### Временные указатели
 
-She hasn't seen him for such a long time – **see** тоже статический, оно описывает восприятие или факт встречи, а не процесс, поэтому Continuous не применяется.
+- **just** — только что
+- **already** — уже
+- **yet** — ещё
+- **since** — с, с какого-то времени в прошлом
+- **for** — на протяжении какого-то времени
+
+### Примеры
+
+- He <font color="#10b981">**has just said**</font> it.
+- He <font color="#10b981">**has already done**</font> it.
+- I <font color="#10b981">**haven't thought**</font> about it **yet**.
+
+### Статические глаголы (stative verbs)
+
+- I <font color="#10b981">**have known**</font> him since childhood — глагол **know** описывает состояние, а не действие, поэтому его называют **статическим (stative)**. Такие глаголы **не используют форму -ing**, потому что они не показывают процесс, а факт состояния.
+- She <font color="#10b981">**hasn't seen**</font> him for such a long time — **see** тоже статический, оно описывает восприятие или факт встречи, а не процесс, поэтому Continuous не применяется.
 
 То есть с этими глаголами нельзя сказать **I am knowing** или **I am seeing**, только Present Perfect или Present.
 
-How long have known him? -  тут тоже самое, должен быть Present perfect Continuous, но known не используется в Continuous времени
+- How long <font color="#10b981">**have known**</font> him? — тут то же самое, должен быть Present Perfect Continuous, но **known** не используется в Continuous времени.
 
-### Present Perfect /  Present Perfect Continuous
+> [!warning] Частые ошибки
+> Статические глаголы (**know**, **see**, **be** и др.) не употребляются в Continuous, даже когда по смыслу подходит Present Perfect Continuous.
 
-How long have you been staying here? 
-How long have been here? - to be в Present Perfect Continuous не употребляется
-I have been working all day
-She has been very busy lately - to be в Present Perfect Continuous не употребляется
-How long have you known each other? - known не употребляется в Continuous
-We have known each other since school - known не употребляется в Continuous
-They have already solved their problems 
-I have never been there 
-Have you ever been here?
-How long has he been working there? 
-I have been using this app for about half a year, and i find really useful
-They haven't solved this problem yet
-They haven't found a solution to this problem yet
+## Present Perfect / Present Perfect Continuous
+
+- How long <font color="#10b981">**have**</font> you <font color="#10b981">**been staying**</font> here?
+- How long <font color="#10b981">**have been**</font> here? — to be в Present Perfect Continuous не употребляется.
+- I <font color="#10b981">**have been working**</font> all day.
+- She <font color="#10b981">**has been**</font> very busy lately — to be в Present Perfect Continuous не употребляется.
+- How long <font color="#10b981">**have**</font> you <font color="#10b981">**known**</font> each other? — known не употребляется в Continuous.
+- We <font color="#10b981">**have known**</font> each other since school — known не употребляется в Continuous.
+- They <font color="#10b981">**have already solved**</font> their problems.
+- I <font color="#10b981">**have never been**</font> there.
+- <font color="#10b981">**Have**</font> you ever <font color="#10b981">**been**</font> here?
+- How long <font color="#10b981">**has**</font> he <font color="#10b981">**been working**</font> there?
+- I <font color="#10b981">**have been using**</font> this app for about half a year, and I find really useful.
+- They <font color="#10b981">**haven't solved**</font> this problem **yet**.
+- They <font color="#10b981">**haven't found**</font> a solution to this problem **yet**.

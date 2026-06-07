@@ -1,67 +1,63 @@
-**Дата изучения:** 03.05.2026
-**Видео:** https://www.youtube.com/watch?v=72Juj7W7wQ4
+**Уровень:** B2 · **Дата изучения:** 03.05.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=72Juj7W7wQ4)
 
 ---
 
-based on - основан на 
+##### based on — основан на
 
-This story is based on real circumstances.
-The movie is based on a true story.
-This book is based on real facts.
+- This story is <font color="#10b981">**based on**</font> real circumstances.
+- The movie is <font color="#10b981">**based on**</font> a true story.
+- This book is <font color="#10b981">**based on**</font> real facts.
 
----
-damage to - ущерб чему-то
+##### damage to — ущерб чему-то
 
-It did great damage to his reputation.
+- It did great <font color="#10b981">**damage to**</font> his reputation.
 
----
-deprive of - лишить чего-то
+##### deprive of — лишить чего-то
 
-No one can deprive you of your rights
-They deprived him of his property 
+- No one can <font color="#10b981">**deprive**</font> you <font color="#10b981">**of**</font> your rights.
+- They <font color="#10b981">**deprived**</font> him <font color="#10b981">**of**</font> his property.
 
----
-attitude to  / towards - отношение к 
+##### attitude to · attitude towards — отношение к
 
-What is your attitude to online education?
+- What is your <font color="#10b981">**attitude to**</font> online education?
 
----
-approve of - одобрять что 
-disapprove of - не одобрять что 
+##### approve of — одобрять что
 
-He strongly disapproves of this decision.
+- (см. ниже)
 
----
-It is worth reading
-This place is worth visiting.
-worthy of - достойно чего-то
+##### disapprove of — не одобрять что
 
-It is worthy of our attention
-Such a brave action is worthy of admiration
+- He strongly <font color="#10b981">**disapproves of**</font> this decision.
 
----
+##### worth — стоить (того, чтобы)
 
-polite to - вежлив с 
+- It is <font color="#10b981">**worth**</font> reading.
+- This place is <font color="#10b981">**worth**</font> visiting.
 
-You should be polite to others 
-He is always very polite to other people
+##### worthy of — достойно чего-то
 
----
-different from/to - отличаться от 
+- It is <font color="#10b981">**worthy of**</font> our attention.
+- Such a brave action is <font color="#10b981">**worthy of**</font> admiration.
 
-This method is completely different from that one 
-It is often said that American English is slightly different from British English.
+##### polite to — вежлив с
 
----
-persist in - упорствовать в чем-то /  упорно продолжать что-то
+- You should be <font color="#10b981">**polite to**</font> others.
+- He is always very <font color="#10b981">**polite to**</font> other people.
 
-She persisted in her refusal to accept this fact.
-She persisted in asking questions.
+##### different from · different to — отличаться от
 
----
-point at - указывать на 
-point out - указывать на (в плане ошибок )
+- This method is completely <font color="#10b981">**different from**</font> that one.
+- It is often said that American English is slightly <font color="#10b981">**different from**</font> British English.
 
-It is considered impolite to point at people 
+##### persist in — упорствовать в чём-то / упорно продолжать что-то
 
-The teacher pointed out my mistakes 
+- She <font color="#10b981">**persisted in**</font> her refusal to accept this fact.
+- She <font color="#10b981">**persisted in**</font> asking questions.
+
+##### point at — указывать на
+
+- It is considered impolite to <font color="#10b981">**point at**</font> people.
+
+##### point out — указывать на (в плане ошибок)
+
+- The teacher <font color="#10b981">**pointed out**</font> my mistakes.

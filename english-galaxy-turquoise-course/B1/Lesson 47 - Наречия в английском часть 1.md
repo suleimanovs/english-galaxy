@@ -1,46 +1,71 @@
-**Дата изучения:** 17.03.2026
-**Видео:** https://www.youtube.com/watch?v=ds_v-CDAwWU
+**Уровень:** B1 · **Дата изучения:** 17.03.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=ds_v-CDAwWU)
 
 ---
 
-Perfectly - идеально, прекрасно
-definitely - определенно
-mostly - в основном
-especially - особенно
-occasionally - изредка
-successfully - успешно
-hard - усердно
-work hard - работать усердно
-study hard - работать учиться
-hardly - едва
-actually - на самом деле
-It doesn't mean it - ...
-on purpose - специально, намеренно
-Deliberately - намеренно
-mainly because of - в основном из-за
-mostly because of - в основном из-за
-Hopefully - Надеюсь, ...
-Relatively - относительно
+##### perfectly — идеально, прекрасно
 
-I want to know English perfectly.
-I perfectly understand the importance of this decision.
-Definitely, you are right.
-She works mostly <u>in</u> the evenings.
-I did it mostly <u>for</u> this reason.
-I like different kinds of sport especially football.
-I see her only occasionally.
-I successfully completed this course.
-You work so hard.
-It hardly works.
-I can hardly believe it.
-Actually it isn't so.
-Actually you are right.
-It doesn't necessarily mean that it is really so
-It doesn't necessarily mean that he is really right
-It seems to me that it is done deliberately
-It seems to me that it is on purpose
-It happened mainly because of him
-Hopefully, it won't happen anymore
-This test is relatively easy.
-This price is relatively low
-This thing is relatively inexpensive
+- I want to know English <font color="#10b981">**perfectly**</font>.
+- I <font color="#10b981">**perfectly**</font> understand the importance of this decision.
+
+##### definitely — определённо
+
+- <font color="#10b981">**Definitely**</font>, you are right.
+
+##### mostly — в основном
+
+- She works <font color="#10b981">**mostly**</font> in the evenings.
+- I did it <font color="#10b981">**mostly**</font> for this reason.
+
+##### especially — особенно
+
+- I like different kinds of sport, <font color="#10b981">**especially**</font> football.
+
+##### occasionally — изредка
+
+- I see her only <font color="#10b981">**occasionally**</font>.
+
+##### successfully — успешно
+
+- I <font color="#10b981">**successfully**</font> completed this course.
+
+##### hard — усердно
+
+- You work so <font color="#10b981">**hard**</font>.
+
+> [!note] Сочетания
+> **work hard** — работать усердно
+> **study hard** — учиться усердно
+
+##### hardly — едва
+
+- It <font color="#10b981">**hardly**</font> works.
+- I can <font color="#10b981">**hardly**</font> believe it.
+
+##### actually — на самом деле
+
+- <font color="#10b981">**Actually**</font> it isn't so.
+- <font color="#10b981">**Actually**</font> you are right.
+
+##### deliberately · on purpose — намеренно, специально
+
+- It seems to me that it is done <font color="#10b981">**deliberately**</font>.
+- It seems to me that it is <font color="#10b981">**on purpose**</font>.
+
+> [!note] It doesn't necessarily mean
+> Оборот со значением «это не обязательно означает, что…».
+> - It doesn't <font color="#10b981">**necessarily**</font> mean that it is really so.
+> - It doesn't <font color="#10b981">**necessarily**</font> mean that he is really right.
+
+##### mainly because of · mostly because of — в основном из-за
+
+- It happened <font color="#10b981">**mainly because of**</font> him.
+
+##### hopefully — надеюсь, …
+
+- <font color="#10b981">**Hopefully**</font>, it won't happen anymore.
+
+##### relatively — относительно
+
+- This test is <font color="#10b981">**relatively**</font> easy.
+- This price is <font color="#10b981">**relatively**</font> low.
+- This thing is <font color="#10b981">**relatively**</font> inexpensive.

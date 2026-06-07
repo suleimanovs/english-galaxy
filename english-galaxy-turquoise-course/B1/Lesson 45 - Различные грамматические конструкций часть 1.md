@@ -1,51 +1,50 @@
-**Дата изучения:** 14.03.2026
-**Видео:** https://www.youtube.com/watch?v=qUuhTJBCzlY
+**Уровень:** B1 · **Дата изучения:** 14.03.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=qUuhTJBCzlY)
 
 ---
 
-#### want somebody to do something - хотеть что бы кто-то сделал что-то
+##### want somebody to do something — хотеть, чтобы кто-то сделал что-то
 
-I want you to go there with me - "что бы" здесь не переводится
-I want you to understand it - "что бы"  здесь не переводится
-I want you to know the truth - "что бы"  здесь не переводится
+> [!note] «чтобы» здесь не переводится
 
-#### I'd like someone to do something - Я бы хотел что бы кто-то сделал что-то
+- I <font color="#10b981">**want**</font> you <font color="#10b981">**to**</font> go there with me.
+- I <font color="#10b981">**want**</font> you <font color="#10b981">**to**</font> understand it.
+- I <font color="#10b981">**want**</font> you <font color="#10b981">**to**</font> know the truth.
 
-I'd like you to know it 
-I'd like you to go to that place with me
+##### I'd like someone to do something — я бы хотел, чтобы кто-то сделал что-то
 
-#### to - что бы
+- I'd <font color="#10b981">**like**</font> you <font color="#10b981">**to**</font> know it.
+- I'd <font color="#10b981">**like**</font> you <font color="#10b981">**to**</font> go to that place with me.
 
-I'm studying incredibly hard to pass this test.
+##### to — чтобы
 
-#### in order to - для того, чтобы / чтобы
+- I'm studying incredibly hard <font color="#10b981">**to**</font> pass this test.
 
-I got up early in order to get there on time
-I hurried up in order not to be late
-I worked a little more in order to finish/complete it
+##### in order to — для того, чтобы / чтобы
 
-#### so that - чтобы / так, чтобы
+- I got up early <font color="#10b981">**in order to**</font> get there on time.
+- I hurried up <font color="#10b981">**in order not to**</font> be late.
+- I worked a little more <font color="#10b981">**in order to**</font> finish/complete it.
 
-I work so hard so that we can buy a new apartment
-I will write it down so that we can discuss it later
+##### so that — чтобы / так, чтобы
 
-I worked really hard so that I could pass this test
-I trained so intensively so that I would improve my shape in a very short period of time
+- I work so hard <font color="#10b981">**so that**</font> we can buy a new apartment.
+- I will write it down <font color="#10b981">**so that**</font> we can discuss it later.
+- I worked really hard <font color="#10b981">**so that**</font> I could pass this test.
+- I trained so intensively <font color="#10b981">**so that**</font> I would improve my shape in a very short period of time.
 
+##### to be allowed to do something — кому-то разрешают делать что-то
 
-#### to be allowed to do something - кому-то разрешают делать что-то
+- He <font color="#10b981">**isn't allowed to**</font> leave home so late.
 
-He isn't allowed to leave home so late
+##### let somebody do something — позволить кому-то сделать что-то
 
+- They didn't <font color="#10b981">**let**</font> him do it.
+- Her parents didn't <font color="#10b981">**let**</font> her go there so late.
 
-#### let somebody do something - позволить кому-то сделать что-то
-They didn't let him do it
-Her parents didn't let her go there so late
+##### make somebody do something — заставить кого-то сделать что-то
 
-#### make somebody do something - заставить кого-то сделать что-то
+- They <font color="#10b981">**made**</font> him do it.
 
-They made him do it
+##### to be made to do something — быть заставленным сделать что-то
 
-#### to be made to do something - быть заставленным  сделать что-то
-
-He was made to do it.
+- He <font color="#10b981">**was made to**</font> do it.

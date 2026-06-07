@@ -1,94 +1,83 @@
-**Дата изучения:** 12.12.2025  
-**Видео:** https://www.youtube.com/watch?v=WSSxBgI5N5M
+**Уровень:** B1 · **Дата изучения:** 12.12.2025 · **Видео:** [YouTube](https://www.youtube.com/watch?v=WSSxBgI5N5M)
 
 ---
 
-typical of - типичный для, типично для
-It is typical of him.
+##### typical of — типичный для, типично для
 
-responsible for - ответственный за
-Who is responsible for it? 
+- It is <font color="#10b981">**typical of**</font> him.
 
-keen on - увлекаться чем-то
-I'm keen on foreign languages
+##### responsible for — ответственный за
 
-particularly keen on - особенно увлекаться чем-то
-I'm particularly keen on foreign languages
+- Who is <font color="#10b981">**responsible for**</font> it?
 
-I'm particularly keen on learning foreign languages 
+##### keen on — увлекаться чем-то
 
-related to - относящееся к чему-то, связанное с чем-то
-Let's discuss some things related to this problem
+- I'm <font color="#10b981">**keen on**</font> foreign languages.
 
-concerning - касательно
-closely - тесно
+##### particularly keen on — особенно увлекаться чем-то
 
-Let's discuss some things concerning this problem
-I need to say something concerning our last meeting
+- I'm <font color="#10b981">**particularly keen on**</font> foreign languages.
+- I'm <font color="#10b981">**particularly keen on**</font> learning foreign languages.
 
-related to each other - связаны с друг-другом 
-connected with each other - связаны с друг-другом 
+##### related to — относящееся к чему-то, связанное с чем-то
 
-These things are **closely** related to each-other
-These things are closely connected with each other
+- Let's discuss some things <font color="#10b981">**related to**</font> this problem.
 
-familiar to - знаком кому-то
-familiar with - знаком с чем-то
+##### concerning — касательно
 
-This thing is familiar to me
-I'm familiar with this technology 
+- Let's discuss some things <font color="#10b981">**concerning**</font> this problem.
+- I need to say something <font color="#10b981">**concerning**</font> our last meeting.
 
-prepared for - готов к
+> [!note] closely
+> closely — тесно
 
-I'm not prepared for it
-I'm not prepared for the exam
+##### related to each other · connected with each other — связаны друг с другом
 
-tired of - устал от
+- These things are **closely** <font color="#10b981">**related to**</font> each other.
+- These things are closely <font color="#10b981">**connected with**</font> each other.
 
-I'm really tired of doing it again and again
-He is tired of doing the same things again and again
+##### familiar to · familiar with — знаком кому-то / знаком с чем-то
 
-sensitive to - чувствителен к
+- This thing is <font color="#10b981">**familiar to**</font> me.
+- I'm <font color="#10b981">**familiar with**</font> this technology.
 
-Some of my colleagues are very sensitive to criticism 
+##### prepared for — готов к
 
-capable of - способен сделать что-то
-incapable of - не способен сделать что-то
-He isn't capable of doing such a thing
+- I'm not <font color="#10b981">**prepared for**</font> it.
+- I'm not <font color="#10b981">**prepared for**</font> the exam.
 
-He is incapable of doing such a thing
+##### tired of — устал от
 
+- I'm really <font color="#10b981">**tired of**</font> doing it again and again.
+- He is <font color="#10b981">**tired of**</font> doing the same things again and again.
 
-fed up with - сыть по горло чем-то
+##### sensitive to — чувствителен к
 
-She is fed up with this routine 
+- Some of my colleagues are very <font color="#10b981">**sensitive to**</font> criticism.
 
-used to - привык к чему-то
+##### capable of · incapable of — способен сделать что-то / не способен сделать что-то
 
-I'm used to it
+- He isn't <font color="#10b981">**capable of**</font> doing such a thing.
+- He is <font color="#10b981">**incapable of**</font> doing such a thing.
 
-accustomed to - привык к чему-то
+##### fed up with — сыт по горло чем-то
 
-I'm accustomed to it
+- She is <font color="#10b981">**fed up with**</font> this routine.
 
-I'm used to doing it
+##### used to · accustomed to — привык к чему-то
 
-I'm not used to doing it
-I'm not used to being late for work
+- I'm <font color="#10b981">**used to**</font> it.
+- I'm <font color="#10b981">**accustomed to**</font> it.
+- I'm <font color="#10b981">**used to**</font> doing it.
+- I'm not <font color="#10b981">**used to**</font> doing it.
+- I'm not <font color="#10b981">**used to**</font> being late for work.
+- I'm <font color="#10b981">**accustomed to**</font> doing it.
+- I'm not <font color="#10b981">**accustomed to**</font> doing it.
+- I'm not <font color="#10b981">**accustomed to**</font> getting up so early.
 
-I'm accustomed  to doing it
-I'm not accustomed to doing it
-I'm not accustomed to getting up so early
+##### get used to · get accustomed to — привыкнуть к чему-то
 
-get used to - привыкнуть к чему-то
-
-I got used to it soon
-
- I got accustomed to it soon
-I got accustomed to these conditions soon
-
-
-I got accustomed to working in these conditions soon
-
-
-
+- I <font color="#10b981">**got used to**</font> it soon.
+- I <font color="#10b981">**got accustomed to**</font> it soon.
+- I <font color="#10b981">**got accustomed to**</font> these conditions soon.
+- I <font color="#10b981">**got accustomed to**</font> working in these conditions soon.

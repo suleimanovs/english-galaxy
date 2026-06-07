@@ -1,101 +1,96 @@
-**Дата изучения:** 23.11.2025  
+**Уровень:** A2 · **Дата изучения:** 23.11.2025
 
 ---
-### 1. Present Simple - to be
 
-Aren't + I / we / you / they ...?
-Разве мы / ты /  они ...?
+## Введение в тему
 
-Isn't + he / she / it ...?
-Разве он / она /  это ...?
+Отрицательные вопросы (negative questions) используются, чтобы выразить удивление, недоверие или вежливое предложение. На русский они часто переводятся через **«Разве … не …?»**. Образуются с помощью сокращённой отрицательной формы вспомогательного глагола, поставленной в начало вопроса.
 
-Aren't you happy? - Разве ты не счастлив? / Ты не счастлив?
-Aren't the happy together? - Разве они не счастливы вместе?
-Isn't he mistaken? - 
-Isn't he ready? - 
-Isn't it interesting? 
-Isn't it free? 
-Am i not right? 
-Aren't i right? 
+## 1. Present Simple — to be
 
-### 2. Present Simple - обычный глагол
+**Aren't** + I / we / you / they …? — Разве мы / ты / они …?
+**Isn't** + he / she / it …? — Разве он / она / это …?
 
-Don't + I / we / you / they ...?
-Разве я / мы / ты /  они + не ...?
+- <font color="#10b981">**Aren't**</font> you happy? — Разве ты не счастлив? / Ты не счастлив?
+- <font color="#10b981">**Aren't**</font> they happy together? — Разве они не счастливы вместе?
+- <font color="#10b981">**Isn't**</font> he mistaken?
+- <font color="#10b981">**Isn't**</font> he ready?
+- <font color="#10b981">**Isn't**</font> it interesting?
+- <font color="#10b981">**Isn't**</font> it free?
+- <font color="#10b981">**Am**</font> I <font color="#10b981">**not**</font> right?
+- <font color="#10b981">**Aren't**</font> I right?
 
-Doesn't + he / she / it ...?
-Разве он / она /  это + не ...?
+> [!note] Am I not / Aren't I
+> Для местоимения **I** нет формы «amn't». В вежливой/формальной речи говорят **Am I not right?**, в разговорной — **Aren't I right?**
 
-Don't you like it? 
-Don't you like pizza? 
-Don't you know it?
-Why don't you want to do it?
+## 2. Present Simple — обычный глагол
 
-Doesn't she understand it?
-Doesn't he see it? 
-Doesn't she like this idea?
-Why doesn't she answer?
+**Don't** + I / we / you / they …? — Разве я / мы / ты / они + не …?
+**Doesn't** + he / she / it …? — Разве он / она / это + не …?
 
+- <font color="#10b981">**Don't**</font> you like it?
+- <font color="#10b981">**Don't**</font> you like pizza?
+- <font color="#10b981">**Don't**</font> you know it?
+- Why <font color="#10b981">**don't**</font> you want to do it?
+- <font color="#10b981">**Doesn't**</font> she understand it?
+- <font color="#10b981">**Doesn't**</font> he see it?
+- <font color="#10b981">**Doesn't**</font> she like this idea?
+- Why <font color="#10b981">**doesn't**</font> she answer?
 
-### 3. Past Simple - обычный глагол
+## 3. Past Simple — обычный глагол
 
-Didn't ...?
+**Didn't** …?
 
-Didn't you tell him this thing ?
-Didn't you go to work yesterday?
+- <font color="#10b981">**Didn't**</font> you tell him this thing?
+- <font color="#10b981">**Didn't**</font> you go to work yesterday?
 
-### 4. Past Simple - to be
-Wasn't /  Weren't ...?
+## 4. Past Simple — to be
 
-Weren't you there yesterday?
-Wasn't i right?
+**Wasn't** / **Weren't** …?
 
-### 5. Feature Simple 
+- <font color="#10b981">**Weren't**</font> you there yesterday?
+- <font color="#10b981">**Wasn't**</font> I right?
 
-Won't ...?
+## 5. Future Simple
 
-Won't you go there yesterday? 
-Why won't refuse to do it ?
+**Won't** …?
 
-### 6. Wouldn't you like ...? - Разве ты бы не хотел?
+- <font color="#10b981">**Won't**</font> you go there yesterday?
+- Why <font color="#10b981">**won't**</font> refuse to do it?
 
-Wouldn't you like to try it? - Разве ты бы не хотел попробовать это?
-Wouldn't you like to visit this place? - Разве ты бы не хотел посетить это место?
+## 6. Wouldn't you like …? — Разве ты бы не хотел?
 
-### 7. Can't ...?
+- <font color="#10b981">**Wouldn't**</font> you like to try it? — Разве ты бы не хотел попробовать это?
+- <font color="#10b981">**Wouldn't**</font> you like to visit this place? — Разве ты бы не хотел посетить это место?
 
-Can't he understand it? 
-Why can't he do it ?
-Why can't we do it ?
+## 7. Can't …?
 
-Why can't he say it ?
+- <font color="#10b981">**Can't**</font> he understand it?
+- Why <font color="#10b981">**can't**</font> he do it?
+- Why <font color="#10b981">**can't**</font> we do it?
+- Why <font color="#10b981">**can't**</font> he say it?
 
-### 8.Shouldn't I + глагол ...?   
+## 8. Shouldn't I + глагол …?
 
-Shouldn't i do it?
+- <font color="#10b981">**Shouldn't**</font> I do it?
 
-### 9. Более сложные предложения
+## 9. Более сложные предложения
 
-Don't you have a friend who lives in England ?
-Don't you have a friend who lives in the USA? 
-Can't he explain it to us ?
-Don't you know that it is true?
+- <font color="#10b981">**Don't**</font> you have a friend who lives in England?
+- <font color="#10b981">**Don't**</font> you have a friend who lives in the USA?
+- <font color="#10b981">**Can't**</font> he explain it to us?
+- <font color="#10b981">**Don't**</font> you know that it is true?
 
+## 10. Present Continuous
 
-10.Present Continuous
+**Aren't** + I / we / you / they + глагол + ing …?
 
-Aren't +   I / we / you / they + глагол + ing ...?
+- <font color="#10b981">**Aren't**</font> you waiting for it?
 
-Aren't you waiting for it?
+## 11. Present Perfect
 
-11.Present Perfect 
+**Haven't** you + 3 verb
 
-Haven't you + 3 verb
-
-Haven't you done it yet? 
-Haven't you seen it yet? 
-Haven't you watched this movie yet? 
-
-
-
-
+- <font color="#10b981">**Haven't**</font> you done it yet?
+- <font color="#10b981">**Haven't**</font> you seen it yet?
+- <font color="#10b981">**Haven't**</font> you watched this movie yet?

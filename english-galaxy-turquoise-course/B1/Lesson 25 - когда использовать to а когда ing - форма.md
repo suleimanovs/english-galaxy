@@ -1,65 +1,56 @@
-**Дата изучения:** 16.02.2026
-**Видео:** https://www.youtube.com/watch?v=SqYuRxekdVQ
+**Уровень:** B1 · **Дата изучения:** 16.02.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=SqYuRxekdVQ)
 
 ---
 
-##### to
-I want to go home now
-He promised not to do it
-I wouldn't like to talk about it 
-I decided not to do it
-She agreed to help us
-I hope to pass the test
-He asked me to go with him
+## Глаголы с инфинитивом (to)
 
-##### ing
-Есть глаголы с которыми необходимо употреблять глаголы с ing формой
-enjoy, avoid, recommend,  suggest, finish, love, mind
+После ряда глаголов используется инфинитив с частицей **to**.
 
+- I want <font color="#10b981">**to go**</font> home now.
+- He promised not <font color="#10b981">**to do**</font> it.
+- I wouldn't like <font color="#10b981">**to talk**</font> about it.
+- I decided not <font color="#10b981">**to do**</font> it.
+- She agreed <font color="#10b981">**to help**</font> us.
+- I hope <font color="#10b981">**to pass**</font> the test.
+- He asked me <font color="#10b981">**to go**</font> with him.
 
+## Глаголы с -ing формой
 
-I enjoy reading 
-I don't recommend buying food there
-He avoids meeting her
-What do you suggest doing?
-I suggest going there now
-I have just finished working 
-I really love traveling 
-I don't <font color="#c0504d">mind</font> doing it
-I can't help admiring the beauty of this place
-I like cooking
-I like to cook
-I started learning English when i was a child
+Есть глаголы, с которыми необходимо употреблять глаголы с **-ing** формой:
 
-##### to / ing
+**enjoy, avoid, recommend, suggest, finish, love, mind**
 
-like, start, continue
+- I enjoy <font color="#10b981">**reading**</font>.
+- I don't recommend <font color="#10b981">**buying**</font> food there.
+- He avoids <font color="#10b981">**meeting**</font> her.
+- What do you suggest <font color="#10b981">**doing**</font>?
+- I suggest <font color="#10b981">**going**</font> there now.
+- I have just finished <font color="#10b981">**working**</font>.
+- I really love <font color="#10b981">**traveling**</font>.
+- I don't mind <font color="#10b981">**doing**</font> it.
+- I can't help <font color="#10b981">**admiring**</font> the beauty of this place.
+- I like <font color="#10b981">**cooking**</font>.
+- I like <font color="#10b981">**to cook**</font>.
+- I started <font color="#10b981">**learning**</font> English when I was a child.
 
-I started to learn English about two years ago
-I started learning English about two years ago
+## Глаголы с to / -ing
 
-He continued talking about it
-He continued to talk about it
+Некоторые глаголы можно употреблять как с инфинитивом, так и с **-ing** формой:
 
-I suggest going to another place
-I want to say the following 
-I strongly recommend visiting this place
-I really enjoy swimming
-I haven't finished doing it yet
-I don't <font color="#c0504d">mind</font> to go there right now 
-I can't help admiring such people 
-He advised me not to do it
+**like, start, continue**
 
+- I started <font color="#10b981">**to learn**</font> English about two years ago.
+- I started <font color="#10b981">**learning**</font> English about two years ago.
+- He continued <font color="#10b981">**talking**</font> about it.
+- He continued <font color="#10b981">**to talk**</font> about it.
 
+## Практика
 
-
-
-
-
-
-
-
-
-
-
-
+- I suggest <font color="#10b981">**going**</font> to another place.
+- I want <font color="#10b981">**to say**</font> the following.
+- I strongly recommend <font color="#10b981">**visiting**</font> this place.
+- I really enjoy <font color="#10b981">**swimming**</font>.
+- I haven't finished <font color="#10b981">**doing**</font> it yet.
+- I don't mind <font color="#10b981">**going**</font> there right now.
+- I can't help <font color="#10b981">**admiring**</font> such people.
+- He advised me not <font color="#10b981">**to do**</font> it.

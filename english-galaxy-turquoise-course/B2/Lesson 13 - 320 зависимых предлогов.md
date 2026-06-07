@@ -1,68 +1,60 @@
-**Дата изучения:** 02.05.2026
-**Видео:** https://www.youtube.com/watch?v=40egQkPzvJI
+**Уровень:** B2 · **Дата изучения:** 02.05.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=40egQkPzvJI)
 
 ---
 
- answer to - ответ на что-то
+##### answer to — ответ на что-то
 
-I'm waiting for their answer to this question
-What is the best answer to this question?
+- I'm waiting for their <font color="#10b981">**answer to**</font> this question.
+- What is the best <font color="#10b981">**answer to**</font> this question?
 
----
-effect on - влияние на
-detrimental - пагубный, губительный
+##### effect on — влияние на
 
-It can have a very negative effect on our economy
-It can have a very detrimental effect on your health
+- It can have a very negative <font color="#10b981">**effect on**</font> our economy.
+- It can have a very **detrimental** <font color="#10b981">**effect on**</font> your health.
 
----
-praise for - хвалить за что-то
+##### detrimental — пагубный, губительный
 
-He was praised for his brilliant performance 
+- It can have a very <font color="#10b981">**detrimental**</font> effect on your health.
 
----
-interest in - интерес к чему-то
+##### praise for — хвалить за что-то
 
-She shows a growing interest in languages.
+- He was <font color="#10b981">**praised for**</font> his brilliant performance.
 
----
-exchange for - обменять на что-то
+##### interest in — интерес к чему-то
 
-I exchanged dollars for pounds.
-I exchanged dollars for euros.
+- She shows a growing <font color="#10b981">**interest in**</font> languages.
 
----
-surprised by / at - удивлен
+##### exchange for — обменять на что-то
 
-I was greatly surprised by this news
-No one was surprised by such a decision
-I was particularly surprised by his reaction to these words
+- I <font color="#10b981">**exchanged**</font> dollars <font color="#10b981">**for**</font> pounds.
+- I <font color="#10b981">**exchanged**</font> dollars <font color="#10b981">**for**</font> euros.
 
----
-indifferent to - равнодушен к 
+##### surprised by / at — удивлён
 
-She says that she is indifferent to money but I don't think so.
-He is indifferent to needs of other people
-He is indifferent to other people's needs
+- I was greatly <font color="#10b981">**surprised by**</font> this news.
+- No one was <font color="#10b981">**surprised by**</font> such a decision.
+- I was particularly <font color="#10b981">**surprised by**</font> his reaction to these words.
 
----
-full of -  полон чего-то
-in spite of / despite - не смотря на
+##### indifferent to — равнодушен к
 
-He is always full of energy in spite of his age.
-It is easy to notice that he is full of confidence 
+- She says that she is <font color="#10b981">**indifferent to**</font> money but I don't think so.
+- He is <font color="#10b981">**indifferent to**</font> needs of other people.
+- He is <font color="#10b981">**indifferent to**</font> other people's needs.
 
----
-anxious about - волнующийся из-за чего-то
+##### full of — полон чего-то
 
-She is very anxious about the interview
+- He is always <font color="#10b981">**full of**</font> energy in spite of his age.
+- It is easy to notice that he is <font color="#10b981">**full of**</font> confidence.
 
----
-worried about - обеспокоен чем-то / по какому-то поводу
+##### in spite of · despite — несмотря на
 
-I have never been worried about it.
-To be honest I have never really worried about it  
+- He is always full of energy <font color="#10b981">**in spite of**</font> his age.
 
----
+##### anxious about — волнующийся из-за чего-то
 
+- She is very <font color="#10b981">**anxious about**</font> the interview.
 
+##### worried about — обеспокоен чем-то / по какому-то поводу
+
+- I have never been <font color="#10b981">**worried about**</font> it.
+- To be honest I have never really <font color="#10b981">**worried about**</font> it.

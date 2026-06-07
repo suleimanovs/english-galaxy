@@ -1,73 +1,65 @@
-**Дата изучения:** 01.02.2026
-**Видео:** https://www.youtube.com/watch?v=FUsr4i_15W4
+**Уровень:** B1 · **Дата изучения:** 01.02.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=FUsr4i_15W4)
 
 ---
 
-#### Present Simple
+## Группа Simple
 
-He often complains <font color="#d83931">for no reason </font>
-It is typical of American culture 
+### Present Simple
 
----
-#### Past Simple
+- He often <font color="#10b981">**complains**</font> for no reason.
+- It <font color="#10b981">**is**</font> typical of American culture.
 
-She asked me to open the window
-I was sure that i was on the correct way
+### Past Simple
 
----
-#### Future Simple
+- She <font color="#10b981">**asked**</font> me to open the window.
+- I <font color="#10b981">**was**</font> sure that I was on the correct way.
 
-I hope it will happen one day
+### Future Simple
 
----
-#### Present Continuous
+- I hope it <font color="#10b981">**will happen**</font> one day.
 
-What are you doing at the moment? 
+## Группа Continuous
 
----
-#### Past Continuous
+### Present Continuous
 
-He came to me while i was reading an article about it
+- What <font color="#10b981">**are**</font> you <font color="#10b981">**doing**</font> at the moment?
 
----
-#### Future Continuous
+### Past Continuous
 
-I will be doing my homework tomorrow at five o'clock in the evening 
+- He came to me while I <font color="#10b981">**was reading**</font> an article about it.
 
----
-#### Present Perfect
+### Future Continuous
 
-I have never heard this expression 
-It is the most interesting book i have ever read 
+- I <font color="#10b981">**will be doing**</font> my homework tomorrow at five o'clock in the evening.
 
----
-#### Past Perfect
+## Группа Perfect
 
-He said that he had already solved this problem 
+### Present Perfect
 
----
-#### Future Perfect
+- I <font color="#10b981">**have**</font> never <font color="#10b981">**heard**</font> this expression.
+- It is the most interesting book I <font color="#10b981">**have**</font> ever <font color="#10b981">**read**</font>.
 
-I will have <font color="#d83931">completed</font> this course by next month
-I will have passed this test by tomorrow 
+### Past Perfect
 
----
+- He said that he <font color="#10b981">**had**</font> already <font color="#10b981">**solved**</font> this problem.
 
-#### Present Perfect Continuous
+### Future Perfect
 
-I have been waiting for it for a very long time
-How long have you been working on this project? 
+- I <font color="#10b981">**will have completed**</font> this course by next month.
+- I <font color="#10b981">**will have passed**</font> this test by tomorrow.
 
----
-#### Past Perfect Continuous
+## Группа Perfect Continuous
 
-He said that he had been working all day 
-He said that he had been trying to solve that problem<font color="#d83931"> for a very long time</font>
+### Present Perfect Continuous
 
----
-#### Future Perfect Continuous
+- I <font color="#10b981">**have been waiting**</font> for it for a very long time.
+- How long <font color="#10b981">**have**</font> you <font color="#10b981">**been working**</font> on this project?
 
-I will have been waiting here for three hours  by five o'clock 
+### Past Perfect Continuous
 
----
+- He said that he <font color="#10b981">**had been working**</font> all day.
+- He said that he <font color="#10b981">**had been trying**</font> to solve that problem for a very long time.
 
+### Future Perfect Continuous
+
+- I <font color="#10b981">**will have been waiting**</font> here for three hours by five o'clock.

@@ -1,57 +1,71 @@
-**Дата изучения:** 22.11.2025  
+**Уровень:** A2 · **Дата изучения:** 22.11.2025
 
 ---
-Have got - может применяться только в настоящем данном времени
 
-I have such a feeling
-I have got such a feeling - в британском англиском есть такая версия, означает ровно тоже самое
-I've got such a feeling
+## Введение в тему
 
-I have an idea
-I've got an idea
-I have got an idea
+**Have got** — может применяться только в настоящем времени. Это британская версия конструкции с **have**: означает ровно то же самое (владение, наличие чего-либо).
 
-I have got a brother
-I've got a brother
+> [!tip] Запомни
+> **I have** = **I have got** = **I've got** — всё это значит одно и то же. Форма с **got** характерна для британского английского.
 
-I have got a sister
-I've got a sister
+## Утвердительная форма
 
-I don't have
-I haven't got 
+- I <font color="#10b981">**have**</font> such a feeling.
+- I <font color="#10b981">**have got**</font> such a feeling. — в британском английском есть такая версия, означает ровно то же самое.
+- I<font color="#10b981">**'ve got**</font> such a feeling.
 
-I don't have any free time now
-I haven't got any free time now
+- I <font color="#10b981">**have**</font> an idea.
+- I<font color="#10b981">**'ve got**</font> an idea.
+- I <font color="#10b981">**have got**</font> an idea.
 
-Do you have ...?
-Have you got ...?
+- I <font color="#10b981">**have got**</font> a brother.
+- I<font color="#10b981">**'ve got**</font> a brother.
 
-Do you have any plans for tomorrow? 
-Have you got any plans for tomorrow?
+- I <font color="#10b981">**have got**</font> a sister.
+- I<font color="#10b981">**'ve got**</font> a sister.
 
-Do you have a car?
-Have you got a car?
+- He <font color="#10b981">**has got**</font> such plans.
+- She<font color="#10b981">**'s got**</font> such intentions.
 
-Do you have any plans for tonight?
-Have you got any plans for tonight? 
+## Отрицательная форма
 
-Have you got any questions?
-Do you have any questions?
+- I <font color="#10b981">**don't have**</font>.
+- I <font color="#10b981">**haven't got**</font>.
 
-Do you have any discounts? 
-Have you got any discounts? 
+- I <font color="#10b981">**don't have**</font> any free time now.
+- I <font color="#10b981">**haven't got**</font> any free time now.
 
-He has got such plans
-She's got such intentions
+- He <font color="#10b981">**hasn't got**</font> any work experience.
+- She <font color="#10b981">**hasn't got**</font> any experience.
 
-He hasn't got any work experience
-I've got one very interesting idea
-Have you got a minute? 
-She hasn't got any experience 
+## Вопросительная форма
 
-I have a similar point of view
-He has a similar opinion
-I have serious doubts about it 
-He has serious doubts about the success of this project 
-Have you got any friends who are abroad? 
-Do you have any friends who live abroad? 
+- <font color="#10b981">**Do you have**</font> ...?
+- <font color="#10b981">**Have you got**</font> ...?
+
+- <font color="#10b981">**Do you have**</font> any plans for tomorrow?
+- <font color="#10b981">**Have you got**</font> any plans for tomorrow?
+
+- <font color="#10b981">**Do you have**</font> a car?
+- <font color="#10b981">**Have you got**</font> a car?
+
+- <font color="#10b981">**Do you have**</font> any plans for tonight?
+- <font color="#10b981">**Have you got**</font> any plans for tonight?
+
+- <font color="#10b981">**Have you got**</font> any questions?
+- <font color="#10b981">**Do you have**</font> any questions?
+
+- <font color="#10b981">**Do you have**</font> any discounts?
+- <font color="#10b981">**Have you got**</font> any discounts?
+
+## Примеры
+
+- I<font color="#10b981">**'ve got**</font> one very interesting idea.
+- <font color="#10b981">**Have you got**</font> a minute?
+- I <font color="#10b981">**have**</font> a similar point of view.
+- He <font color="#10b981">**has**</font> a similar opinion.
+- I <font color="#10b981">**have**</font> serious doubts about it.
+- He <font color="#10b981">**has**</font> serious doubts about the success of this project.
+- <font color="#10b981">**Have you got**</font> any friends who are abroad?
+- <font color="#10b981">**Do you have**</font> any friends who live abroad?

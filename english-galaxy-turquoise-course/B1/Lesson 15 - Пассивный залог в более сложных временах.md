@@ -1,74 +1,70 @@
-**Дата изучения:** 28.01.2026  
-**Видео:** https://www.youtube.com/watch?v=EZ3DfP7SbDI
+**Уровень:** B1 · **Дата изучения:** 28.01.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=EZ3DfP7SbDI)
 
 ---
-форма глагола to be + 3 форма глагола
 
----
-#### Present Perfect Passive
-*have / has been + 3 форма глагола*
+## Общая формула
 
-It <font color="#9bbb59">has</font> already <font color="#9bbb59">been</font> <font color="#9bbb59">said</font> 
-As It <font color="#9bbb59">has</font> already <font color="#9bbb59">been mentioned</font> it deserves our attention
-As it <font color="#9bbb59">has</font> just <font color="#9bbb59">been said</font> it is really important for all of us
-As it <font color="#9bbb59">has</font> already <font color="#9bbb59">been pointed out</font> it is really important for each of us
+Форма глагола **to be** + 3 форма глагола.
 
----
-#### Present Continuous Passive
-*am/ is / are + being + 3 форма глагола*
+## Времена
 
-The road <font color="#c0504d">is being repaired</font> now
-It <font color="#c0504d">is being analyzed</font> now
+### Present Perfect Passive
 
----
-#### Past Continuous Passive
-*was / were + being + 3 форма глагола*
+**have / has been + 3 форма глагола**
 
-When i entered the room it <font color="#4f81bd">was being discussed</font>
-These problems <font color="#4f81bd">were being solved</font> yesterday at three
+- It <font color="#10b981">**has**</font> already <font color="#10b981">**been said**</font>.
+- As it <font color="#10b981">**has**</font> already <font color="#10b981">**been mentioned**</font>, it deserves our attention.
+- As it <font color="#10b981">**has**</font> just <font color="#10b981">**been said**</font>, it is really important for all of us.
+- As it <font color="#10b981">**has**</font> already <font color="#10b981">**been pointed out**</font>, it is really important for each of us.
 
----
-#### Past Perfect Passive
-*had been + 3 форма глагола*
+### Present Continuous Passive
 
-She said that all the files <font color="#f79646">had</font> already <font color="#f79646">been downloaded</font>
-She said that the letter <font color="#f79646">had</font> already <font color="#f79646">been sent</font>
-He said that those problems <font color="#f79646">had already been solved</font>
+**am / is / are + being + 3 форма глагола**
 
----
-#### Future Perfect Passive
-*will have been + 3 форма глагола*
+- The road <font color="#10b981">**is being repaired**</font> now.
+- It <font color="#10b981">**is being analyzed**</font> now.
 
-This work <font color="#938953">will have been done</font> by tomorrow
-His new house <font color="#938953">will have been built</font> by next month
+### Past Continuous Passive
 
----
-#### Future Simple Passive
-*will  be + 3 форма глагола*
+**was / were + being + 3 форма глагола**
 
-This house <font color="#a5a5a5">will be built</font>  next month
+- When I entered the room it <font color="#10b981">**was being discussed**</font>.
+- These problems <font color="#10b981">**were being solved**</font> yesterday at three.
 
+### Past Perfect Passive
 
----
-#### Смешанная практика
+**had been + 3 форма глагола**
 
+- She said that all the files <font color="#10b981">**had**</font> already <font color="#10b981">**been downloaded**</font>.
+- She said that the letter <font color="#10b981">**had**</font> already <font color="#10b981">**been sent**</font>.
+- He said that those problems <font color="#10b981">**had already been solved**</font>.
 
-It <font color="#ffff00">is forbidden</font> to do it - <font color="#ffff00">Present Simple Passive</font>
-It <font color="#ffff00">is</font> often <font color="#ffff00">said</font> very formally - <font color="#ffff00">Present Simple Passive</font>
+### Future Perfect Passive
 
-It <font color="#9bbb59">hasn't been done</font> yet - Present Perfect Passive
-This work <font color="#9bbb59">hasn't been checked </font>yet - Present Perfect Passive
-This problem <font color="#9bbb59">hasn't been discussed</font> yet - Present Perfect Passive
-As it <font color="#9bbb59">has</font> already <font color="#9bbb59">said</font> it is <font color="#6425d0">worth</font> doing
+**will have been + 3 форма глагола**
 
-It <font color="#31859b">was said</font> very politely - <font color="#31859b">Past Simple Passive</font>
-It <font color="#31859b">was forbidden</font> to do it - <font color="#31859b">Past Simple Passive</font>
-The food <font color="#31859b">was divided</font> into several <font color="#6425d0">portions</font> - <font color="#31859b">Past Simple Passive</font>
+- This work <font color="#10b981">**will have been done**</font> by tomorrow.
+- His new house <font color="#10b981">**will have been built**</font> by next month.
 
-These problems<font color="#c0504d"> are being solved</font> now - <font color="#c0504d">Present Continuous Passive</font>
-This house is being sold now - <font color="#c0504d">Present Continuous Passive</font>
-A new cottage<font color="#c0504d"> is being built</font> now. - <font color="#c0504d">Present Continuous Passive</font>
-This work <font color="#c0504d">is being checked</font> now - <font color="#c0504d">Present Continuous Passive</font>
-It <font color="#c0504d">is being discussed</font> now - <font color="#c0504d">Present Continuous Passive</font>
+### Future Simple Passive
 
+**will be + 3 форма глагола**
 
+- This house <font color="#10b981">**will be built**</font> next month.
+
+## Смешанная практика
+
+- It <font color="#10b981">**is forbidden**</font> to do it — **Present Simple Passive**.
+- It <font color="#10b981">**is**</font> often <font color="#10b981">**said**</font> very formally — **Present Simple Passive**.
+- It <font color="#10b981">**hasn't been done**</font> yet — **Present Perfect Passive**.
+- This work <font color="#10b981">**hasn't been checked**</font> yet — **Present Perfect Passive**.
+- This problem <font color="#10b981">**hasn't been discussed**</font> yet — **Present Perfect Passive**.
+- As it <font color="#10b981">**has**</font> already <font color="#10b981">**been said**</font>, it is **worth** doing — **Present Perfect Passive**.
+- It <font color="#10b981">**was said**</font> very politely — **Past Simple Passive**.
+- It <font color="#10b981">**was forbidden**</font> to do it — **Past Simple Passive**.
+- The food <font color="#10b981">**was divided**</font> into several **portions** — **Past Simple Passive**.
+- These problems <font color="#10b981">**are being solved**</font> now — **Present Continuous Passive**.
+- This house <font color="#10b981">**is being sold**</font> now — **Present Continuous Passive**.
+- A new cottage <font color="#10b981">**is being built**</font> now — **Present Continuous Passive**.
+- This work <font color="#10b981">**is being checked**</font> now — **Present Continuous Passive**.
+- It <font color="#10b981">**is being discussed**</font> now — **Present Continuous Passive**.

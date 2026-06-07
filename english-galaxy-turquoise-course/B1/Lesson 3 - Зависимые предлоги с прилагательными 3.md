@@ -1,69 +1,71 @@
-**Дата изучения:** 16.12.2025  
-**Видео:** https://www.youtube.com/watch?v=avpZc0li4XY
+**Уровень:** B1 · **Дата изучения:** 16.12.2025 · **Видео:** [YouTube](https://www.youtube.com/watch?v=avpZc0li4XY)
 
 ---
-I'm full of energy.
-He is full of enthusiasm 
 
-nervous about - нервничать из-за чего-то
+##### full of — полный чего-то
 
-He is very nervous about his future
-She is very nervous about it.
+- I'm <font color="#10b981">**full of**</font> energy.
+- He is <font color="#10b981">**full of**</font> enthusiasm.
 
-dependent on -зависящий от
+##### nervous about — нервничать из-за чего-то
 
-She is dependent on her parents
+- He is very <font color="#10b981">**nervous about**</font> his future.
+- She is very <font color="#10b981">**nervous about**</font> it.
 
-kind to - добр к кому-то
+##### dependent on — зависящий от
 
-She is always very kind to us 
-late for - опаздывающий куда то
+- She is <font color="#10b981">**dependent on**</font> her parents.
 
-I was late for the lesson
+##### kind to — добр к кому-то
 
-grateful - благодарный
-to be grateful to - быть благодарным к кому-то
+- She is always very <font color="#10b981">**kind to**</font> us.
 
-I'm really grateful to you for your hospitality 
+##### late for — опаздывающий куда-то
 
-allergic to - имеющий аллергию на что-то
+- I was <font color="#10b981">**late for**</font> the lesson.
 
-He is allergic to nuts
+##### grateful to — быть благодарным к кому-то
 
-She is allergic to it
-I'm allergic to this food
+> [!note] grateful — благодарный
 
-short of - не хватает чего-то
+- I'm really <font color="#10b981">**grateful to**</font> you for your hospitality.
 
-I'm short of time 
-He is short of money 
-She is short of cash
-absent from - отсутствующий где-то
-present at - присутствующий где-то
+##### allergic to — имеющий аллергию на что-то
 
-He was absent from work 
-I was absent from the meeting
-She was absent from school
+- He is <font color="#10b981">**allergic to**</font> nuts.
+- She is <font color="#10b981">**allergic to**</font> it.
+- I'm <font color="#10b981">**allergic to**</font> this food.
 
-He was present at the meeting
-She was present at the lesson
-bored with - наскучило, надоело что-то
+##### short of — не хватает чего-то
 
-He is bored with this format of education
-She is bored with this job
+- I'm <font color="#10b981">**short of**</font> time.
+- He is <font color="#10b981">**short of**</font> money.
+- She is <font color="#10b981">**short of**</font> cash.
 
-nice of - мило с чьей -то стороны
+##### absent from — отсутствующий где-то
 
-It is very nice of you 
+- He was <font color="#10b981">**absent from**</font> work.
+- I was <font color="#10b981">**absent from**</font> the meeting.
+- She was <font color="#10b981">**absent from**</font> school.
 
-It was very nice of you to offer it
+##### present at — присутствующий где-то
 
-get acquainted with - познакомиться с кем-то
+- He was <font color="#10b981">**present at**</font> the meeting.
+- She was <font color="#10b981">**present at**</font> the lesson.
 
-to be acquainted with - быть знаком с кем-то
+##### bored with — наскучило, надоело что-то
 
-I want to get acquainted with him
+- He is <font color="#10b981">**bored with**</font> this format of education.
+- She is <font color="#10b981">**bored with**</font> this job.
 
-Are you acquainted with her? 
+##### nice of — мило с чьей-то стороны
 
+- It is very <font color="#10b981">**nice of**</font> you.
+- It was very <font color="#10b981">**nice of**</font> you to offer it.
 
+##### get acquainted with — познакомиться с кем-то
+
+> [!note] to be acquainted with — быть знаком с кем-то
+
+- I want to get <font color="#10b981">**acquainted with**</font> him.
+- Are you <font color="#10b981">**acquainted with**</font> her?

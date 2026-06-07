@@ -1,85 +1,61 @@
-**Дата изучения:** 26.04.2026
-**Видео:** https://www.youtube.com/watch?v=-3HyR1NcIRE
+**Уровень:** B2 · **Дата изучения:** 26.04.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=-3HyR1NcIRE)
 
 ---
 
-suitable for - подходящий, подходит для 
+##### suitable for — подходящий, подходит для
 
-This apartment is suitable for a small family.
-This documentary is perfectly suitable for people of all ages.
+- This apartment is <font color="#10b981">**suitable for**</font> a small family.
+- This documentary is perfectly <font color="#10b981">**suitable for**</font> people of all ages.
 
----
+##### bored with — надоело, наскучило
 
-bored with - надоело, наскучило
+- He says that he is really <font color="#10b981">**bored with**</font> his present job.
 
-He says that he is really bored with his present job.
+##### get bored with — надоело, наскучило
 
----
+- The kids <font color="#10b981">**got bored with**</font> the game.
 
-get bored with - надоело, наскучило
+##### provide with — предоставлять что-то
 
-The kids got bored with the game
+- He <font color="#10b981">**provides**</font> us <font color="#10b981">**with**</font> very valuable information.
+- The company provides very good conditions for its employees.
 
----
+##### delighted by — в восторге от чего-то
 
-provide with - предоставлять что-то
+- I was <font color="#10b981">**delighted by**</font> this result.
+- I'm absolutely delighted to see you.
+- I'm absolutely delighted to be here.
+- I'm absolutely delighted to hear it.
 
-He provides us with very valuable information
-The company provides very good conditions for its employees
+##### dependent on — зависящий от, зависит от
 
----
+- He is heavily <font color="#10b981">**dependent on**</font> his parents.
 
-delighted by - в восторге от чего-то
+##### familiar to someone — знаком кому-то
 
-I was delighted by this result.
-I'm absolutely delighted to see you
-I'm absolutely delighted to be here
-I'm absolutely delighted to hear it
+- This place doesn't seem <font color="#10b981">**familiar to**</font> me.
 
----
+##### optimistic about — оптимистичный насчёт чего-то
 
-dependent on - зависящий от, зависит от
+- He is very <font color="#10b981">**optimistic about**</font> the future of the company.
 
-He is heavily dependent on his parents
+##### sure about · certain about — уверен в чём-то
 
----
+- I'm absolutely <font color="#10b981">**certain about**</font> it.
 
-familiar to someone - знаком кому-то
+##### danger of — опасность чего-то
 
-This place doesn't seem familiar to me
+- There is a <font color="#10b981">**danger of**</font> new protests.
+- There is a <font color="#10b981">**danger of**</font> a new crisis.
 
----
+##### known for — известен чем-то
 
-optimistic about - оптимистичный на счет чего-то
+- He is <font color="#10b981">**known for**</font> his honesty.
+- This city is <font color="#10b981">**known for**</font> his rich history.
+- He is <font color="#10b981">**known for**</font> his kindness.
 
-He is very optimistic about the future of the company.
+##### a lack of — нехватка чего-то
 
----
-
-sure about - уверен в чем-то
-certain about - уверен в чем-то
-
-I'm absolutely certain about it
-
----
-
-danger of - опасность чего-то
-
-There is a danger of new protests 
-There is a danger of a new crisis
-
----
-
-known for - известен чем-то
-
-He is known for his honesty
-This city is known for his rich history 
-He is known for his kindness
-
----
-
-a lack of - нехватка чего-то
-
-They demonstrated a lack of knowledge and experience 
-I know that i have a lack of confidence but i try to work on this problem
-I know that I lack confidence but i try to work on this problem
+- They demonstrated <font color="#10b981">**a lack of**</font> knowledge and experience.
+- I know that I have <font color="#10b981">**a lack of**</font> confidence but I try to work on this problem.
+- I know that I <font color="#10b981">**lack**</font> confidence but I try to work on this problem.

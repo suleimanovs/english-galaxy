@@ -1,38 +1,50 @@
-**Дата изучения:** 07.01.2026  
-**Видео:** https://www.youtube.com/watch?v=0ByOsZ_hqdY
+**Уровень:** B1 · **Дата изучения:** 07.01.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=0ByOsZ_hqdY)
 
 ---
-spacious - просторный
 
-Past Simple:
+## Past Simple
 
-I decided to go to another place
-She bought a very  spacious apartment / flat
-I lost my keys, but then i found them 
-What did it depend on?
-When i came home, i turned on the computer
+Используется для завершённых действий в прошлом.
 
-Past Continuous:
-all day - весь день (указывает на длительность)
-still - все еще
+- I <font color="#10b981">**decided**</font> to go to another place.
+- She <font color="#10b981">**bought**</font> a very spacious apartment / flat.
+- I <font color="#10b981">**lost**</font> my keys, but then I <font color="#10b981">**found**</font> them.
+- What did it <font color="#10b981">**depend**</font> on?
+- When I <font color="#10b981">**came**</font> home, I <font color="#10b981">**turned**</font> on the computer.
 
-He was working all day 
-He was still thinking about it
-He was getting more and more surprised
-It was getting more and more expensive
-The prices were getting higher and higher 
-What did you do yesterday? (нет указания конкретного времени, потому Past Simple)
-What were you doing yesterday at eight o'clock in the evening? (<font color="#bfbfbf">*есть указания конкретного времени потому это Past Continuou*s</font>)
-No one was listening to him when he was trying to explain it 
+> [!note] Полезное слово
+> **spacious** — просторный
 
+## Past Continuous
 
-I was writing a letter when the phone rang
-I was at home, when she came 
-When she came home we were having dinner
-He was driving a car when someone called him
-What were you doing when he called you? 
-What were you doing, while you were waiting for it? 
-When she was saying it, no one believed her
+Используется для длительных действий в прошлом, которые происходили в определённый момент или в течение какого-то периода.
 
+> [!tip] Временные указатели
+> **all day** — весь день (указывает на длительность)
+> **still** — всё ещё
 
+- He <font color="#10b981">**was working**</font> all day.
+- He <font color="#10b981">**was**</font> still <font color="#10b981">**thinking**</font> about it.
+- He <font color="#10b981">**was getting**</font> more and more surprised.
+- It <font color="#10b981">**was getting**</font> more and more expensive.
+- The prices <font color="#10b981">**were getting**</font> higher and higher.
+- No one <font color="#10b981">**was listening**</font> to him when he <font color="#10b981">**was trying**</font> to explain it.
 
+## Past Simple vs Past Continuous
+
+Если в вопросе нет указания на конкретное время — используем Past Simple. Если есть указание на конкретный момент времени — Past Continuous.
+
+- What did you <font color="#10b981">**do**</font> yesterday? (нет указания конкретного времени, поэтому Past Simple)
+- What <font color="#10b981">**were**</font> you <font color="#10b981">**doing**</font> yesterday at eight o'clock in the evening? (есть указание конкретного времени, поэтому это Past Continuous)
+
+### Прерванное действие (Past Continuous + Past Simple)
+
+Длительное действие в прошлом (Past Continuous) прерывается другим, более коротким действием (Past Simple).
+
+- I <font color="#10b981">**was writing**</font> a letter when the phone <font color="#10b981">**rang**</font>.
+- I <font color="#10b981">**was**</font> at home when she <font color="#10b981">**came**</font>.
+- When she <font color="#10b981">**came**</font> home we <font color="#10b981">**were having**</font> dinner.
+- He <font color="#10b981">**was driving**</font> a car when someone <font color="#10b981">**called**</font> him.
+- What <font color="#10b981">**were**</font> you <font color="#10b981">**doing**</font> when he <font color="#10b981">**called**</font> you?
+- What <font color="#10b981">**were**</font> you <font color="#10b981">**doing**</font> while you <font color="#10b981">**were waiting**</font> for it?
+- When she <font color="#10b981">**was saying**</font> it, no one <font color="#10b981">**believed**</font> her.

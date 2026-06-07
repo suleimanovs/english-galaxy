@@ -1,68 +1,80 @@
-**Дата изучения:** 08.12.2025  
+**Уровень:** A2 · **Дата изучения:** 08.12.2025
 
 ---
-all - все, всё
 
-All people know it
-All the mistakes will be corrected soon
-She welcomed all the guests
-All my colleagues were very happy about this decision 
-All of my colleagues were very happy about this decision 
-All my friends were excited about this news
-I have been living here all my life 
-All this information was really useful
+##### all — все, всё
 
-everything - всё
+- <font color="#10b981">**All**</font> people know it.
+- <font color="#10b981">**All**</font> the mistakes will be corrected soon.
+- She welcomed <font color="#10b981">**all**</font> the guests.
+- <font color="#10b981">**All**</font> my colleagues were very happy about this decision.
+- <font color="#10b981">**All of**</font> my colleagues were very happy about this decision.
+- <font color="#10b981">**All**</font> my friends were excited about this news.
+- I have been living here <font color="#10b981">**all**</font> my life.
+- <font color="#10b981">**All**</font> this information was really useful.
 
-Everything is under control
-Everyone knows it
-Not everyone likes it
-Not everyone understands the importance of this thing
-Everyone is ready 
-Everyone was very busy
-Each of us understands it 
-Each of them understands it differently
+##### everything · everyone · each — всё / все / каждый
 
-Something is wrong 
-Something worries him 
-I feel that something worries her
-Someone is waiting for you
-Someone is calling you
-Many of my friends simply ignore it 
-Many of these things are well known
-Most of us things so
-Most of my friends understand it
-Most of my friends support me
- Some of The students were uppsent
- Some of them have another opinion
- Some of them thing differently 
+- <font color="#10b981">**Everything**</font> is under control.
+- <font color="#10b981">**Everyone**</font> knows it.
+- Not <font color="#10b981">**everyone**</font> likes it.
+- Not <font color="#10b981">**everyone**</font> understands the importance of this thing.
+- <font color="#10b981">**Everyone**</font> is ready.
+- <font color="#10b981">**Everyone**</font> was very busy.
+- <font color="#10b981">**Each of**</font> us understands it.
+- <font color="#10b981">**Each of**</font> them understands it differently.
 
-Nothing helps her 
-Nothing can stop him
-Nothing really worried me 
-Nothing has changed since that time
+##### something · someone — что-то / кто-то
 
-Nobody wants it
-Nobody knows this secret 
+- <font color="#10b981">**Something**</font> is wrong.
+- <font color="#10b981">**Something**</font> worries him.
+- I feel that <font color="#10b981">**something**</font> worries her.
+- <font color="#10b981">**Someone**</font> is waiting for you.
+- <font color="#10b981">**Someone**</font> is calling you.
 
-No one is interested in it
+##### many of · most of · some of — многие из / большинство из / некоторые из
 
-none of them - никто из них / ничего из них
+- <font color="#10b981">**Many of**</font> my friends simply ignore it.
+- <font color="#10b981">**Many of**</font> these things are well known.
+- <font color="#10b981">**Most of**</font> us think so.
+- <font color="#10b981">**Most of**</font> my friends understand it.
+- <font color="#10b981">**Most of**</font> my friends support me.
+- <font color="#10b981">**Some of**</font> the students were absent.
+- <font color="#10b981">**Some of**</font> them have another opinion.
+- <font color="#10b981">**Some of**</font> them think differently.
 
-None of them <u>wants</u> it - единстенное число
-None of them <u>want</u> it - множественное число
+##### nothing — ничто / ничего
 
-None of these things interests me
-None of this information was useful / None of the information was useful
+- <font color="#10b981">**Nothing**</font> helps her.
+- <font color="#10b981">**Nothing**</font> can stop him.
+- <font color="#10b981">**Nothing**</font> really worried me.
+- <font color="#10b981">**Nothing**</font> has changed since that time.
 
-He never goes there 
-They never pay attention to it
+##### nobody · no one — никто
 
-It has never interested me 
-I have never been interested in it
+- <font color="#10b981">**Nobody**</font> wants it.
+- <font color="#10b981">**Nobody**</font> knows this secret.
+- <font color="#10b981">**No one**</font> is interested in it.
 
-To be honest - честно/ честно говоря / если быть честным
-To be honest, i have never been interested in it
-I have never been in England
-To be honest, i have never been to England, but it is my greatest dream to visit it one day
+##### none of them — никто из них / ничего из них
 
+> [!note] Согласование
+> После **none of** возможно как единственное, так и множественное число:
+> - None of them <u>wants</u> it — единственное число.
+> - None of them <u>want</u> it — множественное число.
+
+- <font color="#10b981">**None of**</font> these things interests me.
+- <font color="#10b981">**None of**</font> this information was useful. / <font color="#10b981">**None of**</font> the information was useful.
+
+##### never — никогда
+
+- He <font color="#10b981">**never**</font> goes there.
+- They <font color="#10b981">**never**</font> pay attention to it.
+- It has <font color="#10b981">**never**</font> interested me.
+- I have <font color="#10b981">**never**</font> been interested in it.
+
+##### To be honest — честно / честно говоря / если быть честным
+
+- <font color="#10b981">**To be honest**</font>, I have never been interested in it.
+- I have never been in England.
+- <font color="#10b981">**To be honest**</font>, I have never been to England, but it is my greatest dream to visit it one day.

@@ -1,78 +1,62 @@
-**Дата изучения:** 00.00.2026
-**Видео:** https://www.youtube.com/watch?v=Hk3er4kpvMo
+**Уровень:** B2 · **Дата изучения:** — · **Видео:** [YouTube](https://www.youtube.com/watch?v=Hk3er4kpvMo)
 
 ---
 
-used to - привышкий к 
-accustomed to - привышкий к 
+##### used to · accustomed to — привыкший к
 
-I'm not accustomed to this kind of treatment
+- I'm not <font color="#10b981">**accustomed to**</font> this kind of treatment.
 
----
+##### amazed by / at — поражён чем-то
 
-amazed by / at - порожен чем-то
+- Everyone was truly <font color="#10b981">**amazed by**</font> her talent.
 
-Everyone was truly amazed by her talent
+##### amazement at — изумление чем-то
 
----
-amazement at - изумление чем-то
+- He couldn't hide his <font color="#10b981">**amazement at**</font> this news.
+- He couldn't hide his <font color="#10b981">**amazement at**</font> the quality of this work.
 
-He couldn't hide his amazement at this news
-He couldn't hide his amazement at  the quality of this work.
+##### concern about — обеспокоен чем-то
 
----
-concern about - обеспокоен чем-то
+- I'm really <font color="#10b981">**concerned about**</font> your health.
+- So many people are <font color="#10b981">**concerned about**</font> such issues as corruption, bureaucracy, poverty and inequality.
 
-I'm really concern about your healthю.
+##### adaptation to — адаптация / привыкание к чему-то
 
-So many people are concern about such issues as corruption, bureaucracy, poverty and inequality.
+- I think you will need some kind of <font color="#10b981">**adaptation to**</font> it.
+- The process of <font color="#10b981">**adaptation to**</font> these conditions can take some time.
 
----
-adaptation to - адаптация / привыкание к чем-то 
+##### attach to — приложить к чему-то
 
-I think you will need some kind of adaptation to it 
-The process of adaptation to these conditions can take some time
+- He forgot to <font color="#10b981">**attach**</font> these documents <font color="#10b981">**to**</font> the letter.
+- I forgot to <font color="#10b981">**attach**</font> these documents <font color="#10b981">**to**</font> the letter.
 
----
-attach to - приложить к чему-то
+##### vote for — голосовать за
 
-He forgot to attach these documents to the letter
-I forgot to attach these documents to the letter
+- Did they <font color="#10b981">**vote for**</font> or against it?
+- He <font color="#10b981">**voted for**</font> another candidate.
 
----
-vote for - голосовать за 
+##### objection to — возражение против чего-то
 
-Did they vote for or against it?
-He voted for another candidate 
+- It was their main <font color="#10b981">**objection to**</font> it.
+- I don't have an <font color="#10b981">**objection to**</font> it.
+- There were several <font color="#10b981">**objections to**</font> that proposal.
 
----
-objection to - возражение против чего-то
+##### object to — возражать против чего-то
 
-It was their main objection to it.
-I don't have an objection to it
-There were several objections to that proposal
+- Many people <font color="#10b981">**object to**</font> such strict measures.
 
----
-object to - возвражать против чего-то
+##### distinguish from — отличать от
 
-Many people object to such strict measures
+- This quality <font color="#10b981">**distinguishes**</font> him <font color="#10b981">**from**</font> his peers.
+- It is often difficult to <font color="#10b981">**distinguish**</font> right <font color="#10b981">**from**</font> wrong.
 
----
-distinguish from - отличать от 
+##### punished for — наказать за
 
-This quality distinguishes him from his peers.
-It is often difficult to distinguish right from wrong
+- No one was <font color="#10b981">**punished for**</font> it.
+- He was <font color="#10b981">**punished for**</font> it.
 
----
-punished for -  наказать за
+##### marvel at — восхищаться чем-то
 
-No one was punished for it
-He was punished for it.
-
----
-marvel at -  восхищаться чем-то
-
-I marvel at the beauty of this place
-I marvel at her wisdom and experience
-
-I have never stopped to marvel at the beauty of this place
+- I <font color="#10b981">**marvel at**</font> the beauty of this place.
+- I <font color="#10b981">**marvel at**</font> her wisdom and experience.
+- I have never stopped to <font color="#10b981">**marvel at**</font> the beauty of this place.

@@ -1,74 +1,66 @@
-**Дата изучения:** 25.04.2026
-**Видео:** https://www.youtube.com/watch?v=EHKA6CEf_Rs
+**Уровень:** B2 · **Дата изучения:** 25.04.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=EHKA6CEf_Rs)
 
 ---
 
-disagree on - не соглашаться по поводу чего-то
+##### disagree on — не соглашаться по поводу чего-то
 
-They disagree on this issue.
-He disagrees with his colleagues on many issues.
+- They <font color="#10b981">**disagree on**</font> this issue.
+- He disagrees with his colleagues <font color="#10b981">**on**</font> many issues.
 
----
-Advantages of - преимущество чего-то
+##### advantages of — преимущество чего-то
 
-It is one of the main advantages of this profession.
-It is one of the main advantages of living in this city.
+- It is one of the main <font color="#10b981">**advantages of**</font> this profession.
+- It is one of the main <font color="#10b981">**advantages of**</font> living in this city.
 
----
-Disadvantages of - недостатки чего-то
+##### disadvantages of — недостатки чего-то
 
-It is one of the disadvantages of this work.
-What are the advantages and disadvantages of distance learning?
+- It is one of the <font color="#10b981">**disadvantages of**</font> this work.
+- What are the advantages and <font color="#10b981">**disadvantages of**</font> distance learning?
 
----
-Absence from - отсутствовать где-то
+##### absence from — отсутствовать где-то
 
-How did he explain his absence from work?
+- How did he explain his <font color="#10b981">**absence from**</font> work?
 
----
-compensate for - компенсировать что-то
+##### compensate for — компенсировать что-то
 
-They must compensate you for these losses 
+- They must <font color="#10b981">**compensate**</font> you <font color="#10b981">**for**</font> these losses.
 
----
-demand for - спрос на что-то
-a growing demand - растущий спрос
-an increasing demand - растущий спрос
+##### demand for — спрос на что-то
 
-There is a growing demand for these products.
-There is an increasing demand for cheap housing.
-If we look at the current situation we can see that there is a growing demand for cheap housing.
+- There is a growing <font color="#10b981">**demand for**</font> these products.
+- There is an increasing <font color="#10b981">**demand for**</font> cheap housing.
+- If we look at the current situation, we can see that there is a growing <font color="#10b981">**demand for**</font> cheap housing.
 
----
-Apologize to someone - извинять перед кем-то
+> [!note] Растущий спрос
+> **a growing demand** — растущий спрос
+> **an increasing demand** — растущий спрос
 
-He went and apologised to her.
+##### apologize to someone — извиняться перед кем-то
 
----
-Apologise for something - извинять за что-то
-Apologise for doing something - извинять за что-то
+- He went and <font color="#10b981">**apologised to**</font> her.
 
-They apologised for the delay.
-I would like to apologise for being late.
+##### apologise for something — извиняться за что-то
 
----
-stare at - уставиться на
+- They <font color="#10b981">**apologised for**</font> the delay.
+- I would like to <font color="#10b981">**apologise for**</font> being late.
 
-A stranger was staring at him.
-Everyone was staring at her.
+> [!note] Apologise for doing something
+> **apologise for doing something** — извиняться за что-то
 
----
-interfere in - вмешиваться во что-то
+##### stare at — уставиться на
 
-I think he shouldn't interfere in other people's affairs.
+- A stranger was <font color="#10b981">**staring at**</font> him.
+- Everyone was <font color="#10b981">**staring at**</font> her.
 
----
-cure for - лечение от чего-то
+##### interfere in — вмешиваться во что-то
 
-A cure for this disease hasn't been found yet. *(present perfect passive)*
-A cure for this disease doesn't exist
+- I think he shouldn't <font color="#10b981">**interfere in**</font> other people's affairs.
 
----
-cure of - излечить от чего-то
+##### cure for — лечение от чего-то
 
-He was cured of this disease.
+- A <font color="#10b981">**cure for**</font> this disease hasn't been found yet. *(present perfect passive)*
+- A <font color="#10b981">**cure for**</font> this disease doesn't exist.
+
+##### cure of — излечить от чего-то
+
+- He was <font color="#10b981">**cured of**</font> this disease.

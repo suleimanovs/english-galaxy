@@ -1,57 +1,82 @@
-**Дата изучения:** 21.11.2025  
+**Уровень:** A2 · **Дата изучения:** 21.11.2025
 
 ---
-can - мочь, уметь
-instead - вместо
-can't - не мочь, не уметь
-could - мог, мог бы
-must - должен
-have/has to - должен( в силу абстоятельсв), приходится
-may - возможно
-might - возможно
-should- следует
-ought to - следует
-be able - мочь,уметь
 
-get rid of - избавиться от
+##### can — мочь, уметь
 
+- I <font color="#10b981">**can**</font> help you.
+- He <font color="#10b981">**can**</font> do it instead of you.
+- <font color="#10b981">**Can**</font> you help me?
+- What <font color="#10b981">**can**</font> we do in this situation?
 
-I can help you
-He can do it instead of you
-I can't say it right now
-I can't believe my eyes
-I can't believe my ears
+##### can't — не мочь, не уметь
 
-Can you help me?
-What can we do in this situation?
-I could do it it all day
-We could do it right now
-Could you help me, please? 
-I must do it
-I feel that I must get rid of these unnecessary mistakes
-She must be very tired 
-He must be very smart if he can understand it so quickly 
-He has to wear a school uniform
-He may come to the party tomorrow
-It might happen 
+- I <font color="#10b981">**can't**</font> say it right now.
+- I <font color="#10b981">**can't**</font> believe my eyes.
+- I <font color="#10b981">**can't**</font> believe my ears.
 
-I think you should do it 
-I think you shouldn't do it
-I suppose they ought to take more radical measures
-I will be able to do it 
-I will be able to help you 
-I need to do it somehow
-You need to be much more careful
-She knows that she needs to do it later
-I would buy it right now
-I would do it in your place
-I'd like to watch this program tonight
-I have to get up very early every day
-I had to do it again
-You will have to do it sooner or later 
-He will have to do it in any case 
-You dont need to do it again
-I dont have to get up so early today
-you dont need to worry about it ha-ha ha ha ha ha ha h
+##### could — мог, мог бы
 
+- I <font color="#10b981">**could**</font> do it all day.
+- We <font color="#10b981">**could**</font> do it right now.
+- <font color="#10b981">**Could**</font> you help me, please?
 
+##### must — должен
+
+- I <font color="#10b981">**must**</font> do it.
+- I feel that I <font color="#10b981">**must**</font> get rid of these unnecessary mistakes.
+- She <font color="#10b981">**must**</font> be very tired.
+- He <font color="#10b981">**must**</font> be very smart if he can understand it so quickly.
+
+##### have to / has to — должен (в силу обстоятельств), приходится
+
+- He <font color="#10b981">**has to**</font> wear a school uniform.
+- I <font color="#10b981">**have to**</font> get up very early every day.
+- I <font color="#10b981">**had to**</font> do it again.
+- You <font color="#10b981">**will have to**</font> do it sooner or later.
+- He <font color="#10b981">**will have to**</font> do it in any case.
+- I <font color="#10b981">**don't have to**</font> get up so early today.
+
+##### may — возможно
+
+- He <font color="#10b981">**may**</font> come to the party tomorrow.
+
+##### might — возможно
+
+- It <font color="#10b981">**might**</font> happen.
+
+##### should — следует
+
+- I think you <font color="#10b981">**should**</font> do it.
+- I think you <font color="#10b981">**shouldn't**</font> do it.
+
+##### ought to — следует
+
+- I suppose they <font color="#10b981">**ought to**</font> take more radical measures.
+
+##### be able to — мочь, уметь
+
+- I <font color="#10b981">**will be able to**</font> do it.
+- I <font color="#10b981">**will be able to**</font> help you.
+
+##### need to — нужно, требуется
+
+- I <font color="#10b981">**need to**</font> do it somehow.
+- You <font color="#10b981">**need to**</font> be much more careful.
+- She knows that she <font color="#10b981">**needs to**</font> do it later.
+- You <font color="#10b981">**don't need to**</font> do it again.
+- You <font color="#10b981">**don't need to**</font> worry about it, ha-ha-ha-ha-ha-ha-ha.
+
+##### would — бы
+
+- I <font color="#10b981">**would**</font> buy it right now.
+- I <font color="#10b981">**would**</font> do it in your place.
+- <font color="#10b981">**I'd like to**</font> watch this program tonight.
+
+##### instead — вместо
+
+- He can do it <font color="#10b981">**instead**</font> of you.
+
+##### get rid of — избавиться от
+
+- I feel that I must <font color="#10b981">**get rid of**</font> these unnecessary mistakes.

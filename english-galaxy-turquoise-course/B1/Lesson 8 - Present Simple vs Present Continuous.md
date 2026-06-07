@@ -1,46 +1,54 @@
-**Дата изучения:** 05.01.2026
-**Видео:** https://www.youtube.com/watch?v=V3nHnOqHnEU
+**Уровень:** B1 · **Дата изучения:** 05.01.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=V3nHnOqHnEU)
 
 ---
-at present - в настоящее время (указывает на Present Continuous)
-at the moment - в настоящий момент (указывает на Present Continuous)
-these days - в эти дни (указывает на Present Continuous)
-get - становиться (часто используется именно во времени Present Continuous)
 
-<font color="#ffc000">incredibly</font> - невероятно 
+## Временные указатели
 
+Эти маркеры подсказывают, что нужно использовать **Present Continuous**:
 
-I try to do it <font color="#00b050">on a regular basis</font>
-It is raining <u>+ now</u>
-My friend and I are talking on the phone <u>+ now</u>
-The baby often cries 
+- **at present** — в настоящее время (указывает на Present Continuous)
+- **at the moment** — в настоящий момент (указывает на Present Continuous)
+- **these days** — в эти дни (указывает на Present Continuous)
+- **get** — становиться (часто используется именно во времени Present Continuous)
 
-I'm not thinking about it <font color="#00b050">at present</font>
-I'm working on a very important project <font color="#00b050">at the moment</font>
+> [!note] Слово
+> **incredibly** — невероятно
 
-My collegues and I are working <font color="#ffc000">incredibly</font> hard <font color="#00b050">these days</font>
-I'm waiting for his answer 
-Everything is getting more and more expensive
-Your English is getting better and better 
+## Примеры
 
-<font color="#00b050">Listen</font>, the music is playing very loudly - Тут контекст тоже влияет,  "Послушай" явно имеется ввиду в настоящем текущем времени
+- I try to do it <font color="#10b981">**on a regular basis**</font>.
+- It <font color="#10b981">**is raining**</font> now.
+- My friend and I <font color="#10b981">**are talking**</font> on the phone now.
+- The baby often <font color="#10b981">**cries**</font>.
+- I'<font color="#10b981">**m not thinking**</font> about it <font color="#10b981">**at present**</font>.
+- I'<font color="#10b981">**m working**</font> on a very important project <font color="#10b981">**at the moment**</font>.
+- My colleagues and I <font color="#10b981">**are working**</font> **incredibly** hard <font color="#10b981">**these days**</font>.
+- I'<font color="#10b981">**m waiting**</font> for his answer.
+- Everything <font color="#10b981">**is getting**</font> more and more expensive.
+- Your English <font color="#10b981">**is getting**</font> better and better.
+- **Listen**, the music <font color="#10b981">**is playing**</font> very loudly.
 
-##### Глаголы состояния
-Важно так же обращать внимание на глаголы состояния
+> [!tip] Контекст
+> Тут контекст тоже влияет: «Послушай» явно имеется в виду в настоящем текущем времени.
 
-understand , wants, concern, depend - в Continuous не употребляются
+## Глаголы состояния
 
-I perfectly understand it now
-Each of us wants to do the same now
-It concerns each of us now
-Such an important thing concerns each of us now
-What does it depend on now?
+Важно также обращать внимание на глаголы состояния.
 
-##### Present Continuous in Future
-Используется когда мы говорим о наших планах но с указанием времени
-I'm having a very important meeting tomorrow
-We are meeting tomorrow at six
-I'm leaving the city tomorrow
-I'm flying to the USA next week
+> [!warning] Не употребляются в Continuous
+> **understand, want, concern, depend** — в Continuous не употребляются.
 
+- I perfectly <font color="#10b981">**understand**</font> it now.
+- Each of us <font color="#10b981">**wants**</font> to do the same now.
+- It <font color="#10b981">**concerns**</font> each of us now.
+- Such an important thing <font color="#10b981">**concerns**</font> each of us now.
+- What does it <font color="#10b981">**depend**</font> on now?
 
+## Present Continuous in Future
+
+Используется, когда мы говорим о наших планах, но с указанием времени.
+
+- I'<font color="#10b981">**m having**</font> a very important meeting tomorrow.
+- We <font color="#10b981">**are meeting**</font> tomorrow at six.
+- I'<font color="#10b981">**m leaving**</font> the city tomorrow.
+- I'<font color="#10b981">**m flying**</font> to the USA next week.

@@ -1,70 +1,74 @@
-**Дата изучения:** 14.12.2025  
-**Видео:** https://www.youtube.com/watch?v=yCr4stvTyVs
+**Уровень:** B1 · **Дата изучения:** 14.12.2025 · **Видео:** [YouTube](https://www.youtube.com/watch?v=yCr4stvTyVs)
 
 ---
-I'm ready for it.
 
-polito to - вежлив с
+##### ready for — готов к
 
-He is very polite to her.
+- I'm <font color="#10b981">**ready for**</font> it.
 
-harmful to - вредно для, вредный для
-harm - вред
+##### polite to — вежлив с
 
-It is very harmful to your health
-It is often said that smoking is very harmful to people's health 
-aware of. - осведомлен о чем-то
+- He is very <font color="#10b981">**polite to**</font> her.
 
-She is aware of these risks
-amazed by / at - поражен чем-то
+##### harmful to — вредно для, вредный для
 
-I was amazed by my results
-I was amazed by this place's beauty / I was amazed by the beauty of this place
+> [!note] harm — вред
 
+- It is very <font color="#10b981">**harmful to**</font> your health.
+- It is often said that smoking is very <font color="#10b981">**harmful to**</font> people's health.
 
-satistfied with - удовлетворен чем-то
-dissatistfied with - не удовлетворен чем-то
-fully satistfied with -полностью  удовлетворен чем-то
+##### aware of — осведомлён о чём-то
 
-I'm fully satisfied with these results
+- She is <font color="#10b981">**aware of**</font> these risks.
 
+##### amazed by · amazed at — поражён чем-то
 
-He is dissatisfied with the results of the test
-I'm dissatisfied with the quality of this service
+- I was <font color="#10b981">**amazed by**</font> my results.
+- I was <font color="#10b981">**amazed by**</font> this place's beauty. / I was <font color="#10b981">**amazed by**</font> the beauty of this place.
 
-suitable for - подходящий для
+##### satisfied with — удовлетворён чем-то
 
-This book is suitable for beginners 
-inspired by - вдохновлен чем-то
-I was really inspired by this speech
+> [!note] dissatisfied with — не удовлетворён чем-то · fully satisfied with — полностью удовлетворён чем-то
 
-I was really inspired by my friend's achievements
+- I'm fully <font color="#10b981">**satisfied with**</font> these results.
+- He is <font color="#10b981">**dissatisfied with**</font> the results of the test.
+- I'm <font color="#10b981">**dissatisfied with**</font> the quality of this service.
 
-I was really inspired by the achievements of my friend
+##### suitable for — подходящий для
 
-close to - близко к
+- This book is <font color="#10b981">**suitable for**</font> beginners.
 
-It is close to this place 
+##### inspired by — вдохновлён чем-то
 
-interested in - интеросоваться чем-то
+- I was really <font color="#10b981">**inspired by**</font> this speech.
+- I was really <font color="#10b981">**inspired by**</font> my friend's achievements.
+- I was really <font color="#10b981">**inspired by**</font> the achievements of my friend.
 
-What are you interested in ?
+##### close to — близко к
 
-worried about - взволнован чем-то
+- It is <font color="#10b981">**close to**</font> this place.
 
-What are you worried about?
-I don't worry about my results
+##### interested in — интересоваться чем-то
 
-What are you keen on? 
+- What are you <font color="#10b981">**interested in**</font>?
 
-afraid of - бояться чего-то/кого-то
+##### worried about — взволнован чем-то
 
-What are you afraid of? 
+- What are you <font color="#10b981">**worried about**</font>?
+- I don't <font color="#10b981">**worry about**</font> my results.
 
-angry about - зол на что-то
+##### keen on — увлечён чем-то
 
-What is he angry about? 
+- What are you <font color="#10b981">**keen on**</font>?
 
-surprised by / at - удивлен чем-то
+##### afraid of — бояться чего-то / кого-то
 
-What are they surprised by? 
+- What are you <font color="#10b981">**afraid of**</font>?
+
+##### angry about — зол на что-то
+
+- What is he <font color="#10b981">**angry about**</font>?
+
+##### surprised by · surprised at — удивлён чем-то
+
+- What are they <font color="#10b981">**surprised by**</font>?

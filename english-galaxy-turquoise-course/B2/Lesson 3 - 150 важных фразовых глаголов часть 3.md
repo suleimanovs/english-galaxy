@@ -1,88 +1,65 @@
-**Дата изучения:** 26.03.2026
-**Видео:** https://www.youtube.com/watch?v=86jHn5Iyvx8
+**Уровень:** B2 · **Дата изучения:** 26.03.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=86jHn5Iyvx8)
 
 ---
 
-come in - зайти
-come in for a cup of coffee - зайти на чашечку кофе
+##### come in — зайти
 
-Would you like to come in for a cup of coffee? 
+- Would you like to <font color="#10b981">**come in**</font> for a cup of coffee?
 
----
+##### look in · visit someone for a short time — заглянуть, навестить
 
-Look in - заглянуть, навестить
-look in on someone - заглянуть к кому-то
-visit someone for a short time - 
+- I will <font color="#10b981">**look in**</font> on you for a cup of coffee.
+- You can <font color="#10b981">**look in**</font> on me.
+- I will <font color="#10b981">**look in**</font> on you for a cup of tea if you don't mind.
 
-I will look in on you for a cup of coffee
-You can look in on me
-I will look in on you for a cup of tea if you don't mind
+##### take after · resemble — быть похожим на кого-то
 
----
-take after - быть похожим на кого-то
-resemble - быть похожим на кого-то
+- He <font color="#10b981">**takes after**</font> his father.
+- He **resembles** his father.
+- She doesn't <font color="#10b981">**take after**</font> her sister at all.
 
-He takes after his father.
-He resembles his father.
-She doesn't take after her sister at all.
+##### look after — присматривать, ухаживать за
 
----
+- He <font color="#10b981">**looks after**</font> his old grandmother.
 
-look after - присматривать, ухаживать за
+##### look out · watch out — смотреть по сторонам, быть осторожным
 
-He looks after his old grandmother
+- <font color="#10b981">**Watch out**</font> or you can fall!
 
----
-look out -  смотреть посторонам, быть осторожным
-watch out -  смотреть посторонам, быть осторожным
+##### bring up — воспитывать
 
-Watch out or you can fall!
+- He was born and <font color="#10b981">**brought up**</font> in the United States.
+- He was <font color="#10b981">**brought up**</font> by his uncle.
 
----
-bring out - воспитывать
+##### fall out · quarrel — ссориться
 
-He was born and brought up in the United States.
-He was brought up by his uncle.
+- He tries not to <font color="#10b981">**fall out**</font> with others.
 
----
-fall out / quarrel - ссориться
+##### look through — просматривать
 
-He tries not to fall out with others 
+- I will <font color="#10b981">**look through**</font> these documents.
 
----
-look through - просмтаривать
+##### fall behind — отставать
 
-I will look through these documents.
+- If you don't do anything urgently you can <font color="#10b981">**fall behind**</font> very easily.
+- She <font color="#10b981">**fell behind**</font> the rest of the group.
 
----
-fall behind - отставать
+##### look back — оглянуться
 
-If you don't do anything urgently you can fall behind very easily.
-She fell behind the rest of the group.
+- When she <font color="#10b981">**looks back**</font> on those days, she realizes how happy she was.
+- <font color="#10b981">**Looking back**</font> on my life I come to the conclusion that lots of mistakes were made.
 
----
-look back - оглянуться
+##### look ahead — забегать вперёд, смотреть вперёд
 
-When she looks back on those days, she realizes how happy she was.
-Looking back on my life I come to the conclusion that lots of mistakes were made
+- <font color="#10b981">**Looking ahead**</font> we need to be ready for it.
+- <font color="#10b981">**Looking ahead**</font> we also need to take it into account.
 
----
-look ahead - забегать вперед, смотря вперед
+##### get across — донести, передать (мысль, идею)
 
-Looking ahead we need to be ready for it 
-Looking ahead we also need to take it into account
+- I will try to <font color="#10b981">**get across**</font> my message.
+- I tried to <font color="#10b981">**get**</font> this point <font color="#10b981">**across**</font>.
 
----
-get across - донести, передать (мысль, идею)
+##### get back to — возвращаться к
 
-I will try to get across my message 
-I tried to get this point across
-
----
-
-get back to - возвращаться к 
-
-Let's get back to discussing our work
-Let's get back to discussing it
-
----
+- Let's <font color="#10b981">**get back to**</font> discussing our work.
+- Let's <font color="#10b981">**get back to**</font> discussing it.

@@ -1,70 +1,61 @@
-**Дата изучения:** 01.05.2026
-**Видео:** https://www.youtube.com/watch?v=ecqcoZUYtnw
+**Уровень:** B2 · **Дата изучения:** 01.05.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=ecqcoZUYtnw)
 
 ---
 
-view on - взгляд на
-with a view of - с видом на что-то
+##### view on — взгляд на
 
-We have different views on this issue.
-My friends and I have a similar view on online education.
-I would like to book a room with a view of the ocean.
-The view of the sea is incredible.
-This view of the ocean is just incredible.
+- We have different <font color="#10b981">**views on**</font> this issue.
+- My friends and I have a similar <font color="#10b981">**view on**</font> online education.
 
----
-blame someone for something - винить кого-то в чем-то / за что-то
+##### with a view of — с видом на что-то
 
-He always blames her for everything.
-I don't blame them for doing it.
+- I would like to book a room <font color="#10b981">**with a view of**</font> the ocean.
+- The <font color="#10b981">**view of**</font> the sea is incredible.
+- This <font color="#10b981">**view of**</font> the ocean is just incredible.
 
----
-smell of - запах чего-то
+##### blame someone for something — винить кого-то в чём-то / за что-то
 
-This fragrance has a smell of flowers.
+- He always <font color="#10b981">**blames**</font> her <font color="#10b981">**for**</font> everything.
+- I don't <font color="#10b981">**blame**</font> them <font color="#10b981">**for**</font> doing it.
 
----
-impressed with / by - впечатлен чем-то
+##### smell of — запах чего-то
 
-I'm impressed with their professionalism.
+- This fragrance has a <font color="#10b981">**smell of**</font> flowers.
 
-I'm truly impressed with the beauty of this place
-I'm really impressed by his knowledge
+##### impressed with · impressed by — впечатлён чем-то
 
----
-benefits of - преимущество чего-то
+- I'm <font color="#10b981">**impressed with**</font> their professionalism.
+- I'm truly <font color="#10b981">**impressed with**</font> the beauty of this place.
+- I'm really <font color="#10b981">**impressed by**</font> his knowledge.
 
-What are the benefits of home education? 
-You can't deny the benefits of a good education.
+##### benefits of — преимущество чего-то
 
----
-similar to - схож с чем-то / похож на
+- What are the <font color="#10b981">**benefits of**</font> home education?
+- You can't deny the <font color="#10b981">**benefits of**</font> a good education.
 
-As I see your idea is similar to mine.
-His beliefs are very similar to hers.
-Her beliefs are quite similar to his.
+##### similar to — схож с чем-то / похож на
 
----
-protect from - защищать от чего-то
+- As I see, your idea is <font color="#10b981">**similar to**</font> mine.
+- His beliefs are very <font color="#10b981">**similar to**</font> hers.
+- Her beliefs are quite <font color="#10b981">**similar to**</font> his.
 
-We need to protect her from these possible risks.
+##### protect from — защищать от чего-то
 
----
-brilliant at - блестяще владеть чем-то
+- We need to <font color="#10b981">**protect**</font> her <font color="#10b981">**from**</font> these possible risks.
 
-He is brilliant at foreign languages 
-As we see she is brilliant at English
-He is brilliant at playing football
+##### brilliant at — блестяще владеть чем-то
 
----
-confident in - уверен в чем-то
+- He is <font color="#10b981">**brilliant at**</font> foreign languages.
+- As we see, she is <font color="#10b981">**brilliant at**</font> English.
+- He is <font color="#10b981">**brilliant at**</font> playing football.
 
-I feel much more confident in English thanks to this course.
-I feel much more confident in English, and it really motivates me to continue
+##### confident in — уверен в чём-то
 
----
-make an impression on - произвести впечатление на 
+- I feel much more <font color="#10b981">**confident in**</font> English thanks to this course.
+- I feel much more <font color="#10b981">**confident in**</font> English, and it really motivates me to continue.
 
-He made a very favorable impression on me.
-It made a very negative impression on me
-This thing made an unforgettable impression on me
+##### make an impression on — произвести впечатление на
+
+- He made a very favorable <font color="#10b981">**impression on**</font> me.
+- It made a very negative <font color="#10b981">**impression on**</font> me.
+- This thing made an unforgettable <font color="#10b981">**impression on**</font> me.

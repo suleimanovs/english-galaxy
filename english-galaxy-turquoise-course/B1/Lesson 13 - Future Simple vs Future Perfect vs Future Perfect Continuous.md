@@ -1,50 +1,57 @@
-**Дата изучения:** 21.01.2026  
-**Видео:** https://www.youtube.com/watch?v=vAh2fSlcPpQ
+**Уровень:** B1 · **Дата изучения:** 21.01.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=vAh2fSlcPpQ)
 
 ---
-devote - уделять на
-firmly believe - твердо верить
-#### Future Simple
 
-I will try to devote more time to English
-I will finish this book soon
-I firmly believe that it will happen sooner or later
-I will do it with great pleasure 
-I expect that it it will happen one day
+## Полезная лексика
 
-#### Future Continuous
+- **devote** — уделять, посвящать
+- **firmly believe** — твёрдо верить
 
-will + be + verb + ing
+## Future Simple
 
-I will be waiting for your confirmation - Я буду ждать (а не просто я подожду), потому и Continuous
-We will be lying on the beach in the sun this time tomorrow   - Есть уточнение времени в будущем
-I will be <font color="#9bbb59">waiting</font> for your decision
-We will be <font color="#9bbb59">waiting</font> for your answer
-The will be <font color="#9bbb59">waiting</font> for our confirmation
+Простое будущее время: одиночное действие или решение в будущем.
 
-#### Future Perfect
+- I <font color="#10b981">**will try**</font> to devote more time to English.
+- I <font color="#10b981">**will finish**</font> this book soon.
+- I firmly believe that it <font color="#10b981">**will happen**</font> sooner or later.
+- I <font color="#10b981">**will do**</font> it with great pleasure.
+- I expect that it <font color="#10b981">**will happen**</font> one day.
 
-will have + Verb 3
+## Future Continuous
 
-I will have finished it by four 
-She will have graduated from university by next year
-He will  have earned ten thousand dollars <font color="#c0504d">by</font> the end of the year
-I will have finished reading this book <font color="#c0504d">by</font> next week
-I will have reached this level <font color="#c0504d">by</font> next year
-They will have built a bridge <font color="#c0504d">by</font> next summer
-I expect that i will have earned this money <font color="#c0504d">by</font> the end of the year
-I will have finished it <font color="#c0504d">by</font> the end of the year
-I will have solved this problem <font color="#c0504d">by</font> the end of the week 
-I will have finished doing it <font color="#c0504d">by</font> the end of the month
+**Формула:** will + be + verb + ing
 
+Действие, которое будет длиться (находиться в процессе) в определённый момент в будущем.
 
-#### Future Perfect Continuous
+- I <font color="#10b981">**will be waiting**</font> for your confirmation. — Я буду ждать (а не просто я подожду), потому и Continuous.
+- We <font color="#10b981">**will be lying**</font> on the beach in the sun this time tomorrow. — Есть уточнение времени в будущем.
+- I <font color="#10b981">**will be waiting**</font> for your decision.
+- We <font color="#10b981">**will be waiting**</font> for your answer.
+- They <font color="#10b981">**will be waiting**</font> for our confirmation.
 
-will have been + verb + ing
+## Future Perfect
 
-I will have been working here <font color="#4bacc6">for</font> three years <font color="#4bacc6">by</font>  next month 
-He will have been living in the city <font color="#4bacc6">for</font> ten years <font color="#4bacc6">by</font> next year
-I will have been reading this book <font color="#4bacc6">for</font> a month <font color="#4bacc6">by</font> next week
+**Формула:** will have + Verb 3
 
+Действие, которое завершится к определённому моменту в будущем (часто с **by**).
 
+- I <font color="#10b981">**will have finished**</font> it by four.
+- She <font color="#10b981">**will have graduated**</font> from university by next year.
+- He <font color="#10b981">**will have earned**</font> ten thousand dollars by the end of the year.
+- I <font color="#10b981">**will have finished**</font> reading this book by next week.
+- I <font color="#10b981">**will have reached**</font> this level by next year.
+- They <font color="#10b981">**will have built**</font> a bridge by next summer.
+- I expect that I <font color="#10b981">**will have earned**</font> this money by the end of the year.
+- I <font color="#10b981">**will have finished**</font> it by the end of the year.
+- I <font color="#10b981">**will have solved**</font> this problem by the end of the week.
+- I <font color="#10b981">**will have finished**</font> doing it by the end of the month.
 
+## Future Perfect Continuous
+
+**Формула:** will have been + verb + ing
+
+Действие, которое будет длиться вплоть до определённого момента в будущем (с указанием продолжительности — **for** … **by** …).
+
+- I <font color="#10b981">**will have been working**</font> here for three years by next month.
+- He <font color="#10b981">**will have been living**</font> in the city for ten years by next year.
+- I <font color="#10b981">**will have been reading**</font> this book for a month by next week.

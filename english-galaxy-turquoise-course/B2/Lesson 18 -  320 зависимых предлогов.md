@@ -1,82 +1,59 @@
-**Дата изучения:** 16.05.2026
-**Видео:** https://www.youtube.com/watch?v=04JltqBFLI8
+**Уровень:** B2 · **Дата изучения:** 16.05.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=04JltqBFLI8)
 
 ---
 
-involved in - вовлечен во что-то
+##### involved in — вовлечён во что-то
 
-He is also involved in this project.
-I'm involved in this project.
-She was involved in this scandal
+- He is also <font color="#10b981">**involved in**</font> this project.
+- I'm <font color="#10b981">**involved in**</font> this project.
+- She was <font color="#10b981">**involved in**</font> this scandal.
 
----
+##### intent on — намереваться на что-то
 
-intent on - намереваться на что-то
+- I'm <font color="#10b981">**intent on**</font> doing it.
 
-I'm intent on doing it.
+##### peer at — пристально смотреть / уставиться на
 
----
+- He <font color="#10b981">**peered at**</font> the photo.
+- She <font color="#10b981">**peered at**</font> this image.
+- He <font color="#10b981">**peered at**</font> the screen.
 
-peer at - пристально смотреть/уставиться на 
+##### subscribe to — подписаться на
 
-He peered at the photo
+- I have already <font color="#10b981">**subscribed to**</font> that channel.
+- I'm <font color="#10b981">**subscribed to**</font> these channels.
+- I'm <font color="#10b981">**subscribed to**</font> several channels.
+- Ten million people are <font color="#10b981">**subscribed to**</font> this channel.
 
----
+> [!note] to be subscribed to — быть подписанным на
 
-She peered at this image.
-He peered at the screen 
+##### thankful to someone for something — благодарен кому-то за что-то
 
----
+- I'm really <font color="#10b981">**thankful to**</font> you <font color="#10b981">**for**</font> it.
+- I'm very <font color="#10b981">**thankful to**</font> you <font color="#10b981">**for**</font> your advice.
+- I'm really <font color="#10b981">**thankful to**</font> you <font color="#10b981">**for**</font> your help.
 
-subscribe to - подписаться на
-to be subscribed to - быть подписанным на
+##### laugh at — смеяться над
 
-I have already subscribed to that channel
-I'm subscribed to these channels.
-I'm subscribed to several channels.
-Ten million people are subscribed to this channel
+- I wouldn't <font color="#10b981">**laugh at**</font> him in your place.
 
----
+##### fined for — оштрафован за что-то
 
-thankful to someone for something
+- He was <font color="#10b981">**fined for**</font> careless driving.
+- He was <font color="#10b981">**fined for**</font> it.
 
-I'm really thankful to you for it.
-I'm very thankful to you for your advice  
-I'm really thankful to you for your help.
+##### filled with — наполнен чем-то
 
----
+- Her eyes were <font color="#10b981">**filled with**</font> tears.
 
-laugh at - смеяться над 
+##### puzzled by — озадачен чем-то
 
-I wouldn't laugh at him in your place 
+- I was very <font color="#10b981">**puzzled by**</font> it.
+- I am so <font color="#10b981">**puzzled by**</font> all this.
+- I am really <font color="#10b981">**puzzled by**</font> his reaction to this question.
 
----
+##### solution to — решение чего-то
 
-fined for - оштрафован за что-то
-
-He was fined for careless driving 
-He was fined for it 
-
----
-filled with - наполнен чем-то
-
-Her eyes were filled with tears
-
----
-puzzled by - озадачен чем-то
-
-I was very puzzled by it 
-I am so puzzled by all this.
-I am really puzzled by his reaction to this question
-
----
-
-solution to - решение чего-то
-
-I am absolutely certain that it is the only right solution to this problem
-It is only a partial solution to this problem
-I'm not satisfied with this decision because it is only a partial solution to this problem
-
----
-
-
+- I am absolutely certain that it is the only right <font color="#10b981">**solution to**</font> this problem.
+- It is only a partial <font color="#10b981">**solution to**</font> this problem.
+- I'm not satisfied with this decision because it is only a partial <font color="#10b981">**solution to**</font> this problem.

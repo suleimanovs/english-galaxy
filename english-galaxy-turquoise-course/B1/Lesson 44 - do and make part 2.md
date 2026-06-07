@@ -1,47 +1,50 @@
-**Дата изучения:** 12.03.2026
-**Видео:** https://www.youtube.com/watch?v=1FvKyk-85ow
+**Уровень:** B1 · **Дата изучения:** 12.03.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=1FvKyk-85ow)
 
 ---
 
-make sure - убедиться
-make - создавать, производить
-make a payment - сделать платеж
-make a call - сделать звонок
-make a phone call - сделать телефонный звонок
-make an offer - сделать предложение
-make a suggestion - сделать преположение
-make an agreement - заключить соглашение
-make a discovery  - сделать открытие
-make a remark - сделать замечание
-make an attempt - сделать попытку
-make comments - сделать комментарий
-make an impression - произвести впечатление
-make a very favorable impression -  произвести  очень блоагоприятное впечатление
-i made up my mind - я принял решение
+##### make sure — убедиться
+- I want to <font color="#10b981">**make sure**</font> that it is really so.
+- I just wanted to <font color="#10b981">**make sure**</font> that it was really so.
+- You need to <font color="#10b981">**make sure**</font> that you keep it under control.
+- Not enough is done to change this situation.
 
-I want to make sure that it is really so.
-I just wanted to make sure that it was really so.
-You need to make sure that you keep it under control.
-Not enough is done to change this situation.
-It is made in China. It is made in Italy. This factory makes furniture.
-She made a big mistake. He made such a big mistake.
-I need to make this payment now. Did you make this payment? 
-I need to make a phone call.
-They made me a very interesting offer.
-My friend made a very interesting suggestion.
-They made a special agreement.
-These scientists made a great discovery.
-The reporter made a very interesting remark.
-I made one more attempt.
-The teacher made a few comments.
-It made a very favorable impression on me.
-To tell the truth, it made a very favorable impression on me.
-I made up my mind to stay at home.
-I made up my mind to do it a bit later.
+##### make — создавать, производить
+- It is <font color="#10b981">**made**</font> in China. It is <font color="#10b981">**made**</font> in Italy. This factory <font color="#10b981">**makes**</font> furniture.
+- She <font color="#10b981">**made**</font> a big mistake. He <font color="#10b981">**made**</font> such a big mistake.
 
+##### make a payment — сделать платёж
+- I need to <font color="#10b981">**make**</font> this <font color="#10b981">**payment**</font> now. Did you <font color="#10b981">**make**</font> this <font color="#10b981">**payment**</font>?
 
+##### make a call — сделать звонок
+##### make a phone call — сделать телефонный звонок
+- I need to <font color="#10b981">**make a phone call**</font>.
 
+##### make an offer — сделать предложение
+- They <font color="#10b981">**made**</font> me a very interesting <font color="#10b981">**offer**</font>.
 
+##### make a suggestion — сделать предложение
+- My friend <font color="#10b981">**made**</font> a very interesting <font color="#10b981">**suggestion**</font>.
 
+##### make an agreement — заключить соглашение
+- They <font color="#10b981">**made**</font> a special <font color="#10b981">**agreement**</font>.
 
+##### make a discovery — сделать открытие
+- These scientists <font color="#10b981">**made**</font> a great <font color="#10b981">**discovery**</font>.
 
+##### make a remark — сделать замечание
+- The reporter <font color="#10b981">**made**</font> a very interesting <font color="#10b981">**remark**</font>.
+
+##### make an attempt — сделать попытку
+- I <font color="#10b981">**made**</font> one more <font color="#10b981">**attempt**</font>.
+
+##### make comments — сделать комментарий
+- The teacher <font color="#10b981">**made**</font> a few <font color="#10b981">**comments**</font>.
+
+##### make an impression — произвести впечатление
+##### make a very favorable impression — произвести очень благоприятное впечатление
+- It <font color="#10b981">**made a very favorable impression**</font> on me.
+- To tell the truth, it <font color="#10b981">**made a very favorable impression**</font> on me.
+
+##### I made up my mind — я принял решение
+- I <font color="#10b981">**made up my mind**</font> to stay at home.
+- I <font color="#10b981">**made up my mind**</font> to do it a bit later.

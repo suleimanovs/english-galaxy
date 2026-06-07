@@ -1,37 +1,41 @@
-**Дата изучения:** 17.02.2026
-**Видео:** https://www.youtube.com/watch?v=PN2HQboKiv4
+**Уровень:** B1 · **Дата изучения:** 17.02.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=PN2HQboKiv4)
 
 ---
 
-He wants to sell his house
-She refused to say it
-I will try not to forget to do it
-I'm not going to argue about it
-I'm planning to do it later 
-I'm not planning to do it
+## Глаголы, требующие to-инфинитив
 
-##### глаголы требующие ing - форму
-risk, practice, stop doing something, feel like
+После некоторых глаголов следует частица **to** + инфинитив (want, refuse, try, plan и др.).
 
-stop to do -  остановиться что бы сделать что-то: I stopped to make a call
+- He wants <font color="#10b981">**to sell**</font> his house.
+- She refused <font color="#10b981">**to say**</font> it.
+- I will try not <font color="#10b981">**to forget**</font> to do it.
+- I'm not going <font color="#10b981">**to argue**</font> about it.
+- I'm planning <font color="#10b981">**to do**</font> it later.
+- I'm not planning <font color="#10b981">**to do**</font> it.
 
-She risks losing her last money
-I practice speaking English every day
-They stopped talking 
-He hates cooking
-Do you feel like drinking a cup of coffee?
+## Глаголы, требующие ing-форму
 
+После некоторых глаголов следует **ing**-форма: risk, practice, stop doing something, feel like.
 
-##### смешанная практика
+- She risks <font color="#10b981">**losing**</font> her last money.
+- I practice <font color="#10b981">**speaking**</font> English every day.
+- They stopped <font color="#10b981">**talking**</font>.
+- He hates <font color="#10b981">**cooking**</font>.
+- Do you feel like <font color="#10b981">**drinking**</font> a cup of coffee?
 
-She can't afford to buy an apartment
-What are you planning to do?
-She asked me to repeat this question
-I try to practise speaking English every day
-I will try to do my best to solve this problem 
-I feel like drinking a cup of coffee
-She hates cooking
-He decided to stop smoking
-I stopped to ask him a question
-I tend to think that it is really so
+> [!tip] stop to do vs stop doing
+> **stop to do** — остановиться, чтобы сделать что-то: I stopped <font color="#10b981">**to make**</font> a call.
+> **stop doing** — прекратить делать что-то: They stopped <font color="#10b981">**talking**</font>.
 
+## Смешанная практика
+
+- She can't afford <font color="#10b981">**to buy**</font> an apartment.
+- What are you planning <font color="#10b981">**to do**</font>?
+- She asked me <font color="#10b981">**to repeat**</font> this question.
+- I try <font color="#10b981">**to practise**</font> speaking English every day.
+- I will try <font color="#10b981">**to do**</font> my best to solve this problem.
+- I feel like <font color="#10b981">**drinking**</font> a cup of coffee.
+- She hates <font color="#10b981">**cooking**</font>.
+- He decided <font color="#10b981">**to stop**</font> smoking.
+- I stopped <font color="#10b981">**to ask**</font> him a question.
+- I tend <font color="#10b981">**to think**</font> that it is really so.

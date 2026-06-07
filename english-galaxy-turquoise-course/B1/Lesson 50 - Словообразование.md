@@ -1,150 +1,182 @@
-**Дата изучения:** 23.03.2026
-**Видео:** https://www.youtube.com/watch?v=4uRNjG1lD5I
+**Уровень:** B1 · **Дата изучения:** 23.03.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=4uRNjG1lD5I)
 
 ---
 
-Pleasant - приятный
-Unpleasant - неприятный
+##### pleasant — приятный
 
-Active - активный
-Inactive - неактивный
+- You have a very <font color="#10b981">**pleasant**</font> smile.
 
-expect - ожидать
-unexpected - не ожиданный
+##### unpleasant — неприятный
 
-logical - логичный
-illogical - не логичный
+- It was a very <font color="#10b981">**unpleasant**</font> situation.
 
-decisive - решительный
-indecisive - не решительный
+##### active — активный
 
-end - конец
-endless - бесконечный
+- Although she is seventy years old she leads a very <font color="#10b981">**active**</font> lifestyle.
 
-unimaginable - невооброзимый
+##### inactive — неактивный
 
-capable of - способный
-incapable of - неспособный
+- This function is <font color="#10b981">**inactive**</font> at the moment.
 
-responsible - ответственный
-irresponsible - безответственный
+##### expect — ожидать
 
-attractive - привлекательный
-unattractive - непривлекательный
+##### unexpected — неожиданный
 
-formal - формальный
-informal - неформальный
+- It was such an <font color="#10b981">**unexpected**</font> offer.
+- This news was so <font color="#10b981">**unexpected**</font>.
 
-accurate - точный
-inaccurate - не точный
+##### logical — логичный
 
-comfortable - комфортный
-uncomfortable - некомфортный
+##### illogical — нелогичный
 
-approve of - одобрять
-disapprove of - не одобрять
+- That decision seems very <font color="#10b981">**illogical**</font>.
 
-sure about - уверен
-unsure about - неуверен
+##### decisive — решительный
 
-professionally - профессионально
-unprofessionally - не профессионально
+##### indecisive — нерешительный
 
-harm - вред
-harmful - вредный
-harmless - безвредный
+- They take very <font color="#10b981">**indecisive**</font> measures.
 
-polite - вежливый
-impolite - не вежливый
+##### end — конец
 
-place - размещать
-replace - заменять
-irreplaceable - незаменимый
+##### endless — бесконечный
 
-satisfied - удовлетворен
-dissatisfied with - не удовлетворен
+- It seems an <font color="#10b981">**endless**</font> process.
+- It is an <font color="#10b981">**endless**</font> process.
 
-comfort - удобство
-discomfort - дискомфорт
+##### unimaginable — невообразимый
 
-valuable - ценный
-invaluable - бесценный
+- It is really <font color="#10b981">**unimaginable**</font>.
+- It really seems <font color="#10b981">**unimaginable**</font>.
 
-understand - понимать
-misunderstand - неправильно понимать
+##### capable of — способный
 
-Understanding - понимание
-misunderstanding - недопонимание
+##### incapable of — неспособный
 
+- He was <font color="#10b981">**incapable of**</font> solving those problems.
 
-believe - верить
-unbelievable - неворятный
-belief - убеждения
+##### responsible — ответственный
 
-important - важный
-unimportant - не важный
+##### irresponsible — безответственный
 
-Circumstances  - абстоятельства 
+- It was an <font color="#10b981">**irresponsible**</font> decision.
 
----
+##### attractive — привлекательный
 
-You have a very pleasant smile.
-It was a very unpleasant situation.
+##### unattractive — непривлекательный
 
-Although she is seventy years old she leads a very active lifestyle.
-This function is inactive at the moment.
+- This offer seems <font color="#10b981">**unattractive**</font>.
 
-It was such an unexpected offer.
-This news was so unexpected.
+##### formal — формальный
 
-That decision seems very illogical.
-They take very indecisive measures.
+##### informal — неформальный
 
-It seems an endless process.
-It is an endless process.
+- This offer sounds very <font color="#10b981">**formal**</font>.
 
-It is really unimaginable.
-It really seems unimaginable.
+##### accurate — точный
 
-He was incapable of solving those problems.
+##### inaccurate — неточный
 
-It was an irresponsible decision.
-This offer seems unattractive
+- These figures aren't <font color="#10b981">**accurate**</font> enough.
+- These figures are <font color="#10b981">**inaccurate**</font>.
 
-This offer sounds very formal.
+##### comfortable — комфортный
 
-These figures aren't accurate enough
-These figures are inaccurate.
+##### uncomfortable — некомфортный
 
-I feel very comfortable at the moment.
-To be honest, I feel very uncomfortable here.
+- I feel very <font color="#10b981">**comfortable**</font> at the moment.
+- To be honest, I feel very <font color="#10b981">**uncomfortable**</font> here.
 
-I approve of your choice
-I disapprove of such behavior.
+##### approve of — одобрять
 
-I'm absolutely sure about it.
-I'm really unsure about this decision.
+##### disapprove of — не одобрять
 
-It was done very professionally.
-It is done very unprofessionally.
+- I <font color="#10b981">**approve of**</font> your choice.
+- I <font color="#10b981">**disapprove of**</font> such behavior.
 
-I don't think that this food is really harmless
+##### sure about — уверен
 
-It is considered impolite.
-He thinks he is such an irreplaceable worker.
+##### unsure about — неуверен
 
-I'm really satisfied with my results.
-I'm dissatisfied with such an answer.
-I'm dissatisfied with my results.
-She feels some kind of discomfort working here.
+- I'm absolutely <font color="#10b981">**sure about**</font> it.
+- I'm really <font color="#10b981">**unsure about**</font> this decision.
 
-It is an invaluable source of information.
-I think that we misunderstood each other.
+##### professionally — профессионально
 
-I'm afraid there is some misunderstanding between us
+##### unprofessionally — непрофессионально
 
-It is really unbelievable. It seems unbelievable.
-It is a very popular belief nowadays.
+- It was done very <font color="#10b981">**professionally**</font>.
+- It is done very <font color="#10b981">**unprofessionally**</font>.
 
-It is said that there are no unimportant things in our life.
-I come to the conclusion that there are no unimportant circumstances in our life
+##### harm — вред
+
+##### harmful — вредный
+
+##### harmless — безвредный
+
+- I don't think that this food is really <font color="#10b981">**harmless**</font>.
+
+##### polite — вежливый
+
+##### impolite — невежливый
+
+- It is considered <font color="#10b981">**impolite**</font>.
+
+##### place — размещать
+
+##### replace — заменять
+
+##### irreplaceable — незаменимый
+
+- He thinks he is such an <font color="#10b981">**irreplaceable**</font> worker.
+
+##### satisfied — удовлетворён
+
+##### dissatisfied with — не удовлетворён
+
+- I'm really <font color="#10b981">**satisfied**</font> with my results.
+- I'm <font color="#10b981">**dissatisfied with**</font> such an answer.
+- I'm <font color="#10b981">**dissatisfied with**</font> my results.
+
+##### comfort — удобство
+
+##### discomfort — дискомфорт
+
+- She feels some kind of <font color="#10b981">**discomfort**</font> working here.
+
+##### valuable — ценный
+
+##### invaluable — бесценный
+
+- It is an <font color="#10b981">**invaluable**</font> source of information.
+
+##### understand — понимать
+
+##### misunderstand — неправильно понимать
+
+- I think that we <font color="#10b981">**misunderstood**</font> each other.
+
+##### understanding — понимание
+
+##### misunderstanding — недопонимание
+
+- I'm afraid there is some <font color="#10b981">**misunderstanding**</font> between us.
+
+##### believe — верить
+
+##### unbelievable — невероятный
+
+##### belief — убеждения
+
+- It is really <font color="#10b981">**unbelievable**</font>. It seems <font color="#10b981">**unbelievable**</font>.
+- It is a very popular <font color="#10b981">**belief**</font> nowadays.
+
+##### important — важный
+
+##### unimportant — не важный
+
+- It is said that there are no <font color="#10b981">**unimportant**</font> things in our life.
+
+##### circumstances — обстоятельства
+
+- I come to the conclusion that there are no unimportant <font color="#10b981">**circumstances**</font> in our life.
