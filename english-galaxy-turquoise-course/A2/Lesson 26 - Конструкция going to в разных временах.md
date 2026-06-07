@@ -1,75 +1,65 @@
-**Уровень:** A2  
-**Дата изучения:** 06.09.2025  
+**Уровень:** A2 · **Дата изучения:** 06.09.2025
 
 ---
 
-Going to - собираться делать что-то
+## Введение в тему
 
-форма to be + going to + глагол
+**Going to** — собираться делать что-то.
 
-Present Simple
+**Форма:** to be + **going to** + глагол.
 
-Am/ Is/ Are + going to + verb
+> [!note] Разговорная форма
+> В неформальной речи **going to** часто сокращается до **gonna**.
+> - I am <font color="#10b981">**going to**</font> do it.
+> - I am <font color="#10b981">**gonna**</font> do it.
 
-I am going to do it
-I am gonna do it
+## Present Simple
 
-I'm going to go there next time
-I'm going to pay for it  in advance
+**Формула:** Am / Is / Are + **going to** + verb.
 
-in advance - заранее, так же beforehand
+- I'm <font color="#10b981">**going to**</font> go there next time.
+- I'm <font color="#10b981">**going to**</font> pay for it in advance.
+- I'm <font color="#10b981">**going to**</font> book these tickets in advance.
+- I'm <font color="#10b981">**going to**</font> book this room beforehand.
+- I'm not <font color="#10b981">**going to**</font> waste my time on it.
+- She is <font color="#10b981">**going to**</font> come to us.
+- I'm <font color="#10b981">**going to**</font> talk to him.
+- I'm not <font color="#10b981">**going to**</font> talk to him.
+- I'm <font color="#10b981">**going to**</font> finish my work soon.
+- I'm <font color="#10b981">**going to**</font> train much more intensively.
+- I'm <font color="#10b981">**going to**</font> do it tomorrow.
 
-I'm going to book these tickets in advance
+> [!tip] in advance
+> **in advance** — заранее, так же **beforehand**.
 
+### Вопросы
 
-I'm going to book this room beforehand
+- What are you <font color="#10b981">**going to**</font> do?
+- What are you <font color="#10b981">**going to**</font> do tonight?
+- What are you <font color="#10b981">**going to**</font> do in this situation?
+- What are you <font color="#10b981">**going to**</font> do with it?
 
-I'm not going to waste my time on it
+## Past Simple
 
-She is going to come to us
-I'm going to talk to him
+**Формула:** Was / Were + **going to** + verb.
 
+- He was <font color="#10b981">**going to**</font> come to us.
+- He wasn't <font color="#10b981">**going to**</font> say it.
+- I was <font color="#10b981">**going to**</font> call you.
 
-I'm not going to talk to him
-I'm going to finish my work soon
+## Сложнее
 
-I'm going to train much more intensively
-I'm going to do it tomorrow
+> [!tip] in case / if
+> После **in case** и **if** действует ограничение на Future Simple, поэтому используется **Present Simple**.
 
-What are you going to do?
+- What is she <font color="#10b981">**going to**</font> do **in case** it happens?
+- What are you <font color="#10b981">**going to**</font> do **if** this thing happens?
 
-What are you going to do tonight ?
+## Примеры
 
-What are you going to do in this situation?
-
-What are you going to do with it?
-
-Past Simple
-Was/ Were + going to + verb
-
-He was going to come to us
-
-He wasn't  going to say it
-
-I was going to call you
-
-More difficult :
-What is she going to do **in case** it happens? -  in case дает ограничение на future simple, по этому используется Present SImple
-
-What are you going to do **if** this thing happens? - if дает ограничение на future simple, по этому используется Present SImple
-
-I'm going to find out what he knows
-
-I'm going to find out what happened
-
-As i see, it is going to rain
-
-Who is going to come?
-
-I'm going to do it next time
-
-I'm gonna do it next time
-
-
-
-
+- I'm <font color="#10b981">**going to**</font> find out what he knows.
+- I'm <font color="#10b981">**going to**</font> find out what happened.
+- As I see, it is <font color="#10b981">**going to**</font> rain.
+- Who is <font color="#10b981">**going to**</font> come?
+- I'm <font color="#10b981">**going to**</font> do it next time.
+- I'm <font color="#10b981">**gonna**</font> do it next time.

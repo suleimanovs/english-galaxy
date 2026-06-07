@@ -1,104 +1,121 @@
-**Дата изучения:** 27.10.2025  
+**Уровень:** A2 · **Дата изучения:** 27.10.2025
 
 ---
 
-cheap - дешевый
-cheap<u>er</u> - дешевле
-the cheap<u>est</u> - самый дешевый
+## Введение в тему
 
-This model is cheaper
-It is the cheapest model
+Прилагательные имеют три степени сравнения: **положительную** (исходную форму), **сравнительную** (для сравнения двух предметов) и **превосходную** (для выделения одного из множества).
 
----
+## Короткие прилагательные
 
-long - длинный
-longer - длиннее
-the longest - самый длинный
+К коротким (как правило, односложным) прилагательным добавляется суффикс **-er** в сравнительной степени и **the …-est** в превосходной.
 
-This way is longer
-It is the longest way
+##### cheap — дешёвый
 
----
+- cheap<u>er</u> — дешевле
+- the cheap<u>est</u> — самый дешёвый
 
-high - высокий
-higher - выше
-the highest - самый высокий
+- This model is <font color="#10b981">**cheaper**</font>.
+- It is <font color="#10b981">**the cheapest**</font> model.
 
-His level is higher
-It is the highest level
+##### long — длинный
 
----
+- longer — длиннее
+- the longest — самый длинный
 
-expensive - дорогой
-more expensive - дороже
-the most expensive - самый дорогой
+- This way is <font color="#10b981">**longer**</font>.
+- It is <font color="#10b981">**the longest**</font> way.
 
-This ticket is more expensive
-It is the most expensive thing
+##### high — высокий
 
----
+- higher — выше
+- the highest — самый высокий
 
-effective - эффективный
-more effective - эффективнее
-the most effective - самый эффективный
+- His level is <font color="#10b981">**higher**</font>.
+- It is <font color="#10b981">**the highest**</font> level.
 
-This method is more effective
-It is the most effective method
+## Длинные прилагательные
 
----
-good - хороший
-better - лучше
-the best - лучший
+К длинным (двух- и более сложным) прилагательным добавляется **more** в сравнительной степени и **the most** в превосходной.
 
-It is better
-It is the best price
+##### expensive — дорогой
 
----
-bad - плохой
-worse - хуже
-the worst - самый плохой
+- more expensive — дороже
+- the most expensive — самый дорогой
 
-The quality of this product is worse
-It is the worst choice
+- This ticket is <font color="#10b981">**more expensive**</font>.
+- It is <font color="#10b981">**the most expensive**</font> thing.
 
----
-old - старый
-older - старше
-My elder brother - мой старший брат
+##### effective — эффективный
 
-He is older than me
-He is three years older than me
-He is my elder brother
+- more effective — эффективнее
+- the most effective — самый эффективный
 
----
+- This method is <font color="#10b981">**more effective**</font>.
+- It is <font color="#10b981">**the most effective**</font> method.
 
-This way is much shorter
-These tickets are much cheaper
-It is much more expensive 
+## Особые формы (исключения)
 
----
+Некоторые прилагательные образуют степени сравнения не по правилам.
 
-It is a cheaper hotel
-This idea is more interesting 
-It is a more interesting idea
+##### good — хороший
 
----
+- better — лучше
+- the best — лучший
 
-than me - чем я
-than him - чем он
-than her - чемо на
+- It is <font color="#10b981">**better**</font>.
+- It is <font color="#10b981">**the best**</font> price.
 
-He knows it better than me
-I know it better than him
+##### bad — плохой
 
-This thing is more expensive than that one
-That hotel is much more than this one
-I dont think that it is much easier 
+- worse — хуже
+- the worst — самый плохой
 
----
+- The quality of this product is <font color="#10b981">**worse**</font>.
+- It is <font color="#10b981">**the worst**</font> choice.
 
-In my opinion, it is the best choice
-From my point of view it is the most beautiful place in the world
-Definitely, it is better 
+##### old — старый
 
----
+- older — старше
+- my elder brother — мой старший брат
+
+- He is <font color="#10b981">**older**</font> than me.
+- He is three years <font color="#10b981">**older**</font> than me.
+- He is my <font color="#10b981">**elder**</font> brother.
+
+> [!note] older и elder
+> **older** используется для возраста в целом, а **elder** — для старшинства среди членов семьи (my elder brother — мой старший брат).
+
+## Усиление сравнительной степени
+
+Перед сравнительной степенью можно поставить **much**, чтобы усилить сравнение («намного, гораздо»).
+
+- This way is <font color="#10b981">**much shorter**</font>.
+- These tickets are <font color="#10b981">**much cheaper**</font>.
+- It is <font color="#10b981">**much more expensive**</font>.
+
+## Сравнительная степень с прилагательным перед существительным
+
+- It is a <font color="#10b981">**cheaper**</font> hotel.
+- This idea is <font color="#10b981">**more interesting**</font>.
+- It is a <font color="#10b981">**more interesting**</font> idea.
+
+## Конструкция than (чем)
+
+Для сравнения двух предметов используется **than**.
+
+- than me — чем я
+- than him — чем он
+- than her — чем она
+
+- He knows it <font color="#10b981">**better than**</font> me.
+- I know it <font color="#10b981">**better than**</font> him.
+- This thing is <font color="#10b981">**more expensive than**</font> that one.
+- That hotel is much <font color="#10b981">**more than**</font> this one.
+- I don't think that it is much <font color="#10b981">**easier**</font>.
+
+## Практика
+
+- In my opinion, it is <font color="#10b981">**the best**</font> choice.
+- From my point of view, it is <font color="#10b981">**the most beautiful**</font> place in the world.
+- Definitely, it is <font color="#10b981">**better**</font>.

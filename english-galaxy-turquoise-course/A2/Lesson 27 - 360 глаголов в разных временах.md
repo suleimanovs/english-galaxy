@@ -1,66 +1,58 @@
-**Уровень:** A2  
-**Дата изучения:** 10.09.2025  
+**Уровень:** A2 · **Дата изучения:** 10.09.2025
 
 ---
-deliver - доставлять
-goods - товары, товар
 
-The goods were delivered on time
+##### deliver — доставлять
 
-sell - продавать
-had to -пришлось
+- The goods were <font color="#10b981">**delivered**</font> on time.
 
-He had to sell his house
+##### goods — товары, товар
 
-agree - соглашаться
+- The <font color="#10b981">**goods**</font> were delivered on time.
 
-I dont think that he will agree to do it
+##### sell — продавать
 
-All the files were deleted
+- He had to <font color="#10b981">**sell**</font> his house.
 
-decrease - снижать
+##### had to — пришлось
 
-They decided to decrease the price
+- He <font color="#10b981">**had to**</font> sell his house.
 
-I learn English to communicate with other people who can also speak it
+##### agree — соглашаться
 
-notice- замечать
+- I don't think that he will <font color="#10b981">**agree**</font> to do it.
 
-He thinks that no one will notice if he does this thing
+##### delete — удалять
 
-measure - измеорять
+- All the files were <font color="#10b981">**deleted**</font>.
 
-I try to measure my progress quite often
+##### decrease — снижать
 
-If you don't have enough  practice you will forget it very quickly
+- They decided to <font color="#10b981">**decrease**</font> the price.
 
-chat - болтать
+##### notice — замечать
 
+- He thinks that no one will <font color="#10b981">**notice**</font> if he does this thing.
 
-They were sitting on the floor and chatting about something
+##### measure — измерять
 
-We have been walking in the park for about half an hour
+- I try to <font color="#10b981">**measure**</font> my progress quite often.
 
-I would do the same in your place
+##### chat — болтать
 
-How did you manage to resolve this conflict 
+- They were sitting on the floor and <font color="#10b981">**chatting**</font> about something.
 
-I believe that a solution to this problem exists
+##### Практика
 
-You need to multiply ten by five to get this figure
-
-I'm sure that i will be able to reach the next level
-
-I have been reading this article for about ten minutes
-
-They often argue for no reason
-
-
-
-She  spent all day cooking and cleaning
-
-His flight was delayed  
-
-
-
-
+- I learn English to communicate with other people who can also speak it.
+- If you don't have enough practice you will forget it very quickly.
+- We have been walking in the park for about half an hour.
+- I would do the same in your place.
+- How did you manage to resolve this conflict?
+- I believe that a solution to this problem exists.
+- You need to multiply ten by five to get this figure.
+- I'm sure that I will be able to reach the next level.
+- I have been reading this article for about ten minutes.
+- They often argue for no reason.
+- She spent all day cooking and cleaning.
+- His flight was delayed.
