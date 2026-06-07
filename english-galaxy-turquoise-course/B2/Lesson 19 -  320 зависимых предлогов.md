@@ -23,3 +23,12 @@ She is addicted to surfing the web.
 ----
 difference between - разгница между
 
+There is a big difference between these two things.
+There is not a big difference between these two products.
+
+---
+sensitive to - чувствителен к 
+
+He is very sensitive to criticism.
+
+
