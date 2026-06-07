@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Home Page"
             }
+          },
+          {
+            "id": "690e3f47c640ba3b",
+            "type": "leaf",
+            "state": {
+              "type": "log-log",
+              "state": {},
+              "icon": "view-log",
+              "title": "Self-hosted LiveSync Log"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5024719238281,
-    "collapsed": true
+    "width": 283.5024719238281
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -217,7 +227,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "690e3f47c640ba3b",
   "lastOpenFiles": [
     "english-galaxy-turquoise-course/B2/Lesson 18 -  320 зависимых предлогов.md",
     "english-galaxy-turquoise-course/B2/Lesson 20.md",
