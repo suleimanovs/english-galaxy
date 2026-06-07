@@ -59,4 +59,17 @@ I glanced at my watch to check the time
 ---
 work on - работать над чем-то
 
-I'm going to go on working on this project
+I'm going to go on working on this project.
+He wanted to go on working on this issue.
+
+---
+criticise for - критиковать за 
+
+She was criticized for it very sharply 
+They were criticized for these actions 
+
+---
+tremble with - дрожать от чего-то
+
+He was trembling with fear.
+Her voice was trembling with excitement 

@@ -1,115 +1,95 @@
-**Дата изучения:** 24.03.2026
-**Видео:** https://www.youtube.com/watch?v=1wMcIVyGlFk
+**Уровень:** B2 · **Дата изучения:** 24.03.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=1wMcIVyGlFk)
 
 ---
-cancel - отменить
-call off - отменить
 
-They called off that game.
-They cancelled that game.
-The game was called of because of the weather.
-The conference has just been called off.
-It was decided to call off this event.
+### call off · cancel — отменить
 
----
-Understand - понимать
-figure out - понимать
+- They <font color="#10b981">**called off**</font> that game.
+- They **cancelled** that game.
+- The game was <font color="#10b981">**called off**</font> because of the weather.
+- The conference has just been <font color="#10b981">**called off**</font>.
+- It was decided to <font color="#10b981">**call off**</font> this event.
 
-I can't figure out how it works.
-He can't figure out what to do
+### figure out · understand — понимать, разбираться
 
----
-look up to - восхищаться, относиться с уважением
-admire - восхищаться
+- I can't <font color="#10b981">**figure out**</font> how it works.
+- He can't <font color="#10b981">**figure out**</font> what to do.
 
-I really admire him.
-I really look up to him.
-I look up to such a person.
+### look up to · admire — восхищаться, уважать
 
-It isn't surprising that - Неудевительно
-Not surprisingly - Неудевительно
+- I really **admire** him.
+- I really <font color="#10b981">**look up to**</font> him.
+- I <font color="#10b981">**look up to**</font> such a person.
 
-Not surprisingly that most people look up to him because he is a real hero.
+> [!tip] Оборот
+> **It isn't surprising that…** / **Not surprisingly…** — Неудивительно, что…
+> *Not surprisingly, most people look up to him because he is a real hero.*
 
----
-Continue - продолжать
-go on - продолжать
-pretend - притворяться
+### go on · continue — продолжать
 
-He can't go on pretending that everything is alright.
-My acquaintance went on talking about it.
-I'd like to go on learning English here.
+- He can't <font color="#10b981">**go on**</font> pretending that everything is alright.
+- My acquaintance <font color="#10b981">**went on**</font> talking about it.
+- I'd like to <font color="#10b981">**go on**</font> learning English here.
 
----
-Go on - происходит
-happen - происходит
+> [!tip] Грамматика
+> После **go on** идёт **V-ing**: *go on talking, go on learning*.
 
-What is going on here?
-What is happening here?
+### go on · happen — происходить
 
----
-Flick through - просмотреть, пролистать
+- What is <font color="#10b981">**going on**</font> here?
+- What is **happening** here?
 
-I will flick through this document.
-I took one book and flick through it.
+### flick through — просмотреть, пролистать
 
----
-See off - провожать
+- I will <font color="#10b981">**flick through**</font> this document.
+- I took one book and <font color="#10b981">**flicked through**</font> it.
 
-I will see you off after the classes.
-He saw her off after the party.
+### see off — провожать
 
----
-Take up - начать заниматься чем-то
-start - начать делать что-то
+- I will <font color="#10b981">**see**</font> you <font color="#10b981">**off**</font> after the classes.
+- He <font color="#10b981">**saw**</font> her <font color="#10b981">**off**</font> after the party.
 
-I took up learning English really seriously.
-I took up jogging
+### take up · start — начать заниматься чем-то
 
----
-look into - изучать, расследовать
+- I <font color="#10b981">**took up**</font> learning English really seriously.
+- I <font color="#10b981">**took up**</font> jogging.
 
-My colleague wants to look into this problem more thoroughly.
-The police are looking into this crime.
+### look into — изучать, расследовать
 
----
-Make up for - компенсировать
-make up for lost time - наверстать упущенное время 
-compensate - компенсировать
+- My colleague wants to <font color="#10b981">**look into**</font> this problem more thoroughly.
+- The police are <font color="#10b981">**looking into**</font> this crime.
 
-Who will compensate these losses ?
-Who will make up for these losses?
-I will try to make up for lost time.
-I don't think that they will be able to make up for these losses so quickly.
+### make up for · compensate — компенсировать
 
----
-give up - сдаваться, бросать(привычку)
+- Who will **compensate** these losses?
+- Who will <font color="#10b981">**make up for**</font> these losses?
+- I will try to <font color="#10b981">**make up for**</font> lost time.
+- I don't think that they will be able to <font color="#10b981">**make up for**</font> these losses so quickly.
 
-Never give up!
-He gave up smoking a couple of years ago.
+> [!note] Идиома
+> **make up for lost time** — наверстать упущенное время.
 
----
-throw away - выбрасывать
+### give up — сдаваться, бросать (привычку)
 
-She threw it away.
-I don't need it so you can throw it away.
+- Never <font color="#10b981">**give up**</font>!
+- He <font color="#10b981">**gave up**</font> smoking a couple of years ago.
 
----
-Look up in - посмотреть, поискать(в справочнике, словаре, инструкций)
+### throw away — выбрасывать
 
-I will look it up in a dictionary 
-You can look it up in a dictionary
+- She **threw** it **away**.
+- I don't need it, so you can <font color="#10b981">**throw**</font> it <font color="#10b981">**away**</font>.
 
----
-ask out - приглашать на свидание
+### look up in — посмотреть, поискать (в справочнике, словаре, инструкции)
 
-He decided to ask her out.
-He was so happy to ask her out.
+- I will <font color="#10b981">**look**</font> it <font color="#10b981">**up in**</font> a dictionary.
+- You can <font color="#10b981">**look**</font> it <font color="#10b981">**up in**</font> a dictionary.
 
----
-live out - упускать, не включать
-not to include -  упускать, не включать
+### ask out — приглашать на свидание
 
-It is seen that the most important details weren't included 
-Some very important details were left out
-It is seen that the most important details were left out
+- He decided to <font color="#10b981">**ask**</font> her <font color="#10b981">**out**</font>.
+- He was so happy to <font color="#10b981">**ask**</font> her <font color="#10b981">**out**</font>.
+
+### leave out · not include — упускать, не включать
+
+- Some very important details were <font color="#10b981">**left out**</font>.
+- It is seen that the most important details were <font color="#10b981">**left out**</font>.
