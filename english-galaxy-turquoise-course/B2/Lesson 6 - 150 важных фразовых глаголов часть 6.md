@@ -1,90 +1,70 @@
-**Дата изучения:** 31.03.2026
-**Видео:** https://www.youtube.com/watch?v=v5PVsIzokik
-
----
-close down - закрыться (о магазине, о компании)
-
-This company will have to close down.
-
-The company had to close down because of a very complex economic situation.
-
----
-bring down - снижать
-
-The company decided to bring down the price.
+**Уровень:** B2 · **Дата изучения:** 31.03.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=v5PVsIzokik)
 
 ---
 
-back up - поддерживать, копировать, создавать резервную копию
+##### close down — закрыться (о магазине, о компании)
 
-I will back you up when you need it.
-I need to make sure that I backed up everything
-Make sure you backed up all the files. 
+- This company will have to <font color="#10b981">**close down**</font>.
+- The company had to <font color="#10b981">**close down**</font> because of a very complex economic situation.
 
----
-put aside - отложить / отбросить в сторону
+##### bring down — снижать
 
-Put all your fears aside
+- The company decided to <font color="#10b981">**bring down**</font> the price.
 
----
-put down - унижать, оскорблять его
+##### back up — поддерживать, копировать, создавать резервную копию
 
-Stop putting him down
+- I will <font color="#10b981">**back**</font> you <font color="#10b981">**up**</font> when you need it.
+- I need to make sure that I <font color="#10b981">**backed up**</font> everything.
+- Make sure you <font color="#10b981">**backed up**</font> all the files.
 
----
-calm down - успокоиться, успокоить
+##### put aside — отложить / отбросить в сторону
 
-You need to calm down a bit
-I will try to calm her down
+- <font color="#10b981">**Put**</font> all your fears <font color="#10b981">**aside**</font>.
 
----
-cool down - успокоиться, остыть
+##### put down — унижать, оскорблять
 
-He cooled down and realized that he was wrong.
-You need to calm down and look at it more objectively.
+- Stop <font color="#10b981">**putting**</font> him <font color="#10b981">**down**</font>.
 
----
-write down - записать 
+##### calm down — успокоиться, успокоить
 
-I will write this word down
+- You need to <font color="#10b981">**calm down**</font> a bit.
+- I will try to <font color="#10b981">**calm**</font> her <font color="#10b981">**down**</font>.
 
----
-come along - пойти, пойти с кем-то
+##### cool down — успокоиться, остыть
 
-You can come along with come
-Do you want to come along with me ?
-Do you want to come along ?
+- He <font color="#10b981">**cooled down**</font> and realized that he was wrong.
+- You need to <font color="#10b981">**calm down**</font> and look at it more objectively.
 
----
-check in - зарегестрироваться
+##### write down — записать
 
-I checked in at the hotel 
-I have already checked in at the hotel
-When are you going to check in ?
+- I will <font color="#10b981">**write**</font> this word <font color="#10b981">**down**</font>.
 
----
-check out - выезжать из отелья
+##### come along — пойти, пойти с кем-то
 
-What time will he check out?
+- You can <font color="#10b981">**come along**</font> with me.
+- Do you want to <font color="#10b981">**come along**</font> with me?
+- Do you want to <font color="#10b981">**come along**</font>?
 
----
-break out - разразиться, вспыхнуть
+##### check in — зарегистрироваться
 
-The fire broke out suddenly.
+- I <font color="#10b981">**checked in**</font> at the hotel.
+- I have already <font color="#10b981">**checked in**</font> at the hotel.
+- When are you going to <font color="#10b981">**check in**</font>?
 
----
-dress down - одеваться неформально
+##### check out — выезжать из отеля
 
-Some office workers dress down on Fridays 
+- What time will he <font color="#10b981">**check out**</font>?
 
----
-call for - требовать
-need, require = call for
+##### break out — разразиться, вспыхнуть
 
-This type of work calls for more skills and professionalism.
-It calls for extra efforts.
-This kind of work calls for more concentration.
+- The fire <font color="#10b981">**broke out**</font> suddenly.
 
+##### dress down — одеваться неформально
 
+- Some office workers <font color="#10b981">**dress down**</font> on Fridays.
 
+##### call for · need · require — требовать
 
+- This type of work <font color="#10b981">**calls for**</font> more skills and professionalism.
+- It <font color="#10b981">**calls for**</font> extra efforts.
+- This kind of work <font color="#10b981">**calls for**</font> more concentration.

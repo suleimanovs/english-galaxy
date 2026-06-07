@@ -1,82 +1,70 @@
-**Дата изучения:** 05.04.2026
-**Видео:** https://www.youtube.com/watch?v=qT-od5pnqUE
+**Уровень:** B2 · **Дата изучения:** 05.04.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=qT-od5pnqUE)
 
 ---
-eat out - есть не дома
 
-Do you like eating out?
-Let's eat out tonight - Давай поедим где нибудь сегодня вечером  
+##### eat out — есть не дома
 
----
-come on - давай, ну же
+- Do you like <font color="#10b981">**eating out**</font>?
+- Let's <font color="#10b981">**eat out**</font> tonight. — Давай поедим где-нибудь сегодня вечером.
 
-Come on, try it again!
-Come on, let's do it!
+##### come on — давай, ну же
 
----
-do up - застегнуть, ремонтировать
-fasten = do up в плане застегнуть
+- <font color="#10b981">**Come on**</font>, try it again!
+- <font color="#10b981">**Come on**</font>, let's do it!
 
-He did up his jacket.
-Do up the belt!
-Fasten the belt!
-She did up her apartment last summer.
-He bought an old house and did it up.
+##### do up · fasten — застегнуть, ремонтировать
 
----
-move on to - перейти к чему-то
+- He <font color="#10b981">**did up**</font> his jacket.
+- <font color="#10b981">**Do up**</font> the belt!
+- **Fasten** the belt!
+- She <font color="#10b981">**did up**</font> her apartment last summer.
+- He bought an old house and <font color="#10b981">**did**</font> it <font color="#10b981">**up**</font>.
 
-I moved on to the next exercise.
-Let's move on to the next question.
+> [!note] fasten = do up
+> В значении «застегнуть» **fasten** и **do up** взаимозаменяемы.
 
----
-bring forward - предлагать 
+##### move on to — перейти к чему-то
 
-An interesting plan was brought forward during the meeting.
+- I <font color="#10b981">**moved on to**</font> the next exercise.
+- Let's <font color="#10b981">**move on to**</font> the next question.
 
----
-take in - обманывать
+##### bring forward — предлагать
 
-They want to take her in.
-This woman was taken in.
+- An interesting plan was <font color="#10b981">**brought forward**</font> during the meeting.
 
----
-give off - издавать (запах)
+##### take in — обманывать
 
-The food gives off a bad smell.
-That food gives off a very unpleasent smell.
+- They want to <font color="#10b981">**take**</font> her <font color="#10b981">**in**</font>.
+- This woman was <font color="#10b981">**taken in**</font>.
 
----
-give out - раздавать
+##### give off — издавать (запах)
 
-The teacher gave out these materials.
+- The food <font color="#10b981">**gives off**</font> a bad smell.
+- That food <font color="#10b981">**gives off**</font> a very unpleasant smell.
 
----
-bring about - принимать, вызывать, приводить к чему-то
+##### give out — раздавать
 
-The government brought about a new law.
-It brought about profound changes in the lives of ordinary people.
+- The teacher <font color="#10b981">**gave out**</font> these materials.
 
----
-come through - перенести что-то (трудности, испытания)
+##### bring about — вызывать, приводить к чему-то
 
-He came through a very difficult operation.
+- The government <font color="#10b981">**brought about**</font> a new law.
+- It <font color="#10b981">**brought about**</font> profound changes in the lives of ordinary people.
 
----
-go through - пройти через что-то
+##### come through — перенести что-то (трудности, испытания)
 
-He couldn't imagine what I had gone through.
+- He <font color="#10b981">**came through**</font> a very difficult operation.
 
----
-go under - разориться
+##### go through — пройти через что-то
 
-The company will go under if the situation doesn't improve.
+- He couldn't imagine what I had <font color="#10b981">**gone through**</font>.
 
----
-brighten up - скрасить, украсить
+##### go under — разориться
 
-It brightened up my day.
-It brightens up my life.
-It makes my life brighter 
+- The company will <font color="#10b981">**go under**</font> if the situation doesn't improve.
 
----
+##### brighten up — скрасить, украсить
+
+- It <font color="#10b981">**brightened up**</font> my day.
+- It <font color="#10b981">**brightens up**</font> my life.
+- It makes my life brighter.

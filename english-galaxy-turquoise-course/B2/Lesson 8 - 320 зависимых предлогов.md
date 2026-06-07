@@ -1,95 +1,86 @@
-**Дата изучения:** 09.04.2026
-**Видео:** https://www.youtube.com/watch?v=c4V6-s37qr0
+**Уровень:** B2 · **Дата изучения:** 09.04.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=c4V6-s37qr0)
 
 ---
-invest in - инвестировать/вкладывать во что-то
 
-He invested his money in a very risky project 
+##### invest in — инвестировать / вкладывать во что-то
 
----
-surprised by/at - удивлен чем-то
-reaction to - реакция на
+- He <font color="#10b981">**invested**</font> his money <font color="#10b981">**in**</font> a very risky project.
 
-I was surprised by his reaction to these words
+##### surprised by · surprised at — удивлён чем-то
 
----
- need for - необходимость в чем-то
+- I was <font color="#10b981">**surprised by**</font> his <font color="#10b981">**reaction to**</font> these words.
 
-There was no need for such radical changes 
+##### reaction to — реакция на
 
----
-How did you manage to enter the room ?
+- I was surprised by his <font color="#10b981">**reaction to**</font> these words.
 
----
-aware of - осведомлен о чем-то, осознаю что-то
+##### need for — необходимость в чём-то
 
-The company is perfectly aware of this problem 
-I'm fully aware of the fact that it takes time.
+- There was no <font color="#10b981">**need for**</font> such radical changes.
 
----
-insist on - настаивать на чем-то 
+##### aware of — осведомлён о чём-то, осознаю что-то
 
-punctual - пунктуальный
-punctuality - пунктуальность
+- The company is perfectly <font color="#10b981">**aware of**</font> this problem.
+- I'm fully <font color="#10b981">**aware of**</font> the fact that it takes time.
 
-Our director insists on punctuality
+##### insist on — настаивать на чём-то
 
----
-absorbed in - поглощен чем-то
-totally absorbed - полностью поглощен
+- Our director <font color="#10b981">**insists on**</font> punctuality.
 
-He is totally absorbed in the movie
+> [!note] Словарь
+> **punctual** — пунктуальный
+> **punctuality** — пунктуальность
 
----
-Engrossed in - поглощен чем-то
+##### absorbed in — поглощён чем-то
 
-He is engrossed in the book.
+- He is totally <font color="#10b981">**absorbed in**</font> the movie.
 
----
-shout at - кричать на
+> [!note]
+> **totally absorbed** — полностью поглощён
 
-He needs to stop shouting at her
+##### engrossed in — поглощён чем-то
 
----
-consist of - состоять из
+- He is <font color="#10b981">**engrossed in**</font> the book.
 
-The cake consists of flour, sugar and eggs
+##### shout at — кричать на
 
----
-astonished by / at  
+- He needs to stop <font color="#10b981">**shouting at**</font> her.
 
-I was really astonished by the result
-I was really astonished by the news
+##### consist of — состоять из
 
----
-register for - регистрироваться на что-то
+- The cake <font color="#10b981">**consists of**</font> flour, sugar and eggs.
+- The book <font color="#10b981">**consists of**</font> ten chapters.
 
-Have you already registered for the course?
-I'm going to register for the course.
+##### astonished by · astonished at — поражён чем-то
 
----
-complain about - жаловаться на 
+- I was really <font color="#10b981">**astonished by**</font> the result.
+- I was really <font color="#10b981">**astonished by**</font> the news.
 
-Did he complain about it?
-He often complains about his salary because He is often underpaid
+##### register for — регистрироваться на что-то
 
----
-key to - ключ к чему-то 
+- Have you already <font color="#10b981">**registered for**</font> the course?
+- I'm going to <font color="#10b981">**register for**</font> the course.
 
-What is the key to success ?
-Hard work  is the key to success?
+##### complain about — жаловаться на
 
----
-excited about - взволнован чем-то/ в восторге от чего-то
+- Did he <font color="#10b981">**complain about**</font> it?
+- He often <font color="#10b981">**complains about**</font> his salary because he is often underpaid.
 
-I'm so excited about the upcoming event 
+##### key to — ключ к чему-то
 
-He is really excited about the upcoming concert 
+- What is the <font color="#10b981">**key to**</font> success?
+- Hard work is the <font color="#10b981">**key to**</font> success.
 
----
-apply to - подать заявление куда-то
+##### excited about — взволнован чем-то / в восторге от чего-то
 
-She applied to this university and she was accepted 
+- I'm so <font color="#10b981">**excited about**</font> the upcoming event.
+- He is really <font color="#10b981">**excited about**</font> the upcoming concert.
 
-The book consists of ten chapters
-There are ten chapters in the book 
+##### apply to — подать заявление куда-то
+
+- She <font color="#10b981">**applied to**</font> this university and she was accepted.
+
+##### Практика
+
+- How did you manage to enter the room?
+- There are ten chapters in the book.

@@ -1,89 +1,75 @@
-**Дата изучения:** 28.03.2026
-**Видео:** https://www.youtube.com/watch?v=TbsEqOxpuUU
+**Уровень:** B2 · **Дата изучения:** 28.03.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=TbsEqOxpuUU)
 
 ---
 
-put off - откладывать 
+##### put off — откладывать
 
-I wouldn't like to put it off till tomorrow.
-As they say, never put off til tomorrow what you can do today.
+- I wouldn't like to <font color="#10b981">**put**</font> it <font color="#10b981">**off**</font> till tomorrow.
+- As they say, never <font color="#10b981">**put off**</font> till tomorrow what you can do today.
 
----
-go off - испортиться 
-spoil = go off
+##### go off · spoil — испортиться
 
-The food can go off
-All the food went off
+- The food can <font color="#10b981">**go off**</font>.
+- All the food <font color="#10b981">**went off**</font>.
 
----
-let down - подвести(кого-то, чего-то)
+##### let down — подвести (кого-то)
 
-I know that he will never let us down.
-I think it is so, if my memory doesn't let me down
+- I know that he will never <font color="#10b981">**let**</font> us <font color="#10b981">**down**</font>.
+- I think it is so, if my memory doesn't <font color="#10b981">**let**</font> me <font color="#10b981">**down**</font>.
 
----
-drop out of - бросить учебу
-to everyone's surprise - к всеобщему удивлению
+##### drop out of — бросить учёбу
 
-He dropped out of college to everyone's surprise
+> [!note] Оборот
+> to everyone's surprise — к всеобщему удивлению
 
----
-take off - снимать (одежду), взлетать
+- He <font color="#10b981">**dropped out of**</font> college to everyone's surprise.
 
-The plain will take off in an hour.
+##### take off — снимать (одежду), взлетать
 
----
-talk over - обговорить
+- The plane will <font color="#10b981">**take off**</font> in an hour.
 
-I need to talk it over to you 
+##### talk over — обговорить
 
----
-go up - вырастать, подниматься
+- I need to <font color="#10b981">**talk**</font> it <font color="#10b981">**over**</font> with you.
 
-The price went up to our surprise 
-The cost of this apartment went up by ten percent last year
+##### go up — вырастать, подниматься
 
----
-go down - снижаться
+- The price <font color="#10b981">**went up**</font> to our surprise.
+- The cost of this apartment <font color="#10b981">**went up**</font> by ten percent last year.
 
-The price of oil has gone down by over thirty percent recently 
-Her income went down by twenty percent.
+##### go down — снижаться
 
----
-put up with - мириться с чем-то
+- The price of oil has <font color="#10b981">**gone down**</font> by over thirty percent recently.
+- Her income <font color="#10b981">**went down**</font> by twenty percent.
 
-She can't put up with it anymore.
-He can't put up with this injustice.
+##### put up with — мириться с чем-то
 
----
-put up - повысить
+- She can't <font color="#10b981">**put up with**</font> it anymore.
+- He can't <font color="#10b981">**put up with**</font> this injustice.
 
-They decided to put up the price.
-The company was forced to put up the price
+##### put up — повысить
 
----
-go by  - проходить, идти (о времени)
+- They decided to <font color="#10b981">**put up**</font> the price.
+- The company was forced to <font color="#10b981">**put up**</font> the price.
 
-Time goes by so fast
-It is well-known fact that time goes by so fast.
+##### go by — проходить, идти (о времени)
 
----
-think over - обдумывать
+- Time <font color="#10b981">**goes by**</font> so fast.
+- It is a well-known fact that time <font color="#10b981">**goes by**</font> so fast.
 
-She said that she would need some time to think over their proposal.
+##### think over — обдумывать
 
----
-point out - отмечать, указывать
+- She said that she would need some time to <font color="#10b981">**think over**</font> their proposal.
 
-I'd like to point out that - Я хотел бы отметить что ...
+##### point out — отмечать, указывать
 
-I'd like to point out that it's worth our attention.
-I'd like to point out that is is really important.
+> [!tip] Оборот
+> I'd like to point out that — Я хотел бы отметить, что ...
 
----
+- I'd like to <font color="#10b981">**point out**</font> that it's worth our attention.
+- I'd like to <font color="#10b981">**point out**</font> that it is really important.
 
-point at - указывать на 
-point out - **указывать на ошибки**
+##### point at · point out — указывать на · указывать на ошибки
 
-The teacher pointed at the screen.
-The teacher pointed out these mistakes 
+- The teacher <font color="#10b981">**pointed at**</font> the screen.
+- The teacher <font color="#10b981">**pointed out**</font> these mistakes.

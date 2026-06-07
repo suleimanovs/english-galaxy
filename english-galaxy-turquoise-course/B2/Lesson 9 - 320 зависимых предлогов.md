@@ -1,92 +1,73 @@
-**Дата изучения:** 00.00.2026
-**Видео:** https://www.youtube.com/watch?v=FY1reOZIvZ8
+**Уровень:** B2 · **Дата изучения:** — · **Видео:** [YouTube](https://www.youtube.com/watch?v=FY1reOZIvZ8)
 
 ---
 
-hope for - надеятся на 
-further cooperation - дальнейшее сотрудинечество
+##### hope for — надеяться на
 
-We hope for further cooperation 
-We hope for fruitful  cooperation with you
+- We <font color="#10b981">**hope for**</font> further cooperation.
+- We <font color="#10b981">**hope for**</font> fruitful cooperation with you.
 
----
-sympathy for - сочуствие к
+> [!note] further cooperation — дальнейшее сотрудничество
 
-He feels no sympathy for these people who are in real need
+##### sympathy for — сочувствие к
 
----
+- He feels no <font color="#10b981">**sympathy for**</font> these people who are in real need.
 
-smile at - улыбаться кому-то
+##### smile at — улыбаться кому-то
 
-He smiled at her and waved 
+- He <font color="#10b981">**smiled at**</font> her and waved.
 
+##### depend on — зависеть от
 
----
-depend on - зависеть от
+- He doesn't want to <font color="#10b981">**depend on**</font> his parents any longer.
 
-He doesn't want to depend on his parents any longer
+##### suffer from — страдать от
 
----
+- He often <font color="#10b981">**suffers from**</font> depression.
+- She <font color="#10b981">**suffers from**</font> constant headaches.
 
-suffer from - страдать от
+##### lead to — вести к чему-то
 
-He often suffers from depression
-She suffers from constant headaches
+- It <font color="#10b981">**led**</font> the company <font color="#10b981">**to**</font> bankruptcy.
+- Do you agree with the statement that hard work <font color="#10b981">**leads**</font> us <font color="#10b981">**to**</font> success?
+- It can <font color="#10b981">**lead to**</font> unforeseen circumstances.
 
----
+> [!note] Слова
+> - unforeseen — непредвиденный
+> - circumstances — обстоятельства
 
-Lead to - ввести к чему-то
-It led the company to bankruptcy 
+##### invitation to — приглашение куда-то
 
-Do you agree with the statement that hard work leads us to success?
-Unforeseen - непредвиденный
-circumstances - обстоятельства
+- I will send you an <font color="#10b981">**invitation to**</font> the meeting.
 
-It can lead to unforeseen circumstances 
+##### occupied with — занят кем-то
 
----
+- They are <font color="#10b981">**occupied with**</font> a very important project.
 
-invitation to - приглашение куда-то
+##### contribution to — вклад во что-то
 
-I will send you an invitation to the meeting 
+- He made a very significant <font color="#10b981">**contribution to**</font> our society.
+- He made a substantial <font color="#10b981">**contribution to**</font> charity.
 
----
-occupied with - занят кем-то
+> [!note] Слова
+> - significant — значительный
+> - substantial — существенный
 
-They are occupied with a very important project 
+##### accuse of — обвинять в чём-то
 
----
-contribution to - вллад во что-то
-significant - значительный
-substantial - существенный
+- He was unjustly <font color="#10b981">**accused of**</font> that crime.
 
-He made a very significant contribution to our society 
-He made a substantial contribution to charity 
+> [!note] unjustly — несправедливо
 
----
+##### resistance to — сопротивление чему-то
 
-accuse of - обвинять в чем-то
-unjustly - несправедливо
+- There was so much <font color="#10b981">**resistance to**</font> this new law.
 
-He was unjustly accused of that crime 
+##### increase in — рост чего-то, увеличение чего-то
 
----
+- There was a sudden <font color="#10b981">**increase in**</font> sales.
+- They predicted a huge <font color="#10b981">**increase in**</font> sales.
 
-resistance to - сопровивление чему-то
+##### decrease in — снижение чего-то
 
-There was so much resistances to this new law 
-
----
-increase in - рост чего-то увеличение чего-то
-
-There was a sudden increase in sales 
-They predicted a huge increase in sales
-
----
-
-decrease in - снижение чего-то
-
-There was an unexpected decrease in sales 
-
----
-
+- There was an unexpected <font color="#10b981">**decrease in**</font> sales.
