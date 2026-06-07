@@ -9,3 +9,17 @@ He has trouble with his car.
 I had very big trouble with it.
 
 ---
+cope with - справляться с чем-то
+
+I'm trying to cope with all this work.
+Unfortunately, he can't cope with this task.
+
+---
+addicted  to - зависим от / пристрастился к чему-то
+
+He is addicted to surfing the internet.
+She is addicted to surfing the web.
+
+----
+difference between - разгница между
+
