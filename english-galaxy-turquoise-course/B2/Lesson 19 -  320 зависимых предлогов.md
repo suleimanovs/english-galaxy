@@ -50,3 +50,13 @@ There was a sharp fall in demand for these products.
 innocent of - не виновен в чем-то
 
 He is innocent of this crime 
+
+---
+glance at - взглянуть на что-то
+
+I glanced at my watch to check the time 
+
+---
+work on - работать над чем-то
+
+I'm going to go on working on this project
