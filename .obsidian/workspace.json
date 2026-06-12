@@ -4,6 +4,46 @@
     "type": "split",
     "children": [
       {
+        "id": "8656993e107a8be0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63a47083496f3619",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "kMufJrfxCd0",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=kMufJrfxCd0"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    }
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 25"
+            }
+          }
+        ]
+      },
+      {
         "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
@@ -13,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english words/anki/Anki Decks.md",
-                "mode": "preview",
+                "file": "learn-5000-english-words/Lesson 25 (137-143).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anki Decks"
+              "title": "Lesson 25 (137-143)"
             }
           }
         ]
@@ -78,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5024719238281
+    "width": 283.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -218,6 +259,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "learn-5000-english-words/Lesson 25 (137-143).md",
+    "english words/anki/Anki Decks.md",
     "learn-5000-english-words/Unknown Words.md",
     "learn-5000-english-words/Lesson 61.md",
     "learn-5000-english-words/Vocabulary Glossary.md",
@@ -242,8 +285,6 @@
     "english-galaxy-turquoise-course/B2/Lesson 1 - 150 важных фразовых глаголов часть 1.md",
     "english-galaxy-turquoise-course/B2/Lesson 2 - 150 важных фразовых глаголов часть 2.md",
     "english-galaxy-turquoise-course/B2/Lesson 19 -  320 зависимых предлогов.md",
-    "english-galaxy-turquoise-course/B2/Lesson 18 -  320 зависимых предлогов.md",
-    "english-galaxy-turquoise-course/B2/Lesson 17 - 320 зависимые предлоги.md",
     "english words/anki/audio/eg_marvel_at.mp3",
     "english words/anki/audio/eg_punished_for.mp3",
     "english words/anki/audio/eg_punish_for.mp3",
