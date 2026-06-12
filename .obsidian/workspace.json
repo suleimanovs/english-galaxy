@@ -189,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5,
-    "collapsed": true
+    "width": 509.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,6 +217,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "english words/anki/audio/eg_valuable.mp3",
+    "english words/anki/audio/eg_trainers.mp3",
+    "english words/anki/audio/eg_broad.mp3",
+    "english words/anki/audio/eg_various.mp3",
     "english words/anki/audio/eg_surgery.mp3",
     "english words/anki/audio/eg_the_soviet_union.mp3",
     "english words/anki/audio/eg_situated.mp3",
@@ -227,7 +230,6 @@
     "learn-5000-english-words/Unknown Words.md",
     "english words/anki/audio/eg_fortress.mp3",
     "english words/anki/audio/eg_fool.mp3",
-    "english words/anki/audio/eg_cruel.mp3",
     "learn-5000-english-words/Lesson 25 (137-143).md",
     "english words/anki/Anki Decks.md",
     "learn-5000-english-words/Lesson 61.md",
@@ -251,9 +253,6 @@
     "english-galaxy-turquoise-course/B1/Lesson 4 - Зависимые предлоги с прилагательными 4.md",
     "english-galaxy-turquoise-course/B2/Lesson 1 - 150 важных фразовых глаголов часть 1.md",
     "english-galaxy-turquoise-course/B2/Lesson 2 - 150 важных фразовых глаголов часть 2.md",
-    "english words/anki/audio/eg_marvel_at.mp3",
-    "english words/anki/audio/eg_punished_for.mp3",
-    "english words/anki/audio/eg_punish_for.mp3",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
