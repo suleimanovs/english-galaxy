@@ -48,6 +48,19 @@ What influenced your decision?
 It has a bad influence on people.
 
 ---
-
 hopeless at - безнадежен в чем-то
+
+It is said that I'm hopeless at dancing.
+As I know she is absolutely hopeless at signing.
+
+---
+nervous about -нервничает по поводу чего-то
+
+He is very nervous about the test.
+She is very nervous about the interview
+
+---
+furnished with - обставлен чем-то
+
+Her room was furnished with antique furniture 
 
