@@ -37,4 +37,17 @@ refer to - ссылаться на что-то
 
 He often refers to these documents. 
 He referred to reliable sources.
+They often refer to these documents.
+
+---
+influence - влиять на, влияние
+influence on - существительное имеет предлог
+
+This example influenced my life greatly.
+What influenced your decision? 
+It has a bad influence on people.
+
+---
+
+hopeless at - безнадежен в чем-то
 
