@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learn-5000-english-words/Lesson 25 (137-143).md",
-                "mode": "source",
+                "file": "learn-5000-english-words/Unknown Words.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 25 (137-143)"
+              "title": "Unknown Words"
             }
           }
         ]
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5024719238281,
-    "collapsed": true
+    "width": 283.5024719238281
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -259,11 +258,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "learn-5000-english-words/Lesson 25 (137-143).md",
-    "english words/anki/Anki Decks.md",
-    "learn-5000-english-words/Unknown Words.md",
-    "learn-5000-english-words/Lesson 61.md",
     "learn-5000-english-words/Vocabulary Glossary.md",
+    "learn-5000-english-words/Lesson 25 (137-143).md",
+    "learn-5000-english-words/Unknown Words.md",
+    "english words/anki/Anki Decks.md",
+    "learn-5000-english-words/Lesson 61.md",
     "english-galaxy-turquoise-course/B2/Lesson 20.md",
     "_ОФОРМЛЕНИЕ - 3 варианта.md",
     "Home Page.md",
