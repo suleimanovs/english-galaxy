@@ -4,46 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "8656993e107a8be0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "63a47083496f3619",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "kMufJrfxCd0",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=kMufJrfxCd0"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    }
-                  }
-                }
-              },
-              "icon": "youtube",
-              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 25"
-            }
-          }
-        ]
-      },
-      {
         "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
@@ -258,9 +218,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "english words/anki/audio/eg_rare.mp3",
+    "english words/anki/audio/eg_candy.mp3",
     "learn-5000-english-words/Vocabulary Glossary.md",
-    "learn-5000-english-words/Lesson 25 (137-143).md",
     "learn-5000-english-words/Unknown Words.md",
+    "english words/anki/audio/eg_fortress.mp3",
+    "english words/anki/audio/eg_fool.mp3",
+    "english words/anki/audio/eg_cruel.mp3",
+    "learn-5000-english-words/Lesson 25 (137-143).md",
     "english words/anki/Anki Decks.md",
     "learn-5000-english-words/Lesson 61.md",
     "english-galaxy-turquoise-course/B2/Lesson 20.md",
@@ -283,17 +248,12 @@
     "english-galaxy-turquoise-course/B1/Lesson 4 - Зависимые предлоги с прилагательными 4.md",
     "english-galaxy-turquoise-course/B2/Lesson 1 - 150 важных фразовых глаголов часть 1.md",
     "english-galaxy-turquoise-course/B2/Lesson 2 - 150 важных фразовых глаголов часть 2.md",
-    "english-galaxy-turquoise-course/B2/Lesson 19 -  320 зависимых предлогов.md",
     "english words/anki/audio/eg_marvel_at.mp3",
     "english words/anki/audio/eg_punished_for.mp3",
     "english words/anki/audio/eg_punish_for.mp3",
     "english words/anki/audio/eg_distinguish_from.mp3",
     "english words/anki/audio/eg_attach_to.mp3",
     "english words/anki/audio/eg_adaptation_to.mp3",
-    "english words/anki/audio/eg_amazement_at.mp3",
-    "english words/anki/audio/eg_amazed_by.mp3",
-    "english words/anki/audio/eg_harmful.mp3",
-    "english words/anki/audio/eg_necklace.mp3",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
