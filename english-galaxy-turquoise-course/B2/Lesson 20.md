@@ -22,4 +22,19 @@ He doubts the need for these changes.
 ---
 specialize in - специализироваться на чем-то
 
-This company speciales  in online education.
+This company specializes in online education.
+My friend specializes in marketing.
+
+---
+dedicate to - уделять / посещать чему-то
+
+I want to dedicate more time to my hobbies.
+I'm not ready to dedicate my life to it.
+He dedicated himself to science.
+
+---
+refer to - ссылаться на что-то
+
+He often refers to these documents. 
+He referred to reliable sources.
+
