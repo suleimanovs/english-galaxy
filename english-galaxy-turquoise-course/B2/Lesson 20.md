@@ -62,5 +62,13 @@ She is very nervous about the interview
 ---
 furnished with - обставлен чем-то
 
-Her room was furnished with antique furniture 
+Her room was furnished with antique furniture.
+
+---
+reluctant to - нежелающий делать что-то
+
+He is reluctant to share this information with others 
+They are reluctant to share their knowledge with others.
+
+
 
