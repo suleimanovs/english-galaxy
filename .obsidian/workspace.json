@@ -4,6 +4,46 @@
     "type": "split",
     "children": [
       {
+        "id": "f7e88044618f3806",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6b11b2d9ec6c55b",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "p9VzFRRjE4A",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=p9VzFRRjE4A"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    }
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 20"
+            }
+          }
+        ]
+      },
+      {
         "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
@@ -13,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-galaxy-turquoise-course/A2/Lesson 47 - Have got.md",
-                "mode": "preview",
+                "file": "english-galaxy-turquoise-course/B2/Lesson 20.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 47 - Have got"
+              "title": "Lesson 20"
             }
           }
         ]
@@ -78,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5024719238281
+    "width": 283.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -218,6 +259,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "english-galaxy-turquoise-course/B2/Lesson 20.md",
+    "Home Page.md",
+    "english-galaxy-turquoise-course/A2/Lesson 47 - Have got.md",
     "english-galaxy-turquoise-course/A2/Lesson 46 - Модальные глаголы.md",
     "english-galaxy-turquoise-course/A2/Lesson 45 - Артиклы.md",
     "english-galaxy-turquoise-course/A2/Lesson 32 - 360 глаголов в разных временах 6.md",
@@ -232,13 +276,11 @@
     "english-galaxy-turquoise-course/B1/Lesson 5 - Зависимые предлоги с существительными.md",
     "english-galaxy-turquoise-course/B1/Lesson 8 - Present Simple vs Present Continuous.md",
     "english-galaxy-turquoise-course/B1/Lesson 4 - Зависимые предлоги с прилагательными 4.md",
-    "Home Page.md",
     "english-galaxy-turquoise-course/B2/Lesson 1 - 150 важных фразовых глаголов часть 1.md",
     "english-galaxy-turquoise-course/B2/Lesson 2 - 150 важных фразовых глаголов часть 2.md",
     "_ОФОРМЛЕНИЕ - 3 варианта.md",
     "english-galaxy-turquoise-course/B2/Lesson 19 -  320 зависимых предлогов.md",
     "english-galaxy-turquoise-course/B2/Lesson 18 -  320 зависимых предлогов.md",
-    "english-galaxy-turquoise-course/B2/Lesson 20.md",
     "english-galaxy-turquoise-course/B2/Lesson 17 - 320 зависимые предлоги.md",
     "english-galaxy-turquoise-course/B2/Lesson 16 - 320 зависимых предлогов.md",
     "english words/anki/audio/eg_marvel_at.mp3",
@@ -253,7 +295,6 @@
     "english words/anki/audio/eg_harmful.mp3",
     "english words/anki/audio/eg_necklace.mp3",
     "learn-5000-english-words/Lesson 24 (131-136).md",
-    "learn-5000-english-words/Lesson 23 (122-130).md",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]

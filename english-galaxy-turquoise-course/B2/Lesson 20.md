@@ -3,3 +3,10 @@
 
 ---
 
+doubt - сомневаться, сомнения
+
+I doubt it. 
+I really doubt it.
+I seriously doubt it.
+
+doubts about somethinп
