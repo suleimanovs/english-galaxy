@@ -60,6 +60,13 @@ He isn't ashamed of it.
 
 ---
 near - около, рядом
-The hotel is located near the sea.
+The hotel is located near the sea. 
+The hotel is near the ocean.
+
+---
+close to - рядом с 
+
+Their house is close to the forest.
+Her appartment / flat 
 
 ---
