@@ -326,7 +326,7 @@
   "useEdgeCaseMode": true,
   "enableDebugTools": false,
   "suppressNotifyHiddenFilesChange": true,
-  "syncMinimumInterval": 2000,
+  "syncMinimumInterval": 10000,
   "P2P_Enabled": false,
   "P2P_AutoAccepting": 0,
   "P2P_AppID": "self-hosted-livesync",
