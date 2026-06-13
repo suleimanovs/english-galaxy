@@ -45,8 +45,21 @@ I'm writing to you in connection with your recent request
 
 ---
 prepare for - готовиться к чему-то
-I need to prepare for this test more thoro
+I need to prepare for this test more thoroughly 
 
 ---
+fond of - любить что-то
 
+She is fond of visiting various museums and art galleries.
 
+---
+shame  - стыд, позор
+ashamed of - стыдиться чего-то
+
+He isn't ashamed of it.
+
+---
+near - около, рядом
+The hotel is located near the sea.
+
+---
