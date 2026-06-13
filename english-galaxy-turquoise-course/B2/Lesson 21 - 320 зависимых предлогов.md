@@ -67,6 +67,10 @@ The hotel is near the ocean.
 close to - рядом с 
 
 Their house is close to the forest.
-Her appartment / flat 
+Her apartment / flat is close to the park
 
 ---
+obvious to - очевидно для
+
+It is obvious to me.
+It is obvious to most people.
