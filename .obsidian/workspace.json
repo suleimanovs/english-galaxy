@@ -4,6 +4,46 @@
     "type": "split",
     "children": [
       {
+        "id": "894506652da85b6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed01233426e19786",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "8UYyd2Z-IOE",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=8UYyd2Z-IOE"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    }
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 21"
+            }
+          }
+        ]
+      },
+      {
         "id": "fd7fca9ad58a2885",
         "type": "tabs",
         "children": [
@@ -13,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learn-5000-english-words/Vocabulary Glossary.md",
-                "mode": "preview",
+                "file": "english-galaxy-turquoise-course/B2/Lesson 21 - 320 зависимых предлогов.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vocabulary Glossary"
+              "title": "Lesson 21 - 320 зависимых предлогов"
             }
           }
         ]
@@ -78,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5024719238281
+    "width": 283.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -189,7 +230,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5
+    "width": 509.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,8 +259,13 @@
   },
   "active": "6cc360af18d30f63",
   "lastOpenFiles": [
-    "learn-5000-english-words/Unknown Words.md",
+    "learn-5000-english-words/word-tracker.csv.bak",
+    "english-galaxy-turquoise-course/B2/Lesson 21 - 320 зависимых предлогов.md",
+    "english-galaxy-turquoise-course/B2/Lesson 20 -  320 зависимых предлогов.md",
+    "english-galaxy-turquoise-course/B2/Lesson 1 - 150 важных фразовых глаголов часть 1.md",
+    "english-galaxy-turquoise-course/B2/Lesson 19 -  320 зависимых предлогов.md",
     "learn-5000-english-words/Vocabulary Glossary.md",
+    "learn-5000-english-words/Unknown Words.md",
     "english words/anki/audio/eg_valuable.mp3",
     "english words/anki/audio/eg_trainers.mp3",
     "english words/anki/audio/eg_broad.mp3",
@@ -232,7 +279,6 @@
     "learn-5000-english-words/Lesson 25 (137-143).md",
     "english words/anki/Anki Decks.md",
     "learn-5000-english-words/Lesson 61.md",
-    "english-galaxy-turquoise-course/B2/Lesson 20.md",
     "_ОФОРМЛЕНИЕ - 3 варианта.md",
     "Home Page.md",
     "english-galaxy-turquoise-course/A2/Lesson 47 - Have got.md",
@@ -249,9 +295,6 @@
     "english-galaxy-turquoise-course/B1/Lesson 2 - Зависимые предлоги с прилагательными 2.md",
     "english-galaxy-turquoise-course/B1/Lesson 5 - Зависимые предлоги с существительными.md",
     "english-galaxy-turquoise-course/B1/Lesson 8 - Present Simple vs Present Continuous.md",
-    "english-galaxy-turquoise-course/B1/Lesson 4 - Зависимые предлоги с прилагательными 4.md",
-    "english-galaxy-turquoise-course/B2/Lesson 1 - 150 важных фразовых глаголов часть 1.md",
-    "english-galaxy-turquoise-course/B2/Lesson 2 - 150 важных фразовых глаголов часть 2.md",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
