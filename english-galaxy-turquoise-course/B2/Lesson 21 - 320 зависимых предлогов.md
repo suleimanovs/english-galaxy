@@ -30,6 +30,23 @@ These two things are closely related to each other.
 ---
 connected with - связан с чем-то
 
+These two problems are closely connected with each other.
 
+---
+connection between - связь между
+
+What is the connection between these two things ?
+
+---
+in connection with - в связи с
+
+I'm writing to you in connection with your job offer
+I'm writing to you in connection with your recent request
+
+---
+prepare for - готовиться к чему-то
+I need to prepare for this test more thoro
+
+---
 
 
