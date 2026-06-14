@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 runtime: 108 мин
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/en/9/96/Zootopia_%28movie_poster%29.jpg
 tags: [english/content]
 ---
 # Zootopia · Зверополис

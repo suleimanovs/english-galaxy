@@ -27,3 +27,19 @@ Thank you for your time.
 ---
 eager to do something - не терпится сделать что-то
 
+I'm eager to get your feedback
+
+---
+remind of - напоминать о чем-то
+
+It reminds me of my childhood
+It reminds him of his past 
+It reminds me of some unforgettable moments in my life  
+
+---
+condemn for - осуждать за что-то
+
+He is condemned for such behavior 
+She is condemned for this kind of behavior 
+
+---

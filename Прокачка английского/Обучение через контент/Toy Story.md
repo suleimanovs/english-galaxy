@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 runtime: 81 мин
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg
 tags: [english/content]
 ---
 # Toy Story · История игрушек

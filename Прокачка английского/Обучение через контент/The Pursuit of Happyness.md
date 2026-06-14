@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 runtime: 117 мин
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/en/8/81/Poster-pursuithappyness.jpg
 tags: [english/content]
 ---
 # The Pursuit of Happyness · В погоне за счастьем

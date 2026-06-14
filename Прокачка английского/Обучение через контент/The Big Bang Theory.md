@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 episodes: 279
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/330px-TBBT_logo.svg.png
 tags: [english/content]
 ---
 # The Big Bang Theory · Теория большого взрыва

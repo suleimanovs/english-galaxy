@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 runtime: 90 мин
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/en/7/7b/Shrek_%282001_animated_feature_film%29.jpg
 tags: [english/content]
 ---
 # Shrek · Шрек

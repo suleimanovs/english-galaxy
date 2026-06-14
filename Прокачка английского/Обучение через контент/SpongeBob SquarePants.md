@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 episodes: 300
-cover: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SpongeBob_SquarePants_Logo_%282008%29.svg/500px-SpongeBob_SquarePants_Logo_%282008%29.svg.png
+cover: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SpongeBob_SquarePants_Logo_%282008%29.svg/330px-SpongeBob_SquarePants_Logo_%282008%29.svg.png
 tags: [english/content]
 ---
 # SpongeBob SquarePants · Губка Боб

@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 episodes: 42
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Stranger_Things_logo.png/330px-Stranger_Things_logo.png
 tags: [english/content]
 ---
 # Stranger Things · Очень странные дела

@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 runtime: 98 мин
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/en/thumb/9/99/How_to_Train_Your_Dragon_logo.png/330px-How_to_Train_Your_Dragon_logo.png
 tags: [english/content]
 ---
 # How to Train Your Dragon · Как приручить дракона

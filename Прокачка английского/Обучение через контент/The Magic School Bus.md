@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 episodes: 52
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/The_Magic_School_Bus_%28TV_series%29_logo.png/330px-The_Magic_School_Bus_%28TV_series%29_logo.png
 tags: [english/content]
 ---
 # The Magic School Bus · Волшебный школьный автобус
