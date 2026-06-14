@@ -51,14 +51,10 @@
             "id": "ed01233426e19786",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Прокачка английского/Обучение через контент/Что смотреть.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Что смотреть"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -258,8 +254,11 @@
   },
   "active": "ed01233426e19786",
   "lastOpenFiles": [
-    "Прокачка английского/Прокачка английского.md",
     "Прокачка английского/Обучение через контент/Что смотреть.md",
+    "english-watchlist/watchlist.md",
+    "english-watchlist/watchlist.csv",
+    "english-watchlist",
+    "Прокачка английского/Прокачка английского.md",
     "Прокачка английского/Обучение через контент/Extra English.md",
     "Прокачка английского/Обучение через контент/🎬 Что смотреть — дашборд.md",
     "Прокачка английского/Обучение через контент/Avatar - The Last Airbender.md",
@@ -283,7 +282,6 @@
     "Прокачка английского/Обучение через контент/Parks and Recreation.md",
     "Прокачка английского/Обучение через контент/How I Met Your Mother.md",
     "Прокачка английского/Обучение через контент/Modern Family.md",
-    "Прокачка английского/Обучение через контент/The Big Bang Theory.md",
     "Прокачка английского/Обучение через контент",
     "Прокачка английского",
     "english words/anki/audio/eg_universe.mp3",
@@ -292,8 +290,6 @@
     "english words/anki/audio/eg_match.mp3",
     "english words/anki/audio/eg_homework.mp3",
     "english words/anki/audio/eg_specific.mp3",
-    "english words/anki/audio/eg_recent.mp3",
-    "english words/anki/audio/eg_commercial.mp3",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
