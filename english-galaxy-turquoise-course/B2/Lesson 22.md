@@ -54,4 +54,8 @@ She prays to God for help.
 ---
 proof of - доказательство чего-то
 
-What is the pr
+What is the proof of her guilt? 
+What is the proof of it?
+Do you have any proof of it?
+
+---
