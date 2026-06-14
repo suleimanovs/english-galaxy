@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 episodes: 250
-cover: 
+cover: https://is1-ssl.mzstatic.com/image/thumb/Video/v4/05/f9/3a/05f93a56-9ca6-8fad-3e7c-0f522775df10/mzl.ljdqebyp.lsr/600x600bb.jpg
 tags: [english/content]
 ---
 # Modern Family · Американская семейка

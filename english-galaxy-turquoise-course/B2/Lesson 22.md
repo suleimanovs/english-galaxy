@@ -75,6 +75,6 @@ hint at - намекать на что-то
 
 Can you give me a hint?
 He hinted at it during our meeting 
+She hinted at it during our conversation 
 
 ---
-She hinted at it during our conve 

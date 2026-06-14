@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 episodes: 125
-cover: 
+cover: https://is1-ssl.mzstatic.com/image/thumb/Video62/v4/93/20/27/932027fd-bdf7-ec66-faad-5cdabd797de6/mzm.xzytpzrc.lsr/600x600bb.jpg
 tags: [english/content]
 ---
 # Parks and Recreation · Парки и зоны отдыха

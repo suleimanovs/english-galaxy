@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-galaxy-turquoise-course/B2/Lesson 22.md",
-                "mode": "source",
+                "file": "Прокачка английского/Прокачка английского.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 22"
+              "title": "Прокачка английского"
             }
           }
         ]
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5024719238281,
-    "collapsed": true
+    "width": 283.5024719238281
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -259,8 +258,10 @@
   },
   "active": "ed01233426e19786",
   "lastOpenFiles": [
-    "Прокачка английского/Прокачка английского.md",
+    "Прокачка английского/Обучение через контент/Extra English.md",
     "Прокачка английского/Обучение через контент/🎬 Что смотреть — дашборд.md",
+    "Прокачка английского/Обучение через контент/Avatar - The Last Airbender.md",
+    "Прокачка английского/Прокачка английского.md",
     "english-galaxy-turquoise-course/B2/Lesson 22.md",
     "learn-5000-english-words/Lesson 26 (144-150).md",
     "Прокачка английского/Обучение через контент/Good Will Hunting.md",
@@ -283,8 +284,6 @@
     "Прокачка английского/Обучение через контент/Modern Family.md",
     "Прокачка английского/Обучение через контент/The Big Bang Theory.md",
     "Прокачка английского/Обучение через контент/Brooklyn Nine-Nine.md",
-    "Прокачка английского/Обучение через контент/Full House.md",
-    "Прокачка английского/Обучение через контент/Friends.md",
     "Прокачка английского/Обучение через контент",
     "Прокачка английского",
     "english words/anki/audio/eg_universe.mp3",
