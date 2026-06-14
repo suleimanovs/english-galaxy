@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 episodes: 236
-cover: 
+cover: https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/c6/f7/90/c6f79006-9492-44bb-626c-fa149e147b2d/pr_source.lsr/600x600bb.jpg
 tags: [english/content]
 ---
 # Friends · Друзья

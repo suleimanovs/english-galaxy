@@ -9,7 +9,7 @@ accent: American
 status: planned
 rating: 
 episodes: 30
-cover: 
+cover: https://is1-ssl.mzstatic.com/image/thumb/Video/v4/82/51/88/82518803-57a9-904b-6337-67e123c4f134/mzl.yjhtuxdh.jpg/600x600bb.jpg
 tags: [english/content]
 ---
 # Extra English · Extra English

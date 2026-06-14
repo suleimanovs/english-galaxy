@@ -59,3 +59,22 @@ What is the proof of it?
 Do you have any proof of it?
 
 ---
+passion for - страсть к чему-то
+
+She has a passion for music 
+
+---
+adapt to - адаптироваться к
+
+It took me some time to adapt to these conditions
+I have already adapted to these new conditions
+
+---
+hint - намек, намекать
+hint at - намекать на что-то
+
+Can you give me a hint?
+He hinted at it during our meeting 
+
+---
+She hinted at it during our conve 
