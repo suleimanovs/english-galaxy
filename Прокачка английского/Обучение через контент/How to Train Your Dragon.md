@@ -5,7 +5,8 @@ title: "How to Train Your Dragon"
 title_ru: "Как приручить дракона"
 year: 2010
 level: B1
-accent: American
+accent: Mixed
+accent_note: "⚠️ Смешанный: подростки — американский, взрослые викинги — шотландский."
 status: backlog
 rating: 
 runtime: 98 мин

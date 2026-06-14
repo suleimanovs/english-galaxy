@@ -5,7 +5,7 @@ title: "Fullmetal Alchemist: Brotherhood"
 title_ru: "Стальной алхимик: Братство"
 year: 2009
 level: B2
-accent: American
+accent: American (dub)
 status: backlog
 rating: 
 episodes: 64

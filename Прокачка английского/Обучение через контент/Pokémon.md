@@ -5,7 +5,7 @@ title: "Pokémon"
 title_ru: "Покемон"
 year: 1997
 level: A2
-accent: American
+accent: American (dub)
 status: backlog
 rating: 
 episodes: 1000

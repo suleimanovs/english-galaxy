@@ -5,7 +5,7 @@ title: "Death Note"
 title_ru: "Тетрадь смерти"
 year: 2006
 level: B2
-accent: American
+accent: American (dub)
 status: backlog
 rating: 
 episodes: 37

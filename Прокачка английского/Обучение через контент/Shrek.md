@@ -5,7 +5,8 @@ title: "Shrek"
 title_ru: "Шрек"
 year: 2001
 level: B2
-accent: American
+accent: Mixed
+accent_note: "⚠️ Смешанный: Шрек — шотландский акцент, Осёл/Фиона — американские, Кот — испанский."
 status: backlog
 rating: 
 runtime: 90 мин

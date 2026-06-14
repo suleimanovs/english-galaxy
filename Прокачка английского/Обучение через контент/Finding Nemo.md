@@ -5,7 +5,8 @@ title: "Finding Nemo"
 title_ru: "В поисках Немо"
 year: 2003
 level: B1
-accent: American
+accent: Mixed
+accent_note: "⚠️ Смешанный: американские главные + много австралийских акцентов (действие в Сиднее)."
 status: backlog
 rating: 
 runtime: 100 мин

@@ -5,7 +5,7 @@ title: "Cowboy Bebop"
 title_ru: "Ковбой Бибоп"
 year: 1998
 level: B2
-accent: American
+accent: American (dub)
 status: backlog
 rating: 
 episodes: 26

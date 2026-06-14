@@ -6,6 +6,7 @@ title_ru: "Теория большого взрыва"
 year: 2007
 level: B2
 accent: American
+accent_note: "Преим. американский; Радж — индийский английский."
 status: backlog
 rating: 
 episodes: 279

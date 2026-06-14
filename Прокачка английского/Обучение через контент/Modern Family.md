@@ -6,6 +6,7 @@ title_ru: "Американская семейка"
 year: 2009
 level: B2
 accent: American
+accent_note: "Преим. американский; Глория — колумбийский английский."
 status: backlog
 rating: 
 episodes: 250

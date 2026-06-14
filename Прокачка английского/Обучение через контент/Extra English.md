@@ -5,7 +5,8 @@ title: "Extra English"
 title_ru: "Extra English"
 year: 2004
 level: A2
-accent: American
+accent: British
+accent_note: "⚠️ Британский акцент (ESL-ситком). Исключение из US-каталога — оставлен по запросу для старта."
 status: planned
 rating: 
 episodes: 30

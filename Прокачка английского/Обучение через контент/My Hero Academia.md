@@ -5,7 +5,7 @@ title: "My Hero Academia"
 title_ru: "Моя геройская академия"
 year: 2016
 level: B2
-accent: American
+accent: American (dub)
 status: backlog
 rating: 
 episodes: 160
