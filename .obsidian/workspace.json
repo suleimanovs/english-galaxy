@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ce9f41a421636903",
+        "id": "0393ab231fade848",
         "type": "tabs",
         "children": [
           {
-            "id": "e083ad27a8f99fea",
+            "id": "f51d86f913fdd2b2",
             "type": "leaf",
             "state": {
               "type": "mx-url",
@@ -19,12 +19,12 @@
                       "type": "url:hosted",
                       "vid": {
                         "host": "youtube",
-                        "vid": "SwC_zuckuik",
+                        "vid": "MMMjgW0tfpk",
                         "t": null,
                         "start": null,
                         "end": null
                       },
-                      "url": "https://www.youtube.com/watch?v=SwC_zuckuik"
+                      "url": "https://www.youtube.com/watch?v=MMMjgW0tfpk"
                     },
                     "hash": {}
                   },
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "youtube",
-              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 26"
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 22"
             }
           }
         ]
@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learn-5000-english-words/Lesson 26 (144-150).md",
+                "file": "english-galaxy-turquoise-course/B2/Lesson 22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 26 (144-150)"
+              "title": "Lesson 22"
             }
           }
         ]
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5024719238281
+    "width": 283.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -258,6 +259,34 @@
   },
   "active": "ed01233426e19786",
   "lastOpenFiles": [
+    "english-galaxy-turquoise-course/B2/Lesson 22.md",
+    "learn-5000-english-words/Lesson 26 (144-150).md",
+    "Прокачка английского/Обучение через контент/Good Will Hunting.md",
+    "Прокачка английского/Обучение через контент/The Pursuit of Happyness.md",
+    "Прокачка английского/Обучение через контент/Forrest Gump.md",
+    "Прокачка английского/Обучение через контент/Death Note.md",
+    "Прокачка английского/Обучение через контент/Cowboy Bebop.md",
+    "Прокачка английского/Обучение через контент/Fullmetal Alchemist - Brotherhood.md",
+    "Прокачка английского/Обучение через контент/My Hero Academia.md",
+    "Прокачка английского/Обучение через контент/Pokémon.md",
+    "Прокачка английского/Обучение через контент/BoJack Horseman.md",
+    "Прокачка английского/Обучение через контент/Rick and Morty.md",
+    "Прокачка английского/Обучение через контент/Better Call Saul.md",
+    "Прокачка английского/Обучение через контент/Breaking Bad.md",
+    "Прокачка английского/Обучение через контент/The Mandalorian.md",
+    "Прокачка английского/Обучение через контент/Stranger Things.md",
+    "Прокачка английского/Обучение через контент/The Office (US).md",
+    "Прокачка английского/Обучение через контент/Parks and Recreation.md",
+    "Прокачка английского/Обучение через контент/How I Met Your Mother.md",
+    "Прокачка английского/Обучение через контент/Modern Family.md",
+    "Прокачка английского/Обучение через контент/The Big Bang Theory.md",
+    "Прокачка английского/Обучение через контент/Brooklyn Nine-Nine.md",
+    "Прокачка английского/Обучение через контент/Full House.md",
+    "Прокачка английского/Обучение через контент/Friends.md",
+    "Прокачка английского/Обучение через контент/How to Train Your Dragon.md",
+    "Прокачка английского/Обучение через контент/Shrek.md",
+    "Прокачка английского/Обучение через контент",
+    "Прокачка английского",
     "english words/anki/audio/eg_universe.mp3",
     "english words/anki/audio/eg_businessmen.mp3",
     "english words/anki/audio/eg_bicycle.mp3",
@@ -266,34 +295,6 @@
     "english words/anki/audio/eg_specific.mp3",
     "english words/anki/audio/eg_recent.mp3",
     "english words/anki/audio/eg_commercial.mp3",
-    "english words/anki/audio/eg_certain.mp3",
-    "english words/anki/audio/eg_aggressive.mp3",
-    "english words/anki/audio/eg_trend.mp3",
-    "learn-5000-english-words/Lesson 26 (144-150).md",
-    "english-galaxy-turquoise-course/B2/Lesson 3 - 150 важных фразовых глаголов часть 3.md",
-    "english-galaxy-turquoise-course/B2/Lesson 5 - 150 важных фразовых глаголов часть 5.md",
-    "english-galaxy-turquoise-course/B2/Lesson 30.md",
-    "learn-5000-english-words/Lesson 15(68-74).md",
-    "english-galaxy-turquoise-course/B2/Lesson 46.md",
-    "english-galaxy-turquoise-course/B2/Lesson 4 - 150 важных фразовых глаголов часть 4.md",
-    "english-galaxy-turquoise-course/B2/Lesson 6 - 150 важных фразовых глаголов часть 6.md",
-    "english-galaxy-turquoise-course/B2/Lesson 9 - 320 зависимых предлогов.md",
-    "learn-5000-english-words/Lesson 1(1).md",
-    "learn-5000-english-words/Lesson 10 (41-50).md",
-    "learn-5000-english-words/Lesson 25 (137-143).md",
-    "english-galaxy-turquoise-course/B2/Lesson 21 - 320 зависимых предлогов.md",
-    "english-galaxy-turquoise-course/B2/Lesson 20 -  320 зависимых предлогов.md",
-    "english-galaxy-turquoise-course/B2/Lesson 1 - 150 важных фразовых глаголов часть 1.md",
-    "english-galaxy-turquoise-course/B2/Lesson 19 -  320 зависимых предлогов.md",
-    "learn-5000-english-words/Vocabulary Glossary.md",
-    "learn-5000-english-words/Unknown Words.md",
-    "english words/anki/Anki Decks.md",
-    "learn-5000-english-words/Lesson 61.md",
-    "_ОФОРМЛЕНИЕ - 3 варианта.md",
-    "Home Page.md",
-    "english-galaxy-turquoise-course/A2/Lesson 47 - Have got.md",
-    "english-galaxy-turquoise-course/A2/Lesson 46 - Модальные глаголы.md",
-    "english-galaxy-turquoise-course/A2/Lesson 45 - Артиклы.md",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
