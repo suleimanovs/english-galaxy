@@ -43,3 +43,15 @@ He is condemned for such behavior
 She is condemned for this kind of behavior 
 
 ---
+pray for - молиться за 
+pray to God - молиться Богу
+pray to God for  - молиться Богу о чем-то
+
+They pray for peace 
+He often prays to God because he feels that it really helps
+She prays to God for help.
+
+---
+proof of - доказательство чего-то
+
+What is the pr
