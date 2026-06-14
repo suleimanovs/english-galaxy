@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 episodes: 160
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/en/5/5a/Boku_no_Hero_Academia_Volume_1.png
 tags: [english/content]
 ---
 # My Hero Academia · Моя геройская академия

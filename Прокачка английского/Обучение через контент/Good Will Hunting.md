@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 runtime: 126 мин
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/en/5/52/Good_Will_Hunting.png
 tags: [english/content]
 ---
 # Good Will Hunting · Умница Уилл Хантинг

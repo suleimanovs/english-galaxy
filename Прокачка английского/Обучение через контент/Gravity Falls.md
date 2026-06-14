@@ -9,7 +9,7 @@ accent: American
 status: watched
 rating: 
 episodes: 40
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Gravity_Falls_logo.png/330px-Gravity_Falls_logo.png
 tags: [english/content]
 ---
 # Gravity Falls · Гравити Фолз

@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 runtime: 100 мин
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg
 tags: [english/content]
 ---
 # Finding Nemo · В поисках Немо

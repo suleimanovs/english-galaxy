@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 episodes: 1000
-cover: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/500px-International_Pok%C3%A9mon_logo.svg.png
+cover: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/330px-International_Pok%C3%A9mon_logo.svg.png
 tags: [english/content]
 ---
 # Pokémon · Покемон

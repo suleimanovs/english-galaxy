@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 episodes: 222
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Phineas_and_Ferb_logo.svg/330px-Phineas_and_Ferb_logo.svg.png
 tags: [english/content]
 ---
 # Phineas and Ferb · Финес и Ферб

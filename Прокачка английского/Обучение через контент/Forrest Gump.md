@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 runtime: 142 мин
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg
 tags: [english/content]
 ---
 # Forrest Gump · Форрест Гамп

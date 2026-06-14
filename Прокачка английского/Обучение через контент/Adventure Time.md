@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 episodes: 283
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Adventure_Time_-_Title_card.png/330px-Adventure_Time_-_Title_card.png
 tags: [english/content]
 ---
 # Adventure Time · Время приключений

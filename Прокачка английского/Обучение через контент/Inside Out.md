@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 runtime: 95 мин
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/en/0/0a/Inside_Out_%282015_film%29_poster.jpg
 tags: [english/content]
 ---
 # Inside Out · Головоломка

@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 episodes: 63
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Better_Call_Saul_logo.svg/330px-Better_Call_Saul_logo.svg.png
 tags: [english/content]
 ---
 # Better Call Saul · Лучше звоните Солу

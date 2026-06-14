@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 episodes: 77
-cover: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BoJack_Horseman_Logo.svg/500px-BoJack_Horseman_Logo.svg.png
+cover: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BoJack_Horseman_Logo.svg/330px-BoJack_Horseman_Logo.svg.png
 tags: [english/content]
 ---
 # BoJack Horseman · Конь БоДжек

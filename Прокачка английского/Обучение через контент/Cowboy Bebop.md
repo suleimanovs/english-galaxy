@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 episodes: 26
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/en/a/a9/Cowboy_Bebop_key_visual.jpg
 tags: [english/content]
 ---
 # Cowboy Bebop · Ковбой Бибоп

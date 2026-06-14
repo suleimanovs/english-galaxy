@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 episodes: 208
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HowIMetYourMother.svg/330px-HowIMetYourMother.svg.png
 tags: [english/content]
 ---
 # How I Met Your Mother · Как я встретил вашу маму

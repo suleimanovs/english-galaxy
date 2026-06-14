@@ -9,7 +9,7 @@ accent: American
 status: watched
 rating: 
 episodes: 61
-cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Avatar_The_Last_Airbender_logo.svg/500px-Avatar_The_Last_Airbender_logo.svg.png
+cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Avatar_The_Last_Airbender_logo.svg/330px-Avatar_The_Last_Airbender_logo.svg.png
 tags: [english/content]
 ---
 # Avatar: The Last Airbender · Аватар: Легенда об Аанге

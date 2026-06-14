@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 episodes: 153
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Brooklyn_Nine-Nine_Logo.png/330px-Brooklyn_Nine-Nine_Logo.png
 tags: [english/content]
 ---
 # Brooklyn Nine-Nine · Бруклин 9-9

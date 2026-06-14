@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 episodes: 62
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Breaking_Bad_logo.svg/330px-Breaking_Bad_logo.svg.png
 tags: [english/content]
 ---
 # Breaking Bad · Во все тяжкие

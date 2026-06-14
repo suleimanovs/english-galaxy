@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 episodes: 37
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/en/6/6f/Death_Note_Vol_1.jpg
 tags: [english/content]
 ---
 # Death Note · Тетрадь смерти

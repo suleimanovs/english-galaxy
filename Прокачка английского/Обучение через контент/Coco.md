@@ -9,7 +9,7 @@ accent: American
 status: backlog
 rating: 
 runtime: 105 мин
-cover: 
+cover: https://upload.wikimedia.org/wikipedia/en/9/98/Coco_%282017_film%29_poster.jpg
 tags: [english/content]
 ---
 # Coco · Тайна Коко
