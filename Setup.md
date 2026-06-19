@@ -22,7 +22,7 @@
 
 ## Колоды Anki
 
-Idioms (122), Collocations (110), Prepositional Phrases (93), Linking Words (61), Confusing Words (49), Irregular Verbs (108), False Friends (48), True Friends (234), Phrasal Verbs (368), Phrasal Nouns (47), Dependent Prepositions (378), All Words (~185). Каждая колода имеет обычные карточки + cloze (заморожены, можно разморозить когда слово выучено). Аудио (Google TTS) на всех карточках, MP3 хранятся локально в `english words/anki/audio/`.
+All Words (2038), Dependent Prepositions (402), Phrasal Verbs (368), Idioms (179), Collocations (177), Irregular Verbs (168), Prepositional Phrases (119), Verb Patterns (105), Linking Words (79), Synonym Chains (62), Confusing Words (60), Phrasal Nouns (60), False Friends (49). Карточки типа «Простая» (лицо↔оборот); cloze-карточки удалены (пересобираются из CSV при необходимости). Аудио (Google TTS) на всех карточках, MP3 хранятся локально в `english words/anki/audio/`.
 
 ## Как красить слова
 
