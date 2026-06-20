@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0393ab231fade848",
+        "id": "4d5eceb602cd6039",
         "type": "tabs",
+        "dimension": 44.38423645320197,
         "children": [
           {
-            "id": "f51d86f913fdd2b2",
+            "id": "be6c443b867a38d4",
             "type": "leaf",
             "state": {
               "type": "mx-url",
@@ -19,12 +20,12 @@
                       "type": "url:hosted",
                       "vid": {
                         "host": "youtube",
-                        "vid": "MMMjgW0tfpk",
+                        "vid": "wWUQ7eMZ9gA",
                         "t": null,
                         "start": null,
                         "end": null
                       },
-                      "url": "https://www.youtube.com/watch?v=MMMjgW0tfpk"
+                      "url": "https://www.youtube.com/watch?v=wWUQ7eMZ9gA"
                     },
                     "hash": {}
                   },
@@ -38,23 +39,28 @@
                 }
               },
               "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 22"
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 23"
             }
           }
         ]
       },
       {
-        "id": "894506652da85b6e",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 55.61576354679802,
         "children": [
           {
-            "id": "ed01233426e19786",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "english-galaxy-turquoise-course/B2/Lesson 23 - Модальные глаголы в прошедшем времени.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Lesson 23 - Модальные глаголы в прошедшем времени"
             }
           }
         ]
@@ -114,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5024719238281
+    "width": 283.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -252,8 +259,12 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "ed01233426e19786",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "english-galaxy-turquoise-course/B2/Lesson 23 - Модальные глаголы в прошедшем времени.md",
+    "english-galaxy-turquoise-course/B2/Lesson 22.md",
+    "Home Page.md",
+    "english words/anki/true-friends-tracker.csv",
     "Прокачка английского/Обучение через контент/Что смотреть.md",
     "english-watchlist/watchlist.md",
     "english-watchlist/watchlist.csv",
@@ -262,7 +273,6 @@
     "Прокачка английского/Обучение через контент/Extra English.md",
     "Прокачка английского/Обучение через контент/🎬 Что смотреть — дашборд.md",
     "Прокачка английского/Обучение через контент/Avatar - The Last Airbender.md",
-    "english-galaxy-turquoise-course/B2/Lesson 22.md",
     "learn-5000-english-words/Lesson 26 (144-150).md",
     "Прокачка английского/Обучение через контент/Good Will Hunting.md",
     "Прокачка английского/Обучение через контент/The Pursuit of Happyness.md",
@@ -280,8 +290,6 @@
     "Прокачка английского/Обучение через контент/Stranger Things.md",
     "Прокачка английского/Обучение через контент/The Office (US).md",
     "Прокачка английского/Обучение через контент/Parks and Recreation.md",
-    "Прокачка английского/Обучение через контент/How I Met Your Mother.md",
-    "Прокачка английского/Обучение через контент/Modern Family.md",
     "Прокачка английского/Обучение через контент",
     "Прокачка английского",
     "english words/anki/audio/eg_universe.mp3",
@@ -289,7 +297,6 @@
     "english words/anki/audio/eg_bicycle.mp3",
     "english words/anki/audio/eg_match.mp3",
     "english words/anki/audio/eg_homework.mp3",
-    "english words/anki/audio/eg_specific.mp3",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
