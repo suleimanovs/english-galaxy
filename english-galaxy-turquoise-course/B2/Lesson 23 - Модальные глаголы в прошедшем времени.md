@@ -55,3 +55,16 @@ She needn't have cooked so much food because just a few guests came.
 You needn't have bought it.
 You needn't have worried about it so much. 
 
+---
+
+had to - пришлось, должен был
+
+I had to get up very early yesterday. 
+
+---
+
+would have done - сделал бы(в прошлом)
+
+I would do it in your place.
+I would have done it yesterday in your place.
+I would have done it much earlier but unfortunately it wasn't possible 
