@@ -22,4 +22,17 @@ It <u>must have been </u>something unforgettable
 
 I should have done it earlier 
 I shouldn't have said it.
-I
+I shouldn't have missed such a unique opportunity.
+
+---
+
+<font color="#b2a2c7">ought to have done</font> - следовало сделать что-то
+
+They ought to have taken some measures.
+He ought to have read this document before signing it 
+
+---
+
+<font color="#d99694">may / might have done something</font> - возможно сделал что-то
+
+I may have made a mistake 
