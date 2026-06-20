@@ -35,4 +35,15 @@ He ought to have read this document before signing it
 
 <font color="#d99694">may / might have done something</font> - возможно сделал что-то
 
-I may have made a mistake 
+I may have made a mistake.
+She might have come back.
+It might have already happened.
+She may have got stuck in a traffic jam
+
+---
+
+didn't need to - не нужно было что-то(этого и не делали)
+
+You didn't need to spend so much time on it.
+I didn't need to get up so early.
+
