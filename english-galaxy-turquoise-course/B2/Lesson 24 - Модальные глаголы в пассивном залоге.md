@@ -37,4 +37,7 @@ It can't be done.
 ---
 should be done - следует сделать
 
-He should be 
+He should be told about this problem.
+It should be noted that these figures are quite accurate.
+It should be done as soon as possible.
+It should be noted that there are some alternatives to this decision.
