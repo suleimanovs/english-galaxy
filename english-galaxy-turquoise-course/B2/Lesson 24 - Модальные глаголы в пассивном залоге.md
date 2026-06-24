@@ -20,5 +20,21 @@ need to be done - нужно сделать
 
 It needs to be seen.
 It needs to be corrected.
-These questions need to be answered
-This problem needs to
+These questions need to be answered.
+This problem needs to be solved as soon as possible.
+It needs to be said.
+It needs to be changed
+It needs to be done today.
+
+---
+can be done - может быть сделано
+
+It can be seen now 
+It can be done later.
+What can be done to improve this situation?
+It can't be done.
+
+---
+should be done - следует сделать
+
+He should be 
