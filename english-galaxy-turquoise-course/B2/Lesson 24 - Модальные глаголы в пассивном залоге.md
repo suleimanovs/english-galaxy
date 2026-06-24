@@ -43,3 +43,9 @@ It should be done as soon as possible.
 It should be noted that there are some alternatives to this decision.
 It should be noted that this thing is of great importance.
 
+---
+ought to be done - следует сделать
+
+It ought to be done according to these rules.
+
+This budget ought to be spent more rationally.
