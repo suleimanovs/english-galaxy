@@ -4,6 +4,48 @@
     "type": "split",
     "children": [
       {
+        "id": "d6810953053649a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43cdfbef1fa70c00",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "VsG1IrhvqVw",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=VsG1IrhvqVw"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    }
+                  }
+                }
+              },
+              "pinned": true,
+              "icon": "youtube",
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 24"
+            }
+          }
+        ]
+      },
+      {
         "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
@@ -13,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "english-galaxy-turquoise-course/B2/Lesson 24 - Модальные глаголы в пассивном залоге.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Page"
+              "title": "Lesson 24 - Модальные глаголы в пассивном залоге"
             }
           }
         ]
@@ -78,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5024719238281
+    "width": 283.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -218,6 +261,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "english-galaxy-turquoise-course/B2/Lesson 23 - Модальные глаголы в прошедшем времени.md",
+    "english-galaxy-turquoise-course/B2/Lesson 24 - Модальные глаголы в пассивном залоге.md",
+    "learn-5000-english-words/Lesson 28.md",
+    "learn-5000-english-words/Lesson 27 (151-156).md",
+    "english-watchlist/watchlist.md",
+    "Home Page.md",
     "english words/anki/Anki Decks.md",
     "english words/anki/audio/eg_western.mp3",
     "english words/anki/audio/eg_vain.mp3",
@@ -229,17 +278,12 @@
     "english words/anki/audio/eg_extent.mp3",
     "english words/anki/audio/eg_effort.mp3",
     "english words/anki/audio/eg_eastern.mp3",
-    "learn-5000-english-words/Lesson 27 (151-156).md",
     "learn-5000-english-words/Lesson 26 (144-150).md",
-    "english-galaxy-turquoise-course/B2/Lesson 24.md",
-    "english-galaxy-turquoise-course/B2/Lesson 23 - Модальные глаголы в прошедшем времени.md",
     "english-galaxy-turquoise-course/B2/Lesson 22 - 320 зависимых предлогов.md",
     "english-galaxy-turquoise-course/B2/Lesson 20 -  320 зависимых предлогов.md",
     "english-galaxy-turquoise-course/B2/Lesson 19 -  320 зависимых предлогов.md",
     "english-galaxy-turquoise-course/B2/Lesson 21 - 320 зависимых предлогов.md",
-    "Home Page.md",
     "Прокачка английского/Обучение через контент/Что смотреть.md",
-    "english-watchlist/watchlist.md",
     "Прокачка английского/Прокачка английского.md",
     "Прокачка английского/Обучение через контент/Extra English.md",
     "Прокачка английского/Обучение через контент/🎬 Что смотреть — дашборд.md",
@@ -253,7 +297,6 @@
     "Прокачка английского/Обучение через контент/My Hero Academia.md",
     "Прокачка английского/Обучение через контент/Pokémon.md",
     "Прокачка английского/Обучение через контент/BoJack Horseman.md",
-    "Прокачка английского/Обучение через контент/Rick and Morty.md",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
