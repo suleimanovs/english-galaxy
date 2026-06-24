@@ -48,4 +48,12 @@ ought to be done - следует сделать
 
 It ought to be done according to these rules.
 
-This budget ought to be spent more rationally.
+This budget ought to be spent more rationally
+
+---
+may / might+ be done  - возможно будет сделано
+
+He may be seen there
+It may not be noticed 
+This house might be sold this year
+It might be corrected.
