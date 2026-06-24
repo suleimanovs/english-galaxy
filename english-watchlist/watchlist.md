@@ -23,7 +23,7 @@ function card(p){
     :`<div style="aspect-ratio:2/3;display:flex;align-items:center;justify-content:center;background:#1f2430;color:#7c8699;font-size:.78em">нет обложки</div>`;
   const amount=p.episodes?`${p.episodes} эп.`:(p.runtime||"");
   return `<div style="border:1px solid var(--background-modifier-border);border-radius:10px;overflow:hidden;background:var(--background-secondary-alt);display:flex;flex-direction:column">
-    <div style="position:relative">${cover}<span style="position:absolute;top:6px;right:6px;background:${lc};color:#fff;font-weight:700;font-size:.72em;padding:2px 7px;border-radius:20px">${esc(p.level)}</span></div>
+    <div style="position:relative">${cover}<span style="position:absolute;top:6px;right:6px;background:${lc};color:#fff;font-weight:700;font-size:.72em;padding:2px 7px;border-radius:20px" title="${esc(p.level_src||'')}">${esc(p.level)}</span></div>
     <div style="padding:9px 10px;display:flex;flex-direction:column;gap:4px">
       <div style="font-weight:700;font-size:.92em;line-height:1.2">${esc(p.title)}</div>
       <div style="display:flex;justify-content:space-between;gap:6px;color:var(--text-muted);font-size:.72em"><span>${mediaRu[p.media]||esc(p.media)} · ${esc(p.year)}${amount?` · ${amount}`:""}</span>${accent(p.accent)}</div>
@@ -38,5 +38,5 @@ sec("В очереди",byStatus("planned"));
 sec("Просмотрено",byStatus("watched"));
 const backlog=rows.where(r=>r.status==="backlog").sort(r=>lvlOrder[r.level]||9);
 dv.header(2,`Каталог по уровням (${backlog.length})`);
-for(const lvl of ["A2","B1","B2","C1"]){const arr=backlog.where(r=>r.level===lvl).array();if(arr.length)sec(lvl,arr);}
+for(const lvl of ["A1","A2","B1","B2","C1","C2"]){const arr=backlog.where(r=>r.level===lvl).array();if(arr.length)sec(lvl,arr);}
 ```
