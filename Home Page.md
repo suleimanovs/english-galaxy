@@ -162,6 +162,26 @@ if (!document.getElementById('hp-styles')) {
 
 const root = dv.container.createEl('div', { cls: 'hp-wrap' });
 
+// Wire an <a> as a working Obsidian internal link (desktop + mobile).
+// Plain href= to a vault path does NOT navigate in Obsidian; we must call
+// openLinkText on click. Returns the element for chaining.
+const SOURCE_PATH = dv.current().file.path;
+function egLink(el, target) {
+	if (!el) return el;
+	const path = (target || '').replace(/\.md$/, '');
+	el.classList.add('internal-link');
+	el.setAttr('data-href', path);
+	el.setAttr('href', path);
+	el.setAttr('role', 'link');
+	el.addEventListener('click', (e) => {
+		e.preventDefault();
+		e.stopPropagation();
+		if (!path || path === '#') return;
+		app.workspace.openLinkText(path, SOURCE_PATH, false);
+	});
+	return el;
+}
+
 // ════════════════════════════════════════════════════
 // HEADER
 // ════════════════════════════════════════════════════
@@ -271,8 +291,7 @@ for (const course of courses) {
 	}
 
 	const card = continueGrid.createEl('a', { cls: 'hp-continue-card' });
-	card.href = foundFile ? foundFile.path.replace('.md', '') : '#';
-	if (!foundFile) card.style.opacity = '0.6';
+	if (foundFile) egLink(card, foundFile.path); else { card.href = '#'; card.style.opacity = '0.6'; card.style.cursor = 'default'; }
 	card.innerHTML =
 		`<div class="hp-continue-icon">${course.icon}</div>` +
 		`<div class="hp-continue-content">` +
@@ -528,7 +547,7 @@ for (const sec of sections) {
 	}
 	grammarTotal += count;
 	const card = grammarGrid.createEl('a', { cls: 'hp-grammar-card' });
-	card.href = sec.intro;
+	egLink(card, sec.intro);
 	card.innerHTML =
 		`<div class="hp-grammar-icon">${sec.icon}</div>` +
 		`<div class="hp-grammar-name">${sec.name}</div>` +
@@ -537,9 +556,9 @@ for (const sec of sections) {
 
 const navRow = root.createEl('div', { cls: 'hp-links', attr: { style: 'margin-top:12px' } });
 const nav1 = navRow.createEl('a', { cls: 'hp-link-pill', text: '🗺 Grammar Navigator' });
-nav1.href = 'Grammar Navigator';
+egLink(nav1, 'Grammar Navigator');
 const nav2 = navRow.createEl('a', { cls: 'hp-link-pill', text: '📖 Grammar Reader' });
-nav2.href = 'Grammar Reader';
+egLink(nav2, 'Grammar Reader');
 
 // ════════════════════════════════════════════════════
 // WORD RESOURCES
@@ -547,13 +566,13 @@ nav2.href = 'Grammar Reader';
 root.createEl('div', { cls: 'hp-section-title', text: '🎓 Словарные материалы' });
 const resourceLinks = root.createEl('div', { cls: 'hp-links' });
 const link1 = resourceLinks.createEl('a', { cls: 'hp-link-pill', text: '🎴 Anki Decks — все колоды' });
-link1.href = 'english words/anki/Anki Decks';
+egLink(link1, 'english words/anki/Anki Decks');
 const link2 = resourceLinks.createEl('a', { cls: 'hp-link-pill', text: '🎯 Unknown Words — слова из уроков' });
-link2.href = 'learn-5000-english-words/Unknown Words';
+egLink(link2, 'learn-5000-english-words/Unknown Words');
 const link3 = resourceLinks.createEl('a', { cls: 'hp-link-pill', text: '📋 Backlog — идеи' });
-link3.href = 'Backlog';
+egLink(link3, 'Backlog');
 const link4 = resourceLinks.createEl('a', { cls: 'hp-link-pill', text: '⚙️ Setup' });
-link4.href = 'Setup';
+egLink(link4, 'Setup');
 
 // ════════════════════════════════════════════════════
 // RECENT LESSONS
@@ -580,7 +599,7 @@ if (studied.length === 0) {
 	const recentList = root.createEl('div', { cls: 'hp-recent' });
 	for (const r of studied.slice(0, 8)) {
 		const item = recentList.createEl('a', { cls: 'hp-recent-item' });
-		item.href = r.path.replace('.md', '');
+		egLink(item, r.path);
 		item.innerHTML =
 			`<div class="hp-recent-date">${r.display}</div>` +
 			`<div class="hp-recent-name">${r.name}</div>`;

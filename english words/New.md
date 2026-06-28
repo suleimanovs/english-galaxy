@@ -18,5 +18,6 @@ dedicated
 Simplicity  
 either  
 simplify  
-barely - едва, еле  
+barely 
 noticeable
+freeloaders
