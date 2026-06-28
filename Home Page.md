@@ -195,9 +195,9 @@ root.createEl('div', { cls: 'hp-sub', text: `${greeting}, готов к ново
 // HERO STATS — lessons studied
 // ════════════════════════════════════════════════════
 const allFiles = app.vault.getMarkdownFiles().filter(f =>
-	(f.path.startsWith("english-galaxy-titanium-course/") ||
-	 f.path.startsWith("english-galaxy-turquoise-course/") ||
-	 f.path.startsWith("learn-5000-english-words/")) &&
+	(f.path.startsWith("playlists/english-galaxy-titanium-course/") ||
+	 f.path.startsWith("playlists/english-galaxy-turquoise-course/") ||
+	 f.path.startsWith("playlists/learn-5000-english-words/")) &&
 	f.name !== "Home Page.md"
 );
 
@@ -256,9 +256,9 @@ hero.createEl('div', { cls: 'hp-card' }).innerHTML =
 root.createEl('div', { cls: 'hp-section-title', text: '▶ Продолжить обучение' });
 
 const courses = [
-	{ name: "Titanium", icon: "🎯", base: "english-galaxy-titanium-course", levels: ["A0","A1","A2","B1","B2","С1"] },
-	{ name: "Turquoise", icon: "💎", base: "english-galaxy-turquoise-course", levels: ["A2","B1","B2","C1"] },
-	{ name: "5000 Words", icon: "📖", base: "learn-5000-english-words", levels: null },
+	{ name: "Titanium", icon: "🎯", base: "playlists/english-galaxy-titanium-course", levels: ["A0","A1","A2","B1","B2","С1"] },
+	{ name: "Turquoise", icon: "💎", base: "playlists/english-galaxy-turquoise-course", levels: ["A2","B1","B2","C1"] },
+	{ name: "5000 Words", icon: "📖", base: "playlists/learn-5000-english-words", levels: null },
 ];
 
 const continueGrid = root.createEl('div', { cls: 'hp-continue' });
@@ -309,9 +309,9 @@ root.createEl('div', { cls: 'hp-section-title', text: '📊 Прогресс п�
 const coursesGrid = root.createEl('div', { cls: 'hp-courses' });
 
 const courseConfigs = [
-	{ name: "Turquoise", icon: "💎", base: "english-galaxy-turquoise-course", levels: ["A2","B1","B2","C1"], color: '#06b6d4' },
-	{ name: "Titanium", icon: "🎯", base: "english-galaxy-titanium-course", levels: ["A0","A1","A2","B1","B2","С1"], color: '#8b5cf6' },
-	{ name: "5000 Words", icon: "📖", base: "learn-5000-english-words", levels: null, color: '#10b981' },
+	{ name: "Turquoise", icon: "💎", base: "playlists/english-galaxy-turquoise-course", levels: ["A2","B1","B2","C1"], color: '#06b6d4' },
+	{ name: "Titanium", icon: "🎯", base: "playlists/english-galaxy-titanium-course", levels: ["A0","A1","A2","B1","B2","С1"], color: '#8b5cf6' },
+	{ name: "5000 Words", icon: "📖", base: "playlists/learn-5000-english-words", levels: null, color: '#10b981' },
 ];
 
 for (const c of courseConfigs) {
@@ -568,7 +568,7 @@ const resourceLinks = root.createEl('div', { cls: 'hp-links' });
 const link1 = resourceLinks.createEl('a', { cls: 'hp-link-pill', text: '🎴 Anki Decks — все колоды' });
 egLink(link1, 'english words/anki/Anki Decks');
 const link2 = resourceLinks.createEl('a', { cls: 'hp-link-pill', text: '🎯 Unknown Words — слова из уроков' });
-egLink(link2, 'learn-5000-english-words/Unknown Words');
+egLink(link2, 'playlists/learn-5000-english-words/Unknown Words');
 const link3 = resourceLinks.createEl('a', { cls: 'hp-link-pill', text: '📋 Backlog — идеи' });
 egLink(link3, 'Backlog');
 const link4 = resourceLinks.createEl('a', { cls: 'hp-link-pill', text: '⚙️ Setup' });
