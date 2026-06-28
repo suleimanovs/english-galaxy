@@ -4,6 +4,11 @@
   "positionStyle": "top",
   "menuCommands": [
     {
+      "id": "editing-toolbar:ai-tools",
+      "name": "AI Tools",
+      "icon": "lucide-sparkles"
+    },
+    {
       "id": "editing-toolbar:editor-undo",
       "name": "Undo Edit",
       "icon": "undo-glyph"
@@ -389,10 +394,34 @@
       "icon": "exit-fullscreen"
     }
   ],
-  "followingCommands": [],
-  "topCommands": [],
-  "fixedCommands": [],
-  "mobileCommands": [],
+  "followingCommands": [
+    {
+      "id": "editing-toolbar:ai-tools",
+      "name": "AI Tools",
+      "icon": "lucide-sparkles"
+    }
+  ],
+  "topCommands": [
+    {
+      "id": "editing-toolbar:ai-tools",
+      "name": "AI Tools",
+      "icon": "lucide-sparkles"
+    }
+  ],
+  "fixedCommands": [
+    {
+      "id": "editing-toolbar:ai-tools",
+      "name": "AI Tools",
+      "icon": "lucide-sparkles"
+    }
+  ],
+  "mobileCommands": [
+    {
+      "id": "editing-toolbar:ai-tools",
+      "name": "AI Tools",
+      "icon": "lucide-sparkles"
+    }
+  ],
   "enableMultipleConfig": false,
   "enableTopToolbar": true,
   "enableFollowingToolbar": false,
@@ -454,8 +483,8 @@
   "toolbarIconSize": 18,
   "useCurrentLineForRegex": false,
   "ai": {
-    "enabled": false,
-    "consentAccepted": false,
+    "enabled": true,
+    "consentAccepted": true,
     "onboardingShown": true,
     "providerMode": "pkmer-first",
     "enableInlineCompletion": true,

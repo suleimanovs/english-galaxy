@@ -39,6 +39,7 @@ var __copyProps = (to, from, except, desc) => {
   return to;
 };
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
+var __publicField = (obj, key, value) => __defNormalProp(obj, typeof key !== "symbol" ? key + "" : key, value);
 var __superGet = (cls, obj, key) => __reflectGet(__getProtoOf(cls), key, obj);
 var __async = (__this, __arguments, generator) => {
   return new Promise((resolve, reject) => {
@@ -67,7 +68,7 @@ __export(main_exports, {
   default: () => BetterRecallPlugin
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian14 = require("obsidian");
+var import_obsidian15 = require("obsidian");
 
 // node_modules/.pnpm/uuid@13.0.0/node_modules/uuid/dist/stringify.js
 var byteToHex = [];
@@ -125,83 +126,6 @@ function v4(options, buf, offset) {
 }
 var v4_default = v4;
 
-// src/spaced-repetition/index.ts
-var SpacedRepetitionAlgorithm = class {
-  constructor(parameters = {}) {
-    this.items = [];
-    this.queuedItems = [];
-    this.sessionEndTime = this.getEndOfDay(/* @__PURE__ */ new Date());
-    this.parameters = __spreadProps(__spreadValues({}, this.getDefaultValues()), {
-      parameters
-    });
-  }
-  addItem(item) {
-    this.items.push(item);
-    this.scheduleReview(item);
-  }
-  removeItem(item) {
-    const index = this.items.findIndex((i) => i.id === item.id);
-    if (index > -1) {
-      this.items.splice(index, 1);
-    }
-  }
-  setParameters(parameters) {
-    this.parameters = __spreadValues(__spreadValues({}, this.parameters), parameters);
-  }
-  getItemCount() {
-    return this.items.length;
-  }
-  getParameters() {
-    return this.parameters;
-  }
-  resetItems() {
-    this.items = [];
-  }
-  /**
-   * Starts a new review session.
-   * This function resets the session end time to the end of the current day,
-   * clears the queue of items to be reviewed, and refreshes the queue with
-   * items due for review today.
-   */
-  startNewSession() {
-    this.sessionEndTime = this.getEndOfDay(/* @__PURE__ */ new Date());
-    this.queuedItems = [];
-    this.refreshQueue();
-  }
-  /**
-   * Adds an item to the queue if it is due for review today.
-   * @param item The item to potentially add to the queue.
-   */
-  addToQueueIfDueToday(item) {
-    if (this.isDueToday(item) && !this.queuedItems.includes(item)) {
-      this.queuedItems.push(item);
-    }
-  }
-  /**
-   * Checks if an item is due for review today.
-   * @param item The item to check.
-   * @returns True if the item is due today, false otherwise.
-   */
-  isDueToday(item) {
-    var _a;
-    const now = /* @__PURE__ */ new Date();
-    return item.state === 0 /* NEW */ || !!item.nextReviewDate && item.nextReviewDate <= this.sessionEndTime && ((_a = item.nextReviewDate) == null ? void 0 : _a.toDateString()) === now.toDateString();
-  }
-  /**
-   * Refreshes the queue of items to be reviewed.
-   * This method checks all items and adds those due for review today
-   * to the queue.
-   */
-  refreshQueue() {
-    this.items.forEach((item) => this.addToQueueIfDueToday(item));
-  }
-  getEndOfDay(date) {
-    const endOfDate = new Date(date);
-    endOfDate.setHours(23, 59, 59, 999);
-    return endOfDate;
-  }
-};
-
 // src/ui/modals/card-modal/CardModal.ts
 var import_obsidian3 = require("obsidian");
 
@@ -219,7 +143,7 @@ var DECK_TABLE = "better-recall-deck-table";
 var DECK_NAME = "better-recall-deck-name";
 var DECK_BUTTON = "better-recall-deck__button";
 var P_DESCRIPTION = "better-recall-description";
-var CARD_MODAL_DESCRIPTION = "better-recall-card-modal-description";
+var CARD_MODAL_DROPDOWN_DESCRIPTION = "better-recall-card-modal-dropdown-description";
 var SETTING_ITEM_DESCRIPTION = "setting-item-description";
 
 // src/ui/components/ButtonsBarComponent.ts
@@ -268,6 +192,7 @@ var import_obsidian2 = require("obsidian");
 var KeyboardListener = class {
   constructor(inputEl) {
     this.inputEl = inputEl;
+    this.boundEnterPress = this.onEnterPress.bind(this);
   }
   onEnter() {
   }
@@ -275,15 +200,16 @@ var KeyboardListener = class {
     this.removeKeyEnterAction();
   }
   addKeyEnterAction() {
-    this.inputEl.addEventListener("keypress", this.onEnterPress.bind(this));
+    this.inputEl.addEventListener("keypress", this.boundEnterPress);
   }
   removeKeyEnterAction() {
-    this.inputEl.removeEventListener("keypress", this.onEnterPress.bind(this));
+    this.inputEl.removeEventListener("keypress", this.boundEnterPress);
   }
   onEnterPress(event) {
+    const keyEvent = event;
     setTimeout(() => {
       const isEmpty = this.inputEl.value.length === 0;
-      if (!event.altKey || event.key !== "Enter" || isEmpty) {
+      if (!keyEvent.altKey || keyEvent.key !== "Enter" || isEmpty) {
         return;
       }
       this.onEnter();
@@ -370,8 +296,9 @@ var CardModal = class extends import_obsidian3.Modal {
     this.render();
   }
   onClose() {
-    this.frontInputComp.keyboardListener.cleanup();
-    this.backInputComp.keyboardListener.cleanup();
+    var _a, _b;
+    (_a = this.inputFields) == null ? void 0 : _a.front.keyboardListener.cleanup();
+    (_b = this.inputFields) == null ? void 0 : _b.back.keyboardListener.cleanup();
     super.onClose();
     this.plugin.decksManager.save();
     this.contentEl.empty();
@@ -383,7 +310,7 @@ var CardModal = class extends import_obsidian3.Modal {
     }, {});
     this.optionsContainerEl.createEl("p", {
       text: "Deck:",
-      cls: cn(SETTING_ITEM_DESCRIPTION, CARD_MODAL_DESCRIPTION)
+      cls: cn(SETTING_ITEM_DESCRIPTION, CARD_MODAL_DROPDOWN_DESCRIPTION)
     });
     this.deckDropdownComp = new import_obsidian3.DropdownComponent(
       this.optionsContainerEl
@@ -393,30 +320,35 @@ var CardModal = class extends import_obsidian3.Modal {
   renderCardTypeDropdown() {
     this.optionsContainerEl.createEl("p", {
       text: "Type:",
-      cls: cn(SETTING_ITEM_DESCRIPTION, CARD_MODAL_DESCRIPTION)
+      cls: cn(SETTING_ITEM_DESCRIPTION, CARD_MODAL_DROPDOWN_DESCRIPTION)
     });
     const cardTypeDropdown = new import_obsidian3.DropdownComponent(this.optionsContainerEl).addOptions({ basic: "Basic" }).setDisabled(true);
     cardTypeDropdown.selectEl.addClass("better-recall-field");
   }
   renderBasicTypeFields(front, back) {
-    this.frontInputComp = new InputAreaComponent(this.contentEl, {
+    var _a;
+    const frontComp = new InputAreaComponent(this.contentEl, {
       description: "Front"
     }).setValue(front != null ? front : "").onChange(this.handleInputChange.bind(this));
-    this.frontInputComp.keyboardListener.onEnter = () => {
+    frontComp.keyboardListener.onEnter = () => {
       if (this.disabled) {
         return;
       }
       this.submit();
     };
-    this.backInputComp = new InputAreaComponent(this.contentEl, {
+    const backComp = new InputAreaComponent(this.contentEl, {
       description: "Back"
     }).setValue(back != null ? back : "").onChange(this.handleInputChange.bind(this));
-    this.backInputComp.descriptionEl.addClass("better-recall-back-field");
-    this.backInputComp.keyboardListener.onEnter = () => {
+    (_a = backComp.descriptionEl) == null ? void 0 : _a.addClass("better-recall-back-field");
+    backComp.keyboardListener.onEnter = () => {
       if (this.disabled) {
         return;
       }
       this.submit();
+    };
+    this.inputFields = {
+      front: frontComp,
+      back: backComp
     };
   }
   renderButtonsBar(submitText, options = {}) {
@@ -425,11 +357,18 @@ var CardModal = class extends import_obsidian3.Modal {
     this.buttonsBarComp = new ButtonsBarComponent(options.container).setSubmitButtonDisabled(true).setSubmitText(submitText).onSubmit(this.submit.bind(this)).onClose(this.close.bind(this));
   }
   handleInputChange() {
-    const disabled = this.frontInputComp.getValue().length === 0 || this.backInputComp.getValue().length === 0;
-    this.buttonsBarComp.setSubmitButtonDisabled(disabled);
+    var _a;
+    if (!this.inputFields) {
+      return;
+    }
+    const disabled = this.inputFields.front.getValue().length === 0 || this.inputFields.back.getValue().length === 0;
+    (_a = this.buttonsBarComp) == null ? void 0 : _a.setSubmitButtonDisabled(disabled);
   }
   get disabled() {
-    return this.frontInputComp.getValue().length === 0 || this.backInputComp.getValue().length === 0;
+    if (!this.inputFields) {
+      return true;
+    }
+    return this.inputFields.front.getValue().length === 0 || this.inputFields.back.getValue().length === 0;
   }
 };
 
@@ -447,24 +386,18 @@ var AddCardModal = class extends CardModal {
     this.renderButtonsBar("Add");
   }
   submit() {
+    if (!this.inputFields || !this.deckDropdownComp) {
+      return;
+    }
     const deckId = this.deckDropdownComp.getValue();
-    const front = this.frontInputComp.getValue();
-    const back = this.backInputComp.getValue();
-    this.frontInputComp.setValue("");
-    this.backInputComp.setValue("");
-    const card = {
-      id: v4_default(),
-      type: 0 /* BASIC */,
-      content: {
-        front,
-        back
-      },
-      state: 0 /* NEW */,
-      easeFactor: 2.5,
-      interval: 0,
-      iteration: 0,
-      stepIndex: 0
-    };
+    const front = this.inputFields.front.getValue();
+    const back = this.inputFields.back.getValue();
+    this.inputFields.front.setValue("");
+    this.inputFields.back.setValue("");
+    const card = this.plugin.algorithm.createNewCard(v4_default(), {
+      front,
+      back
+    });
     this.plugin.decksManager.addCard(deckId, card);
     this.plugin.getEventEmitter().emit("addItem", { deckId, item: card });
   }
@@ -488,7 +421,1818 @@ function registerCommands(plugin) {
   });
 }
 
+// node_modules/.pnpm/ts-fsrs@5.3.2/node_modules/ts-fsrs/dist/index.mjs
+var State = /* @__PURE__ */ ((State2) => {
+  State2[State2["New"] = 0] = "New";
+  State2[State2["Learning"] = 1] = "Learning";
+  State2[State2["Review"] = 2] = "Review";
+  State2[State2["Relearning"] = 3] = "Relearning";
+  return State2;
+})(State || {});
+var Rating = /* @__PURE__ */ ((Rating2) => {
+  Rating2[Rating2["Manual"] = 0] = "Manual";
+  Rating2[Rating2["Again"] = 1] = "Again";
+  Rating2[Rating2["Hard"] = 2] = "Hard";
+  Rating2[Rating2["Good"] = 3] = "Good";
+  Rating2[Rating2["Easy"] = 4] = "Easy";
+  return Rating2;
+})(Rating || {});
+var TypeConvert = class _TypeConvert {
+  static card(card) {
+    return __spreadProps(__spreadValues({}, card), {
+      state: _TypeConvert.state(card.state),
+      due: _TypeConvert.time(card.due),
+      last_review: card.last_review ? _TypeConvert.time(card.last_review) : void 0
+    });
+  }
+  static rating(value) {
+    if (typeof value === "string") {
+      const firstLetter = value.charAt(0).toUpperCase();
+      const restOfString = value.slice(1).toLowerCase();
+      const ret = Rating[`${firstLetter}${restOfString}`];
+      if (ret === void 0) {
+        throw new Error(`Invalid rating:[${value}]`);
+      }
+      return ret;
+    } else if (typeof value === "number") {
+      return value;
+    }
+    throw new Error(`Invalid rating:[${value}]`);
+  }
+  static state(value) {
+    if (typeof value === "string") {
+      const firstLetter = value.charAt(0).toUpperCase();
+      const restOfString = value.slice(1).toLowerCase();
+      const ret = State[`${firstLetter}${restOfString}`];
+      if (ret === void 0) {
+        throw new Error(`Invalid state:[${value}]`);
+      }
+      return ret;
+    } else if (typeof value === "number") {
+      return value;
+    }
+    throw new Error(`Invalid state:[${value}]`);
+  }
+  static time(value) {
+    if (value instanceof Date) {
+      return value;
+    }
+    const date = new Date(value);
+    if (typeof value === "object" && value !== null && !Number.isNaN(Date.parse(value) || +date)) {
+      return date;
+    } else if (typeof value === "string") {
+      const timestamp = Date.parse(value);
+      if (!Number.isNaN(timestamp)) {
+        return new Date(timestamp);
+      } else {
+        throw new Error(`Invalid date:[${value}]`);
+      }
+    } else if (typeof value === "number") {
+      return new Date(value);
+    }
+    throw new Error(`Invalid date:[${value}]`);
+  }
+  static review_log(log) {
+    return __spreadProps(__spreadValues({}, log), {
+      due: _TypeConvert.time(log.due),
+      rating: _TypeConvert.rating(log.rating),
+      state: _TypeConvert.state(log.state),
+      review: _TypeConvert.time(log.review)
+    });
+  }
+};
+Date.prototype.scheduler = function(t, isDay) {
+  return date_scheduler(this, t, isDay);
+};
+Date.prototype.diff = function(pre, unit) {
+  return date_diff(this, pre, unit);
+};
+Date.prototype.format = function() {
+  return formatDate(this);
+};
+Date.prototype.dueFormat = function(last_review, unit, timeUnit) {
+  return show_diff_message(this, last_review, unit, timeUnit);
+};
+function date_scheduler(now, t, isDay) {
+  return new Date(
+    isDay ? TypeConvert.time(now).getTime() + t * 24 * 60 * 60 * 1e3 : TypeConvert.time(now).getTime() + t * 60 * 1e3
+  );
+}
+function date_diff(now, pre, unit) {
+  if (!now || !pre) {
+    throw new Error("Invalid date");
+  }
+  const diff = TypeConvert.time(now).getTime() - TypeConvert.time(pre).getTime();
+  let r = 0;
+  switch (unit) {
+    case "days":
+      r = Math.floor(diff / (24 * 60 * 60 * 1e3));
+      break;
+    case "minutes":
+      r = Math.floor(diff / (60 * 1e3));
+      break;
+  }
+  return r;
+}
+function formatDate(dateInput) {
+  const date = TypeConvert.time(dateInput);
+  const year = date.getFullYear();
+  const month = date.getMonth() + 1;
+  const day = date.getDate();
+  const hours = date.getHours();
+  const minutes = date.getMinutes();
+  const seconds = date.getSeconds();
+  return `${year}-${padZero(month)}-${padZero(day)} ${padZero(hours)}:${padZero(
+    minutes
+  )}:${padZero(seconds)}`;
+}
+function padZero(num) {
+  return num < 10 ? `0${num}` : `${num}`;
+}
+var TIMEUNIT = [60, 60, 24, 31, 12];
+var TIMEUNITFORMAT = ["second", "min", "hour", "day", "month", "year"];
+function show_diff_message(due, last_review, unit, timeUnit = TIMEUNITFORMAT) {
+  due = TypeConvert.time(due);
+  last_review = TypeConvert.time(last_review);
+  if (timeUnit.length !== TIMEUNITFORMAT.length) {
+    timeUnit = TIMEUNITFORMAT;
+  }
+  let diff = due.getTime() - last_review.getTime();
+  let i = 0;
+  diff /= 1e3;
+  for (i = 0; i < TIMEUNIT.length; i++) {
+    if (diff < TIMEUNIT[i]) {
+      break;
+    } else {
+      diff /= TIMEUNIT[i];
+    }
+  }
+  return `${Math.floor(diff)}${unit ? timeUnit[i] : ""}`;
+}
+var Grades = Object.freeze([
+  Rating.Again,
+  Rating.Hard,
+  Rating.Good,
+  Rating.Easy
+]);
+var FUZZ_RANGES = [
+  {
+    start: 2.5,
+    end: 7,
+    factor: 0.15
+  },
+  {
+    start: 7,
+    end: 20,
+    factor: 0.1
+  },
+  {
+    start: 20,
+    end: Infinity,
+    factor: 0.05
+  }
+];
+function get_fuzz_range(interval, elapsed_days, maximum_interval) {
+  let delta = 1;
+  for (const range of FUZZ_RANGES) {
+    delta += range.factor * Math.max(Math.min(interval, range.end) - range.start, 0);
+  }
+  interval = Math.min(interval, maximum_interval);
+  let min_ivl = Math.max(2, Math.round(interval - delta));
+  const max_ivl = Math.min(Math.round(interval + delta), maximum_interval);
+  if (interval > elapsed_days) {
+    min_ivl = Math.max(min_ivl, elapsed_days + 1);
+  }
+  min_ivl = Math.min(min_ivl, max_ivl);
+  return { min_ivl, max_ivl };
+}
+function clamp(value, min, max) {
+  return Math.min(Math.max(value, min), max);
+}
+function roundTo(num, decimals) {
+  const factor = 10 ** decimals;
+  return Math.round(num * factor) / factor;
+}
+function dateDiffInDays(last, cur) {
+  const utc1 = Date.UTC(
+    last.getUTCFullYear(),
+    last.getUTCMonth(),
+    last.getUTCDate()
+  );
+  const utc2 = Date.UTC(
+    cur.getUTCFullYear(),
+    cur.getUTCMonth(),
+    cur.getUTCDate()
+  );
+  return Math.floor(
+    (utc2 - utc1) / 864e5
+    /** 1000 * 60 * 60 * 24*/
+  );
+}
+var ConvertStepUnitToMinutes = (step) => {
+  const unit = step.slice(-1);
+  const value = parseInt(step.slice(0, -1), 10);
+  if (Number.isNaN(value) || !Number.isFinite(value) || value < 0) {
+    throw new Error(`Invalid step value: ${step}`);
+  }
+  switch (unit) {
+    case "m":
+      return value;
+    case "h":
+      return value * 60;
+    case "d":
+      return value * 1440;
+    default:
+      throw new Error(`Invalid step unit: ${step}, expected m/h/d`);
+  }
+};
+var BasicLearningStepsStrategy = (params, state, cur_step) => {
+  const learning_steps = state === State.Relearning || state === State.Review ? params.relearning_steps : params.learning_steps;
+  const steps_length = learning_steps.length;
+  if (steps_length === 0 || cur_step >= steps_length) return {};
+  const firstStep = learning_steps[0];
+  const toMinutes = ConvertStepUnitToMinutes;
+  const getAgainInterval = () => {
+    return toMinutes(firstStep);
+  };
+  const getHardInterval = () => {
+    if (steps_length === 1) return Math.round(toMinutes(firstStep) * 1.5);
+    const nextStep = learning_steps[1];
+    return Math.round((toMinutes(firstStep) + toMinutes(nextStep)) / 2);
+  };
+  const getStepInfo = (index) => {
+    if (index < 0 || index >= steps_length) {
+      return null;
+    } else {
+      return learning_steps[index];
+    }
+  };
+  const getGoodMinutes = (step) => {
+    return toMinutes(step);
+  };
+  const result = {};
+  const step_info = getStepInfo(Math.max(0, cur_step));
+  if (state === State.Review) {
+    result[Rating.Again] = {
+      scheduled_minutes: toMinutes(step_info),
+      next_step: 0
+    };
+    return result;
+  } else {
+    result[Rating.Again] = {
+      scheduled_minutes: getAgainInterval(),
+      next_step: 0
+    };
+    result[Rating.Hard] = {
+      scheduled_minutes: getHardInterval(),
+      next_step: cur_step
+    };
+    const next_info = getStepInfo(cur_step + 1);
+    if (next_info) {
+      const nextMin = getGoodMinutes(next_info);
+      if (nextMin) {
+        result[Rating.Good] = {
+          scheduled_minutes: Math.round(nextMin),
+          next_step: cur_step + 1
+        };
+      }
+    }
+  }
+  return result;
+};
+function DefaultInitSeedStrategy() {
+  const time = this.review_time.getTime();
+  const reps = this.current.reps;
+  const mul = this.current.difficulty * this.current.stability;
+  return `${time}_${reps}_${mul}`;
+}
+var StrategyMode = /* @__PURE__ */ ((StrategyMode2) => {
+  StrategyMode2["SCHEDULER"] = "Scheduler";
+  StrategyMode2["LEARNING_STEPS"] = "LearningSteps";
+  StrategyMode2["SEED"] = "Seed";
+  return StrategyMode2;
+})(StrategyMode || {});
+var AbstractScheduler = class {
+  // init
+  constructor(card, now, algorithm, strategies) {
+    __publicField(this, "last");
+    __publicField(this, "current");
+    __publicField(this, "review_time");
+    __publicField(this, "next", /* @__PURE__ */ new Map());
+    __publicField(this, "algorithm");
+    __publicField(this, "strategies");
+    __publicField(this, "elapsed_days", 0);
+    this.algorithm = algorithm;
+    this.last = TypeConvert.card(card);
+    this.current = TypeConvert.card(card);
+    this.review_time = TypeConvert.time(now);
+    this.strategies = strategies;
+    this.init();
+  }
+  checkGrade(grade) {
+    if (!Number.isFinite(grade) || grade < 0 || grade > 4) {
+      throw new Error(`Invalid grade "${grade}",expected 1-4`);
+    }
+  }
+  init() {
+    const { state, last_review } = this.current;
+    let interval = 0;
+    if (state !== State.New && last_review) {
+      interval = dateDiffInDays(last_review, this.review_time);
+    }
+    this.current.last_review = this.review_time;
+    this.elapsed_days = interval;
+    this.current.elapsed_days = interval;
+    this.current.reps += 1;
+    let seed_strategy = DefaultInitSeedStrategy;
+    if (this.strategies) {
+      const custom_strategy = this.strategies.get(StrategyMode.SEED);
+      if (custom_strategy) {
+        seed_strategy = custom_strategy;
+      }
+    }
+    this.algorithm.seed = seed_strategy.call(this);
+  }
+  preview() {
+    return {
+      [Rating.Again]: this.review(Rating.Again),
+      [Rating.Hard]: this.review(Rating.Hard),
+      [Rating.Good]: this.review(Rating.Good),
+      [Rating.Easy]: this.review(Rating.Easy),
+      [Symbol.iterator]: this.previewIterator.bind(this)
+    };
+  }
+  *previewIterator() {
+    for (const grade of Grades) {
+      yield this.review(grade);
+    }
+  }
+  review(grade) {
+    const { state } = this.last;
+    let item;
+    this.checkGrade(grade);
+    switch (state) {
+      case State.New:
+        item = this.newState(grade);
+        break;
+      case State.Learning:
+      case State.Relearning:
+        item = this.learningState(grade);
+        break;
+      case State.Review:
+        item = this.reviewState(grade);
+        break;
+    }
+    return item;
+  }
+  buildLog(rating) {
+    const { last_review, due, elapsed_days } = this.last;
+    return {
+      rating,
+      state: this.current.state,
+      due: last_review || due,
+      stability: this.current.stability,
+      difficulty: this.current.difficulty,
+      elapsed_days: this.elapsed_days,
+      last_elapsed_days: elapsed_days,
+      scheduled_days: this.current.scheduled_days,
+      learning_steps: this.current.learning_steps,
+      review: this.review_time
+    };
+  }
+};
+var Alea = class {
+  constructor(seed) {
+    __publicField(this, "c");
+    __publicField(this, "s0");
+    __publicField(this, "s1");
+    __publicField(this, "s2");
+    const mash = Mash();
+    this.c = 1;
+    this.s0 = mash(" ");
+    this.s1 = mash(" ");
+    this.s2 = mash(" ");
+    if (seed == null) seed = Date.now();
+    this.s0 -= mash(seed);
+    if (this.s0 < 0) this.s0 += 1;
+    this.s1 -= mash(seed);
+    if (this.s1 < 0) this.s1 += 1;
+    this.s2 -= mash(seed);
+    if (this.s2 < 0) this.s2 += 1;
+  }
+  next() {
+    const t = 2091639 * this.s0 + this.c * 23283064365386963e-26;
+    this.s0 = this.s1;
+    this.s1 = this.s2;
+    this.c = t | 0;
+    this.s2 = t - this.c;
+    return this.s2;
+  }
+  set state(state) {
+    this.c = state.c;
+    this.s0 = state.s0;
+    this.s1 = state.s1;
+    this.s2 = state.s2;
+  }
+  get state() {
+    return {
+      c: this.c,
+      s0: this.s0,
+      s1: this.s1,
+      s2: this.s2
+    };
+  }
+};
+function Mash() {
+  let n = 4022871197;
+  return function mash(data) {
+    data = String(data);
+    for (let i = 0; i < data.length; i++) {
+      n += data.charCodeAt(i);
+      let h = 0.02519603282416938 * n;
+      n = h >>> 0;
+      h -= n;
+      h *= n;
+      n = h >>> 0;
+      h -= n;
+      n += h * 4294967296;
+    }
+    return (n >>> 0) * 23283064365386963e-26;
+  };
+}
+function alea(seed) {
+  const xg = new Alea(seed);
+  const prng = () => xg.next();
+  prng.int32 = () => xg.next() * 4294967296 | 0;
+  prng.double = () => prng() + (prng() * 2097152 | 0) * 11102230246251565e-32;
+  prng.state = () => xg.state;
+  prng.importState = (state) => {
+    xg.state = state;
+    return prng;
+  };
+  return prng;
+}
+var version = "5.3.2";
+var default_request_retention = 0.9;
+var default_maximum_interval = 36500;
+var default_enable_fuzz = false;
+var default_enable_short_term = true;
+var default_learning_steps = Object.freeze([
+  "1m",
+  "10m"
+]);
+var default_relearning_steps = Object.freeze([
+  "10m"
+]);
+var FSRSVersion = `v${version} using FSRS-6.0`;
+var S_MIN = 1e-3;
+var INIT_S_MAX = 100;
+var FSRS5_DEFAULT_DECAY = 0.5;
+var FSRS6_DEFAULT_DECAY = 0.1542;
+var default_w = Object.freeze([
+  0.212,
+  1.2931,
+  2.3065,
+  8.2956,
+  6.4133,
+  0.8334,
+  3.0194,
+  1e-3,
+  1.8722,
+  0.1666,
+  0.796,
+  1.4835,
+  0.0614,
+  0.2629,
+  1.6483,
+  0.6014,
+  1.8729,
+  0.5425,
+  0.0912,
+  0.0658,
+  FSRS6_DEFAULT_DECAY
+]);
+var W17_W18_Ceiling = 2;
+var CLAMP_PARAMETERS = (w17_w18_ceiling, enable_short_term = default_enable_short_term) => [
+  [S_MIN, INIT_S_MAX],
+  [S_MIN, INIT_S_MAX],
+  [S_MIN, INIT_S_MAX],
+  [S_MIN, INIT_S_MAX],
+  [1, 10],
+  [1e-3, 4],
+  [1e-3, 4],
+  [1e-3, 0.75],
+  [0, 4.5],
+  [0, 0.8],
+  [1e-3, 3.5],
+  [1e-3, 5],
+  [1e-3, 0.25],
+  [1e-3, 0.9],
+  [0, 4],
+  [0, 1],
+  [1, 6],
+  [0, w17_w18_ceiling],
+  [0, w17_w18_ceiling],
+  [
+    enable_short_term ? 0.01 : 0,
+    0.8
+  ],
+  [0.1, 0.8]
+];
+var clipParameters = (parameters, numRelearningSteps, enableShortTerm = default_enable_short_term) => {
+  let w17_w18_ceiling = W17_W18_Ceiling;
+  if (Math.max(0, numRelearningSteps) > 1) {
+    const value = -(Math.log(parameters[11]) + Math.log(Math.pow(2, parameters[13]) - 1) + parameters[14] * 0.3) / numRelearningSteps;
+    w17_w18_ceiling = clamp(+value.toFixed(8), 0.01, 2);
+  }
+  const clip = CLAMP_PARAMETERS(w17_w18_ceiling, enableShortTerm).slice(
+    0,
+    parameters.length
+  );
+  return clip.map(
+    ([min, max], index) => clamp(parameters[index] || 0, min, max)
+  );
+};
+var migrateParameters = (parameters, numRelearningSteps = 0, enableShortTerm = default_enable_short_term) => {
+  if (parameters === void 0) {
+    return [...default_w];
+  }
+  switch (parameters.length) {
+    case 21:
+      return clipParameters(
+        Array.from(parameters),
+        numRelearningSteps,
+        enableShortTerm
+      );
+    case 19:
+      console.debug("[FSRS-6]auto fill w from 19 to 21 length");
+      return clipParameters(
+        Array.from(parameters),
+        numRelearningSteps,
+        enableShortTerm
+      ).concat([0, FSRS5_DEFAULT_DECAY]);
+    case 17: {
+      const w = clipParameters(
+        Array.from(parameters),
+        numRelearningSteps,
+        enableShortTerm
+      );
+      w[4] = +(w[5] * 2 + w[4]).toFixed(8);
+      w[5] = +(Math.log(w[5] * 3 + 1) / 3).toFixed(8);
+      w[6] = +(w[6] + 0.5).toFixed(8);
+      console.debug("[FSRS-6]auto fill w from 17 to 21 length");
+      return w.concat([0, 0, 0, FSRS5_DEFAULT_DECAY]);
+    }
+    default:
+      console.warn("[FSRS]Invalid parameters length, using default parameters");
+      return [...default_w];
+  }
+};
+var generatorParameters = (props) => {
+  var _a, _b;
+  const learning_steps = Array.isArray(props == null ? void 0 : props.learning_steps) ? props.learning_steps : default_learning_steps;
+  const relearning_steps = Array.isArray(props == null ? void 0 : props.relearning_steps) ? props.relearning_steps : default_relearning_steps;
+  const enable_short_term = (_a = props == null ? void 0 : props.enable_short_term) != null ? _a : default_enable_short_term;
+  const w = migrateParameters(
+    props == null ? void 0 : props.w,
+    relearning_steps.length,
+    enable_short_term
+  );
+  return {
+    request_retention: (props == null ? void 0 : props.request_retention) || default_request_retention,
+    maximum_interval: (props == null ? void 0 : props.maximum_interval) || default_maximum_interval,
+    w,
+    enable_fuzz: (_b = props == null ? void 0 : props.enable_fuzz) != null ? _b : default_enable_fuzz,
+    enable_short_term,
+    learning_steps,
+    relearning_steps
+  };
+};
+function createEmptyCard(now, afterHandler) {
+  const emptyCard = {
+    due: now ? TypeConvert.time(now) : /* @__PURE__ */ new Date(),
+    stability: 0,
+    difficulty: 0,
+    elapsed_days: 0,
+    scheduled_days: 0,
+    reps: 0,
+    lapses: 0,
+    learning_steps: 0,
+    state: State.New,
+    last_review: void 0
+  };
+  if (afterHandler && typeof afterHandler === "function") {
+    return afterHandler(emptyCard);
+  } else {
+    return emptyCard;
+  }
+}
+var computeDecayFactor = (decayOrParams) => {
+  const decay = typeof decayOrParams === "number" ? -decayOrParams : -decayOrParams[20];
+  const factor = Math.exp(Math.pow(decay, -1) * Math.log(0.9)) - 1;
+  return { decay, factor: roundTo(factor, 8) };
+};
+function forgetting_curve(decayOrParams, elapsed_days, stability) {
+  const { decay, factor } = computeDecayFactor(decayOrParams);
+  return roundTo(Math.pow(1 + factor * elapsed_days / stability, decay), 8);
+}
+var FSRSAlgorithm = class {
+  constructor(params) {
+    __publicField(this, "param");
+    __publicField(this, "intervalModifier");
+    __publicField(this, "_seed");
+    /**
+     * The formula used is :
+     * $$R(t,S) = (1 + \text{FACTOR} \times \frac{t}{9 \cdot S})^{\text{DECAY}}$$
+     * @param {number} elapsed_days t days since the last review
+     * @param {number} stability Stability (interval when R=90%)
+     * @return {number} r Retrievability (probability of recall)
+     */
+    __publicField(this, "forgetting_curve");
+    this.param = new Proxy(
+      generatorParameters(params),
+      this.params_handler_proxy()
+    );
+    this.intervalModifier = this.calculate_interval_modifier(
+      this.param.request_retention
+    );
+    this.forgetting_curve = forgetting_curve.bind(this, this.param.w);
+  }
+  get interval_modifier() {
+    return this.intervalModifier;
+  }
+  set seed(seed) {
+    this._seed = seed;
+  }
+  /**
+   * @see https://github.com/open-spaced-repetition/fsrs4anki/wiki/The-Algorithm#fsrs-5
+   *
+   * The formula used is: $$I(r,s) = (r^{\frac{1}{DECAY}} - 1) / FACTOR \times s$$
+   * @param request_retention 0<request_retention<=1,Requested retention rate
+   * @throws {Error} Requested retention rate should be in the range (0,1]
+   */
+  calculate_interval_modifier(request_retention) {
+    if (request_retention <= 0 || request_retention > 1) {
+      throw new Error("Requested retention rate should be in the range (0,1]");
+    }
+    const { decay, factor } = computeDecayFactor(this.param.w);
+    return roundTo((Math.pow(request_retention, 1 / decay) - 1) / factor, 8);
+  }
+  /**
+   * Get the parameters of the algorithm.
+   */
+  get parameters() {
+    return this.param;
+  }
+  /**
+   * Set the parameters of the algorithm.
+   * @param params Partial<FSRSParameters>
+   */
+  set parameters(params) {
+    this.update_parameters(params);
+  }
+  params_handler_proxy() {
+    const _this = this;
+    return {
+      set: function(target, prop, value) {
+        if (prop === "request_retention" && Number.isFinite(value)) {
+          _this.intervalModifier = _this.calculate_interval_modifier(
+            Number(value)
+          );
+        } else if (prop === "w") {
+          value = migrateParameters(
+            value,
+            target.relearning_steps.length,
+            target.enable_short_term
+          );
+          _this.forgetting_curve = forgetting_curve.bind(this, value);
+          _this.intervalModifier = _this.calculate_interval_modifier(
+            Number(target.request_retention)
+          );
+        }
+        Reflect.set(target, prop, value);
+        return true;
+      }
+    };
+  }
+  update_parameters(params) {
+    const _params = generatorParameters(params);
+    for (const key in _params) {
+      const paramKey = key;
+      this.param[paramKey] = _params[paramKey];
+    }
+  }
+  /**
+     * The formula used is :
+     * $$ S_0(G) = w_{G-1}$$
+     * $$S_0 = \max \lbrace S_0,0.1\rbrace $$
+  
+     * @param g Grade (rating at Anki) [1.again,2.hard,3.good,4.easy]
+     * @return Stability (interval when R=90%)
+     */
+  init_stability(g) {
+    return Math.max(this.param.w[g - 1], 0.1);
+  }
+  /**
+   * The formula used is :
+   * $$D_0(G) = w_4 - e^{(G-1) \cdot w_5} + 1 $$
+   * $$D_0 = \min \lbrace \max \lbrace D_0(G),1 \rbrace,10 \rbrace$$
+   * where the $$D_0(1)=w_4$$ when the first rating is good.
+   *
+   * @param {Grade} g Grade (rating at Anki) [1.again,2.hard,3.good,4.easy]
+   * @return {number} Difficulty $$D \in [1,10]$$
+   */
+  init_difficulty(g) {
+    const w = this.param.w;
+    const d = w[4] - Math.exp((g - 1) * w[5]) + 1;
+    return roundTo(d, 8);
+  }
+  /**
+   * If fuzzing is disabled or ivl is less than 2.5, it returns the original interval.
+   * @param {number} ivl - The interval to be fuzzed.
+   * @param {number} elapsed_days t days since the last review
+   * @return {number} - The fuzzed interval.
+   **/
+  apply_fuzz(ivl, elapsed_days) {
+    if (!this.param.enable_fuzz || ivl < 2.5) return Math.round(ivl);
+    const generator = alea(this._seed);
+    const fuzz_factor = generator();
+    const { min_ivl, max_ivl } = get_fuzz_range(
+      ivl,
+      elapsed_days,
+      this.param.maximum_interval
+    );
+    return Math.floor(fuzz_factor * (max_ivl - min_ivl + 1) + min_ivl);
+  }
+  /**
+   *   @see The formula used is : {@link FSRSAlgorithm.calculate_interval_modifier}
+   *   @param {number} s - Stability (interval when R=90%)
+   *   @param {number} elapsed_days t days since the last review
+   */
+  next_interval(s, elapsed_days) {
+    const newInterval = Math.min(
+      Math.max(1, Math.round(s * this.intervalModifier)),
+      this.param.maximum_interval
+    );
+    return this.apply_fuzz(newInterval, elapsed_days);
+  }
+  /**
+   * @see https://github.com/open-spaced-repetition/fsrs4anki/issues/697
+   */
+  linear_damping(delta_d, old_d) {
+    return roundTo(delta_d * (10 - old_d) / 9, 8);
+  }
+  /**
+   * The formula used is :
+   * $$\text{delta}_d = -w_6 \cdot (g - 3)$$
+   * $$\text{next}_d = D + \text{linear damping}(\text{delta}_d , D)$$
+   * $$D^\prime(D,R) = w_7 \cdot D_0(4) +(1 - w_7) \cdot \text{next}_d$$
+   * @param {number} d Difficulty $$D \in [1,10]$$
+   * @param {Grade} g Grade (rating at Anki) [1.again,2.hard,3.good,4.easy]
+   * @return {number} $$\text{next}_D$$
+   */
+  next_difficulty(d, g) {
+    const delta_d = -this.param.w[6] * (g - 3);
+    const next_d = d + this.linear_damping(delta_d, d);
+    return clamp(
+      this.mean_reversion(this.init_difficulty(Rating.Easy), next_d),
+      1,
+      10
+    );
+  }
+  /**
+   * The formula used is :
+   * $$w_7 \cdot \text{init} +(1 - w_7) \cdot \text{current}$$
+   * @param {number} init $$w_2 : D_0(3) = w_2 + (R-2) \cdot w_3= w_2$$
+   * @param {number} current $$D - w_6 \cdot (R - 2)$$
+   * @return {number} difficulty
+   */
+  mean_reversion(init, current) {
+    const w = this.param.w;
+    return roundTo(w[7] * init + (1 - w[7]) * current, 8);
+  }
+  /**
+   * The formula used is :
+   * $$S^\prime_r(D,S,R,G) = S\cdot(e^{w_8}\cdot (11-D)\cdot S^{-w_9}\cdot(e^{w_{10}\cdot(1-R)}-1)\cdot w_{15}(\text{if} G=2) \cdot w_{16}(\text{if} G=4)+1)$$
+   * @param {number} d Difficulty D \in [1,10]
+   * @param {number} s Stability (interval when R=90%)
+   * @param {number} r Retrievability (probability of recall)
+   * @param {Grade} g Grade (Rating[0.again,1.hard,2.good,3.easy])
+   * @return {number} S^\prime_r new stability after recall
+   */
+  next_recall_stability(d, s, r, g) {
+    const w = this.param.w;
+    const hard_penalty = Rating.Hard === g ? w[15] : 1;
+    const easy_bound = Rating.Easy === g ? w[16] : 1;
+    return roundTo(
+      clamp(
+        s * (1 + Math.exp(w[8]) * (11 - d) * Math.pow(s, -w[9]) * (Math.exp((1 - r) * w[10]) - 1) * hard_penalty * easy_bound),
+        S_MIN,
+        36500
+      ),
+      8
+    );
+  }
+  /**
+   * The formula used is :
+   * $$S^\prime_f(D,S,R) = w_{11}\cdot D^{-w_{12}}\cdot ((S+1)^{w_{13}}-1) \cdot e^{w_{14}\cdot(1-R)}$$
+   * enable_short_term = true : $$S^\prime_f \in \min \lbrace \max \lbrace S^\prime_f,0.01\rbrace, \frac{S}{e^{w_{17} \cdot w_{18}}} \rbrace$$
+   * enable_short_term = false : $$S^\prime_f \in \min \lbrace \max \lbrace S^\prime_f,0.01\rbrace, S \rbrace$$
+   * @param {number} d Difficulty D \in [1,10]
+   * @param {number} s Stability (interval when R=90%)
+   * @param {number} r Retrievability (probability of recall)
+   * @return {number} S^\prime_f new stability after forgetting
+   */
+  next_forget_stability(d, s, r) {
+    const w = this.param.w;
+    return roundTo(
+      clamp(
+        w[11] * Math.pow(d, -w[12]) * (Math.pow(s + 1, w[13]) - 1) * Math.exp((1 - r) * w[14]),
+        S_MIN,
+        36500
+      ),
+      8
+    );
+  }
+  /**
+   * The formula used is :
+   * $$S^\prime_s(S,G) = S \cdot e^{w_{17} \cdot (G-3+w_{18})}$$
+   * @param {number} s Stability (interval when R=90%)
+   * @param {Grade} g Grade (Rating[0.again,1.hard,2.good,3.easy])
+   */
+  next_short_term_stability(s, g) {
+    const w = this.param.w;
+    const sinc = Math.pow(s, -w[19]) * Math.exp(w[17] * (g - 3 + w[18]));
+    const maskedSinc = g >= Rating.Hard ? Math.max(sinc, 1) : sinc;
+    return roundTo(clamp(s * maskedSinc, S_MIN, 36500), 8);
+  }
+  /**
+   * Calculates the next state of memory based on the current state, time elapsed, and grade.
+   *
+   * @param memory_state - The current state of memory, which can be null.
+   * @param t - The time elapsed since the last review.
+   * @param {Rating} g Grade (Rating[0.Manual,1.Again,2.Hard,3.Good,4.Easy])
+   * @param r - Optional retrievability value. If not provided, it will be calculated.
+   * @returns The next state of memory with updated difficulty and stability.
+   */
+  next_state(memory_state, t, g, r) {
+    const { difficulty: d, stability: s } = memory_state != null ? memory_state : {
+      difficulty: 0,
+      stability: 0
+    };
+    if (t < 0) {
+      throw new Error(`Invalid delta_t "${t}"`);
+    }
+    if (g < 0 || g > 4) {
+      throw new Error(`Invalid grade "${g}"`);
+    }
+    if (d === 0 && s === 0) {
+      return {
+        difficulty: clamp(this.init_difficulty(g), 1, 10),
+        stability: this.init_stability(g)
+      };
+    }
+    if (g === 0) {
+      return {
+        difficulty: d,
+        stability: s
+      };
+    }
+    if (d < 1 || s < S_MIN) {
+      throw new Error(
+        `Invalid memory state { difficulty: ${d}, stability: ${s} }`
+      );
+    }
+    const w = this.param.w;
+    r = typeof r === "number" ? r : this.forgetting_curve(t, s);
+    let new_s;
+    if (t === 0 && this.param.enable_short_term) {
+      new_s = this.next_short_term_stability(s, g);
+    } else if (g === 1) {
+      const s_after_fail = this.next_forget_stability(d, s, r);
+      let [w_17, w_18] = [0, 0];
+      if (this.param.enable_short_term) {
+        w_17 = w[17];
+        w_18 = w[18];
+      }
+      const next_s_min = s / Math.exp(w_17 * w_18);
+      new_s = clamp(roundTo(next_s_min, 8), S_MIN, s_after_fail);
+    } else {
+      new_s = this.next_recall_stability(d, s, r, g);
+    }
+    const new_d = this.next_difficulty(d, g);
+    return { difficulty: new_d, stability: new_s };
+  }
+};
+var BasicScheduler = class extends AbstractScheduler {
+  constructor(card, now, algorithm, strategies) {
+    super(card, now, algorithm, strategies);
+    __publicField(this, "learningStepsStrategy");
+    let learningStepStrategy = BasicLearningStepsStrategy;
+    if (this.strategies) {
+      const custom_strategy = this.strategies.get(StrategyMode.LEARNING_STEPS);
+      if (custom_strategy) {
+        learningStepStrategy = custom_strategy;
+      }
+    }
+    this.learningStepsStrategy = learningStepStrategy;
+  }
+  getLearningInfo(card, grade) {
+    var _a, _b, _c, _d;
+    const parameters = this.algorithm.parameters;
+    card.learning_steps = card.learning_steps || 0;
+    const steps_strategy = this.learningStepsStrategy(
+      parameters,
+      card.state,
+      card.learning_steps
+    );
+    const scheduled_minutes = Math.max(
+      0,
+      (_b = (_a = steps_strategy[grade]) == null ? void 0 : _a.scheduled_minutes) != null ? _b : 0
+    );
+    const next_steps = Math.max(0, (_d = (_c = steps_strategy[grade]) == null ? void 0 : _c.next_step) != null ? _d : 0);
+    return {
+      scheduled_minutes,
+      next_steps
+    };
+  }
+  /**
+   * @description This function applies the learning steps based on the current card's state and grade.
+   */
+  applyLearningSteps(nextCard, grade, to_state) {
+    const { scheduled_minutes, next_steps } = this.getLearningInfo(
+      this.current,
+      grade
+    );
+    if (scheduled_minutes > 0 && scheduled_minutes < 1440) {
+      nextCard.learning_steps = next_steps;
+      nextCard.scheduled_days = 0;
+      nextCard.state = to_state;
+      nextCard.due = date_scheduler(
+        this.review_time,
+        Math.round(scheduled_minutes),
+        false
+        /** true:days false: minute */
+      );
+    } else {
+      nextCard.state = State.Review;
+      if (scheduled_minutes >= 1440) {
+        nextCard.learning_steps = next_steps;
+        nextCard.due = date_scheduler(
+          this.review_time,
+          Math.round(scheduled_minutes),
+          false
+          /** true:days false: minute */
+        );
+        nextCard.scheduled_days = Math.floor(scheduled_minutes / 1440);
+      } else {
+        nextCard.learning_steps = 0;
+        const interval = this.algorithm.next_interval(
+          nextCard.stability,
+          this.elapsed_days
+        );
+        nextCard.scheduled_days = interval;
+        nextCard.due = date_scheduler(this.review_time, interval, true);
+      }
+    }
+  }
+  newState(grade) {
+    const exist = this.next.get(grade);
+    if (exist) {
+      return exist;
+    }
+    const next = this.next_ds(this.elapsed_days, grade);
+    this.applyLearningSteps(next, grade, State.Learning);
+    const item = {
+      card: next,
+      log: this.buildLog(grade)
+    };
+    this.next.set(grade, item);
+    return item;
+  }
+  learningState(grade) {
+    const exist = this.next.get(grade);
+    if (exist) {
+      return exist;
+    }
+    const next = this.next_ds(this.elapsed_days, grade);
+    this.applyLearningSteps(
+      next,
+      grade,
+      this.last.state
+      /** Learning or Relearning */
+    );
+    const item = {
+      card: next,
+      log: this.buildLog(grade)
+    };
+    this.next.set(grade, item);
+    return item;
+  }
+  reviewState(grade) {
+    const exist = this.next.get(grade);
+    if (exist) {
+      return exist;
+    }
+    const interval = this.elapsed_days;
+    const retrievability = this.algorithm.forgetting_curve(
+      interval,
+      this.current.stability
+    );
+    const next_again = this.next_ds(interval, Rating.Again, retrievability);
+    const next_hard = this.next_ds(interval, Rating.Hard, retrievability);
+    const next_good = this.next_ds(interval, Rating.Good, retrievability);
+    const next_easy = this.next_ds(interval, Rating.Easy, retrievability);
+    this.next_interval(next_hard, next_good, next_easy, interval);
+    this.next_state(next_hard, next_good, next_easy);
+    this.applyLearningSteps(next_again, Rating.Again, State.Relearning);
+    next_again.lapses += 1;
+    const item_again = {
+      card: next_again,
+      log: this.buildLog(Rating.Again)
+    };
+    const item_hard = {
+      card: next_hard,
+      log: super.buildLog(Rating.Hard)
+    };
+    const item_good = {
+      card: next_good,
+      log: super.buildLog(Rating.Good)
+    };
+    const item_easy = {
+      card: next_easy,
+      log: super.buildLog(Rating.Easy)
+    };
+    this.next.set(Rating.Again, item_again);
+    this.next.set(Rating.Hard, item_hard);
+    this.next.set(Rating.Good, item_good);
+    this.next.set(Rating.Easy, item_easy);
+    return this.next.get(grade);
+  }
+  /**
+   * Review next_ds
+   */
+  next_ds(t, g, r) {
+    const next_state = this.algorithm.next_state(
+      {
+        difficulty: this.current.difficulty,
+        stability: this.current.stability
+      },
+      t,
+      g,
+      r
+    );
+    const card = TypeConvert.card(this.current);
+    card.difficulty = next_state.difficulty;
+    card.stability = next_state.stability;
+    return card;
+  }
+  /**
+   * Review next_interval
+   */
+  next_interval(next_hard, next_good, next_easy, interval) {
+    let hard_interval, good_interval;
+    hard_interval = this.algorithm.next_interval(next_hard.stability, interval);
+    good_interval = this.algorithm.next_interval(next_good.stability, interval);
+    hard_interval = Math.min(hard_interval, good_interval);
+    good_interval = Math.max(good_interval, hard_interval + 1);
+    const easy_interval = Math.max(
+      this.algorithm.next_interval(next_easy.stability, interval),
+      good_interval + 1
+    );
+    next_hard.scheduled_days = hard_interval;
+    next_hard.due = date_scheduler(this.review_time, hard_interval, true);
+    next_good.scheduled_days = good_interval;
+    next_good.due = date_scheduler(this.review_time, good_interval, true);
+    next_easy.scheduled_days = easy_interval;
+    next_easy.due = date_scheduler(this.review_time, easy_interval, true);
+  }
+  /**
+   * Review next_state
+   */
+  next_state(next_hard, next_good, next_easy) {
+    next_hard.state = State.Review;
+    next_hard.learning_steps = 0;
+    next_good.state = State.Review;
+    next_good.learning_steps = 0;
+    next_easy.state = State.Review;
+    next_easy.learning_steps = 0;
+  }
+};
+var LongTermScheduler = class extends AbstractScheduler {
+  newState(grade) {
+    const exist = this.next.get(grade);
+    if (exist) {
+      return exist;
+    }
+    this.current.scheduled_days = 0;
+    this.current.elapsed_days = 0;
+    const first_interval = 0;
+    const next_again = this.next_ds(first_interval, Rating.Again);
+    const next_hard = this.next_ds(first_interval, Rating.Hard);
+    const next_good = this.next_ds(first_interval, Rating.Good);
+    const next_easy = this.next_ds(first_interval, Rating.Easy);
+    this.next_interval(
+      next_again,
+      next_hard,
+      next_good,
+      next_easy,
+      first_interval
+    );
+    this.next_state(next_again, next_hard, next_good, next_easy);
+    this.update_next(next_again, next_hard, next_good, next_easy);
+    return this.next.get(grade);
+  }
+  next_ds(t, g, r) {
+    const next_state = this.algorithm.next_state(
+      {
+        difficulty: this.current.difficulty,
+        stability: this.current.stability
+      },
+      t,
+      g,
+      r
+    );
+    const card = TypeConvert.card(this.current);
+    card.difficulty = next_state.difficulty;
+    card.stability = next_state.stability;
+    return card;
+  }
+  /**
+   * @see https://github.com/open-spaced-repetition/ts-fsrs/issues/98#issuecomment-2241923194
+   */
+  learningState(grade) {
+    return this.reviewState(grade);
+  }
+  reviewState(grade) {
+    const exist = this.next.get(grade);
+    if (exist) {
+      return exist;
+    }
+    const interval = this.elapsed_days;
+    const retrievability = this.algorithm.forgetting_curve(
+      interval,
+      this.current.stability
+    );
+    const next_again = this.next_ds(interval, Rating.Again, retrievability);
+    const next_hard = this.next_ds(interval, Rating.Hard, retrievability);
+    const next_good = this.next_ds(interval, Rating.Good, retrievability);
+    const next_easy = this.next_ds(interval, Rating.Easy, retrievability);
+    this.next_interval(next_again, next_hard, next_good, next_easy, interval);
+    this.next_state(next_again, next_hard, next_good, next_easy);
+    next_again.lapses += 1;
+    this.update_next(next_again, next_hard, next_good, next_easy);
+    return this.next.get(grade);
+  }
+  /**
+   * Review/New next_interval
+   */
+  next_interval(next_again, next_hard, next_good, next_easy, interval) {
+    let again_interval, hard_interval, good_interval, easy_interval;
+    again_interval = this.algorithm.next_interval(
+      next_again.stability,
+      interval
+    );
+    hard_interval = this.algorithm.next_interval(next_hard.stability, interval);
+    good_interval = this.algorithm.next_interval(next_good.stability, interval);
+    easy_interval = this.algorithm.next_interval(next_easy.stability, interval);
+    again_interval = Math.min(again_interval, hard_interval);
+    hard_interval = Math.max(hard_interval, again_interval + 1);
+    good_interval = Math.max(good_interval, hard_interval + 1);
+    easy_interval = Math.max(easy_interval, good_interval + 1);
+    next_again.scheduled_days = again_interval;
+    next_again.due = date_scheduler(this.review_time, again_interval, true);
+    next_hard.scheduled_days = hard_interval;
+    next_hard.due = date_scheduler(this.review_time, hard_interval, true);
+    next_good.scheduled_days = good_interval;
+    next_good.due = date_scheduler(this.review_time, good_interval, true);
+    next_easy.scheduled_days = easy_interval;
+    next_easy.due = date_scheduler(this.review_time, easy_interval, true);
+  }
+  /**
+   * Review/New next_state
+   */
+  next_state(next_again, next_hard, next_good, next_easy) {
+    next_again.state = State.Review;
+    next_again.learning_steps = 0;
+    next_hard.state = State.Review;
+    next_hard.learning_steps = 0;
+    next_good.state = State.Review;
+    next_good.learning_steps = 0;
+    next_easy.state = State.Review;
+    next_easy.learning_steps = 0;
+  }
+  update_next(next_again, next_hard, next_good, next_easy) {
+    const item_again = {
+      card: next_again,
+      log: this.buildLog(Rating.Again)
+    };
+    const item_hard = {
+      card: next_hard,
+      log: super.buildLog(Rating.Hard)
+    };
+    const item_good = {
+      card: next_good,
+      log: super.buildLog(Rating.Good)
+    };
+    const item_easy = {
+      card: next_easy,
+      log: super.buildLog(Rating.Easy)
+    };
+    this.next.set(Rating.Again, item_again);
+    this.next.set(Rating.Hard, item_hard);
+    this.next.set(Rating.Good, item_good);
+    this.next.set(Rating.Easy, item_easy);
+  }
+};
+var Reschedule = class {
+  /**
+   * Creates an instance of the `Reschedule` class.
+   * @param fsrs - An instance of the FSRS class used for scheduling.
+   */
+  constructor(fsrs) {
+    __publicField(this, "fsrs");
+    this.fsrs = fsrs;
+  }
+  /**
+   * Replays a review for a card and determines the next review date based on the given rating.
+   * @param card - The card being reviewed.
+   * @param reviewed - The date the card was reviewed.
+   * @param rating - The grade given to the card during the review.
+   * @returns A `RecordLogItem` containing the updated card and review log.
+   */
+  replay(card, reviewed, rating) {
+    return this.fsrs.next(card, reviewed, rating);
+  }
+  /**
+   * Processes a manual review for a card, allowing for custom state, stability, difficulty, and due date.
+   * @param card - The card being reviewed.
+   * @param state - The state of the card after the review.
+   * @param reviewed - The date the card was reviewed.
+   * @param elapsed_days - The number of days since the last review.
+   * @param stability - (Optional) The stability of the card.
+   * @param difficulty - (Optional) The difficulty of the card.
+   * @param due - (Optional) The due date for the next review.
+   * @returns A `RecordLogItem` containing the updated card and review log.
+   * @throws Will throw an error if the state or due date is not provided when required.
+   */
+  handleManualRating(card, state, reviewed, elapsed_days, stability, difficulty, due) {
+    if (typeof state === "undefined") {
+      throw new Error("reschedule: state is required for manual rating");
+    }
+    let log;
+    let next_card;
+    if (state === State.New) {
+      log = {
+        rating: Rating.Manual,
+        state,
+        due: due != null ? due : reviewed,
+        stability: card.stability,
+        difficulty: card.difficulty,
+        elapsed_days,
+        last_elapsed_days: card.elapsed_days,
+        scheduled_days: card.scheduled_days,
+        learning_steps: card.learning_steps,
+        review: reviewed
+      };
+      next_card = createEmptyCard(reviewed);
+      next_card.last_review = reviewed;
+    } else {
+      if (typeof due === "undefined") {
+        throw new Error("reschedule: due is required for manual rating");
+      }
+      const scheduled_days = date_diff(due, reviewed, "days");
+      log = {
+        rating: Rating.Manual,
+        state: card.state,
+        due: card.last_review || card.due,
+        stability: card.stability,
+        difficulty: card.difficulty,
+        elapsed_days,
+        last_elapsed_days: card.elapsed_days,
+        scheduled_days: card.scheduled_days,
+        learning_steps: card.learning_steps,
+        review: reviewed
+      };
+      next_card = __spreadProps(__spreadValues({}, card), {
+        state,
+        due,
+        last_review: reviewed,
+        stability: stability || card.stability,
+        difficulty: difficulty || card.difficulty,
+        elapsed_days,
+        scheduled_days,
+        reps: card.reps + 1
+      });
+    }
+    return { card: next_card, log };
+  }
+  /**
+   * Reschedules a card based on its review history.
+   *
+   * @param current_card - The card to be rescheduled.
+   * @param reviews - An array of review history objects.
+   * @returns An array of record log items representing the rescheduling process.
+   */
+  reschedule(current_card, reviews) {
+    const collections = [];
+    let cur_card = createEmptyCard(current_card.due);
+    for (const review of reviews) {
+      let item;
+      review.review = TypeConvert.time(review.review);
+      if (review.rating === Rating.Manual) {
+        let interval = 0;
+        if (cur_card.state !== State.New && cur_card.last_review) {
+          interval = date_diff(review.review, cur_card.last_review, "days");
+        }
+        item = this.handleManualRating(
+          cur_card,
+          review.state,
+          review.review,
+          interval,
+          review.stability,
+          review.difficulty,
+          review.due ? TypeConvert.time(review.due) : void 0
+        );
+      } else {
+        item = this.replay(cur_card, review.review, review.rating);
+      }
+      collections.push(item);
+      cur_card = item.card;
+    }
+    return collections;
+  }
+  calculateManualRecord(current_card, now, record_log_item, update_memory) {
+    if (!record_log_item) {
+      return null;
+    }
+    const { card: reschedule_card, log } = record_log_item;
+    const cur_card = TypeConvert.card(current_card);
+    if (cur_card.due.getTime() === reschedule_card.due.getTime()) {
+      return null;
+    }
+    cur_card.scheduled_days = date_diff(
+      reschedule_card.due,
+      cur_card.due,
+      "days"
+    );
+    return this.handleManualRating(
+      cur_card,
+      reschedule_card.state,
+      TypeConvert.time(now),
+      log.elapsed_days,
+      update_memory ? reschedule_card.stability : void 0,
+      update_memory ? reschedule_card.difficulty : void 0,
+      reschedule_card.due
+    );
+  }
+};
+var FSRS = class extends FSRSAlgorithm {
+  constructor(param) {
+    super(param);
+    __publicField(this, "strategyHandler", /* @__PURE__ */ new Map());
+    __publicField(this, "Scheduler");
+    const { enable_short_term } = this.parameters;
+    this.Scheduler = enable_short_term ? BasicScheduler : LongTermScheduler;
+  }
+  params_handler_proxy() {
+    const _this = this;
+    return {
+      set: function(target, prop, value) {
+        if (prop === "request_retention" && Number.isFinite(value)) {
+          _this.intervalModifier = _this.calculate_interval_modifier(
+            Number(value)
+          );
+        } else if (prop === "enable_short_term") {
+          _this.Scheduler = value === true ? BasicScheduler : LongTermScheduler;
+        } else if (prop === "w") {
+          value = migrateParameters(
+            value,
+            target.relearning_steps.length,
+            target.enable_short_term
+          );
+          _this.forgetting_curve = forgetting_curve.bind(this, value);
+          _this.intervalModifier = _this.calculate_interval_modifier(
+            Number(target.request_retention)
+          );
+        }
+        Reflect.set(target, prop, value);
+        return true;
+      }
+    };
+  }
+  useStrategy(mode, handler) {
+    this.strategyHandler.set(mode, handler);
+    return this;
+  }
+  clearStrategy(mode) {
+    if (mode) {
+      this.strategyHandler.delete(mode);
+    } else {
+      this.strategyHandler.clear();
+    }
+    return this;
+  }
+  getScheduler(card, now) {
+    const schedulerStrategy = this.strategyHandler.get(
+      StrategyMode.SCHEDULER
+    );
+    const Scheduler = schedulerStrategy || this.Scheduler;
+    const instance = new Scheduler(card, now, this, this.strategyHandler);
+    return instance;
+  }
+  /**
+   * Display the collection of cards and logs for the four scenarios after scheduling the card at the current time.
+   * @param card Card to be processed
+   * @param now Current time or scheduled time
+   * @param afterHandler Convert the result to another type. (Optional)
+   * @example
+   * ```typescript
+   * const card: Card = createEmptyCard(new Date());
+   * const f = fsrs();
+   * const recordLog = f.repeat(card, new Date());
+   * ```
+   * @example
+   * ```typescript
+   * interface RevLogUnchecked
+   *   extends Omit<ReviewLog, "due" | "review" | "state" | "rating"> {
+   *   cid: string;
+   *   due: Date | number;
+   *   state: StateType;
+   *   review: Date | number;
+   *   rating: RatingType;
+   * }
+   *
+   * interface RepeatRecordLog {
+   *   card: CardUnChecked; //see method: createEmptyCard
+   *   log: RevLogUnchecked;
+   * }
+   *
+   * function repeatAfterHandler(recordLog: RecordLog) {
+   *     const record: { [key in Grade]: RepeatRecordLog } = {} as {
+   *       [key in Grade]: RepeatRecordLog;
+   *     };
+   *     for (const grade of Grades) {
+   *       record[grade] = {
+   *         card: {
+   *           ...(recordLog[grade].card as Card & { cid: string }),
+   *           due: recordLog[grade].card.due.getTime(),
+   *           state: State[recordLog[grade].card.state] as StateType,
+   *           last_review: recordLog[grade].card.last_review
+   *             ? recordLog[grade].card.last_review!.getTime()
+   *             : null,
+   *         },
+   *         log: {
+   *           ...recordLog[grade].log,
+   *           cid: (recordLog[grade].card as Card & { cid: string }).cid,
+   *           due: recordLog[grade].log.due.getTime(),
+   *           review: recordLog[grade].log.review.getTime(),
+   *           state: State[recordLog[grade].log.state] as StateType,
+   *           rating: Rating[recordLog[grade].log.rating] as RatingType,
+   *         },
+   *       };
+   *     }
+   *     return record;
+   * }
+   * const card: Card = createEmptyCard(new Date(), cardAfterHandler); //see method:  createEmptyCard
+   * const f = fsrs();
+   * const recordLog = f.repeat(card, new Date(), repeatAfterHandler);
+   * ```
+   */
+  repeat(card, now, afterHandler) {
+    const instance = this.getScheduler(card, now);
+    const recordLog = instance.preview();
+    if (afterHandler && typeof afterHandler === "function") {
+      return afterHandler(recordLog);
+    } else {
+      return recordLog;
+    }
+  }
+  /**
+   * Display the collection of cards and logs for the card scheduled at the current time, after applying a specific grade rating.
+   * @param card Card to be processed
+   * @param now Current time or scheduled time
+   * @param grade Rating of the review (Again, Hard, Good, Easy)
+   * @param afterHandler Convert the result to another type. (Optional)
+   * @example
+   * ```typescript
+   * const card: Card = createEmptyCard(new Date());
+   * const f = fsrs();
+   * const recordLogItem = f.next(card, new Date(), Rating.Again);
+   * ```
+   * @example
+   * ```typescript
+   * interface RevLogUnchecked
+   *   extends Omit<ReviewLog, "due" | "review" | "state" | "rating"> {
+   *   cid: string;
+   *   due: Date | number;
+   *   state: StateType;
+   *   review: Date | number;
+   *   rating: RatingType;
+   * }
+   *
+   * interface NextRecordLog {
+   *   card: CardUnChecked; //see method: createEmptyCard
+   *   log: RevLogUnchecked;
+   * }
+   *
+  function nextAfterHandler(recordLogItem: RecordLogItem) {
+    const recordItem = {
+      card: {
+        ...(recordLogItem.card as Card & { cid: string }),
+        due: recordLogItem.card.due.getTime(),
+        state: State[recordLogItem.card.state] as StateType,
+        last_review: recordLogItem.card.last_review
+          ? recordLogItem.card.last_review!.getTime()
+          : null,
+      },
+      log: {
+        ...recordLogItem.log,
+        cid: (recordLogItem.card as Card & { cid: string }).cid,
+        due: recordLogItem.log.due.getTime(),
+        review: recordLogItem.log.review.getTime(),
+        state: State[recordLogItem.log.state] as StateType,
+        rating: Rating[recordLogItem.log.rating] as RatingType,
+      },
+    };
+    return recordItem
+  }
+   * const card: Card = createEmptyCard(new Date(), cardAfterHandler); //see method:  createEmptyCard
+   * const f = fsrs();
+   * const recordLogItem = f.repeat(card, new Date(), Rating.Again, nextAfterHandler);
+   * ```
+   */
+  next(card, now, grade, afterHandler) {
+    const instance = this.getScheduler(card, now);
+    const g = TypeConvert.rating(grade);
+    if (g === Rating.Manual) {
+      throw new Error("Cannot review a manual rating");
+    }
+    const recordLogItem = instance.review(g);
+    if (afterHandler && typeof afterHandler === "function") {
+      return afterHandler(recordLogItem);
+    } else {
+      return recordLogItem;
+    }
+  }
+  /**
+   * Get the retrievability of the card
+   * @param card  Card to be processed
+   * @param now  Current time or scheduled time
+   * @param format  default:true , Convert the result to another type. (Optional)
+   * @returns  The retrievability of the card,if format is true, the result is a string, otherwise it is a number
+   */
+  get_retrievability(card, now, format = true) {
+    const processedCard = TypeConvert.card(card);
+    now = now ? TypeConvert.time(now) : /* @__PURE__ */ new Date();
+    const t = processedCard.state !== State.New ? Math.max(date_diff(now, processedCard.last_review, "days"), 0) : 0;
+    const r = processedCard.state !== State.New ? this.forgetting_curve(t, +processedCard.stability.toFixed(8)) : 0;
+    return format ? `${(r * 100).toFixed(2)}%` : r;
+  }
+  /**
+   *
+   * @param card Card to be processed
+   * @param log last review log
+   * @param afterHandler Convert the result to another type. (Optional)
+   * @example
+   * ```typescript
+   * const now = new Date();
+   * const f = fsrs();
+   * const emptyCardFormAfterHandler = createEmptyCard(now);
+   * const repeatFormAfterHandler = f.repeat(emptyCardFormAfterHandler, now);
+   * const { card, log } = repeatFormAfterHandler[Rating.Hard];
+   * const rollbackFromAfterHandler = f.rollback(card, log);
+   * ```
+   *
+   * @example
+   * ```typescript
+   * const now = new Date();
+   * const f = fsrs();
+   * const emptyCardFormAfterHandler = createEmptyCard(now, cardAfterHandler);  //see method: createEmptyCard
+   * const repeatFormAfterHandler = f.repeat(emptyCardFormAfterHandler, now, repeatAfterHandler); //see method: fsrs.repeat()
+   * const { card, log } = repeatFormAfterHandler[Rating.Hard];
+   * const rollbackFromAfterHandler = f.rollback(card, log, cardAfterHandler);
+   * ```
+   */
+  rollback(card, log, afterHandler) {
+    const processedCard = TypeConvert.card(card);
+    const processedLog = TypeConvert.review_log(log);
+    if (processedLog.rating === Rating.Manual) {
+      throw new Error("Cannot rollback a manual rating");
+    }
+    let last_due;
+    let last_review;
+    let last_lapses;
+    switch (processedLog.state) {
+      case State.New:
+        last_due = processedLog.due;
+        last_review = void 0;
+        last_lapses = 0;
+        break;
+      case State.Learning:
+      case State.Relearning:
+      case State.Review:
+        last_due = processedLog.review;
+        last_review = processedLog.due;
+        last_lapses = processedCard.lapses - (processedLog.rating === Rating.Again && processedLog.state === State.Review ? 1 : 0);
+        break;
+    }
+    const prevCard = __spreadProps(__spreadValues({}, processedCard), {
+      due: last_due,
+      stability: processedLog.stability,
+      difficulty: processedLog.difficulty,
+      elapsed_days: processedLog.last_elapsed_days,
+      scheduled_days: processedLog.scheduled_days,
+      reps: Math.max(0, processedCard.reps - 1),
+      lapses: Math.max(0, last_lapses),
+      learning_steps: processedLog.learning_steps,
+      state: processedLog.state,
+      last_review
+    });
+    if (afterHandler && typeof afterHandler === "function") {
+      return afterHandler(prevCard);
+    } else {
+      return prevCard;
+    }
+  }
+  /**
+   *
+   * @param card Card to be processed
+   * @param now Current time or scheduled time
+   * @param reset_count Should the review count information(reps,lapses) be reset. (Optional)
+   * @param afterHandler Convert the result to another type. (Optional)
+   * @example
+   * ```typescript
+   * const now = new Date();
+   * const f = fsrs();
+   * const emptyCard = createEmptyCard(now);
+   * const scheduling_cards = f.repeat(emptyCard, now);
+   * const { card, log } = scheduling_cards[Rating.Hard];
+   * const forgetCard = f.forget(card, new Date(), true);
+   * ```
+   *
+   * @example
+   * ```typescript
+   * interface RepeatRecordLog {
+   *   card: CardUnChecked; //see method: createEmptyCard
+   *   log: RevLogUnchecked; //see method: fsrs.repeat()
+   * }
+   *
+   * function forgetAfterHandler(recordLogItem: RecordLogItem): RepeatRecordLog {
+   *     return {
+   *       card: {
+   *         ...(recordLogItem.card as Card & { cid: string }),
+   *         due: recordLogItem.card.due.getTime(),
+   *         state: State[recordLogItem.card.state] as StateType,
+   *         last_review: recordLogItem.card.last_review
+   *           ? recordLogItem.card.last_review!.getTime()
+   *           : null,
+   *       },
+   *       log: {
+   *         ...recordLogItem.log,
+   *         cid: (recordLogItem.card as Card & { cid: string }).cid,
+   *         due: recordLogItem.log.due.getTime(),
+   *         review: recordLogItem.log.review.getTime(),
+   *         state: State[recordLogItem.log.state] as StateType,
+   *         rating: Rating[recordLogItem.log.rating] as RatingType,
+   *       },
+   *     };
+   * }
+   * const now = new Date();
+   * const f = fsrs();
+   * const emptyCardFormAfterHandler = createEmptyCard(now, cardAfterHandler); //see method:  createEmptyCard
+   * const repeatFormAfterHandler = f.repeat(emptyCardFormAfterHandler, now, repeatAfterHandler); //see method: fsrs.repeat()
+   * const { card } = repeatFormAfterHandler[Rating.Hard];
+   * const forgetFromAfterHandler = f.forget(card, date_scheduler(now, 1, true), false, forgetAfterHandler);
+   * ```
+   */
+  forget(card, now, reset_count = false, afterHandler) {
+    const processedCard = TypeConvert.card(card);
+    now = TypeConvert.time(now);
+    const scheduled_days = processedCard.state === State.New ? 0 : date_diff(now, processedCard.due, "days");
+    const forget_log = {
+      rating: Rating.Manual,
+      state: processedCard.state,
+      due: processedCard.due,
+      stability: processedCard.stability,
+      difficulty: processedCard.difficulty,
+      elapsed_days: 0,
+      last_elapsed_days: processedCard.elapsed_days,
+      scheduled_days,
+      learning_steps: processedCard.learning_steps,
+      review: now
+    };
+    const forget_card = __spreadProps(__spreadValues({}, processedCard), {
+      due: now,
+      stability: 0,
+      difficulty: 0,
+      elapsed_days: 0,
+      scheduled_days: 0,
+      reps: reset_count ? 0 : processedCard.reps,
+      lapses: reset_count ? 0 : processedCard.lapses,
+      learning_steps: 0,
+      state: State.New,
+      last_review: processedCard.last_review
+    });
+    const recordLogItem = { card: forget_card, log: forget_log };
+    if (afterHandler && typeof afterHandler === "function") {
+      return afterHandler(recordLogItem);
+    } else {
+      return recordLogItem;
+    }
+  }
+  /**
+   * Reschedules the current card and returns the rescheduled collections and reschedule item.
+   *
+   * @template T - The type of the record log item.
+   * @param {CardInput | Card} current_card - The current card to be rescheduled.
+   * @param {Array<FSRSHistory>} reviews - The array of FSRSHistory objects representing the reviews.
+   * @param {Partial<RescheduleOptions<T>>} options - The optional reschedule options.
+   * @returns {IReschedule<T>} - The rescheduled collections and reschedule item.
+   *
+   * @example
+   * ```typescript
+   * const f = fsrs()
+   * const grades: Grade[] = [Rating.Good, Rating.Good, Rating.Good, Rating.Good]
+   * const reviews_at = [
+   *   new Date(2024, 8, 13),
+   *   new Date(2024, 8, 13),
+   *   new Date(2024, 8, 17),
+   *   new Date(2024, 8, 28),
+   * ]
+   *
+   * const reviews: FSRSHistory[] = []
+   * for (let i = 0; i < grades.length; i++) {
+   *   reviews.push({
+   *     rating: grades[i],
+   *     review: reviews_at[i],
+   *   })
+   * }
+   *
+   * const results_short = scheduler.reschedule(
+   *   createEmptyCard(),
+   *   reviews,
+   *   {
+   *     skipManual: false,
+   *   }
+   * )
+   * console.log(results_short)
+   * ```
+   */
+  reschedule(current_card, reviews = [], options = {}) {
+    const {
+      recordLogHandler,
+      reviewsOrderBy,
+      skipManual = true,
+      now = /* @__PURE__ */ new Date(),
+      update_memory_state: updateMemoryState = false
+    } = options;
+    if (reviewsOrderBy && typeof reviewsOrderBy === "function") {
+      reviews.sort(reviewsOrderBy);
+    }
+    if (skipManual) {
+      reviews = reviews.filter((review) => review.rating !== Rating.Manual);
+    }
+    const rescheduleSvc = new Reschedule(this);
+    const collections = rescheduleSvc.reschedule(
+      options.first_card || createEmptyCard(),
+      reviews
+    );
+    const len = collections.length;
+    const cur_card = TypeConvert.card(current_card);
+    const manual_item = rescheduleSvc.calculateManualRecord(
+      cur_card,
+      now,
+      len ? collections[len - 1] : void 0,
+      updateMemoryState
+    );
+    if (recordLogHandler && typeof recordLogHandler === "function") {
+      return {
+        collections: collections.map(recordLogHandler),
+        reschedule_item: manual_item ? recordLogHandler(manual_item) : null
+      };
+    }
+    return {
+      collections,
+      reschedule_item: manual_item
+    };
+  }
+};
+
 // src/settings/data.ts
+var CURRENT_SCHEMA_VERSION = 2;
+var SchedulingAlgorithm = /* @__PURE__ */ ((SchedulingAlgorithm2) => {
+  SchedulingAlgorithm2["Anki"] = "anki";
+  SchedulingAlgorithm2["FSRS"] = "fsrs";
+  return SchedulingAlgorithm2;
+})(SchedulingAlgorithm || {});
+var cachedFSRSParameters = null;
+function getFSRSDefaults() {
+  if (!cachedFSRSParameters) {
+    cachedFSRSParameters = generatorParameters();
+  }
+  return cachedFSRSParameters;
+}
 var DEFAULT_SETTINGS = {
   ankiParameters: {
     lapseInterval: 0.5,
@@ -501,11 +2245,97 @@ var DEFAULT_SETTINGS = {
     hardIntervalMultiplier: 1.2,
     learningSteps: [1, 10],
     relearningSteps: [10]
-  }
+  },
+  get fsrsParameters() {
+    const params = getFSRSDefaults();
+    return {
+      w: params.w,
+      learningSteps: params.learning_steps,
+      relearningSteps: params.relearning_steps,
+      requestRetention: params.request_retention,
+      maximumInterval: params.maximum_interval,
+      enableFuzz: params.enable_fuzz,
+      enableShortTerm: params.enable_short_term
+    };
+  },
+  schedulingAlgorithm: "fsrs" /* FSRS */
 };
 
 // src/ui/views/index.ts
 var import_obsidian11 = require("obsidian");
+
+// src/spaced-repetition/index.ts
+var SpacedRepetitionAlgorithm = class {
+  constructor(parameters = {}) {
+    this.items = [];
+    this.queuedItems = [];
+    this.sessionEndTime = this.getEndOfDay(/* @__PURE__ */ new Date());
+    this.parameters = __spreadValues(__spreadValues({}, this.getDefaultValues()), parameters);
+  }
+  addItem(item) {
+    this.items.push(item);
+    this.scheduleReview(item);
+  }
+  removeItem(item) {
+    const index = this.items.findIndex((i) => i.id === item.id);
+    if (index > -1) {
+      this.items.splice(index, 1);
+    }
+  }
+  setParameters(parameters) {
+    this.parameters = __spreadValues(__spreadValues({}, this.parameters), parameters);
+  }
+  getItemCount() {
+    return this.items.length;
+  }
+  getParameters() {
+    return this.parameters;
+  }
+  resetItems() {
+    this.items = [];
+  }
+  /**
+   * Starts a new review session.
+   * This function resets the session end time to the end of the current day,
+   * clears the queue of items to be reviewed, and refreshes the queue with
+   * items due for review today.
+   */
+  startNewSession() {
+    this.sessionEndTime = this.getEndOfDay(/* @__PURE__ */ new Date());
+    this.queuedItems = [];
+    this.refreshQueue();
+  }
+  /**
+   * Adds an item to the queue if it is due for review today.
+   * @param item The item to potentially add to the queue.
+   */
+  addToQueueIfDueToday(item) {
+    if (this.isDueToday(item) && !this.queuedItems.includes(item)) {
+      this.queuedItems.push(item);
+    }
+  }
+  /**
+   * Checks if an item is due for review today.
+   * @param item The item to check.
+   * @returns True if the item is due today, false otherwise.
+   */
+  isDueToday(item) {
+    return item.state === 0 /* NEW */ || !!item.nextReviewDate && item.nextReviewDate <= this.sessionEndTime;
+  }
+  /**
+   * Refreshes the queue of items to be reviewed.
+   * This method checks all items and adds those due for review today
+   * to the queue.
+   */
+  refreshQueue() {
+    this.items.forEach((item) => this.addToQueueIfDueToday(item));
+  }
+  getEndOfDay(date) {
+    const endOfDate = new Date(date);
+    endOfDate.setHours(23, 59, 59, 999);
+    return endOfDate;
+  }
+};
 
 // src/ui/modals/CreateDeckModal.ts
 var import_obsidian5 = require("obsidian");
@@ -546,6 +2376,7 @@ var CreateDeckModal = class extends import_obsidian5.Modal {
     this.render();
   }
   render() {
+    var _a, _b;
     this.deckNameInputComp = new InputFieldComponent(this.contentEl, {
       description: "New deck name:"
     }).setPlaceholder("Algorithms & datastructures").onChange((value) => {
@@ -554,7 +2385,7 @@ var CreateDeckModal = class extends import_obsidian5.Modal {
     this.deckNameInputComp.keyboardListener.onEnter = () => {
       this.createDeck();
     };
-    this.deckNameInputComp.descriptionEl.addClass(
+    (_a = this.deckNameInputComp.descriptionEl) == null ? void 0 : _a.addClass(
       "better-recall-deck-name-field"
     );
     this.deckDescriptionInputComp = new InputFieldComponent(this.contentEl, {
@@ -566,7 +2397,7 @@ var CreateDeckModal = class extends import_obsidian5.Modal {
       }
       this.createDeck();
     };
-    this.deckDescriptionInputComp.descriptionEl.addClass(
+    (_b = this.deckDescriptionInputComp.descriptionEl) == null ? void 0 : _b.addClass(
       "better-recall-deck-description-field"
     );
     this.buttonsBarComp = new ButtonsBarComponent(this.contentEl).setSubmitText("Create").setSubmitButtonDisabled(true).onClose(this.close.bind(this)).onSubmit(() => __async(this, null, function* () {
@@ -606,137 +2437,6 @@ var RecallSubView = class {
   }
 };
 
-// src/ui/views/EmptyView.ts
-var EmptyView = class extends RecallSubView {
-  render() {
-    this.rootEl = this.recallView.rootEl.createDiv("better-recall-empty-view");
-    this.rootEl.addClass("empty-state");
-    const containerEl = this.rootEl.createDiv("empty-state-container");
-    const titleContainerEl = containerEl.createDiv(
-      "empty-state-title better-recall-empty-state-title"
-    );
-    titleContainerEl.setText("No available decks");
-    const actionListContainerEl = containerEl.createDiv(
-      "empty-state-action-list"
-    );
-    const createNewDeckActionEl = actionListContainerEl.createDiv("empty-state-action");
-    createNewDeckActionEl.setText("Create new deck");
-    createNewDeckActionEl.onClickEvent(() => {
-      this.openDeckModal();
-    });
-  }
-};
-
-// src/spaced-repetition/anki.ts
-var MILLISECONDS_PER_DAY = 24 * 60 * 60 * 1e3;
-var AnkiAlgorithm = class extends SpacedRepetitionAlgorithm {
-  getDefaultValues() {
-    return DEFAULT_SETTINGS.ankiParameters;
-  }
-  get updateStrategies() {
-    return {
-      [0 /* AGAIN */]: (item) => {
-        item.easeFactor = Math.max(
-          this.parameters.minEaseFactor,
-          item.easeFactor - this.parameters.easeFactorDecrement
-        );
-        if (item.state === 2 /* REVIEW */) {
-          item.state = 3 /* RELEARNING */;
-          item.stepIndex = 0;
-        } else {
-          item.stepIndex = 0;
-        }
-        return item.interval * this.parameters.lapseInterval;
-      },
-      [1 /* HARD */]: (item) => {
-        item.easeFactor = Math.max(
-          this.parameters.minEaseFactor,
-          item.easeFactor - this.parameters.easeFactorIncrement
-        );
-        if (item.state === 1 /* LEARNING */ || item.state === 3 /* RELEARNING */) {
-          item.stepIndex += 1;
-        }
-        return Math.max(
-          item.interval * this.parameters.hardIntervalMultiplier,
-          item.interval + 1
-        );
-      },
-      [2 /* GOOD */]: (item) => {
-        if (item.state === 0 /* NEW */ || item.state === 1 /* LEARNING */ || item.state === 3 /* RELEARNING */) {
-          item.stepIndex += 1;
-          const steps = item.state === 1 /* LEARNING */ ? this.parameters.learningSteps : this.parameters.relearningSteps;
-          if (item.stepIndex >= steps.length) {
-            item.state = 2 /* REVIEW */;
-            return this.parameters.graduatingInterval;
-          }
-          return 0;
-        }
-        return Math.max(item.interval * item.easeFactor, item.interval + 1);
-      },
-      [3 /* EASY */]: (item) => {
-        item.easeFactor += this.parameters.easeFactorIncrement;
-        if (item.state === 0 /* NEW */ || item.state === 1 /* LEARNING */ || item.state === 3 /* RELEARNING */) {
-          item.state = 2 /* REVIEW */;
-          return this.parameters.easyInterval;
-        }
-        return item.interval * item.easeFactor * this.parameters.easyBonus;
-      }
-    };
-  }
-  calculatePotentialNextReviewDate(item, performanceResponse) {
-    const newItem = __spreadValues({}, item);
-    if (newItem.state === 0 /* NEW */) {
-      newItem.state = 1 /* LEARNING */;
-      newItem.stepIndex = 0;
-    }
-    const newInterval = this.updateStrategies[performanceResponse](newItem);
-    const steps = newItem.state === 1 /* LEARNING */ ? this.parameters.learningSteps : this.parameters.relearningSteps;
-    if ((newItem.state === 1 /* LEARNING */ || newItem.state === 3 /* RELEARNING */) && newItem.stepIndex < steps.length) {
-      return this.calculateNextReviewDate(steps[newItem.stepIndex], true);
-    } else {
-      return this.calculateNextReviewDate(newInterval);
-    }
-  }
-  scheduleReview(item) {
-    item.lastReviewDate = /* @__PURE__ */ new Date();
-    if (item.state === 1 /* LEARNING */ || item.state === 3 /* RELEARNING */) {
-      const steps = item.state === 1 /* LEARNING */ ? this.parameters.learningSteps : this.parameters.relearningSteps;
-      if (item.stepIndex < steps.length) {
-        item.nextReviewDate = this.calculateNextReviewDate(
-          steps[item.stepIndex],
-          true
-        );
-      } else {
-        item.nextReviewDate = this.calculateNextReviewDate(item.interval);
-        item.state = 2 /* REVIEW */;
-      }
-    } else if (item.state === 0 /* NEW */) {
-      item.nextReviewDate = /* @__PURE__ */ new Date();
-    } else {
-      item.nextReviewDate = this.calculateNextReviewDate(item.interval);
-    }
-    this.addToQueueIfDueToday(item);
-  }
-  getNextReviewItem() {
-    var _a;
-    return (_a = this.queuedItems.shift()) != null ? _a : null;
-  }
-  updateItemAfterReview(item, performanceResponse) {
-    if (item.state === 0 /* NEW */) {
-      item.state = 1 /* LEARNING */;
-      item.stepIndex = 0;
-    }
-    item.interval = this.updateStrategies[performanceResponse](item);
-    item.iteration += 1;
-    this.scheduleReview(item);
-  }
-  calculateNextReviewDate(interval, inMinutes = false) {
-    const now = /* @__PURE__ */ new Date();
-    const milliseconds = interval * (inMinutes ? 60 * 1e3 : MILLISECONDS_PER_DAY);
-    return new Date(now.getTime() + milliseconds);
-  }
-};
-
 // src/ui/views/ReviewView.ts
 var import_obsidian6 = require("obsidian");
 var ReviewView = class extends RecallSubView {
@@ -745,6 +2445,8 @@ var ReviewView = class extends RecallSubView {
     this.plugin = plugin;
     this.recallView = recallView;
     this.currentItem = null;
+    this.boundKeyInput = this.handleKeyInput.bind(this);
+    this.boundInternalLinkClick = this.handleInternalLinkClick.bind(this);
     this.vaultRootPath = plugin.app.vault.getRoot().path;
   }
   setDeck(deck) {
@@ -779,7 +2481,7 @@ var ReviewView = class extends RecallSubView {
   }
   render() {
     this.rootEl = this.recallView.rootEl.createDiv("better-recall-recall-view");
-    document.addEventListener("keypress", this.handleKeyInput.bind(this));
+    document.addEventListener("keypress", this.boundKeyInput);
     this.contentEl = this.rootEl.createDiv(
       "better-recall-card better-recall-review-card"
     );
@@ -819,8 +2521,8 @@ var ReviewView = class extends RecallSubView {
       `${BUTTONS_BAR_CLASS} better-recall-review-card__answer-buttons-bar`
     );
     this.renderButton(0 /* AGAIN */, "\u274C", "Again");
-    this.renderButton(2 /* GOOD */, "\u{1F62C}", "Good");
     this.renderButton(1 /* HARD */, "\u{1F630}", "Hard");
+    this.renderButton(2 /* GOOD */, "\u{1F62C}", "Good");
     this.renderButton(3 /* EASY */, "\u{1F451}", "Easy");
   }
   renderButton(performanceResponse, emoji, text) {
@@ -874,10 +2576,10 @@ var ReviewView = class extends RecallSubView {
         this.plugin
       );
       this.cardFrontEl.querySelectorAll("a.internal-link").forEach((link) => {
-        link.addEventListener("click", this.handleInternalLinkClick.bind(this));
+        link.addEventListener("click", this.boundInternalLinkClick);
       });
       this.cardBackEl.querySelectorAll("a.internal-link").forEach((link) => {
-        link.addEventListener("click", this.handleInternalLinkClick.bind(this));
+        link.addEventListener("click", this.boundInternalLinkClick);
       });
     } else {
       this.cardFrontEl.setText("Review session complete \u{1F680}!");
@@ -886,32 +2588,32 @@ var ReviewView = class extends RecallSubView {
     }
   }
   handleInternalLinkClick(event) {
-    event.preventDefault();
-    const href = event.target.getAttribute("data-href");
+    const mouseEvent = event;
+    mouseEvent.preventDefault();
+    const href = mouseEvent.target.getAttribute(
+      "data-href"
+    );
     if (href) {
       this.plugin.app.workspace.openLinkText(href, this.vaultRootPath, true);
     }
   }
-  handleResponse(response) {
+  handleResponse(performanceResponse) {
     if (this.currentItem) {
-      this.plugin.algorithm.updateItemAfterReview(this.currentItem, response);
+      this.plugin.algorithm.updateItemAfterReview(
+        this.currentItem,
+        performanceResponse
+      );
       this.showNextItem();
     }
   }
   onClose() {
     super.onClose();
-    document.removeEventListener("keypress", this.handleKeyInput.bind(this));
+    document.removeEventListener("keypress", this.boundKeyInput);
     this.cardFrontEl.querySelectorAll("a.internal-link").forEach((link) => {
-      link.removeEventListener(
-        "click",
-        this.handleInternalLinkClick.bind(this)
-      );
+      link.removeEventListener("click", this.boundInternalLinkClick);
     });
     this.cardBackEl.querySelectorAll("a.internal-link").forEach((link) => {
-      link.removeEventListener(
-        "click",
-        this.handleInternalLinkClick.bind(this)
-      );
+      link.removeEventListener("click", this.boundInternalLinkClick);
     });
     this.plugin.decksManager.save();
   }
@@ -934,6 +2636,7 @@ var EditDeckModal = class extends import_obsidian7.Modal {
     this.render();
   }
   render() {
+    var _a, _b;
     this.deckNameInputComp = new InputFieldComponent(this.contentEl, {
       description: "Deck name:"
     }).setValue(this.deck.getName()).onChange((value) => {
@@ -945,7 +2648,7 @@ var EditDeckModal = class extends import_obsidian7.Modal {
       }
       this.editDeck();
     };
-    this.deckNameInputComp.descriptionEl.addClass(
+    (_a = this.deckNameInputComp.descriptionEl) == null ? void 0 : _a.addClass(
       "better-recall-deck-name-field"
     );
     this.deckDescriptionInputComp = new InputFieldComponent(this.contentEl, {
@@ -957,13 +2660,13 @@ var EditDeckModal = class extends import_obsidian7.Modal {
       }
       this.editDeck();
     };
-    this.deckDescriptionInputComp.descriptionEl.addClass(
+    (_b = this.deckDescriptionInputComp.descriptionEl) == null ? void 0 : _b.addClass(
       "better-recall-deck-description-field"
     );
     const buttonsContainer = this.contentEl.createDiv(
       "better-recall__buttons-container"
     );
-    const deleteButton = new import_obsidian7.ButtonComponent(buttonsContainer).setButtonText("Delete").onClick(() => this.deleteDeck());
+    const deleteButton = new import_obsidian7.ButtonComponent(buttonsContainer).setButtonText("Delete").setDisabled(this.plugin.decksManager.decksArray.length === 1).onClick(() => this.deleteDeck());
     deleteButton.buttonEl.addClass("better-recall-delete-button");
     this.buttonsBarComp = new ButtonsBarComponent(buttonsContainer).setSubmitText("Save").setSubmitButtonDisabled(false).onClose(this.close.bind(this)).onSubmit(() => __async(this, null, function* () {
       if (this.deckNameInputComp.getValue().length === 0) {
@@ -1033,11 +2736,14 @@ var EditCardModal = class extends CardModal {
     this.close();
   }
   submit() {
+    if (!this.inputFields || !this.deckDropdownComp) {
+      return;
+    }
     const deckId = this.deckDropdownComp.getValue();
-    const front = this.frontInputComp.getValue();
-    const back = this.backInputComp.getValue();
-    this.frontInputComp.setValue("");
-    this.backInputComp.setValue("");
+    const front = this.inputFields.front.getValue();
+    const back = this.inputFields.back.getValue();
+    this.inputFields.front.setValue("");
+    this.inputFields.back.setValue("");
     const updatedCard = __spreadProps(__spreadValues({}, this.card), {
       content: {
         front,
@@ -1064,14 +2770,17 @@ var EditCardsModal = class extends import_obsidian9.Modal {
     super(plugin.app);
     this.plugin = plugin;
     this.deck = deck;
+    this.boundEditItem = this.handleEditItem.bind(this);
+    this.boundAddItem = this.handleAddItem.bind(this);
+    this.boundDeleteItem = this.handleDeleteItem.bind(this);
     this.setTitle(`Cards from "${deck.getName()}"`);
   }
   onOpen() {
     super.onOpen();
     this.render();
-    this.plugin.getEventEmitter().on("editItem", this.handleEditItem.bind(this));
-    this.plugin.getEventEmitter().on("addItem", this.handleAddItem.bind(this));
-    this.plugin.getEventEmitter().on("deleteItem", this.handleDeleteItem.bind(this));
+    this.plugin.getEventEmitter().on("editItem", this.boundEditItem);
+    this.plugin.getEventEmitter().on("addItem", this.boundAddItem);
+    this.plugin.getEventEmitter().on("deleteItem", this.boundDeleteItem);
   }
   handleDeleteItem({ payload }) {
     if (!payload) {
@@ -1133,9 +2842,9 @@ var EditCardsModal = class extends import_obsidian9.Modal {
   }
   onClose() {
     super.onClose();
-    this.plugin.getEventEmitter().off("editItem", this.handleEditItem.bind(this));
-    this.plugin.getEventEmitter().off("addItem", this.handleAddItem.bind(this));
-    this.plugin.getEventEmitter().off("deleteItem", this.handleDeleteItem.bind(this));
+    this.plugin.getEventEmitter().off("editItem", this.boundEditItem);
+    this.plugin.getEventEmitter().off("addItem", this.boundAddItem);
+    this.plugin.getEventEmitter().off("deleteItem", this.boundDeleteItem);
     this.plugin.decksManager.save();
     this.contentEl.empty();
   }
@@ -1160,11 +2869,16 @@ var rowAttributes = {
 var DecksView = class extends RecallSubView {
   constructor(plugin, recallView) {
     super(plugin, recallView);
-    this.plugin.getEventEmitter().on("addDeck", this.handleAddDeck.bind(this));
-    this.plugin.getEventEmitter().on("editDeck", this.handleEditDeck.bind(this));
-    this.plugin.getEventEmitter().on("addItem", this.handleAddItem.bind(this));
-    this.plugin.getEventEmitter().on("deleteItem", this.handleDeleteItem.bind(this));
-    this.plugin.getEventEmitter().on("deleteDeck", this.handleDeleteDeck.bind(this));
+    this.boundAddDeck = this.handleAddDeck.bind(this);
+    this.boundAddItem = this.handleAddItem.bind(this);
+    this.boundDeleteItem = this.handleDeleteItem.bind(this);
+    this.boundDeleteDeck = this.handleDeleteDeck.bind(this);
+    this.boundEditDeck = this.handleEditDeck.bind(this);
+    this.plugin.getEventEmitter().on("addDeck", this.boundAddDeck);
+    this.plugin.getEventEmitter().on("editDeck", this.boundEditDeck);
+    this.plugin.getEventEmitter().on("addItem", this.boundAddItem);
+    this.plugin.getEventEmitter().on("deleteItem", this.boundDeleteItem);
+    this.plugin.getEventEmitter().on("deleteDeck", this.boundDeleteDeck);
   }
   render() {
     this.rootEl = this.recallView.rootEl.createDiv("better-recall-decks-view");
@@ -1172,10 +2886,6 @@ var DecksView = class extends RecallSubView {
     this.renderButtons();
   }
   handleDeleteDeck() {
-    if (this.plugin.decksManager.decksArray.length === 0) {
-      this.recallView.openEmptyView();
-      return;
-    }
     this.recallView.rootEl.empty();
     this.render();
   }
@@ -1197,6 +2907,13 @@ var DecksView = class extends RecallSubView {
     }
     deckNameEl.setText(deck.getName());
     deckNameEl.title = deck.getDescription();
+    const deckRowEl = this.getDeckRowEl(deck.id);
+    if (!deckRowEl) {
+      return;
+    }
+    this.refreshNewCardsCount(deck.id, deckRowEl);
+    this.refreshLearnCardsCount(deck.id, deckRowEl);
+    this.refreshDueCardsCount(deck.id, deckRowEl);
   }
   handleDeleteItem({ payload }) {
     if (!payload) {
@@ -1208,6 +2925,8 @@ var DecksView = class extends RecallSubView {
       return;
     }
     this.refreshNewCardsCount(deckId, deckRowEl);
+    this.refreshLearnCardsCount(deckId, deckRowEl);
+    this.refreshDueCardsCount(deckId, deckRowEl);
   }
   handleAddItem({ payload }) {
     if (!payload) {
@@ -1269,18 +2988,20 @@ var DecksView = class extends RecallSubView {
     return deckRowEl.querySelector(rowAttributes.dueCardsCount.attr);
   }
   handleDeckRowMouseEnter(event) {
-    event.preventDefault();
-    event.stopPropagation();
-    const target = event.target;
+    const mouseEvent = event;
+    mouseEvent.preventDefault();
+    mouseEvent.stopPropagation();
+    const target = mouseEvent.target;
     if (!target || !target.parentElement) {
       return;
     }
     target.addClass(visibleClass);
   }
   handleDeckRowMouseLeave(event) {
-    event.preventDefault();
-    event.stopPropagation();
-    const target = event.target;
+    const mouseEvent = event;
+    mouseEvent.preventDefault();
+    mouseEvent.stopPropagation();
+    const target = mouseEvent.target;
     if (!target) {
       return;
     }
@@ -1375,11 +3096,11 @@ var DecksView = class extends RecallSubView {
     });
   }
   onClose() {
-    this.plugin.getEventEmitter().off("addDeck", this.handleAddDeck.bind(this));
-    this.plugin.getEventEmitter().off("editDeck", this.handleEditDeck.bind(this));
-    this.plugin.getEventEmitter().off("addItem", this.handleAddItem.bind(this));
-    this.plugin.getEventEmitter().off("deleteItem", this.handleDeleteItem.bind(this));
-    this.plugin.getEventEmitter().off("deleteDeck", this.handleDeleteDeck.bind(this));
+    this.plugin.getEventEmitter().off("addDeck", this.boundAddDeck);
+    this.plugin.getEventEmitter().off("editDeck", this.boundEditDeck);
+    this.plugin.getEventEmitter().off("addItem", this.boundAddItem);
+    this.plugin.getEventEmitter().off("deleteItem", this.boundDeleteItem);
+    this.plugin.getEventEmitter().off("deleteDeck", this.boundDeleteDeck);
     const deckRowEls = this.rootEl.querySelectorAll(".better-recall-deck");
     deckRowEls.forEach((deckRowEl) => {
       deckRowEl.removeEventListener("mouseenter", this.handleDeckRowMouseEnter);
@@ -1394,6 +3115,7 @@ var RecallView = class _RecallView extends import_obsidian11.FileView {
   constructor(plugin, leaf) {
     super(leaf);
     this.plugin = plugin;
+    this.boundRenderView = this.renderView.bind(this);
     this.allowNoFile = true;
     this.icon = "blocks";
     const viewContent = this.containerEl.querySelector(".view-content");
@@ -1402,36 +3124,24 @@ var RecallView = class _RecallView extends import_obsidian11.FileView {
     }
     this.rootEl = viewContent.createDiv(CENTERED_VIEW);
     this.reviewView = new ReviewView(plugin, this);
-    this.emptyView = new EmptyView(plugin, this);
     this.decksView = new DecksView(plugin, this);
-    this.setViewMode(
-      plugin.decksManager.decksArray.length === 0 ? 0 /* Empty */ : 1 /* Decks */
-    );
+    this.setViewMode(0 /* Decks */);
   }
   onOpen() {
     return __async(this, null, function* () {
       this.renderView();
-      this.plugin.getEventEmitter().on("addDeck", this.handleAddDeck.bind(this));
+      this.plugin.getEventEmitter().on("addDeck", this.boundRenderView);
     });
-  }
-  handleAddDeck() {
-    if (this.viewMode === 0 /* Empty */) {
-      this.setViewMode(1 /* Decks */);
-      this.renderView();
-    }
   }
   setViewMode(viewMode) {
     var _a;
     (_a = this.currentView) == null ? void 0 : _a.onClose();
     this.viewMode = viewMode;
     switch (this.viewMode) {
-      case 0 /* Empty */:
-        this.currentView = this.emptyView;
-        break;
-      case 1 /* Decks */:
+      case 0 /* Decks */:
         this.currentView = this.decksView;
         break;
-      case 2 /* Review */:
+      case 1 /* Review */:
         this.currentView = this.reviewView;
         break;
     }
@@ -1443,16 +3153,13 @@ var RecallView = class _RecallView extends import_obsidian11.FileView {
    * @param deck The deck which will be reviewed.
    */
   startReviewingDeck(deck) {
-    this.reviewView.setDeck(deck);
-    this.setViewMode(2 /* Review */);
+    var _a;
+    (_a = this.reviewView) == null ? void 0 : _a.setDeck(deck);
+    this.setViewMode(1 /* Review */);
     this.renderView();
   }
   openDecksView() {
-    this.setViewMode(1 /* Decks */);
-    this.renderView();
-  }
-  openEmptyView() {
-    this.setViewMode(0 /* Empty */);
+    this.setViewMode(0 /* Decks */);
     this.renderView();
   }
   renderView() {
@@ -1469,7 +3176,7 @@ var RecallView = class _RecallView extends import_obsidian11.FileView {
     return __async(this, null, function* () {
       var _a;
       (_a = this.currentView) == null ? void 0 : _a.onClose();
-      this.plugin.getEventEmitter().off("addDeck", this.handleAddDeck.bind(this));
+      this.plugin.getEventEmitter().off("addDeck", this.boundRenderView);
       yield __superGet(_RecallView.prototype, this, "onClose").call(this);
     });
   }
@@ -1486,6 +3193,16 @@ var RecallView = class _RecallView extends import_obsidian11.FileView {
 };
 
 // src/data/deck.ts
+function getDefaultDeck() {
+  return {
+    id: v4_default(),
+    name: "Default Deck",
+    description: "The default deck",
+    createdAt: (/* @__PURE__ */ new Date()).toISOString(),
+    updatedAt: (/* @__PURE__ */ new Date()).toISOString(),
+    cards: {}
+  };
+}
 function jsonObjectToDeck(algorithm, jsonObject) {
   const cards = Object.entries(jsonObject.cards).reduce(
     (acc, [id, card]) => {
@@ -1530,8 +3247,8 @@ var Deck = class {
       id: this.id,
       name: this.name,
       description: this.description,
-      createdAt: this.createdAt.toDateString(),
-      updatedAt: this.updatedAt.toDateString(),
+      createdAt: this.createdAt.toISOString(),
+      updatedAt: this.updatedAt.toISOString(),
       // Cards which does not have the `id` in its value.
       cards: Object.entries(this.cards).reduce((acc, [id, card]) => {
         const newCard = __spreadValues({}, card);
@@ -1654,6 +3371,20 @@ var DecksManager = class {
     }
     delete this.decks[deckId].cards[cardId];
   }
+  resetCardsForAlgorithmSwitch() {
+    return __async(this, null, function* () {
+      Object.values(this.decks).forEach((deck) => {
+        Object.values(deck.cards).forEach((card) => {
+          const reinitializedCard = this.algorithm.createNewCard(
+            card.id,
+            card.content
+          );
+          deck.cards[card.id] = reinitializedCard;
+        });
+      });
+      yield this.save();
+    });
+  }
   save() {
     return __async(this, null, function* () {
       this.plugin.getData().decks = this.toJsonStructure();
@@ -1704,23 +3435,23 @@ var EventEmitter = class {
     this.listeners = {};
   }
   on(type, listener, priority = 0) {
-    var _a, _b, _c;
+    var _a, _b;
     (_b = (_a = this.listeners)[type]) != null ? _b : _a[type] = [];
-    (_c = this.listeners[type]) == null ? void 0 : _c.push({ listener, once: false, priority });
+    this.listeners[type].push({ listener, once: false, priority });
     this.sortListeners(type);
   }
   once(type, listener, priority = 0) {
-    var _a, _b, _c;
+    var _a, _b;
     (_b = (_a = this.listeners)[type]) != null ? _b : _a[type] = [];
-    (_c = this.listeners[type]) == null ? void 0 : _c.push({ listener, once: true, priority });
+    this.listeners[type].push({ listener, once: true, priority });
     this.sortListeners(type);
   }
   off(type, listener) {
-    var _a;
-    if (!this.listeners[type]) {
+    const entries = this.listeners[type];
+    if (!entries) {
       return;
     }
-    this.listeners[type] = (_a = this.listeners[type]) == null ? void 0 : _a.filter(
+    this.listeners[type] = entries.filter(
       (entry) => entry.listener !== listener
     );
   }
@@ -1745,7 +3476,331 @@ var EventEmitter = class {
   }
 };
 
+// src/spaced-repetition/fsrs.ts
+var _FSRSAlgorithm = class _FSRSAlgorithm extends SpacedRepetitionAlgorithm {
+  constructor(parameters = {}) {
+    super(_FSRSAlgorithm.normalizeParameters(parameters));
+    this.fsrs = new FSRS(this.parameters);
+    this.cardMap = /* @__PURE__ */ new Map();
+  }
+  getDefaultValues() {
+    return generatorParameters();
+  }
+  createNewCard(id, content) {
+    const now = /* @__PURE__ */ new Date();
+    const fsrsCard = createEmptyCard(now);
+    const item = {
+      id,
+      type: 0 /* BASIC */,
+      content,
+      state: 0 /* NEW */,
+      iteration: 0,
+      metadata: {}
+      // will be filled by syncFromFSRSCard
+    };
+    this.cardMap.set(id, fsrsCard);
+    this.syncFromFSRSCard(item, fsrsCard);
+    return item;
+  }
+  scheduleReview(item) {
+    var _a;
+    let fsrsCard = this.cardMap.get(item.id);
+    if (!fsrsCard) {
+      fsrsCard = createEmptyCard((_a = item.nextReviewDate) != null ? _a : /* @__PURE__ */ new Date());
+      this.syncToFSRSCard(item, fsrsCard);
+      this.cardMap.set(item.id, fsrsCard);
+    }
+    item.nextReviewDate = fsrsCard.due;
+    this.addToQueueIfDueToday(item);
+  }
+  updateItemAfterReview(item, performanceResponse) {
+    const fsrsCard = this.cardMap.get(item.id);
+    if (!fsrsCard) {
+      console.warn(`FSRS card not found for item ${item.id}...`);
+      return;
+    }
+    const now = /* @__PURE__ */ new Date();
+    const scheduling = this.fsrs.repeat(fsrsCard, now);
+    const rating = this.mapPerformanceResponse(performanceResponse);
+    const updatedCard = scheduling[rating].card;
+    this.cardMap.set(item.id, updatedCard);
+    this.syncFromFSRSCard(item, updatedCard);
+    item.lastReviewDate = now;
+    item.iteration += 1;
+    this.addToQueueIfDueToday(item);
+  }
+  getNextReviewItem() {
+    var _a;
+    return (_a = this.queuedItems.shift()) != null ? _a : null;
+  }
+  calculatePotentialNextReviewDate(item, performanceResponse) {
+    var _a;
+    const rating = this.mapPerformanceResponse(performanceResponse);
+    const fsrsCard = this.cardMap.get(item.id);
+    if (!fsrsCard) {
+      return (_a = item.nextReviewDate) != null ? _a : /* @__PURE__ */ new Date();
+    }
+    const now = /* @__PURE__ */ new Date();
+    const scheduling = this.fsrs.repeat(fsrsCard, now);
+    return scheduling[rating].card.due;
+  }
+  setParameters(parameters) {
+    super.setParameters(_FSRSAlgorithm.normalizeParameters(parameters));
+    this.fsrs = new FSRS(this.parameters);
+  }
+  mapPerformanceResponse(performanceResponse) {
+    switch (performanceResponse) {
+      case 0 /* AGAIN */:
+        return Rating.Again;
+      case 1 /* HARD */:
+        return Rating.Hard;
+      case 2 /* GOOD */:
+        return Rating.Good;
+      case 3 /* EASY */:
+        return Rating.Easy;
+    }
+  }
+  removeItem(item) {
+    super.removeItem(item);
+    this.cardMap.delete(item.id);
+  }
+  syncFromFSRSCard(item, fsrsCard) {
+    if (fsrsCard.last_review) {
+      item.lastReviewDate = fsrsCard.last_review;
+    }
+    item.nextReviewDate = fsrsCard.due;
+    item.state = this.mapStateFromFSRS(fsrsCard.state);
+    item.metadata = {
+      stability: fsrsCard.stability,
+      difficulty: fsrsCard.difficulty,
+      scheduled_days: fsrsCard.scheduled_days,
+      learning_steps: fsrsCard.learning_steps,
+      reps: fsrsCard.reps,
+      lapses: fsrsCard.lapses
+    };
+  }
+  syncToFSRSCard(item, fsrsCard) {
+    var _a, _b, _c, _d, _e, _f, _g;
+    fsrsCard.stability = (_a = item.metadata.stability) != null ? _a : 0;
+    fsrsCard.difficulty = (_b = item.metadata.difficulty) != null ? _b : 0;
+    fsrsCard.scheduled_days = (_c = item.metadata.scheduled_days) != null ? _c : 0;
+    fsrsCard.learning_steps = (_d = item.metadata.learning_steps) != null ? _d : 0;
+    fsrsCard.reps = (_e = item.metadata.reps) != null ? _e : 0;
+    fsrsCard.lapses = (_f = item.metadata.lapses) != null ? _f : 0;
+    fsrsCard.state = this.mapStateToFSRS(item.state);
+    fsrsCard.due = (_g = item.nextReviewDate) != null ? _g : /* @__PURE__ */ new Date();
+    fsrsCard.last_review = item.lastReviewDate;
+  }
+  mapStateFromFSRS(fsrsState) {
+    var _a, _b;
+    return (_b = (_a = _FSRSAlgorithm.STATE_MAP[fsrsState]) == null ? void 0 : _a[0]) != null ? _b : 0 /* NEW */;
+  }
+  mapStateToFSRS(cardState) {
+    var _a, _b;
+    return (_b = (_a = _FSRSAlgorithm.STATE_MAP[cardState]) == null ? void 0 : _a[1]) != null ? _b : State.New;
+  }
+  /**
+   * Normalizes FSRS parameters to the snake_case keys expected by `ts-fsrs`.
+   *
+   * App settings are stored in camelCase (e.g. `requestRetention`), while
+   * `ts-fsrs` only reads snake_case fields (e.g. `request_retention`). This
+   * adapter accepts both formats and returns a partial object containing only
+   * defined snake_case values so runtime overrides are applied correctly.
+   *
+   * @param parameters Raw FSRS parameters from settings or callers.
+   * @returns A partial parameter object using `ts-fsrs` snake_case keys only.
+   */
+  static normalizeParameters(parameters) {
+    var _a, _b, _c, _d, _e, _f, _g, _h;
+    const params = parameters;
+    const normalized = {};
+    const set = (key, value) => {
+      if (value !== void 0) normalized[key] = value;
+    };
+    set("w", params.w);
+    set(
+      "request_retention",
+      (_a = params.request_retention) != null ? _a : params.requestRetention
+    );
+    set("maximum_interval", (_b = params.maximum_interval) != null ? _b : params.maximumInterval);
+    set(
+      "learning_steps",
+      (_d = (_c = params.learning_steps) != null ? _c : params.learningSteps) != null ? _d : void 0
+    );
+    set(
+      "relearning_steps",
+      (_f = (_e = params.relearning_steps) != null ? _e : params.relearningSteps) != null ? _f : void 0
+    );
+    set("enable_fuzz", (_g = params.enable_fuzz) != null ? _g : params.enableFuzz);
+    set(
+      "enable_short_term",
+      (_h = params.enable_short_term) != null ? _h : params.enableShortTerm
+    );
+    return normalized;
+  }
+};
+_FSRSAlgorithm.STATE_MAP = [
+  [0 /* NEW */, State.New],
+  [1 /* LEARNING */, State.Learning],
+  [2 /* REVIEW */, State.Review],
+  [3 /* RELEARNING */, State.Relearning]
+];
+var FSRSAlgorithm2 = _FSRSAlgorithm;
+
+// src/spaced-repetition/anki.ts
+var MILLISECONDS_PER_DAY = 24 * 60 * 60 * 1e3;
+var AnkiAlgorithm = class extends SpacedRepetitionAlgorithm {
+  getDefaultValues() {
+    return DEFAULT_SETTINGS.ankiParameters;
+  }
+  createNewCard(id, content) {
+    const item = {
+      id,
+      type: 0 /* BASIC */,
+      content,
+      state: 0 /* NEW */,
+      iteration: 0,
+      metadata: {
+        easeFactor: 2.5,
+        interval: 0,
+        stepIndex: 0
+      }
+    };
+    this.scheduleReview(item);
+    return item;
+  }
+  get updateStrategies() {
+    return {
+      [0 /* AGAIN */]: (item) => {
+        item.metadata.easeFactor = Math.max(
+          this.parameters.minEaseFactor,
+          item.metadata.easeFactor - this.parameters.easeFactorDecrement
+        );
+        if (item.state === 2 /* REVIEW */) {
+          item.state = 3 /* RELEARNING */;
+          item.metadata.stepIndex = 0;
+        } else {
+          item.metadata.stepIndex = 0;
+        }
+        return item.metadata.interval * this.parameters.lapseInterval;
+      },
+      [1 /* HARD */]: (item) => {
+        item.metadata.easeFactor = Math.max(
+          this.parameters.minEaseFactor,
+          item.metadata.easeFactor - this.parameters.easeFactorIncrement
+        );
+        if (item.state === 1 /* LEARNING */ || item.state === 3 /* RELEARNING */) {
+          item.metadata.stepIndex += 1;
+        }
+        return Math.max(
+          item.metadata.interval * this.parameters.hardIntervalMultiplier,
+          item.metadata.interval + 1
+        );
+      },
+      [2 /* GOOD */]: (item) => {
+        if (item.state === 0 /* NEW */ || item.state === 1 /* LEARNING */ || item.state === 3 /* RELEARNING */) {
+          item.metadata.stepIndex += 1;
+          const steps = item.state === 1 /* LEARNING */ ? this.parameters.learningSteps : this.parameters.relearningSteps;
+          if (item.metadata.stepIndex >= steps.length) {
+            item.state = 2 /* REVIEW */;
+            return this.parameters.graduatingInterval;
+          }
+          return 0;
+        }
+        return Math.max(
+          item.metadata.interval * item.metadata.easeFactor,
+          item.metadata.interval + 1
+        );
+      },
+      [3 /* EASY */]: (item) => {
+        item.metadata.easeFactor += this.parameters.easeFactorIncrement;
+        if (item.state === 0 /* NEW */ || item.state === 1 /* LEARNING */ || item.state === 3 /* RELEARNING */) {
+          item.state = 2 /* REVIEW */;
+          return this.parameters.easyInterval;
+        }
+        return item.metadata.interval * item.metadata.easeFactor * this.parameters.easyBonus;
+      }
+    };
+  }
+  calculatePotentialNextReviewDate(item, performanceResponse) {
+    const rating = this.mapPerformanceResponse(performanceResponse);
+    const newItem = __spreadValues({}, item);
+    if (newItem.state === 0 /* NEW */) {
+      newItem.state = 1 /* LEARNING */;
+      newItem.metadata.stepIndex = 0;
+    }
+    const newInterval = this.updateStrategies[rating](newItem);
+    const steps = newItem.state === 1 /* LEARNING */ ? this.parameters.learningSteps : this.parameters.relearningSteps;
+    if ((newItem.state === 1 /* LEARNING */ || newItem.state === 3 /* RELEARNING */) && newItem.metadata.stepIndex < steps.length) {
+      return this.calculateNextReviewDate(
+        steps[newItem.metadata.stepIndex],
+        true
+      );
+    } else {
+      return this.calculateNextReviewDate(newInterval);
+    }
+  }
+  scheduleReview(item) {
+    item.lastReviewDate = /* @__PURE__ */ new Date();
+    if (item.state === 1 /* LEARNING */ || item.state === 3 /* RELEARNING */) {
+      const steps = item.state === 1 /* LEARNING */ ? this.parameters.learningSteps : this.parameters.relearningSteps;
+      if (item.metadata.stepIndex < steps.length) {
+        item.nextReviewDate = this.calculateNextReviewDate(
+          steps[item.metadata.stepIndex],
+          true
+        );
+      } else {
+        item.nextReviewDate = this.calculateNextReviewDate(
+          item.metadata.interval
+        );
+        item.state = 2 /* REVIEW */;
+      }
+    } else if (item.state === 0 /* NEW */) {
+      item.nextReviewDate = /* @__PURE__ */ new Date();
+    } else {
+      item.nextReviewDate = this.calculateNextReviewDate(
+        item.metadata.interval
+      );
+    }
+    this.addToQueueIfDueToday(item);
+  }
+  getNextReviewItem() {
+    var _a;
+    return (_a = this.queuedItems.shift()) != null ? _a : null;
+  }
+  updateItemAfterReview(item, performanceResponse) {
+    const rating = this.mapPerformanceResponse(performanceResponse);
+    if (item.state === 0 /* NEW */) {
+      item.state = 1 /* LEARNING */;
+      item.metadata.stepIndex = 0;
+    }
+    item.metadata.interval = this.updateStrategies[rating](item);
+    item.iteration += 1;
+    this.scheduleReview(item);
+  }
+  mapPerformanceResponse(performanceResponse) {
+    switch (performanceResponse) {
+      case 0 /* AGAIN */:
+        return 0 /* AGAIN */;
+      case 1 /* HARD */:
+        return 1 /* HARD */;
+      case 2 /* GOOD */:
+        return 2 /* GOOD */;
+      case 3 /* EASY */:
+        return 3 /* EASY */;
+    }
+  }
+  calculateNextReviewDate(interval, inMinutes = false) {
+    const now = /* @__PURE__ */ new Date();
+    const milliseconds = interval * (inMinutes ? 60 * 1e3 : MILLISECONDS_PER_DAY);
+    return new Date(now.getTime() + milliseconds);
+  }
+};
+
 // src/ui/settings/SettingsTab.ts
+var import_obsidian14 = require("obsidian");
+
+// src/ui/settings/Renderer.ts
 var import_obsidian13 = require("obsidian");
 
 // src/ui/components/ResetButtonComponent.ts
@@ -1764,121 +3819,324 @@ var ResetButtonComponent = class extends import_obsidian12.ButtonComponent {
   }
 };
 
+// src/ui/settings/Renderer.ts
+var SettingRenderer = class {
+  constructor(containerEl, onSave) {
+    this.containerEl = containerEl;
+    this.onSave = onSave;
+    this.renderers = /* @__PURE__ */ new Map([
+      ["boolean", this.renderBoolean.bind(this)],
+      ["number", this.renderNumber.bind(this)],
+      ["string", this.renderText.bind(this)],
+      ["array", this.renderArray.bind(this)]
+    ]);
+  }
+  render(config, currentValue, onUpdate) {
+    const type = Array.isArray(currentValue) ? "array" : typeof currentValue;
+    const renderer = this.renderers.get(type);
+    renderer == null ? void 0 : renderer(config, currentValue, onUpdate);
+  }
+  renderBoolean(config, currentValue, onUpdate) {
+    const setting = new import_obsidian13.Setting(this.containerEl).setName(config.name).setDesc(config.description);
+    this.addResetButton(setting, config.defaultValue, onUpdate);
+    setting.addToggle((toggle) => {
+      toggle.setValue(currentValue).onChange((value) => __async(this, null, function* () {
+        if (!config.validate || config.validate(value)) {
+          onUpdate(value);
+          yield this.onSave();
+        }
+      }));
+    });
+  }
+  renderNumber(config, currentValue, onUpdate) {
+    let textComponent = null;
+    const setting = new import_obsidian13.Setting(this.containerEl).setName(config.name).setDesc(config.description);
+    this.addResetButton(setting, config.defaultValue, onUpdate, (val) => {
+      textComponent == null ? void 0 : textComponent.setValue(val.toString());
+    });
+    setting.addText((text) => {
+      textComponent = text;
+      text.setValue(currentValue.toString()).onChange((input) => __async(this, null, function* () {
+        const num = Number(input.trim());
+        if (!isNaN(num) && (!config.validate || config.validate(num))) {
+          onUpdate(num);
+          yield this.onSave();
+        }
+      }));
+    });
+  }
+  renderText(config, currentValue, onUpdate) {
+    let textComponent = null;
+    const setting = new import_obsidian13.Setting(this.containerEl).setName(config.name).setDesc(config.description);
+    this.addResetButton(setting, config.defaultValue, onUpdate, (val) => {
+      textComponent == null ? void 0 : textComponent.setValue(val);
+    });
+    setting.addText((text) => {
+      textComponent = text;
+      text.setValue(currentValue).onChange((input) => __async(this, null, function* () {
+        const trimmed = input.trim();
+        if (!config.validate || config.validate(trimmed)) {
+          onUpdate(trimmed);
+          yield this.onSave();
+        }
+      }));
+    });
+  }
+  renderArray(config, currentValue, onUpdate) {
+    let textComponent = null;
+    const setting = new import_obsidian13.Setting(this.containerEl).setName(config.name).setDesc(config.description);
+    this.addResetButton(setting, config.defaultValue, onUpdate, (val) => {
+      textComponent == null ? void 0 : textComponent.setValue(val.join(","));
+    });
+    setting.addText((text) => {
+      textComponent = text;
+      text.setValue(currentValue.join(",")).onChange((input) => __async(this, null, function* () {
+        const parts = input.split(",").map((s) => Number(s.trim()));
+        const isValid = parts.every((n) => !isNaN(n));
+        if (isValid && (!config.arrayLength || parts.length === config.arrayLength)) {
+          if (!config.validate || config.validate(parts)) {
+            onUpdate(parts);
+            yield this.onSave();
+          }
+        }
+      }));
+    });
+  }
+  addResetButton(setting, defaultValue, onUpdate, onReset) {
+    new ResetButtonComponent(setting.controlEl).onClick(() => __async(this, null, function* () {
+      onReset == null ? void 0 : onReset(defaultValue);
+      onUpdate(defaultValue);
+      yield this.onSave();
+    }));
+  }
+};
+
 // src/ui/settings/SettingsTab.ts
-var SettingsTab = class extends import_obsidian13.PluginSettingTab {
+var SettingsTab = class extends import_obsidian14.PluginSettingTab {
   constructor(plugin) {
     super(plugin.app, plugin);
     this.plugin = plugin;
-    this.titleParameterMapping = {
+    this.titleParameterMappingAnki = {
       "Lapse interval": {
         parameter: "lapseInterval",
-        description: "The multiplier applied to the current interval when a card lapses."
+        description: "How much to shrink the wait time when you forget a card (e.g., 0.5 cuts it in half)."
       },
       "Easy interval": {
         parameter: "easyInterval",
-        description: "The interval (in days) assigned to a card when rated as `easy` during learning/relearning."
+        description: 'How many days until you see a new card again if you mark it "easy" while learning.'
       },
       "Easy bonus": {
         parameter: "easyBonus",
-        description: "The multiplier applied to the interval when a review card is rated as `easy`."
+        description: 'Extra time multiplier when you mark a review card "easy" (e.g., 1.3 adds 30% more time).'
       },
       "Graduating interval": {
         parameter: "graduatingInterval",
-        description: "The interval (in days) assigned to a card when it graduates from learning to review."
+        description: "The first review interval (in days) when a new card finishes its learning phase."
       },
       "Min ease factor": {
         parameter: "minEaseFactor",
-        description: "The minimum allowed ease factor for a card."
+        description: "The lowest difficulty multiplier a card can have (prevents intervals from becoming too short)."
       },
       "Ease factor decrement": {
         parameter: "easeFactorDecrement",
-        description: "The amount by which the ease factor is decreased when a card is rated as `again`."
+        description: `How much to reduce a card's difficulty multiplier when you mark it "again".`
       },
       "Ease factor increment": {
         parameter: "easeFactorIncrement",
-        description: "The amount by which the ease factor is increased when a card is rated as `easy`."
+        description: 'The amount to adjust the difficulty multiplier. Increased when marked "easy", decreased when marked "hard". Typically 0.15.'
       },
       "Hard interval multiplier": {
         parameter: "hardIntervalMultiplier",
-        description: "The multiplier applied to the current interval when a review card is rated as `hard`."
+        description: 'Multiplier for the next interval when you mark a card "hard" (e.g., 1.2 = 120% of current interval, a 20% increase). Always increases by at least 1 day.'
       },
       "Learning steps": {
         parameter: "learningSteps",
-        description: "Comma-separated step intervals (in minutes) for new cards in the learning phase."
+        description: 'Wait times (in minutes) for reviewing new cards. E.g., "1,10" means review after 1 minute, then 10 minutes.'
       },
       "Relearning steps": {
         parameter: "relearningSteps",
-        description: "Comma-separated step intervals (in minutes) for cards in the relearning phase."
+        description: 'Wait times (in minutes) for reviewing forgotten cards. E.g., "10" means review once after 10 minutes.'
       }
+    };
+    this.titleParameterMappingFSRS = {
+      "Learning steps": {
+        parameter: "learningSteps",
+        description: 'Delays for new cards before they enter long\u2011term review (e.g. "1m,10m"). Shorter or more steps = more initial drilling on the first day.'
+      },
+      "Relearning steps": {
+        parameter: "relearningSteps",
+        description: 'Delays for reviewing cards that you forgot while they were in review (e.g. "10m"). Controls how aggressively lapsed cards are re\u2011drilled before returning to normal scheduling.'
+      },
+      "Request retention": {
+        parameter: "requestRetention",
+        description: "Your target success rate (e.g., 0.9 = aim to remember 90% of cards). Higher = more reviews but better retention."
+      },
+      "Maximum interval": {
+        parameter: "maximumInterval",
+        description: "The longest you'll wait between reviews (in days), no matter how well you know a card."
+      },
+      "Enable fuzz": {
+        parameter: "enableFuzz",
+        description: "Adds slight randomness to review intervals to prevent cards from bunching up on the same days."
+      },
+      "Enable short term": {
+        parameter: "enableShortTerm",
+        description: "Enables short-term memory scheduling for cards in the learning phase (more frequent initial reviews)."
+      }
+    };
+    this.schedulingAlgorithmLabels = {
+      ["anki" /* Anki */]: "Anki",
+      ["fsrs" /* FSRS */]: "FSRS"
     };
   }
   display() {
     this.containerEl.empty();
-    Object.entries(this.titleParameterMapping).forEach(
-      ([key, { parameter, description }]) => {
-        let textComponent = null;
-        const pluginValue = this.plugin.getSettings().ankiParameters[parameter];
-        const setting = new import_obsidian13.Setting(this.containerEl).setName(key).setDesc(description);
-        new ResetButtonComponent(setting.controlEl).onClick(() => __async(this, null, function* () {
-          if (!textComponent) {
-            return;
-          }
-          const defaultValue = DEFAULT_SETTINGS.ankiParameters[parameter];
-          this.setValue(textComponent, defaultValue);
-          this.plugin.setAnkiParameter(parameter, defaultValue);
+    this.renderSchedulingAlgorithmDropdown();
+    const currentAlgorithm = this.plugin.getSettings().schedulingAlgorithm;
+    if (currentAlgorithm === "anki" /* Anki */) {
+      this.renderAnkiParameters();
+    } else if (currentAlgorithm === "fsrs" /* FSRS */) {
+      this.renderFSRSParameters();
+    }
+  }
+  renderSchedulingAlgorithmDropdown() {
+    new import_obsidian14.Setting(this.containerEl).setName("Scheduling Algorithm").setDesc(
+      "Change the scheduling algorithm for your spaced repetition (WARNING: this resets the reviewing progress on all decks)."
+    ).addDropdown((dropdown) => {
+      dropdown.addOptions(this.schedulingAlgorithmLabels).setValue(this.plugin.getSettings().schedulingAlgorithm).onChange((value) => __async(this, null, function* () {
+        if (this.isValidSchedulingAlgorithm(value)) {
+          yield this.plugin.updateSchedulingAlgorithm(value);
           yield this.plugin.savePluginData();
-        }));
-        setting.addText((text) => {
-          textComponent = text;
-          this.setValue(text, pluginValue);
-          text.onChange((input) => __async(this, null, function* () {
-            input = input.trim();
-            if (parameter === "learningSteps" || parameter === "relearningSteps") {
-              if (!this.isStringValidArray(input)) {
-                return;
-              }
-              const newValue = this.parseStringToArray(input);
-              this.plugin.setAnkiParameter(parameter, newValue);
-            } else {
-              if (isNaN(+input)) {
-                return;
-              }
-              this.plugin.setAnkiParameter(parameter, Number(input));
-            }
-            yield this.plugin.savePluginData();
-          }));
-        });
+          this.display();
+        }
+      }));
+    });
+  }
+  renderFSRSParameters() {
+    const renderer = new SettingRenderer(
+      this.containerEl,
+      () => this.plugin.savePluginData()
+    );
+    const params = this.plugin.getSettings().fsrsParameters;
+    Object.entries(this.titleParameterMappingFSRS).forEach(
+      ([name, { parameter, description }]) => {
+        const config = {
+          name,
+          description,
+          defaultValue: DEFAULT_SETTINGS.fsrsParameters[parameter]
+        };
+        renderer.render(
+          config,
+          params[parameter],
+          (value) => this.plugin.setParameter("fsrs" /* FSRS */, parameter, value)
+        );
       }
     );
   }
-  setValue(text, value) {
-    if (Array.isArray(value)) {
-      text.setValue(value.join(","));
-    } else {
-      text.setValue(value.toString());
-    }
+  renderAnkiParameters() {
+    const renderer = new SettingRenderer(
+      this.containerEl,
+      () => this.plugin.savePluginData()
+    );
+    const params = this.plugin.getSettings().ankiParameters;
+    Object.entries(this.titleParameterMappingAnki).forEach(
+      ([name, { parameter, description }]) => {
+        renderer.render(
+          {
+            name,
+            description,
+            defaultValue: DEFAULT_SETTINGS.ankiParameters[parameter]
+          },
+          params[parameter],
+          (value) => this.plugin.setParameter(
+            "anki" /* Anki */,
+            parameter,
+            value
+          )
+        );
+      }
+    );
   }
-  parseStringToArray(input) {
-    return input.trim().split(",").map((text) => Number(text));
-  }
-  isStringValidArray(input) {
-    return input.trim().split(",").every((text) => !isNaN(+text));
+  isValidSchedulingAlgorithm(value) {
+    return Object.values(SchedulingAlgorithm).includes(
+      value
+    );
   }
 };
 
-// src/main.ts
-var BetterRecallPlugin = class extends import_obsidian14.Plugin {
-  constructor() {
-    super(...arguments);
-    this.algorithm = new AnkiAlgorithm();
-    this.decksManager = new DecksManager(this, this.algorithm);
+// src/migrations/v2-migration.ts
+var isOldAnkiItem = (obj) => {
+  if (!obj || typeof obj !== "object") {
+    return false;
   }
+  const hasOldScheduling = typeof obj.easeFactor === "number" && typeof obj.interval === "number" && typeof obj.stepIndex === "number";
+  return typeof obj.type === "number" && hasOldScheduling;
+};
+var migrateOldItem = (oldItem) => {
+  var _a;
+  return {
+    content: oldItem.content,
+    type: oldItem.type,
+    state: oldItem.state,
+    iteration: (_a = oldItem.iteration) != null ? _a : 0,
+    lastReviewDate: oldItem.lastReviewDate ? new Date(oldItem.lastReviewDate) : void 0,
+    nextReviewDate: oldItem.nextReviewDate ? new Date(oldItem.nextReviewDate) : void 0,
+    metadata: {
+      easeFactor: oldItem.easeFactor,
+      interval: oldItem.interval,
+      stepIndex: oldItem.stepIndex
+    }
+  };
+};
+var migrateToV2 = (data) => {
+  var _a;
+  for (const deck of (_a = data.decks) != null ? _a : []) {
+    const items = deck.cards;
+    if (!items) {
+      continue;
+    }
+    const newItems = {};
+    for (const [id, rawItem] of Object.entries(items)) {
+      if (isOldAnkiItem(rawItem)) {
+        newItems[id] = migrateOldItem(rawItem);
+      } else {
+        newItems[id] = rawItem;
+      }
+    }
+    deck.cards = newItems;
+  }
+};
+
+// src/migrations/index.ts
+var migrations = {
+  2: migrateToV2
+};
+function runMigrations(data) {
+  var _a;
+  const prevVersion = (_a = data.schemaVersion) != null ? _a : 1;
+  let migrated = false;
+  for (let target = prevVersion + 1; target <= CURRENT_SCHEMA_VERSION; target++) {
+    const migration = migrations[target];
+    if (!migration) {
+      continue;
+    }
+    console.log(`BetterRecall: migrating schema ${target - 1} -> ${target}`);
+    migration(data);
+    data.schemaVersion = target;
+    migrated = true;
+  }
+  return migrated;
+}
+
+// src/main.ts
+var BetterRecallPlugin = class extends import_obsidian15.Plugin {
   onload() {
     return __async(this, null, function* () {
       console.log("loading better recall");
       this.eventEmitter = new EventEmitter();
       yield this.loadPluginData();
-      this.algorithm.setParameters(this.getSettings().ankiParameters);
+      this.algorithm = this.initAlgorithm();
+      this.decksManager = new DecksManager(this, this.algorithm);
       yield this.decksManager.load();
       this.registerView(FILE_VIEW_TYPE, (leaf) => new RecallView(this, leaf));
       registerCommands(this);
@@ -1906,21 +4164,51 @@ var BetterRecallPlugin = class extends import_obsidian14.Plugin {
    * Loads and initializes the data including the settings for the plugin.
    * First, it loads the existing data from the plugin and then checks for any missing
    * settings and applies default values where necessary.
+   * It also runs the migrations, if the schema version is outdated.
    * Finally, it populates the `data` property with this loaded data.
    * @returns Promise that resolves when the settings have been loaded and initialized.
    */
   loadPluginData() {
     return __async(this, null, function* () {
+      var _a, _b;
       const data = yield this.loadData();
       if (data) {
-        Object.entries(DEFAULT_SETTINGS).forEach(([key, value]) => {
-          if (data.settings[key] === void 0) {
-            data.settings[key] = value;
-          }
+        let changed = false;
+        const mergedSettings = __spreadValues(__spreadValues({}, DEFAULT_SETTINGS), (_a = data.settings) != null ? _a : {});
+        if (JSON.stringify(mergedSettings) !== JSON.stringify((_b = data.settings) != null ? _b : {})) {
+          changed = true;
+        }
+        this.data = __spreadProps(__spreadValues({}, data), {
+          settings: mergedSettings
         });
+        if (!this.data.decks || this.data.decks.length === 0) {
+          this.data.decks = [getDefaultDeck()];
+          changed = true;
+        }
+        const migrated = runMigrations(this.data);
+        if (changed || migrated) {
+          yield this.savePluginData();
+        }
+      } else {
+        this.data = {
+          settings: __spreadValues({}, DEFAULT_SETTINGS),
+          decks: [getDefaultDeck()],
+          schemaVersion: CURRENT_SCHEMA_VERSION
+        };
+        yield this.savePluginData();
       }
-      this.data = Object.assign({ settings: __spreadValues({}, DEFAULT_SETTINGS) }, {}, data);
     });
+  }
+  initAlgorithm() {
+    const settings = this.getSettings();
+    if (settings.schedulingAlgorithm === "anki" /* Anki */) {
+      const algorithm2 = new AnkiAlgorithm();
+      algorithm2.setParameters(settings.ankiParameters);
+      return algorithm2;
+    }
+    const algorithm = new FSRSAlgorithm2();
+    algorithm.setParameters(settings.fsrsParameters);
+    return algorithm;
   }
   getEventEmitter() {
     return this.eventEmitter;
@@ -1928,17 +4216,24 @@ var BetterRecallPlugin = class extends import_obsidian14.Plugin {
   getSettings() {
     return this.data.settings;
   }
-  setAnkiParameter(key, value) {
-    if (key === "learningSteps" || key === "relearningSteps") {
-      if (!Array.isArray(value)) {
-        return;
+  setParameter(paramsType, key, value) {
+    var _a;
+    const paramsKey = paramsType === "anki" /* Anki */ ? "ankiParameters" : "fsrsParameters";
+    const params = this.getSettings()[paramsKey];
+    params[key] = value;
+    (_a = this.algorithm) == null ? void 0 : _a.setParameters(params);
+  }
+  updateSchedulingAlgorithm(algorithm) {
+    return __async(this, null, function* () {
+      this.getSettings().schedulingAlgorithm = algorithm;
+      this.algorithm = this.initAlgorithm();
+      this.decksManager = new DecksManager(this, this.algorithm);
+      yield this.decksManager.load();
+      yield this.decksManager.resetCardsForAlgorithmSwitch();
+      for (const deck of Object.values(this.decksManager.getDecks())) {
+        this.eventEmitter.emit("editDeck", { deck });
       }
-      this.getSettings().ankiParameters[key] = value;
-      return;
-    }
-    if (typeof value === "number") {
-      this.getSettings().ankiParameters[key] = value;
-    }
+    });
   }
   getData() {
     return this.data;
@@ -1949,5 +4244,12 @@ var BetterRecallPlugin = class extends import_obsidian14.Plugin {
     });
   }
 };
+/*! Bundled license information:
+
+ts-fsrs/dist/index.mjs:
+ts-fsrs/dist/index.mjs:
+ts-fsrs/dist/index.mjs:
+  (* istanbul ignore next -- @preserve *)
+*/
 
 /* nosourcemap */

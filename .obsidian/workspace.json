@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
-                "mode": "source",
+                "file": "english-watchlist/watchlist.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Home Page"
+              "title": "watchlist"
             }
           }
         ]
@@ -204,6 +204,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "audio-recorder:Начать/остановить запись": false,
       "homepage:Open homepage": false,
       "obsidian-livesync:P2P Replicator": false,
       "obsidian-livesync:Show Log": false,
@@ -216,7 +218,6 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "media-extended:Open external media": false,
       "better-recall:Open decks": false,
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
@@ -228,10 +229,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home Page.md",
+    "english words/New.md",
     "Setup.md",
     "Backlog.md",
-    "english words/New.md",
-    "Home Page.md",
     "english-watchlist/watchlist.md",
     "english words/anki/audio/eg_unclearly.mp3",
     "english words/anki/audio/eg_pear.mp3",

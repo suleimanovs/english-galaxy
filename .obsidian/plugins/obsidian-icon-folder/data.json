@@ -32,15 +32,12 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-
   "english words": "LiWholeWord",
   "english words/anki": "LiLayers",
   "english words/anki/audio": "LiAudioLines",
-
   "learn-5000-english-words": "LiLibraryBig",
   "english-watchlist": "LiClapperboard",
   "english-do-automatizma-course": "LiRepeat",
-
   "english-galaxy-titanium-course": "LiRocket",
   "english-galaxy-titanium-course/A0": "LiEgg",
   "english-galaxy-titanium-course/A1": "LiSprout",
@@ -48,7 +45,6 @@
   "english-galaxy-titanium-course/B1": "LiFlower2",
   "english-galaxy-titanium-course/B2": "LiTreePine",
   "english-galaxy-titanium-course/С1": "LiMountainSnow",
-
   "english-galaxy-turquoise-course": "LiGem",
   "english-galaxy-turquoise-course/A0": "LiEgg",
   "english-galaxy-turquoise-course/A1": "LiSprout",
@@ -56,7 +52,6 @@
   "english-galaxy-turquoise-course/B1": "LiFlower2",
   "english-galaxy-turquoise-course/B2": "LiTreePine",
   "english-galaxy-turquoise-course/C1": "LiMountainSnow",
-
   "grammar": "LiSpellCheck",
   "grammar/adjectives": "LiPalette",
   "grammar/articles-pronouns": "LiPilcrow",
@@ -73,7 +68,6 @@
   "grammar/speaking": "LiSpeech",
   "grammar/voices": "LiArrowRightLeft",
   "grammar/writing": "LiPenLine",
-
   "grammar/times": "LiClock",
   "grammar/times/additional": "LiTimer",
   "grammar/times/present-tenses": "LiPlay",
