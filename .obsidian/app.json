@@ -4,5 +4,7 @@
   "spellcheckDictionary": [
     "previou"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "livePreview": true
 }
