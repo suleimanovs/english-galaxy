@@ -22,4 +22,15 @@ On the one hand, this job seems very good but on the other hand it isn't exactly
 ---
 I'd like to point out - я хотел бы отметить, что...
 
-I'd like to point out that it is my perso
+I'd like to point out that it is my personal opinion.
+
+---
+I'm absolutely sure that - Я абсолютно уверен что
+
+I'm absolutely sure that, it is one of the most important things for us now.
+
+---
+
+In other words - другим словами 
+In other words I don't want to waste my time on it.
+
