@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9dee7bbaf0c71a26",
+        "id": "ab37bf04bf5b26dd",
         "type": "tabs",
         "children": [
           {
-            "id": "dd08ecac9f0d9132",
+            "id": "c23fd1624d5da7a0",
             "type": "leaf",
             "state": {
               "type": "mx-url",
@@ -45,17 +45,17 @@
         ]
       },
       {
-        "id": "384a5a68942274fa",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "43f9ad19afb07cf6",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "playlists/english-galaxy-turquoise-course/B2/Lesson 25 - Учимся говорить как носители языка - часть 1.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -245,7 +245,7 @@
       "media-extended:Open media quick switcher": false
     }
   },
-  "active": "dd08ecac9f0d9132",
+  "active": "c23fd1624d5da7a0",
   "lastOpenFiles": [
     "playlists/english-galaxy-turquoise-course/B2/Lesson 25 - Учимся говорить как носители языка - часть 1.md",
     "Home Page.md",

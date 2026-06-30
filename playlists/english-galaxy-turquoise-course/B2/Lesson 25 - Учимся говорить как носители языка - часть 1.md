@@ -46,6 +46,7 @@ What I mean is that we need to be as careful as possible
 
 ---
 
-What i want to say is that - Что я хочу сказать, так это то, что
+What I want to say is that - Что я хочу сказать, так это то, что
 
-What i want to say is that such things are often considered important but it isn't so in reality 
+What I want to say is that such things are often considered unimportant, although it isn't so in reality.
+

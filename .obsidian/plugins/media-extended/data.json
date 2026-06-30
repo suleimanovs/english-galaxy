@@ -1,4 +1,6 @@
 {
   "__VERSION__": 2,
-  "release.previous-version": "4.2.7"
+  "release.previous-version": "4.2.7",
+  "note.embed.load-strategy": "play",
+  "link.click-behavior": "split-left"
 }
