@@ -79,5 +79,10 @@ I tend to think that  -  Я склонен думать что
 I tend to think that hard work leads us to success.
 
 ---
-I absolutely agree with you 
-I totally share your point of vie
+I absolutely agree with you.
+I totally share your point of view
+It was really nice talking to you
+It is something unimaginable 
+
+---
+
