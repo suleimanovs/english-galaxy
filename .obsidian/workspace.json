@@ -4,11 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "9dee7bbaf0c71a26",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "dd08ecac9f0d9132",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "zgc5JVoyI28",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=zgc5JVoyI28"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    },
+                    "v": 1
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 25"
+            }
+          }
+        ]
+      },
+      {
+        "id": "384a5a68942274fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43f9ad19afb07cf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -199,13 +240,15 @@
       "terminal:Open terminal": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-livesync:Show Customization sync": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "media-extended:Open media library": false,
+      "media-extended:Open media quick switcher": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "43f9ad19afb07cf6",
   "lastOpenFiles": [
-    "Home Page.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 25 - Учимся говорить как носители языка - часть 1.md",
+    "Home Page.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 24 - Модальные глаголы в пассивном залоге.md",
     "playlists/english-do-automatizma-course/Lesson 1.md",
     "Setup.md",

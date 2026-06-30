@@ -17,4 +17,9 @@ As for as I'm concerned, I try to do it on a regular basis
 On the one hand,.. - C одной стороны
 On the other hand,.. - C другой стороны
 
-On the one hand, this job seems very good but in the other hand it isn't exactly what I really want
+On the one hand, this job seems very good but on the other hand it isn't exactly what I really want.
+
+---
+I'd like to point out - я хотел бы отметить, что...
+
+I'd like to point out that it is my perso
