@@ -11,7 +11,6 @@ As far as I'm concerned, I have another opinion
 As far as I'm concerned, I have another point of view on this issue 
 As for as I'm concerned, I try to do it on a regular basis
 
-
 ---
 
 On the one hand,.. - C одной стороны
@@ -34,3 +33,19 @@ I'm absolutely sure that, it is one of the most important things for us now.
 In other words - другим словами 
 In other words I don't want to waste my time on it.
 
+---
+For example /. For instance - например
+
+For instance, you can try to do something else 
+
+---
+
+What I mean is that - Что я имею в виду, так это то, что
+
+What I mean is that we need to be as careful as possible 
+
+---
+
+What i want to say is that - Что я хочу сказать, так это то, что
+
+What i want to say is that such things are often considered important but it isn't so in reality 
