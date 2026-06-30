@@ -67,3 +67,17 @@ Generally speaking it was beyond our expectations
 To be honest - Честно говоря
 
 To be honest I have always wanted to live there
+
+---
+To be frank -  откровенно говоря
+
+To be frank I have never thought about it 
+
+---
+I tend to think that  -  Я склонен думать что
+
+I tend to think that hard work leads us to success.
+
+---
+I absolutely agree with you 
+I totally share your point of vie
