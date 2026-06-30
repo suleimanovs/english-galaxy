@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english words/New.md",
+                "file": "playlists/english-galaxy-turquoise-course/B2/Lesson 25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "New"
+              "title": "Lesson 25"
             }
           }
         ]
@@ -190,8 +190,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -206,10 +206,6 @@
     "hiddenItems": {
       "zk-prefixer:Создать заметку с уникальным идентификатором": false,
       "audio-recorder:Начать/остановить запись": false,
-      "homepage:Open homepage": false,
-      "obsidian-livesync:P2P Replicator": false,
-      "obsidian-livesync:Show Log": false,
-      "obsidian-livesync:Replicate": false,
       "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
@@ -217,23 +213,30 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "workspaces:Пространства": false,
+      "obsidian-livesync:P2P Replicator": false,
+      "obsidian-livesync:Show Log": false,
+      "obsidian-livesync:Replicate": false,
+      "homepage:Open homepage": false,
       "better-recall:Open decks": false,
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
       "terminal:Open terminal": false,
-      "markdown-importer:Импорт Markdown-файлов": false,
-      "workspaces:Пространства": false,
-      "obsidian-livesync:Show Customization sync": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-livesync:Show Customization sync": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Backlog.md",
+    "playlists/english-do-automatizma-course/Lesson 1.md",
     "Home Page.md",
+    "Setup.md",
+    "english words/New.md",
+    "Backlog.md",
     "playlists/learn-5000-english-words/Lesson 26 (144-150).md",
     "grammar/times/Времена в английском.md",
-    "english words/New.md",
     "playlists/learn-5000-english-words/secrets.json",
     "playlists/learn-5000-english-words/word-tracker.csv",
     "playlists/learn-5000-english-words/Vocabulary Glossary.md",
@@ -255,8 +258,6 @@
     "playlists/learn-5000-english-words/Lesson 51.md",
     "playlists/learn-5000-english-words/Lesson 5(13-18).md",
     "playlists/learn-5000-english-words/Lesson 50.md",
-    "playlists/learn-5000-english-words/Lesson 49.md",
-    "playlists/learn-5000-english-words/Lesson 48.md",
     "playlists/learn-5000-english-words",
     "playlists/english-do-automatizma-course",
     "playlists/english-galaxy-turquoise-course/C1",
