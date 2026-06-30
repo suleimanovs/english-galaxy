@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "playlists/english-galaxy-turquoise-course/B2/Lesson 25.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5024719238281
+    "width": 283.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -190,8 +191,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -230,9 +231,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "playlists/english-galaxy-turquoise-course/B2/Lesson 24 - Модальные глаголы в пассивном залоге.md",
     "Home Page.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 25.md",
+    "playlists/english-galaxy-turquoise-course/B2/Lesson 24 - Модальные глаголы в пассивном залоге.md",
     "playlists/english-do-automatizma-course/Lesson 1.md",
     "Setup.md",
     "english words/New.md",
