@@ -50,3 +50,20 @@ What I want to say is that - Что я хочу сказать, так это т
 
 What I want to say is that such things are often considered unimportant, although it isn't so in reality.
 
+---
+
+From my point of view - с моей точки зрения
+
+From my point of view it is one of the main advantages of this method.
+
+---
+
+Generally speaking - Вообще говоря
+
+Generally speaking it was beyond our expectations 
+
+---
+
+To be honest - Честно говоря
+
+To be honest I have always wanted to live there
