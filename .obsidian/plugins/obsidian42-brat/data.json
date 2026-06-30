@@ -1,8 +1,13 @@
 {
   "pluginList": [
+    "aidenlx/media-extended",
     "vrtmrz/obsidian-livesync"
   ],
   "pluginSubListFrozenVersion": [
+    {
+      "repo": "aidenlx/media-extended",
+      "version": "4.2.5"
+    },
     {
       "repo": "vrtmrz/obsidian-livesync",
       "version": "0.25.43"
