@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "playlists/english-galaxy-turquoise-course/B2/Lesson 25.md",
+                "file": "playlists/english-galaxy-turquoise-course/B2/Lesson 25 - Учимся говорить как носители языка - часть 1.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 25"
+              "title": "Lesson 25 - Учимся говорить как носители языка - часть 1"
             }
           }
         ]
@@ -99,24 +90,6 @@
         "id": "ef9465f4e15e3d1c",
         "type": "tabs",
         "children": [
-          {
-            "id": "0d32dcfd4ed2577b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Обратные ссылки"
-            }
-          },
           {
             "id": "c2c6d8b2acd39dd0",
             "type": "leaf",
@@ -196,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -232,7 +205,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Home Page.md",
-    "playlists/english-galaxy-turquoise-course/B2/Lesson 25.md",
+    "playlists/english-galaxy-turquoise-course/B2/Lesson 25 - Учимся говорить как носители языка - часть 1.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 24 - Модальные глаголы в пассивном залоге.md",
     "playlists/english-do-automatizma-course/Lesson 1.md",
     "Setup.md",
