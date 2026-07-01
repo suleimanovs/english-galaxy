@@ -70,7 +70,7 @@ dv.paragraph(`
 
 ```dataviewjs
 (async () => {
-	const folder = app.vault.getAbstractFileByPath("learn-5000-english-words");
+	const folder = app.vault.getAbstractFileByPath("playlists/learn-5000-english-words");
 	if (!folder?.children) { dv.paragraph("Папка не найдена."); return; }
 
 	const files = folder.children

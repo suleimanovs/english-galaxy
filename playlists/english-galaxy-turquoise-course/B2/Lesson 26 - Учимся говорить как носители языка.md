@@ -69,3 +69,9 @@ As far as I know It isn't really so
 I would say that - Я бы сказал, что..
 
 I would say that it isn't good at all 
+
+---
+
+There is no doubt that - Нет никаких сомнений в том, что...
+
+There is no doubt that distance learning is becoming more and more popular nowadays.
