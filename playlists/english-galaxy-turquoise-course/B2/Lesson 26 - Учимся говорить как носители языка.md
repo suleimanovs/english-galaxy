@@ -50,8 +50,22 @@ My opinion is that - Мое мнение таково, что...
 My opinion is that this information is absolutely unreliable 
 
 ---
-As i understand - Как я понимаю, ...
-As i know -  Как я знаю
-As i see - Как я вижу
+As I understand - Как я понимаю, ...
+As I know -  Как я знаю
+As I see - Как я вижу
 
 As i understand that this work was done in vain
+As I see He does everything correctly 
+
+---
+As far as I understand - Насколько я понимаю
+As far as I know -  Насколько я знаю
+As far as I see - Насколько я вижу
+
+As far as I understand they overestimate their abilities  
+As far as I know It isn't really so
+
+---
+I would say that - Я бы сказал, что..
+
+I would say that it isn't good at all 
