@@ -16,7 +16,7 @@ const DECKS = [
   { id: 'phrasal_n',    name: 'EG — Phrasal Nouns',         file: 'phrasal-nouns-tracker.csv',         label: 'Phrasal Nouns',       fields: ['word','ipa','base_verb','translation','exportedAt','status','knownAt','s1','s2','s3','family','note'], frontKey: 'word', backKey: 'translation', tagPrefix: 'pn', extraFields: ['base_verb'] },
   { id: 'phrasal_v',    name: 'EG — Phrasal Verbs', file: 'phrasal-verbs-tracker.csv',  label: 'Phrasal Verbs',       fields: ['phrasal_verb','translation','exportedAt','status','knownAt','s1','s2','s3','note'], frontKey: 'phrasal_verb', backKey: 'translation', tagPrefix: 'pv' },
   { id: 'depprep',      name: 'EG — Dependent Prepositions', file: 'dependent-prepositions-tracker.csv', label: 'Dep. Prepositions', fields: ['phrase','type','translation','exportedAt','status','knownAt','s1','s2','s3','note'], frontKey: 'phrase', backKey: 'translation', tagPrefix: 'dp', extraFields: ['type'] },
-  { id: 'egw',          name: 'EG — All Words',              file: 'learn-5000-english-words/word-tracker.csv', label: 'All Words', fields: ['word','ipa','translation','filename','exportedAt','status','knownAt','s1','s2','s3','note'], frontKey: 'word', backKey: 'translation', tagPrefix: 'egw', absPath: true },
+  { id: 'egw',          name: 'EG — All Words',              file: 'playlists/learn-5000-english-words/word-tracker.csv', label: 'All Words', fields: ['word','ipa','translation','filename','exportedAt','status','knownAt','s1','s2','s3','note'], frontKey: 'word', backKey: 'translation', tagPrefix: 'egw', absPath: true },
   { id: 'vp',           name: 'EG — Verb Patterns',          file: 'verb-patterns-tracker.csv', label: 'Verb Patterns', fields: ['verb','ipa','pattern','hint','translation','exportedAt','status','knownAt','s1','s2','s3','family','note'], frontKey: 'verb', backKey: 'translation', tagPrefix: 'vp', extraFields: ['pattern'] },
   { id: 'syn',          name: 'EG — Synonym Chains',         file: 'synonym-chains-tracker.csv', label: 'Synonyms', fields: ['group','description','exportedAt','status','knownAt','s1','s2','s3','note'], frontKey: 'group', backKey: 'description', tagPrefix: 'syn' },
 ];
@@ -179,23 +179,23 @@ async function runExport(deck, log) {
   return tracker;
 }
 
-// ─── RESTORE RED IN LESSON (for EGW deck) ──────────────────────────────────
-const EGW_TARGET_COLOR = '#c0504d';
-const EGW_LESSON_FOLDER = 'learn-5000-english-words';
+// ─── RE-CHECK WORD IN LESSON (for EGW deck) ────────────────────────────────
+// Forgotten in Anki → re-check the checkbox: "[ ] word …" → "[x] word …"
+const EGW_LESSON_FOLDER = 'playlists/learn-5000-english-words';
 function escRegex(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
 async function restoreRedInLesson(filename, word, translation) {
   const fname = filename + (filename.endsWith('.md') ? '' : '.md');
   const filePath = EGW_LESSON_FOLDER + '/' + fname;
   const file = app.vault.getAbstractFileByPath(filePath);
   if (!file) return false;
-  const content = await app.vault.read(file);
-  const escWord = escRegex(word), escTrans = escRegex(translation);
-  const pattern = new RegExp(`(^|[^>])${escWord}\\s*-\\s*${escTrans}`, 'g');
-  const replacement = `$1<font color="${EGW_TARGET_COLOR}">${word} - ${translation}</font>`;
-  const updated = content.replace(pattern, replacement);
-  if (updated === content) return false;
-  await app.vault.modify(file, updated);
-  return true;
+  const lines = (await app.vault.read(file)).split('\n');
+  const re = new RegExp(`^(\\s*\\d+\\.\\s*)\\[ \\](\\s*(?:<font[^>]*>)?${escRegex(word)}\\b)`);
+  let changed = false;
+  for (let i = 0; i < lines.length; i++) {
+    if (re.test(lines[i])) { lines[i] = lines[i].replace('[ ]', '[x]'); changed = true; break; }
+  }
+  if (changed) await app.vault.modify(file, lines.join('\n'));
+  return changed;
 }
 
 // ─── SYNC ────────────────────────────────────────────────────────────────────

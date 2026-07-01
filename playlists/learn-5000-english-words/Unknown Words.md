@@ -149,7 +149,8 @@ async function saveTracker(tracker) {
 
 // ─── SCAN LESSONS ────────────────────────────────────────────────────────────
 async function scanUnknownWords() {
-  const COLOR = TARGET_COLOR.toLowerCase();
+  // Words to learn are marked with a checked checkbox: "NNNN. [x] word - translation".
+  // Unchecked "[ ]" = already known (not returned here).
   const results = [];
   for (const page of dv.pages(`"${FOLDER}"`)) {
     if (!/^lesson/i.test(page.file.name)) continue;
@@ -157,15 +158,13 @@ async function scanUnknownWords() {
     if (!file) continue;
     const lines = (await app.vault.read(file)).split('\n');
     lines.forEach(line => {
-      const re = /<font\s+color=["'](#?[0-9a-fA-F]{6})["'][^>]*>(.*?)<\/font>/gi;
-      let m;
-      while ((m = re.exec(line)) !== null) {
-        const color = m[1].startsWith('#') ? m[1].toLowerCase() : `#${m[1].toLowerCase()}`;
-        if (color !== COLOR) continue;
-        const parts = m[2].trim().match(/^(.+?)\s*-\s*(.+)$/);
-        if (!parts) continue;
-        results.push({ word: parts[1].trim(), translation: parts[2].trim(), filename: page.file.name, filePath: page.file.path });
-      }
+      const m = line.match(/^\s*\d+\.\s*\[[xX]\]\s*(.+?)\s*$/);
+      if (!m) return;
+      const body = m[1].replace(/<\/?font[^>]*>/gi, '').trim();
+      const parts = body.match(/^(.+?)\s*[-–]\s*(.+)$/);
+      const word = (parts ? parts[1] : body).trim();
+      const translation = parts ? parts[2].trim() : '';
+      if (word) results.push({ word, translation, filename: page.file.name, filePath: page.file.path });
     });
   }
   return results;
@@ -179,7 +178,7 @@ function filterNewWords(unknownWords, tracker) {
 function renderNewWordsTable(container, newWords) {
   container.innerHTML = '';
   if (newWords.length === 0) {
-    container.createEl('p', { text: 'Все красные слова из уроков уже в Anki.', attr: { style: 'color:#5cb85c;font-weight:bold;margin:8px 0' } });
+    container.createEl('p', { text: 'Все отмеченные слова из уроков уже в Anki.', attr: { style: 'color:#5cb85c;font-weight:bold;margin:8px 0' } });
     return;
   }
   const table = container.createEl('table', { attr: { style: 'width:100%;border-collapse:collapse' } });
@@ -199,33 +198,33 @@ function renderNewWordsTable(container, newWords) {
 
 // ─── MARK AS KNOWN IN LESSON FILE ────────────────────────────────────────────
 function esc(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
+// Learned → uncheck the checkbox: "[x] word …" → "[ ] word …"
 async function markAsKnown(filePath, word, translation) {
   const file = app.vault.getAbstractFileByPath(filePath);
   if (!file) return false;
-  const content = await app.vault.read(file);
-  const pattern = new RegExp(
-    `<font\\s+color=["']${esc(TARGET_COLOR)}["'][^>]*>${esc(word)}\\s*-\\s*${esc(translation)}<\\/font>`, 'gi'
-  );
-  const updated = content.replace(pattern, `${word} - ${translation}`);
-  if (updated === content) return false;
-  await app.vault.modify(file, updated);
-  return true;
+  const lines = (await app.vault.read(file)).split('\n');
+  const re = new RegExp(`^(\\s*\\d+\\.\\s*)\\[[xX]\\](\\s*(?:<font[^>]*>)?${esc(word)}\\b)`);
+  let changed = false;
+  for (let i = 0; i < lines.length; i++) {
+    if (re.test(lines[i])) { lines[i] = lines[i].replace(/\[[xX]\]/, '[ ]'); changed = true; break; }
+  }
+  if (changed) await app.vault.modify(file, lines.join('\n'));
+  return changed;
 }
 
-// Restore red color when word is forgotten in Anki
+// Forgotten in Anki → re-check the checkbox: "[ ] word …" → "[x] word …"
 async function markAsForgotten(filename, word, translation) {
   const filePath = FOLDER + '/' + filename + (filename.endsWith('.md') ? '' : '.md');
   const file = app.vault.getAbstractFileByPath(filePath);
   if (!file) return false;
-  const content = await app.vault.read(file);
-  const escWord = esc(word), escTrans = esc(translation);
-  // Match "word - translation" only when NOT preceded by ">" (which would indicate it's inside a tag)
-  const pattern = new RegExp(`(^|[^>])${escWord}\\s*-\\s*${escTrans}`, 'g');
-  const replacement = `$1<font color="${TARGET_COLOR}">${word} - ${translation}</font>`;
-  const updated = content.replace(pattern, replacement);
-  if (updated === content) return false;
-  await app.vault.modify(file, updated);
-  return true;
+  const lines = (await app.vault.read(file)).split('\n');
+  const re = new RegExp(`^(\\s*\\d+\\.\\s*)\\[ \\](\\s*(?:<font[^>]*>)?${esc(word)}\\b)`);
+  let changed = false;
+  for (let i = 0; i < lines.length; i++) {
+    if (re.test(lines[i])) { lines[i] = lines[i].replace('[ ]', '[x]'); changed = true; break; }
+  }
+  if (changed) await app.vault.modify(file, lines.join('\n'));
+  return changed;
 }
 
 // ─── AUDIO ──────────────────────────────────────────────────────────────────
@@ -239,8 +238,8 @@ async function downloadAndAttachAudio(word, noteId) {
     });
     const audioData = res.arrayBuffer;
     if (audioData.byteLength < 100) return;
-    // Save locally
-    const audioFolder = FOLDER + '/../english words/anki/audio';
+    // Save locally (absolute vault path — audio lives at repo root, not under playlists/)
+    const audioFolder = 'english words/anki/audio';
     const audioPath = audioFolder + '/' + filename;
     const existing = app.vault.getAbstractFileByPath(audioPath);
     if (!existing) {
