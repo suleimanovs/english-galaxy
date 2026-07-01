@@ -40,4 +40,18 @@ It goes without saying that you can buy it much more cheaply online
 
 I firmly believe that - Я твердо верю что
 
-I firmly believe that one day this dream 
+I firmly believe that one day this dream will come true
+I firmly believe that a lot depends on us 
+
+---
+
+My opinion is that - Мое мнение таково, что...
+
+My opinion is that this information is absolutely unreliable 
+
+---
+As i understand - Как я понимаю, ...
+As i know -  Как я знаю
+As i see - Как я вижу
+
+As i understand that this work was done in vain
