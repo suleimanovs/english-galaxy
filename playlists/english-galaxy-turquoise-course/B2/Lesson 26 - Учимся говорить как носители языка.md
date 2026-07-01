@@ -27,4 +27,17 @@ I sincerely hope that - Я искренне надеюсь что...
 I sincerely hope that you will manage to solve this problem
 
 ---
-It appears to me that -
+It appears to me  -  Мне видится/кажется что
+
+It appears to me that there is a way out of this situation
+
+---
+It goes without saying that... - Само собой разумеется, что
+
+It goes without saying that you can buy it much more cheaply online
+
+---
+
+I firmly believe that - Я твердо верю что
+
+I firmly believe that one day this dream 
