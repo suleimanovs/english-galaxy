@@ -40,4 +40,17 @@
 2374. [x] loyal - лоялный
 2375. [ ] period - период
 2376. [ ] physically - физический
-2377. [ ] precious 
+2377. [x] precious - драгоченный
+2378. [ ] principle - принцип
+2379. [x] rapid - быстрый
+2380. [ ] relation - связь, отношение
+2381. [ ] stability - стабильность
+2382. [ ] unstable - нестабильный
+2383. [x] annual - ежегодный
+2384. [x] appropritate - соотвествубщий
+2385. [ ] cultural - культурный
+2386. [x] curly - кудрявый
+2387. [ ] dreadful - ужасный
+2388. [ ] enverionmental - касающийся окружающей среды
+2389. [x] especially - особенно
+2390. [ ] exceed - 
