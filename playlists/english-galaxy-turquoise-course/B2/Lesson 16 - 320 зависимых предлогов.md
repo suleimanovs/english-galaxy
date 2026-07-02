@@ -1,4 +1,4 @@
-**Уровень:** B2 · **Дата изучения:** — · **Видео:** [YouTube](https://www.youtube.com/watch?v=Hk3er4kpvMo)
+**Уровень:** B2 · **Дата изучения:** 10.05.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=Hk3er4kpvMo)
 
 ---
 
