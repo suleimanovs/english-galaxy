@@ -4,6 +4,47 @@
     "type": "split",
     "children": [
       {
+        "id": "6cc792aab62d09ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7d34f2a544f5a4e",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "eAKAlMLr8QE",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=eAKAlMLr8QE"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    },
+                    "v": 1
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "YouTube - eAKAlMLr8QE"
+            }
+          }
+        ]
+      },
+      {
         "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
@@ -13,13 +54,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "playlists/learn-5000-english-words/Lesson 29 (167-176).md",
-                "mode": "preview",
+                "file": "playlists/learn-5000-english-words/Lesson 30.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 29 (167-176)"
+              "title": "Lesson 30"
             }
           }
         ]
@@ -79,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5024719238281
+    "width": 283.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -172,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5
+    "width": 509.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,7 +245,7 @@
       "media-extended:Open media quick switcher": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d7d34f2a544f5a4e",
   "lastOpenFiles": [
     "playlists/learn-5000-english-words/Lesson 30.md",
     "playlists/learn-5000-english-words/Lesson 29 (167-176).md",
