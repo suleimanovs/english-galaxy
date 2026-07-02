@@ -29,5 +29,15 @@
 2363. [x] inevitable - неизбежный
 2364. [ ] player - игрок
 2365. [x] snickers - кроссовки
-2366. [x] artificial - искусственный 
-2367. [ ] 
+2366. [ ] artificial - искусственный 
+2367. [ ] courages - отважный
+2368. [ ] electronic - электронный
+2369. [ ] exit - выход
+2370. [x] foolish - глупый, дурацкий
+2371. [ ] gadget - гаджет
+2372. [ ] historical - исторический
+2373. [ ] immediate - немедленный
+2374. [x] loyal - лоялный
+2375. [ ] period - период
+2376. [ ] physically - физический
+2377. [ ] precious 
