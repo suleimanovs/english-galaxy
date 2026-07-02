@@ -53,4 +53,22 @@
 2387. [ ] dreadful - ужасный
 2388. [ ] enverionmental - касающийся окружающей среды
 2389. [x] especially - особенно
-2390. [ ] exceed - 
+2390. [x] exceed - превосходить
+2391. [ ] expectation - ожидание
+2392. [x] flavour - аромат
+2393. [x] heritage - наследие
+2394. [ ] impression - впечатление
+2395. [ ] impresdive - впетляющий
+2396. [ ] maximum - максимальнй
+2397. [x] modest - срокмный
+2398. [ ] olf-fashioned - старомодный
+2399. [ ] per cent - проценты
+2400. [ ] productive - продуктивный
+2401. [ ] punctual - пунктуальный
+2402. [x] relatively - относительно
+2403. [ ] surface - поверхность
+2404. [ ] surprisingly - удитвительно
+2405. [x] tidy - аккуратный
+2406. [x] turnover - оборот
+2407. [x] the United Nations - Объеденные наций
+2408. [x] unlikely - маловерятно
