@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "12021beedbcd26e2",
+        "id": "95459222190c7c40",
         "type": "tabs",
-        "dimension": 49.702541914548405,
+        "dimension": 50,
         "children": [
           {
-            "id": "955cc6f1c9afe9c4",
+            "id": "5f9d54bfc0546fd8",
             "type": "leaf",
             "state": {
               "type": "mx-url",
@@ -20,12 +20,12 @@
                       "type": "url:hosted",
                       "vid": {
                         "host": "youtube",
-                        "vid": "mepdxODbQXw",
+                        "vid": "fzfeFKrpEQE",
                         "t": null,
                         "start": null,
                         "end": null
                       },
-                      "url": "https://www.youtube.com/watch?v=mepdxODbQXw"
+                      "url": "https://www.youtube.com/watch?v=fzfeFKrpEQE"
                     },
                     "hash": {}
                   },
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 27"
+              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 31"
             }
           }
         ]
@@ -48,7 +48,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 50.297458085451595,
+        "dimension": 50,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -56,13 +56,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "playlists/english-galaxy-turquoise-course/B2/Lesson 27 - Учимся говорить как носители языка часть 3.md",
+                "file": "playlists/learn-5000-english-words/Lesson 31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 27 - Учимся говорить как носители языка часть 3"
+              "title": "Lesson 31"
             }
           }
         ]
@@ -122,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5024719238281,
-    "collapsed": true
+    "width": 283.5024719238281
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -247,8 +246,9 @@
       "media-extended:Open media quick switcher": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5f9d54bfc0546fd8",
   "lastOpenFiles": [
+    "playlists/learn-5000-english-words/Lesson 31.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 27 - Учимся говорить как носители языка часть 3.md",
     "Home Page.md",
     "playlists/learn-5000-english-words/Lesson 30 (177-183).md",
@@ -284,7 +284,6 @@
     "playlists/learn-5000-english-words/Lesson 59.md",
     "playlists/learn-5000-english-words/Lesson 58.md",
     "playlists/learn-5000-english-words/Lesson 57.md",
-    "playlists/learn-5000-english-words/Lesson 56.md",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]

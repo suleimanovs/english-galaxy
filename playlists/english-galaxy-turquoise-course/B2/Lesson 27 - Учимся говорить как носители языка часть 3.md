@@ -61,7 +61,7 @@ Briefly it didn't live up to my expectations
 ---
 Shortly - В кратце 
 
-Shortly i managed to get this job 
+Shortly I managed to get this job 
 
 ---
 In short, - Короче говоря
@@ -71,7 +71,7 @@ In short everything went very well
 ---
 In brief, - Короче говоря
 
-In brief i couldn't believe my eyes
+In brief I couldn't believe my eyes
 
 ---
 
@@ -95,3 +95,19 @@ However, we didn't follow this advice
 Nevertheless - Тем не менее,
 
 Nevertheless, it does great harm to our health 
+
+---
+
+I have to say that - Я должен сказать , что
+
+I have to say that it was my first experience.
+
+---
+
+On the whole - В целом,
+
+On the whole it lived up to my expectations 
+On the whole it is a brilliant idea.
+
+---
+
