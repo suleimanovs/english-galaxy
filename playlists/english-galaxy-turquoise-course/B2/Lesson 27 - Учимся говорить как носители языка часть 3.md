@@ -58,3 +58,28 @@ Briefly, - Вкратце
 
 Briefly it didn't live up to my expectations 
 
+---
+Shortly - В кратце 
+
+Shortly i managed to get this job 
+
+---
+In short, - Короче говоря
+
+In short everything went very well
+
+---
+In brief, - Короче говоря
+
+In brief i couldn't believe my eyes
+
+---
+
+To be short, - Если быть кратким
+
+To be short, no one expected it.
+
+---
+
+To be brief -  Если быть кратким
+
