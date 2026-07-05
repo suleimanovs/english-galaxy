@@ -17,4 +17,25 @@ In reality, these rules are often ignored.
 
 On the contrary, - напротив/ наоборот
 
-On the contrary, I have a positive relation to it 
+On the contrary, I have a positive attitude towards it.
+
+---
+I'd like to add that -  Я хотел бы длбавить что 
+
+I'd like to add that it concerns each of us.
+
+---
+
+Fortunately^ - К счасчтью
+
+Fortunately no one suffered
+
+---
+Unfortunately - К несчастью/ К сожалению
+
+Unfortunately they had to cancel this trip
+
+---
+Luckily - К счастью
+
+Luckily the building 
