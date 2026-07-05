@@ -38,4 +38,23 @@ Unfortunately they had to cancel this trip
 ---
 Luckily - К счастью
 
-Luckily the building 
+Luckily the damage to the building wasn't serious 
+
+---
+
+Unluckily - К несчастью
+
+Unluckily, it didn't go as it was planned.
+
+---
+Generally speaking - Вообще говоря
+Generally - В общем
+
+Generally, the trip was fantastic.
+
+---
+
+Briefly, - Вкратце
+
+Briefly it didn't live up to my expectations 
+
