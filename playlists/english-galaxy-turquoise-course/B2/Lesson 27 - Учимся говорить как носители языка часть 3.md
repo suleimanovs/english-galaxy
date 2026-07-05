@@ -83,3 +83,15 @@ To be short, no one expected it.
 
 To be brief -  Если быть кратким
 
+To be brief, it was an unforgettable party 
+
+---
+However - Однако 
+
+However, we didn't follow this advice
+
+---
+
+Nevertheless - Тем не менее,
+
+Nevertheless, it does great harm to our health 
