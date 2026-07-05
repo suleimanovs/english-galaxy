@@ -36834,3 +36834,5 @@ var PixelBannerPlugin = class extends import_obsidian31.Plugin {
 
 // src/main.js
 var main_default = PixelBannerPlugin;
+
+/* nosourcemap */

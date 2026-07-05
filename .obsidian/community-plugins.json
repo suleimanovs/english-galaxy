@@ -1,4 +1,5 @@
 [
+  "media-extended",
   "obsidian-livesync",
   "obsidian-languagetool-plugin",
   "obsidian-style-settings",
@@ -12,6 +13,5 @@
   "obsidian-git",
   "editing-toolbar",
   "obsidian-icon-folder",
-  "pexels-banner",
-  "media-extended"
+  "pexels-banner"
 ]
