@@ -242,7 +242,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 737.5
+    "width": 737.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,7 +278,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "1b1be49d8d171a57",
+  "active": "d836ffd4d75d0d48",
   "lastOpenFiles": [
     "playlists/english-galaxy-turquoise-course/B2/Lesson 28 - учимся говорить как носители языка часть 4.md",
     "english words/anki/audio/eg_waist.mp3",

@@ -35,3 +35,13 @@ My idea is that we need to check it one more time
 My opinion is that -
 
 My opinion is that it is his personal choice 
+
+---
+
+Frankly speaking - откровенно говоря
+
+Frankly speaking i'm not ready for it right now 
+
+---
+
+I'd really like to say that  - Я бы дейсвительнро хотел бы сказать что это сто
