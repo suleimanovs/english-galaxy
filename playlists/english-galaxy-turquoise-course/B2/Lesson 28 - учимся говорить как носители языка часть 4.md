@@ -22,4 +22,16 @@ You know, it is extremely important to speak English on a regular basis.
 
 Anyway -  В любом случае
 
-Anyway I f
+Anyway I find it rather difficult
+
+---
+
+My idea is that - 
+
+My idea is that we need to check it one more time 
+
+---
+
+My opinion is that -
+
+My opinion is that it is his personal choice 

@@ -223,8 +223,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
             }
           },
           {
@@ -238,12 +238,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 737.5,
-    "collapsed": true
+    "width": 737.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -278,20 +277,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0b0db340b41769a4",
+  "active": "1b1be49d8d171a57",
   "lastOpenFiles": [
-    "english words/anki/audio/eg_heater.mp3",
-    "english words/anki/audio/eg_electrical.mp3",
-    "english words/anki/audio/eg_gifted.mp3",
-    "english words/anki/audio/eg_extraordinary.mp3",
-    "english words/anki/audio/eg_current.mp3",
-    "english words/anki/audio/eg_contradict.mp3",
-    "english words/anki/audio/eg_buyer.mp3",
-    "english words/anki/audio/eg_border.mp3",
-    "english words/anki/audio/eg_belief.mp3",
-    "english words/anki/audio/eg_skillful.mp3",
-    "english words/anki/audio/eg_sharp.mp3",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 28 - учимся говорить как носители языка часть 4.md",
+    "english words/anki/audio/eg_waist.mp3",
+    "english words/anki/audio/eg_state.mp3",
+    "english words/anki/audio/eg_square.mp3",
+    "english words/anki/audio/eg_row.mp3",
+    "english words/anki/audio/eg_philosophical.mp3",
+    "english words/anki/audio/eg_pale.mp3",
+    "english words/anki/audio/eg_overtime.mp3",
+    "english words/anki/audio/eg_objective.mp3",
+    "english words/anki/audio/eg_naive.mp3",
+    "english words/anki/audio/eg_meter.mp3",
     "Home Page.md",
     "playlists/learn-5000-english-words/Lesson 31 (184-188).md",
     "conflict-files-obsidian-git.md",
