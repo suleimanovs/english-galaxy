@@ -4,7 +4,7 @@
 ---
 Moreover, - Кроме того, более того
 
-Moreover it takes plenty of time.
+Moreover, it takes plenty of time.
 
 ---
 
@@ -65,4 +65,21 @@ I come to the conclusion that it is the best thing for me
 
 ---
 
-If you ask my opinion - Если ты сп
+If you ask my opinion - Если ты спрашиваешь мое мнение
+
+If you ask my opinion they play against the rules 
+
+---
+
+In addition - В добавок, Кроме того
+
+In addition, they can ask more money for this service 
+
+---
+
+In addition to it - В дополнений к этому
+
+In addition to it, you can  lose this money completely 
+
+---
+
