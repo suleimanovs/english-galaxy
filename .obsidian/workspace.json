@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3633bce632c766a5",
+        "id": "43d7aeafab5a81ec",
         "type": "tabs",
         "children": [
           {
-            "id": "c8e91bbee734c6f7",
+            "id": "f1b08edd51a9dca6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -155,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "learn-5000-english-words/Unknown Words.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Сноски"
             }
@@ -178,17 +176,25 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
+            }
+          },
+          {
+            "id": "9744e2dbed941825",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 509.5,
-    "collapsed": true
+    "width": 737.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,11 +227,13 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "6fc422490737c0b3",
+  "active": "f1b08edd51a9dca6",
   "lastOpenFiles": [
+    "media-lib/index.base",
+    "media-lib",
+    "english words/New.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 16 - 320 зависимых предлогов.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 9 - 320 зависимых предлогов.md",
-    "english words/New.md",
     "playlists/learn-5000-english-words/Lesson 31 (184-188).md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 27 - Учимся говорить как носители языка часть 3.md",
     "Home Page.md",
@@ -239,7 +247,6 @@
     "english words/anki/audio/eg_relatively.mp3",
     "english words/anki/audio/eg_punctual.mp3",
     "english words/anki/audio/eg_productive.mp3",
-    "english words/anki/audio/eg_per_cent.mp3",
     "playlists/learn-5000-english-words/Lesson 29 (167-176).md",
     "playlists/learn-5000-english-words/Unknown Words.md",
     "playlists/learn-5000-english-words/Vocabulary Glossary.md",
@@ -258,7 +265,6 @@
     "playlists/learn-5000-english-words/Lesson 61.md",
     "playlists/learn-5000-english-words/Lesson 60.md",
     "playlists/learn-5000-english-words/Lesson 6(19-23).md",
-    "playlists/learn-5000-english-words/Lesson 59.md",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]

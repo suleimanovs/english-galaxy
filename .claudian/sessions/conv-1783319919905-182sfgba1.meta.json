@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783319919905-182sfgba1",
+  "providerId": "claude",
+  "title": "Await instructions",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783319919906,
+  "updatedAt": 1783319985108,
+  "lastResponseAt": 1783319985108,
+  "sessionId": "5e0d0e16-77c3-4083-8e77-2ee24789b897",
+  "providerState": {
+    "providerSessionId": "5e0d0e16-77c3-4083-8e77-2ee24789b897"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 450,
+    "cacheReadInputTokens": 25263,
+    "contextWindow": 200000,
+    "contextTokens": 25721,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}
