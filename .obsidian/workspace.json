@@ -117,8 +117,19 @@
               "icon": "lucide-bookmark",
               "title": "Закладки"
             }
+          },
+          {
+            "id": "f9d0ef617464bc22",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -209,9 +220,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "02a68c6f1606ebfe",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -243,10 +264,13 @@
       "obsidian-livesync:Show Customization sync": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "media-extended:Open media library": false,
-      "media-extended:Open media quick switcher": false
+      "media-extended:Open media quick switcher": false,
+      "realclaudian:Open Claudian": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "02a68c6f1606ebfe",
   "lastOpenFiles": [
     "playlists/learn-5000-english-words/Lesson 31 (184-188).md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 27 - Учимся говорить как носители языка часть 3.md",
