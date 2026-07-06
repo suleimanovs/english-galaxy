@@ -111,7 +111,7 @@
     "file": null,
     "createMissingPeriodicNote": true
   },
-  "dualPane": true,
+  "dualPane": false,
   "dualPaneOrientation": "horizontal",
   "narrowSidebarLayout": "singlePane",
   "narrowSidebarTriggerMode": "fitPanes",
