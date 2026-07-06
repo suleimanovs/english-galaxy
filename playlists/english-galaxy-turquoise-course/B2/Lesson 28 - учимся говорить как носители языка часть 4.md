@@ -44,4 +44,10 @@ Frankly speaking i'm not ready for it right now
 
 ---
 
-I'd really like to say that  - Я бы дейсвительнро хотел бы сказать что это сто
+I'd really like to say that  - Я бы дейсвительнро хотел бы сказать 
+
+I'd really like to say that it is worth doing
+
+---
+ Last but not least - Последнее, но не менее важное
+Last but not least we need more information to understand it 
