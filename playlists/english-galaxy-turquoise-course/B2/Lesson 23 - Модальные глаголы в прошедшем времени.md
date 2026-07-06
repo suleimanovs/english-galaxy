@@ -1,70 +1,69 @@
-**Дата изучения:** 20.06.2026
-**Видео:** https://www.youtube.com/watch?v=wWUQ7eMZ9gA
+**Уровень:** B2 · **Дата изучения:** 20.06.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=wWUQ7eMZ9gA)
 
 ---
 
-<font color="#9bbb59">could have done</font>(<font color="#d83931">v3</font>) - мог бы сделать что-то
+##### could have done (+ V3) — мог бы сделать что-то
 
-He <u>could have corrected</u> it yesterday 
-It seems to me that you could have passed this test.
-
----
-
-<font color="#548dd4">must have done</font>(<font color="#d83931">v3</font>) - должно быть, сделал что-то
-
-I <u>must have left</u> my keys at home.
-He <u>must have forgotten</u> to send you a copy of this file.
-It <u>must have been </u>something unforgettable
+- He <font color="#10b981">**could have corrected**</font> it yesterday.
+- It seems to me that you <font color="#10b981">**could have passed**</font> this test.
 
 ---
 
-<font color="#f79646">should have done</font>(<font color="#d83931">v3</font>) - следовало сделать что-то
+##### must have done (+ V3) — должно быть, сделал что-то
 
-I should have done it earlier 
-I shouldn't have said it.
-I shouldn't have missed such a unique opportunity.
-
----
-
-<font color="#b2a2c7">ought to have done</font> - следовало сделать что-то
-
-They ought to have taken some measures.
-He ought to have read this document before signing it 
+- I <font color="#10b981">**must have left**</font> my keys at home.
+- He <font color="#10b981">**must have forgotten**</font> to send you a copy of this file.
+- It <font color="#10b981">**must have been**</font> something unforgettable.
 
 ---
 
-<font color="#d99694">may / might have done something</font> - возможно сделал что-то
+##### should have done (+ V3) — следовало сделать что-то
 
-I may have made a mistake.
-She might have come back.
-It might have already happened.
-She may have got stuck in a traffic jam
-
----
-
-didn't need to - не нужно было что-то(этого и не делали)
-
-You didn't need to spend so much time on it.
-I didn't need to get up so early.
+- I <font color="#10b981">**should have done**</font> it earlier.
+- I <font color="#10b981">**shouldn't have said**</font> it.
+- I <font color="#10b981">**shouldn't have missed**</font> such a unique opportunity.
 
 ---
 
-needn't have done - не нужно было делать что-то(но это сделали)
+##### ought to have done (+ V3) — следовало сделать что-то
 
-She needn't have cooked so much food because just a few guests came.
-You needn't have bought it.
-You needn't have worried about it so much. 
-
----
-
-had to - пришлось, должен был
-
-I had to get up very early yesterday. 
+- They <font color="#10b981">**ought to have taken**</font> some measures.
+- He <font color="#10b981">**ought to have read**</font> this document before signing it.
 
 ---
 
-would have done - сделал бы(в прошлом)
+##### may / might have done — возможно, сделал что-то
 
-I would do it in your place.
-I would have done it yesterday in your place.
-I would have done it much earlier but unfortunately it wasn't possible 
+- I <font color="#10b981">**may have made**</font> a mistake.
+- She <font color="#10b981">**might have come**</font> back.
+- It <font color="#10b981">**might have**</font> already <font color="#10b981">**happened**</font>.
+- She <font color="#10b981">**may have got**</font> stuck in a traffic jam.
+
+---
+
+##### didn't need to — не нужно было что-то (этого и не делали)
+
+- You <font color="#10b981">**didn't need to**</font> spend so much time on it.
+- I <font color="#10b981">**didn't need to**</font> get up so early.
+
+---
+
+##### needn't have done — не нужно было делать что-то (но это сделали)
+
+- She <font color="#10b981">**needn't have cooked**</font> so much food because just a few guests came.
+- You <font color="#10b981">**needn't have bought**</font> it.
+- You <font color="#10b981">**needn't have worried**</font> about it so much.
+
+---
+
+##### had to — пришлось, должен был
+
+- I <font color="#10b981">**had to**</font> get up very early yesterday.
+
+---
+
+##### would have done — сделал бы (в прошлом)
+
+- I <font color="#10b981">**would do**</font> it in your place.
+- I <font color="#10b981">**would have done**</font> it yesterday in your place.
+- I <font color="#10b981">**would have done**</font> it much earlier, but unfortunately it wasn't possible.

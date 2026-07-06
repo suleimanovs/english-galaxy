@@ -1,59 +1,63 @@
-**Дата изучения:** 24.06.2026
-**Видео:** https://www.youtube.com/watch?v=VsG1IrhvqVw
+**Уровень:** B2 · **Дата изучения:** 24.06.2026 · **Видео:** [YouTube](https://www.youtube.com/watch?v=VsG1IrhvqVw)
 
 ---
 
-must be done - должно быть сделано
+##### must be done — должно быть сделано
 
-It must be done urgently.
-These mistakes must be corrected.
-These documents must be signed.
-
---- 
-have / has + to be done - должно быть сделано
-
-It has to be done.
-It has to be done today
+- It <font color="#10b981">**must be done**</font> urgently.
+- These mistakes <font color="#10b981">**must be corrected**</font>.
+- These documents <font color="#10b981">**must be signed**</font>.
 
 ---
-need to be done - нужно сделать
 
-It needs to be seen.
-It needs to be corrected.
-These questions need to be answered.
-This problem needs to be solved as soon as possible.
-It needs to be said.
-It needs to be changed
-It needs to be done today.
+##### have / has + to be done — должно быть сделано
+
+- It <font color="#10b981">**has to be done**</font>.
+- It <font color="#10b981">**has to be done**</font> today.
 
 ---
-can be done - может быть сделано
 
-It can be seen now 
-It can be done later.
-What can be done to improve this situation?
-It can't be done.
+##### need to be done — нужно сделать
 
----
-should be done - следует сделать
-
-He should be told about this problem.
-It should be noted that these figures are quite accurate.
-It should be done as soon as possible.
-It should be noted that there are some alternatives to this decision.
-It should be noted that this thing is of great importance.
+- It <font color="#10b981">**needs to be seen**</font>.
+- It <font color="#10b981">**needs to be corrected**</font>.
+- These questions <font color="#10b981">**need to be answered**</font>.
+- This problem <font color="#10b981">**needs to be solved**</font> as soon as possible.
+- It <font color="#10b981">**needs to be said**</font>.
+- It <font color="#10b981">**needs to be changed**</font>.
+- It <font color="#10b981">**needs to be done**</font> today.
 
 ---
-ought to be done - следует сделать
 
-It ought to be done according to these rules.
+##### can be done — может быть сделано
 
-This budget ought to be spent more rationally
+- It <font color="#10b981">**can be seen**</font> now.
+- It <font color="#10b981">**can be done**</font> later.
+- What <font color="#10b981">**can be done**</font> to improve this situation?
+- It <font color="#10b981">**can't be done**</font>.
 
 ---
-may / might+ be done  - возможно будет сделано
 
-He may be seen there
-It may not be noticed 
-This house might be sold this year
-It might be corrected.
+##### should be done — следует сделать
+
+- He <font color="#10b981">**should be told**</font> about this problem.
+- It <font color="#10b981">**should be noted**</font> that these figures are quite accurate.
+- It <font color="#10b981">**should be done**</font> as soon as possible.
+- It <font color="#10b981">**should be noted**</font> that there are some alternatives to this decision.
+- It <font color="#10b981">**should be noted**</font> that this thing is of great importance.
+
+---
+
+##### ought to be done — следует сделать
+
+- It <font color="#10b981">**ought to be done**</font> according to these rules.
+- This budget <font color="#10b981">**ought to be spent**</font> more rationally.
+
+---
+
+##### may / might + be done — возможно, будет сделано
+
+- He <font color="#10b981">**may be seen**</font> there.
+- It <font color="#10b981">**may not be noticed**</font>.
+- This house <font color="#10b981">**might be sold**</font> this year.
+- It <font color="#10b981">**might be corrected**</font>.
