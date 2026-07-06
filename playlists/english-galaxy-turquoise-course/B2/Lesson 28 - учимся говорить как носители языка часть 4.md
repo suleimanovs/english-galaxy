@@ -50,4 +50,19 @@ I'd really like to say that it is worth doing
 
 ---
  Last but not least - Последнее, но не менее важное
-Last but not least we need more information to understand it 
+Last but not least we need to have more information to understand it 
+
+---
+I perfectly realise that - 
+
+I perfectly realise that we can't miss such a unique chance 
+
+---
+
+I come to the conclusion that - 
+
+I come to the conclusion that it is the best thing for me 
+
+---
+
+If you ask my opinion - Если ты сп
