@@ -9,7 +9,7 @@ I also have to say that we get more knowledgeable when we read this kind of book
 
 ---
 
-Really,... - Действительно
+Really, ... - Действительно
 
 Really, it is very easy to say it 
 
@@ -51,7 +51,7 @@ So, let's sum it up
 
 ---
 
-Of course -  Конечно
+Of course - Конечно
 
 Of course, I'm not surprised to hear it 
 
@@ -59,6 +59,21 @@ Of course, I'm not surprised to hear it
 
 Certainly, - Конечно
 
-Certainly, there `some advantages and dissadvatages
+Certainly, there are some advantages and disadvantages of this job
 
 ---
+
+Actually - На самом деле
+
+Actually , it isn't so easy sometimes
+Actually it is my greatest dream to visit this place which can seem a real paradise 
+
+---
+
+I really doubt that - Я дейсвительно сомневаюсь что
+
+I really doubt that it will happen again
+
+---
+
+As we all know - 
