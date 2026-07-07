@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55a271713c510354",
+        "id": "a816b16a9a5338a9",
         "type": "tabs",
         "children": [
           {
-            "id": "292bb93fabf28b63",
+            "id": "6f51fb46bb920bd6",
             "type": "leaf",
             "state": {
               "type": "mx-url",
@@ -19,12 +19,12 @@
                       "type": "url:hosted",
                       "vid": {
                         "host": "youtube",
-                        "vid": "F4N5yxB6_Zs",
+                        "vid": "6qOhpB6S34E",
                         "t": null,
                         "start": null,
                         "end": null
                       },
-                      "url": "https://www.youtube.com/watch?v=F4N5yxB6_Zs"
+                      "url": "https://www.youtube.com/watch?v=6qOhpB6S34E"
                     },
                     "hash": {}
                   },
@@ -39,28 +39,28 @@
                 }
               },
               "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 29"
+              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 32"
             }
           }
         ]
       },
       {
-        "id": "4509724f8bf84da7",
+        "id": "30c1f533649f42ec",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "aa367ab3d3f2792f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "playlists/english-galaxy-turquoise-course/B2/Lesson 29 - Учимся говорить как носители языка.md",
+                "file": "playlists/learn-5000-english-words/Lesson 32 (189-193).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 29 - Учимся говорить как носители языка"
+              "title": "Lesson 32 (189-193)"
             }
           }
         ]
@@ -223,8 +223,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
             }
           },
           {
@@ -278,14 +278,34 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "aa367ab3d3f2792f",
   "lastOpenFiles": [
+    "playlists/learn-5000-english-words/Lesson 32 (189-193).md",
+    "playlists/learn-5000-english-words/Lesson 31 (184-188).md",
+    "playlists/learn-5000-english-words/Lesson 61.md",
+    "playlists/learn-5000-english-words/Lesson 58.md",
+    "playlists/learn-5000-english-words/Lesson 47.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 29 - Учимся говорить как носители языка.md",
+    "playlists/english-galaxy-turquoise-course/B2/Lesson 30.md",
+    "playlists/english-galaxy-turquoise-course/B2/Lesson 34.md",
+    "playlists/english-galaxy-turquoise-course/B2/Lesson 10 - 320 зависимых предлогов.md",
+    "playlists/english-galaxy-turquoise-course/B1/Lesson 46 - Различные грамматические конструкций часть 2.md",
+    "playlists/english-galaxy-turquoise-course/B1/Lesson 18 - Времена в английском и смешанная практика Часть 2.md",
+    "playlists/english-galaxy-turquoise-course/B1/Lesson 12 - Present Perfect Continuous vs Present Perfect Past Continuous vs Present Simple vs Past Continuous.md",
+    "playlists/english-galaxy-turquoise-course/B1/Lesson 5 - Зависимые предлоги с существительными.md",
+    "playlists/english-galaxy-turquoise-course/B2/Lesson 2 - 150 важных фразовых глаголов часть 2.md",
+    "playlists/english-galaxy-turquoise-course/A2/Lesson 42 - 230 самых важных прилагательных в разных временах - часть 4.md",
+    "playlists/english-galaxy-turquoise-course/A2/Lesson 38 - Дополнительные грамматические конструкций.md",
+    "playlists/english-galaxy-turquoise-course/A2/Lesson 32 - 360 глаголов в разных временах 6.md",
+    "playlists/english-galaxy-turquoise-course/A2/Lesson 10.md",
+    "playlists/english-galaxy-turquoise-course/A2/Lesson 4.md",
+    "playlists/english-galaxy-turquoise-course/B2/Lesson 4 - 150 важных фразовых глаголов часть 4.md",
+    "playlists/english-galaxy-turquoise-course/B2/Lesson 19 -  320 зависимых предлогов.md",
+    "playlists/english-galaxy-turquoise-course/B2/Lesson 5 - 150 важных фразовых глаголов часть 5.md",
+    "playlists/english-galaxy-turquoise-course/B2/Lesson 21 - 320 зависимых предлогов.md",
+    "playlists/english-galaxy-turquoise-course/B2/Lesson 26 - Учимся говорить как носители языка часть 2.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 28 - Учимся говорить как носители языка часть 4.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 27 - Учимся говорить как носители языка часть 3.md",
-    "playlists/english-galaxy-turquoise-course/B2/Lesson 26 - Учимся говорить как носители языка часть 2.md",
-    "playlists/english-galaxy-turquoise-course/B2/Lesson 25 - Учимся говорить как носители языка часть 1.md",
-    "Home Page.md",
     "english words/anki/audio/eg_adapt_to.mp3",
     "english words/anki/audio/eg_proof_of.mp3",
     "english words/anki/audio/eg_pray_for.mp3",
@@ -296,26 +316,6 @@
     "english words/anki/audio/eg_connected_with.mp3",
     "english words/anki/audio/eg_thirst_for.mp3",
     "english words/anki/audio/eg_furnished_with.mp3",
-    "playlists/learn-5000-english-words/Lesson 31 (184-188).md",
-    "conflict-files-obsidian-git.md",
-    "english words/New.md",
-    "playlists/english-galaxy-turquoise-course/B2/Lesson 16 - 320 зависимых предлогов.md",
-    "playlists/english-galaxy-turquoise-course/B2/Lesson 9 - 320 зависимых предлогов.md",
-    "playlists/learn-5000-english-words/Lesson 30 (177-183).md",
-    "playlists/learn-5000-english-words/Lesson 29 (167-176).md",
-    "playlists/learn-5000-english-words/Unknown Words.md",
-    "playlists/learn-5000-english-words/Vocabulary Glossary.md",
-    "playlists/learn-5000-english-words/Lesson 21(107-114).md",
-    "playlists/english-galaxy-turquoise-course/B2/Lesson 24 - Модальные глаголы в пассивном залоге.md",
-    "playlists/english-do-automatizma-course/Lesson 1.md",
-    "Setup.md",
-    "Backlog.md",
-    "playlists/learn-5000-english-words/Lesson 26 (144-150).md",
-    "grammar/times/Времена в английском.md",
-    "playlists/learn-5000-english-words/Lesson 8 (28-34).md",
-    "playlists/learn-5000-english-words/Lesson 9 (35-40).md",
-    "playlists/learn-5000-english-words/Lesson 7 (24-27).md",
-    "playlists/learn-5000-english-words/Lesson 61.md",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
