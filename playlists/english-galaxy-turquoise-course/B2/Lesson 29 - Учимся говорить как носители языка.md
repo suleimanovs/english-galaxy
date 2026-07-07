@@ -4,13 +4,10 @@
 ---
 
 I also have to say that - Я также должен сказать что
-
 I also have to say that we get more knowledgeable when we read this kind of books 
 
 ---
-
 Really, ... - Действительно
-
 Really, it is very easy to say it 
 
 ---
@@ -46,34 +43,39 @@ I mean that it is possible to do it any time
 ---
 
 So, - И так
-
 So, let's sum it up 
 
 ---
 
 Of course - Конечно
-
 Of course, I'm not surprised to hear it 
 
 ---
 
 Certainly, - Конечно
-
 Certainly, there are some advantages and disadvantages of this job
 
 ---
 
 Actually - На самом деле
-
 Actually , it isn't so easy sometimes
 Actually it is my greatest dream to visit this place which can seem a real paradise 
 
 ---
 
 I really doubt that - Я дейсвительно сомневаюсь что
-
 I really doubt that it will happen again
 
 ---
 
-As we all know - 
+As we all know - Как мы все знаем
+As we all know mistakes are gone with practice
+
+---
+
+You might think that - Ты возможно подумаешь что
+You might think that I'm crazy, but it isn't so 
+
+---
+At the same time -  В то же время
+At the same time this job is a bit  boring 
