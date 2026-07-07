@@ -36,3 +36,29 @@ The fact is that it doesn't make people richer
 I like it when - Мне нравится когда
 
 I like it when I feel real progress
+
+---
+
+I mean that - Я имею ввиду что
+
+I mean that it is possible to do it any time 
+
+---
+
+So, - И так
+
+So, let's sum it up 
+
+---
+
+Of course -  Конечно
+
+Of course, I'm not surprised to hear it 
+
+---
+
+Certainly, - Конечно
+
+Certainly, there `some advantages and dissadvatages
+
+---
