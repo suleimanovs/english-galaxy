@@ -568,7 +568,7 @@ const resourceLinks = root.createEl('div', { cls: 'hp-links' });
 const link1 = resourceLinks.createEl('a', { cls: 'hp-link-pill', text: '🎴 Anki Decks — все колоды' });
 egLink(link1, 'english words/anki/Anki Decks');
 const link2 = resourceLinks.createEl('a', { cls: 'hp-link-pill', text: '🎯 Unknown Words — слова из уроков' });
-egLink(link2, 'playlists/learn-5000-english-words/Unknown Words');
+egLink(link2, 'english words/anki/Unknown Words');
 const link3 = resourceLinks.createEl('a', { cls: 'hp-link-pill', text: '📋 Backlog — идеи' });
 egLink(link3, 'Backlog');
 const link4 = resourceLinks.createEl('a', { cls: 'hp-link-pill', text: '⚙️ Setup' });

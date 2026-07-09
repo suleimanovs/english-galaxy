@@ -6,7 +6,7 @@ const TARGET_COLOR = "#c0504d"; // красный = unknown
 const regexFont = /<font\s+color=["'](#?[0-9a-fA-F]{6})["'][^>]*>(.*?)<\/font>/gi;
 const MAX_WORDS = 5000;
 
-const currentFolder = dv.current().file.folder;
+const currentFolder = "playlists/learn-5000-english-words";
 
 let knownTotal = 0;
 let unknownTotal = 0;

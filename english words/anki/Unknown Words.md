@@ -11,6 +11,7 @@ const GEMINI_MODEL        = 'gemini-2.5-flash-lite';
 const KNOWN_INTERVAL_DAYS = 8;
 const GEMINI_DELAY_MS     = 40000;
 const FOLDER              = dv.current().file.folder;
+const LESSON_FOLDER       = 'playlists/learn-5000-english-words';
 const TRACKER_PATH        = FOLDER + '/word-tracker.csv';
 
 // ─── ANKI ────────────────────────────────────────────────────────────────────
@@ -152,7 +153,7 @@ async function scanUnknownWords() {
   // Words to learn are marked with a checked checkbox: "NNNN. [x] word - translation".
   // Unchecked "[ ]" = already known (not returned here).
   const results = [];
-  for (const page of dv.pages(`"${FOLDER}"`)) {
+  for (const page of dv.pages(`"${LESSON_FOLDER}"`)) {
     if (!/^lesson/i.test(page.file.name)) continue;
     const file = app.vault.getAbstractFileByPath(page.file.path);
     if (!file) continue;
@@ -214,7 +215,7 @@ async function markAsKnown(filePath, word, translation) {
 
 // Forgotten in Anki → re-check the checkbox: "[ ] word …" → "[x] word …"
 async function markAsForgotten(filename, word, translation) {
-  const filePath = FOLDER + '/' + filename + (filename.endsWith('.md') ? '' : '.md');
+  const filePath = LESSON_FOLDER + '/' + filename + (filename.endsWith('.md') ? '' : '.md');
   const file = app.vault.getAbstractFileByPath(filePath);
   if (!file) return false;
   const lines = (await app.vault.read(file)).split('\n');

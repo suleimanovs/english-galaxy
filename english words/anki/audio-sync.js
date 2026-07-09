@@ -36,7 +36,7 @@ const DECKS = [
   { id: 'vp',         name: 'EG — Verb Patterns',          file: 'verb-patterns-tracker.csv',     dir: ANKI_DIR, tagPrefix: 'vp',    label: 'Verb Patterns' },
   { id: 'syn',        name: 'EG — Synonym Chains',         file: 'synonym-chains-tracker.csv',    dir: ANKI_DIR, tagPrefix: 'syn',   label: 'Synonyms' },
   { id: 'egw',        name: 'EG — All Words',               file: 'word-tracker.csv',
-    dir: path.join(ROOT, 'learn-5000-english-words'), tagPrefix: 'egw', label: '5000 Words' },
+    dir: ANKI_DIR, tagPrefix: 'egw', label: '5000 Words' },
 ];
 
 // ─── ANKI ────────────────────────────────────────────────────────────────────
