@@ -35,6 +35,7 @@
   "showStatusOnStatusbar": false,
   "showOnlyIconsOnEditor": true,
   "hideFileWarningNotice": false,
+  "networkWarningStyle": "",
   "usePluginSync": true,
   "autoSweepPlugins": false,
   "autoSweepPluginsPeriodic": false,
@@ -58,7 +59,7 @@
   "deleteMetadataOfDeletedFiles": false,
   "syncIgnoreRegEx": "",
   "syncOnlyRegEx": "",
-  "customChunkSize": 60,
+  "customChunkSize": 100,
   "readChunksOnline": true,
   "watchInternalFileChanges": true,
   "automaticallyDeleteMetadataOfDeletedFiles": 0,
@@ -70,6 +71,16 @@
   "encryptedPassphrase": "%$rhkVwTSd/M214Tk2WV1aLrukfAP7OQborEb8mu1LJldkiKq8y0NcDdj6CK5epCuMYIpLHyLT3VR0U6QV08PkkCF8LzWoOuXX0Mv1Mes0Tbd9HYmVIAQ62TqCz3NrH9Ik5JUCLKCs",
   "encryptedCouchDBConnection": "",
   "permitEmptyPassphrase": false,
+  "remoteConfigurations": {
+    "legacy-s3": {
+      "id": "legacy-s3",
+      "name": "S3 Remote",
+      "uri": "%$6a0v/h5kLwFJXDfJ5dS69qpBonOCkA7/ZYT2pEdjULJLYBUmixdUhlmcoZL9Fq1F65ZOuSQCbl31PaFjYvU4TPYnCXMGsHTbTiIhDWZDrDxUZsXxvxo4UFjIiv0LMsKELc2zRzqc3Y5q2yPOm85CepLFiDtUUwjSgFqhWnr/6ATQPUhyMWKvlKRjw6bdPj29XM9Hvg5yjuZyNioxn3RDTaX//2BKko4y06Vl3PJ4jx6CHEwm39wGg2qfqDjh/199DpClIjl00dSn3aOdJaOBXDpFj/eZyPIio5X6Gl75PR0h2zy1rEHefZrzn7We02ghbSR2zZmKfG7CgEMTh/PsvF2R35fmoY7oE81O5xYSFka4UhUpGEFHNzfQIxSGPNnw9nm6LMRD0G0Uc5gbJUtAcaR6ySYbU9jX8DVj2tdh0vqY3uavwcLR36BNa9Pb2hEaLpQgtyfqGV62lEojiPnDWLlgt2u9gysY1z/i2qZ9DIXLgi1d6CbW2p28Ho5abg==",
+      "isEncrypted": true
+    }
+  },
+  "activeConfigurationId": "legacy-s3",
+  "P2P_ActiveRemoteConfigurationId": "",
   "useIndexedDBAdapter": false,
   "useTimeouts": false,
   "writeLogToTheFile": false,
@@ -84,6 +95,7 @@
   "useIgnoreFiles": false,
   "ignoreFiles": ".gitignore",
   "syncOnEditorSave": false,
+  "keepReplicationActiveInBackground": false,
   "pluginSyncExtendedSetting": {
     "CONFIG/community-plugins.json": {
       "key": "CONFIG/community-plugins.json",
@@ -326,7 +338,7 @@
   "useEdgeCaseMode": true,
   "enableDebugTools": false,
   "suppressNotifyHiddenFilesChange": true,
-  "syncMinimumInterval": 10000,
+  "syncMinimumInterval": 2000,
   "P2P_Enabled": false,
   "P2P_AutoAccepting": 0,
   "P2P_AppID": "self-hosted-livesync",
@@ -346,6 +358,7 @@
   "P2P_turnServers": "",
   "P2P_turnUsername": "",
   "P2P_turnCredential": "",
+  "P2P_useDiagRTC": false,
   "doctorProcessedVersion": "0.25.27",
   "bucketCustomHeaders": "",
   "couchDB_CustomHeaders": "",
@@ -363,6 +376,5 @@
   "forcePathStyle": true,
   "syncInternalFileOverwritePatterns": "",
   "useOnlyLocalChunk": false,
-  "maxMTimeForReflectEvents": 0,
-  "networkWarningStyle": ""
+  "maxMTimeForReflectEvents": 0
 }
