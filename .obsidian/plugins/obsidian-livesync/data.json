@@ -36,7 +36,7 @@
   "showOnlyIconsOnEditor": true,
   "hideFileWarningNotice": false,
   "networkWarningStyle": "",
-  "usePluginSync": true,
+  "usePluginSync": false,
   "autoSweepPlugins": true,
   "autoSweepPluginsPeriodic": false,
   "notifyPluginOrSettingUpdated": true,
@@ -75,7 +75,7 @@
     "legacy-s3": {
       "id": "legacy-s3",
       "name": "S3 Remote",
-      "uri": "%$MLFB+qQd8gXKICuYDbSThNJ7OKPTpad5D1k4okbkcWTABEsv+gENQ79SmT6anwUlhJRwtbMmE2O4Irenq7lSvCbUxwSf4IRQoKxoXLen/2l4lcecZi0D6yEXeHNs0nzsU+ioMW7eX5ukctWwBq7dOAh79OBvFYYenCidkbEWJ6IAxgATtwEAEuJ/xJa49Fij98dvLafr6aFK7UvdHMaQl9jpEd+RSO2fshtg9KHevq7BWB2hGJIm9JigJ5yH4Boc/Wy26yu9iigSMQ2FDenRFupZxWlLJ6CU4a9qYf8usqP91JFxZ9bVV5AJ5YME5bdtWzuTOWyU8iVcJKYRsF9zJWkYIcCE56nQtMxG9DbZi6ohcA3wK1BqCesqoFN/3nZYsXmxl8lOMWORus7R56eGp/pJ7fRlF06WcSifCTzhG4cwN74VLWf+9wwy/8Lx/u0kKlbHFEgv64uUrDKxQzS1+zvvzfmHe/o1LayBv94KMXKeM81RWvjI9RbTmXOtiQ==",
+      "uri": "%$bQPul0yswVkTyNyZ1IjwalibLnMkdpLnuufzsjK4u3Fc2yiSUEPp0r5Gf6CDhO1WbFpkoBG2vo1NBodYqwUFHxb1a3T4glNq2A9g1UWZIoSpZkv/rg8Rwbgs9WKKSUYExMtTP0L+RKR5tZn5reUQh4crO1Fp0wl3moJo0HH3pM6Rr0hTo1Ei+Zdu/RVyJ2H4UJKFzqRgsvVkQxA84EV9Ctp3PHwFqHZfkEFM676ilPADQ7wJgRzWveEFv3AseXJtCpQaJTR2LGPE0a6X0L2SAtdy9Uqb1EJxFuAA+ww4en75lqiXz6UEfmDPEj7chYDDc13LG3Bepc4TbWGZYGT7ixan7C8EV+3EETsIW3U6Be28h/vEgoltbtGH/hEketZPIh5XajDXbzUJOspjXISUK4p7vxyzwShTzuK7WeOf2Vy8b/g17pq8wivjVOlEiFCMmF/vOHG4wR6wDpL7Dk0WfJDhc54x5Oz+61Nni1PAYK5g0S/WcGz+MtPGz5taCw==",
       "isEncrypted": true
     }
   },
@@ -378,5 +378,5 @@
   "syncInternalFileOverwritePatterns": "",
   "useOnlyLocalChunk": false,
   "maxMTimeForReflectEvents": 0,
-  "tweakModified": 1783617669494
+  "tweakModified": 1783621881184
 }

@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "Home Page"
             }
+          },
+          {
+            "id": "8893d9426fcfb095",
+            "type": "leaf",
+            "state": {
+              "type": "log-log",
+              "state": {},
+              "icon": "view-log",
+              "title": "Лог Self-hosted LiveSync"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,7 +227,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6fc422490737c0b3",
+  "active": "8893d9426fcfb095",
   "lastOpenFiles": [
     "media-lib/extra.torrent",
     "english words/anki/Vocabulary Glossary.md",
