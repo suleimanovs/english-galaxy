@@ -1,21 +1,12 @@
 [
   "obsidian-livesync",
-  "obsidian-languagetool-plugin",
-  "obsidian-style-settings",
   "homepage",
   "dataview",
   "obsidian42-brat",
-  "templater-obsidian",
-  "buttons",
-  "terminal",
   "obsidian-git",
   "editing-toolbar",
   "obsidian-icon-folder",
   "pexels-banner",
   "media-extended",
-  "realclaudian",
-  "notebook-navigator",
-  "obsidian-spaced-repetition",
-  "image-converter",
-  "pdf-plus"
+  "notebook-navigator"
 ]

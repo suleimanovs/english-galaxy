@@ -174,29 +174,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "02a68c6f1606ebfe",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "9744e2dbed941825",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Claudian"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -236,10 +216,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "02a68c6f1606ebfe",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Home Page.md",
     "hahaha.md",
+    "Home Page.md",
     "Setup.md",
     "Backlog.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 28 - учимся говорить как носители языка часть 4.md",
