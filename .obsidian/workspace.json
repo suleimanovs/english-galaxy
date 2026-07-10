@@ -21,19 +21,8 @@
               "icon": "lucide-file",
               "title": "Home Page"
             }
-          },
-          {
-            "id": "8893d9426fcfb095",
-            "type": "leaf",
-            "state": {
-              "type": "log-log",
-              "state": {},
-              "icon": "view-log",
-              "title": "Лог Self-hosted LiveSync"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,21 +202,14 @@
       "obsidian-livesync:Replicate": false,
       "homepage:Open homepage": false,
       "obsidian42-brat:BRAT": false,
-      "templater-obsidian:Templater": false,
-      "terminal:Open terminal": false,
       "obsidian-git:Open Git source control": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "media-extended:Open media library": false,
       "media-extended:Open media quick switcher": false,
-      "realclaudian:Open Claudian": false,
-      "notebook-navigator:Notebook Navigator": false,
-      "obsidian-spaced-repetition:Изучать карточки": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "6fc422490737c0b3",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Home Page.md",
     "New.md",
