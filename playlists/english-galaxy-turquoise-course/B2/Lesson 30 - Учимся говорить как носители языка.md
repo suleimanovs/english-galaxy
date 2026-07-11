@@ -34,4 +34,26 @@ What is going on is absolutely ridiculous
 
 ---
 
+In other words  - Другими словами
 
+In other words this has more advantages than disadvantages.
+
+---
+
+Ok, - Хорошо
+
+Ok, I will be brief/short
+Ok, i will try to be brief.
+
+---
+
+Let me - Позволь мне 
+
+Let me tell you what it think about all this 
+Let me give you an example 
+
+---
+
+We all see that - 
+
+We all see that everything changed 
