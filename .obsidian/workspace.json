@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b2945fd58c1d30ef",
+        "id": "39679806efb15394",
         "type": "tabs",
         "children": [
           {
-            "id": "0fc02aebc8bb7291",
+            "id": "2b78336cfefadf7a",
             "type": "leaf",
             "state": {
               "type": "mx-url",
@@ -39,7 +39,7 @@
                 }
               },
               "icon": "youtube",
-              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 33"
+              "title": "YouTube - A0WQGRACrss"
             }
           }
         ]
@@ -277,7 +277,7 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "b9297e5c792ad501",
+  "active": "2b78336cfefadf7a",
   "lastOpenFiles": [
     "playlists/learn-5000-english-words/Lesson 33 (194-200).md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 30 - Учимся говорить как носители языка.md",
