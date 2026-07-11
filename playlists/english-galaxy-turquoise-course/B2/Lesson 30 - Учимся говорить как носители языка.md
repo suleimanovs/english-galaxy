@@ -56,4 +56,15 @@ Let me give you an example
 
 We all see that - 
 
-We all see that everything changed 
+We all see that everything has changed with appearance of the internet 
+
+---
+It is easy to see that - Легко увидеть /заметить что 
+
+It is easy to see that everything has changed with the invention of the internet.
+
+---
+
+As i see it - Как я вижу это / На мой взгляд
+
+As is see it what is happening now is absolutely ridiculous 
