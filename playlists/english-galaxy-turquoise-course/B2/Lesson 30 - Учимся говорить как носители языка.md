@@ -17,6 +17,21 @@ I like it just because I feel better using it
 ---
 
 We have to admit that - Мы должны признать что
+We have to admit that people perceive success differently 
 
-We have to admit that people 
+---
+
+Personally, I think that - Лично я думаю/считаю что
+
+Personally I think that the quality of this education leaves a lot to be desired
+
+---
+
+What is happening is - То, что происходит
+What is going on is - То, что происходит
+
+What is going on is absolutely ridiculous 
+
+---
+
 
