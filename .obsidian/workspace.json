@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "60eea5207788b923",
+        "id": "b2945fd58c1d30ef",
         "type": "tabs",
         "children": [
           {
-            "id": "0be57d31adc85ee4",
+            "id": "0fc02aebc8bb7291",
             "type": "leaf",
             "state": {
               "type": "mx-url",
@@ -19,12 +19,12 @@
                       "type": "url:hosted",
                       "vid": {
                         "host": "youtube",
-                        "vid": "1gMierHoHhk",
+                        "vid": "A0WQGRACrss",
                         "t": null,
                         "start": null,
                         "end": null
                       },
-                      "url": "https://www.youtube.com/watch?v=1gMierHoHhk"
+                      "url": "https://www.youtube.com/watch?v=A0WQGRACrss"
                     },
                     "hash": {}
                   },
@@ -39,7 +39,7 @@
                 }
               },
               "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 30"
+              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 33"
             }
           }
         ]
@@ -79,13 +79,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "playlists/english-galaxy-turquoise-course/B2/Lesson 30 - Учимся говорить как носители языка.md",
+                "file": "playlists/learn-5000-english-words/Lesson 33 (194-200).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 30 - Учимся говорить как носители языка"
+              "title": "Lesson 33 (194-200)"
             }
           }
         ],
@@ -279,6 +279,7 @@
   },
   "active": "b9297e5c792ad501",
   "lastOpenFiles": [
+    "playlists/learn-5000-english-words/Lesson 33 (194-200).md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 30 - Учимся говорить как носители языка.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 29 - Учимся говорить как носители языка.md",
     "Home Page.md",
@@ -314,7 +315,6 @@
     "playlists/english-galaxy-turquoise-course/B1/Lesson 18 - Времена в английском и смешанная практика Часть 2.md",
     "playlists/english-galaxy-turquoise-course/B1/Lesson 12 - Present Perfect Continuous vs Present Perfect Past Continuous vs Present Simple vs Past Continuous.md",
     "playlists/english-galaxy-turquoise-course/B1/Lesson 5 - Зависимые предлоги с существительными.md",
-    "playlists/english-galaxy-turquoise-course/B2/Lesson 2 - 150 важных фразовых глаголов часть 2.md",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]

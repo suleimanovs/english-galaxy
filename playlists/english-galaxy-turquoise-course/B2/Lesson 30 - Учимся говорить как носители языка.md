@@ -67,4 +67,17 @@ It is easy to see that everything has changed with the invention of the internet
 
 As i see it - Как я вижу это / На мой взгляд
 
-As is see it what is happening now is absolutely ridiculous 
+As I see it what is happening now is absolutely ridiculous 
+
+---
+
+It is some kind of - Это своего рода
+It is some sort of - Это своего рода
+
+It is some kind of a rest for me
+It is some sort of entertainment for us 
+It is some sort of investment in my future
+
+---
+
+
