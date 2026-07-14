@@ -112,7 +112,7 @@
     "file": "Home Page.md",
     "createMissingPeriodicNote": true
   },
-  "dualPane": false,
+  "dualPane": true,
   "dualPaneOrientation": "horizontal",
   "narrowSidebarLayout": "singlePane",
   "narrowSidebarTriggerMode": "fitPanes",
