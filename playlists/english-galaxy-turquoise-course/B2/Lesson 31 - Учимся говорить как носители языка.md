@@ -72,7 +72,7 @@ I don't really think that this business will give you financial freedom and inde
 I firmly believe that - Я твердо верю что
 I truly believe that - я искренне верю что
 
-I truly believe that healthy diet/food can
+I truly believe that healthy nutrition can help you to be healthier 
 
 ---
 
