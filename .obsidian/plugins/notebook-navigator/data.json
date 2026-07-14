@@ -209,7 +209,7 @@
   "scopePropertiesToCurrentContext": false,
   "defaultListMode": "standard",
   "includeDescendantNotes": false,
-  "defaultFolderSort": "modified-desc",
+  "defaultFolderSort": "title-asc",
   "propertySortKey": "",
   "propertySortSecondary": "title",
   "manualSortPropertyKey": "sort_index",
@@ -218,7 +218,7 @@
   "confirmBeforeManualSort": true,
   "revealFileOnListChanges": true,
   "listPaneTitle": "header",
-  "noteGrouping": "date",
+  "noteGrouping": "folder",
   "showSelectedNavigationPills": false,
   "stickyGroupHeaders": true,
   "showFolderGroupPaths": true,
@@ -551,9 +551,15 @@
   },
   "folderColors": {},
   "folderBackgroundColors": {},
-  "folderSortOverrides": {},
+  "folderSortOverrides": {
+    "playlists/english-galaxy-turquoise-course/B1": "title-asc"
+  },
   "folderTreeSortOverrides": {},
-  "folderAppearances": {},
+  "folderAppearances": {
+    "playlists/english-galaxy-turquoise-course/B1": {
+      "mode": "compact"
+    }
+  },
   "tagIcons": {},
   "tagColors": {},
   "tagBackgroundColors": {},
