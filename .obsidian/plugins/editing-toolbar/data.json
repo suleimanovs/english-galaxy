@@ -392,6 +392,11 @@
       "id": "editing-toolbar:workplace-fullscreen-focus",
       "name": "Workplace Fullscreen",
       "icon": "exit-fullscreen"
+    },
+    {
+      "id": "editor:toggle-blockquote",
+      "name": "Цитата",
+      "icon": "lucide-quote"
     }
   ],
   "followingCommands": [

@@ -43,3 +43,15 @@ The main disadvantage of living here is that it is so far from the park
 The main advantage of -  Главное приимущество чего-то 
 
 The main advantage of studying there is the cost of education
+
+---
+
+There are some advantages and disadvantages of - Есть/Существует некоторые приймущества и недостатки чего-то
+
+There are some advantages and disadvantages of living there
+
+---
+
+If you ask my point of view - Если вы спросите мою точку зрения
+
+If you ask my point of view it may seem very good just therotically 
