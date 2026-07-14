@@ -85,8 +85,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,16 +200,14 @@
       "workspaces:Пространства": false,
       "obsidian-livesync:Show Log": false,
       "obsidian-livesync:Replicate": false,
-      "homepage:Open homepage": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-git:Open Git source control": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false,
       "media-extended:Open media library": false,
       "media-extended:Open media quick switcher": false,
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "f9d0ef617464bc22",
+  "active": "6fc422490737c0b3",
   "lastOpenFiles": [
     "Home Page.md",
     "playlists/learn-5000-english-words/Lesson 33 (194-200).md",

@@ -7,5 +7,6 @@
   ],
   "promptDelete": false,
   "defaultViewMode": "preview",
-  "livePreview": true
+  "livePreview": true,
+  "openBehavior": "file:Home Page"
 }
