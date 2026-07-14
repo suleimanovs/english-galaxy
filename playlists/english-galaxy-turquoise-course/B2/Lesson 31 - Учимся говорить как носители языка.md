@@ -14,7 +14,25 @@ As for money - что касается денег
 
 As for money it is the main aim for most people but i think it isn't so important.
 As for my friends, they fully support this decision.
-As for the price, it is much 
+As for the price, it is much higher than i expected.
 
 ---
+I'm not entirely sure - Я не совсем уверен
+
+I'm not entirely sure about it 
+
+---
+
+It might seem very strange, but - Это возможно покажется очень странным, но
+
+It might seem very strange, but it is really so
+
+---
+
+It may seem very surprising , but - Это возможно покажется очень удивительным, но
+
+It may seem very surprising, but he doesn't pay attention to su
+
+---
+
 
