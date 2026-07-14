@@ -85,7 +85,8 @@
               "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -209,7 +210,7 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f9d0ef617464bc22",
   "lastOpenFiles": [
     "Home Page.md",
     "playlists/learn-5000-english-words/Lesson 33 (194-200).md",
