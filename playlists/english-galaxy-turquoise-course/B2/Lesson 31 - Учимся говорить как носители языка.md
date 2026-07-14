@@ -54,4 +54,25 @@ There are some advantages and disadvantages of living there
 
 If you ask my point of view - Если вы спросите мою точку зрения
 
-If you ask my point of view it may seem very good just therotically 
+If you ask my point of view it can seem very good only theoretically but not practically 
+
+---
+
+Theoretically ,...- Теоретический ,
+
+Theoretically, he can be right 
+
+---
+I don't really think that - Я дейсвительно не думаю что
+
+I don't really think that this business will give you financial freedom and independence
+
+---
+
+I firmly believe that - Я твердо верю что
+I truly believe that - я искренне верю что
+
+I truly believe that healthy diet/food can
+
+---
+
