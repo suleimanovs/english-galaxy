@@ -44,8 +44,8 @@
                 "sortOrder": "alphabetical",
                 "autoReveal": false
               },
-              "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "icon": "lucide-ghost",
+              "title": "file-explorer"
             }
           },
           {
@@ -78,11 +78,9 @@
           {
             "id": "f9d0ef617464bc22",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "pinned": true,
               "icon": "notebook-navigator",
               "title": "Notebook Navigator"
             }
@@ -210,7 +208,7 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "f9d0ef617464bc22",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Home Page.md",
     "playlists/learn-5000-english-words/Lesson 33 (194-200).md",
