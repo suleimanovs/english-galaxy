@@ -31,8 +31,15 @@ It might seem very strange, but it is really so
 
 It may seem very surprising , but - Это возможно покажется очень удивительным, но
 
-It may seem very surprising, but he doesn't pay attention to su
+It may seem very surprising, but he doesn't pay attention to such things
 
 ---
 
+The main disadvantage of - Главный недостаток чего-то 
 
+The main disadvantage of living here is that it is so far from the park
+
+---
+The main advantage of -  Главное приимущество чего-то 
+
+The main advantage of studying there is the cost of education
