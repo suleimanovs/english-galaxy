@@ -1,5 +1,5 @@
 {
-  "lastVersion": "4.0.11",
+  "lastVersion": "4.0.10",
   "aestheticStyle": "default",
   "positionStyle": "top",
   "menuCommands": [
@@ -392,11 +392,6 @@
       "id": "editing-toolbar:workplace-fullscreen-focus",
       "name": "Workplace Fullscreen",
       "icon": "exit-fullscreen"
-    },
-    {
-      "id": "editor:toggle-blockquote",
-      "name": "Цитата",
-      "icon": "lucide-quote"
     }
   ],
   "followingCommands": [
