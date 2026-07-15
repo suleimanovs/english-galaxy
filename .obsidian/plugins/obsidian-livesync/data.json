@@ -36,10 +36,10 @@
   "showOnlyIconsOnEditor": true,
   "hideFileWarningNotice": false,
   "networkWarningStyle": "",
-  "usePluginSync": false,
+  "usePluginSync": true,
   "autoSweepPlugins": true,
   "autoSweepPluginsPeriodic": false,
-  "notifyPluginOrSettingUpdated": true,
+  "notifyPluginOrSettingUpdated": false,
   "checkIntegrityOnSave": false,
   "batch_size": 25,
   "batches_limit": 25,
@@ -48,7 +48,7 @@
   "skipOlderFilesOnSync": true,
   "checkConflictOnlyOnOpen": false,
   "showMergeDialogOnlyOnActive": false,
-  "syncInternalFiles": false,
+  "syncInternalFiles": true,
   "syncInternalFilesBeforeReplication": true,
   "syncInternalFilesIgnorePatterns": "\\/node_modules\\/, \\/\\.git\\/, ^\\.git\\/, \\/obsidian-livesync\\/,\\/workspace$ ,\\/workspace.json$,\\/workspace-mobile.json$, \\/obsidian-git\\/, \\/.idea\\/, \\/.claude\\/",
   "syncInternalFilesTargetPatterns": "",
@@ -75,7 +75,7 @@
     "legacy-s3": {
       "id": "legacy-s3",
       "name": "S3 Remote",
-      "uri": "%$bQPul0yswVkTyNyZ1IjwalibLnMkdpLnuufzsjK4u3Fc2yiSUEPp0r5Gf6CDhO1WbFpkoBG2vo1NBodYqwUFHxb1a3T4glNq2A9g1UWZIoSpZkv/rg8Rwbgs9WKKSUYExMtTP0L+RKR5tZn5reUQh4crO1Fp0wl3moJo0HH3pM6Rr0hTo1Ei+Zdu/RVyJ2H4UJKFzqRgsvVkQxA84EV9Ctp3PHwFqHZfkEFM676ilPADQ7wJgRzWveEFv3AseXJtCpQaJTR2LGPE0a6X0L2SAtdy9Uqb1EJxFuAA+ww4en75lqiXz6UEfmDPEj7chYDDc13LG3Bepc4TbWGZYGT7ixan7C8EV+3EETsIW3U6Be28h/vEgoltbtGH/hEketZPIh5XajDXbzUJOspjXISUK4p7vxyzwShTzuK7WeOf2Vy8b/g17pq8wivjVOlEiFCMmF/vOHG4wR6wDpL7Dk0WfJDhc54x5Oz+61Nni1PAYK5g0S/WcGz+MtPGz5taCw==",
+      "uri": "%$a54MkUwNx76huzLQu+83Kjk3dLG0wf3y8AM41htxdtafZY7qcUJzZU1un3EAZIhz54T24I8/tjkky5FDETEh4MZo1BhisHp7ubzFCRNtyC/q499/waMZ9V/GaoanPPvyD9lj9+EpMWygF7Wzwx7Iaksy+TURdK0n5g1SOnaPNMwdLsbvkA/u+sLjdZ2mc6ccPELyVUlOWPQrCE8fc4mbCFZgE0+hIpxrijjiCRmt1pliPCLt9/w+3O1fuU0DCqfq49+7TScsI1pgDZMOOKNytmIAGc+T89Lb3KWKh2sDWPa8Kbc1a7MlCeC3RNn22nEGiujR/KFja0HQy8W09yva7MZeULAApToGtfbVtKyqtWZV7GBAVVpuqYAdhcTlgXDsVHlcMBKvbTbko9sZ9M/65H6kpKJHZ3Za+vBZTC/Os6rAZjPnZoOzNNfkbaPEwN0IGIVCgjjmY6GQlUOAGY+X/1a1BpvofDN8cRs4b+JiwEj+b7Epbyo7bgVmZ9jR9A==",
       "isEncrypted": true
     }
   },
