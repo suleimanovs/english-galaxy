@@ -14,3 +14,20 @@ As I have already said - Как я уже сказал
 
 As I have already said it is just a matter of time 
 
+---
+
+I'm absolutely certain that - Я абсолютно уверен что
+
+I'm absolutely certain that this place is really worth visiting
+
+---
+
+By the way - Кстати
+
+By the way, it is one of  my favourite dishes 
+
+---
+
+It is said that - Говорят что
+They say that - Говорят что
+They say that it will be very cold tomorrow
