@@ -210,7 +210,7 @@
   "showAllPropertiesFolder": true,
   "scopePropertiesToCurrentContext": false,
   "defaultListMode": "standard",
-  "includeDescendantNotes": true,
+  "includeDescendantNotes": false,
   "defaultFolderSort": "title-asc",
   "propertySortKey": "",
   "propertySortSecondary": "title",
@@ -302,6 +302,7 @@
   "calendarMonthHeadingFormat": "full",
   "calendarHighlightToday": true,
   "calendarShowFeatureImage": true,
+  "calendarShowTasks": true,
   "calendarMonthHighlights": {},
   "calendarShowWeekNumber": false,
   "calendarShowQuarter": false,
@@ -601,6 +602,5 @@
   "lastShownVersion": "3.2.3",
   "rootFolderOrder": [],
   "rootTagOrder": [],
-  "rootPropertyOrder": [],
-  "calendarShowTasks": true
+  "rootPropertyOrder": []
 }

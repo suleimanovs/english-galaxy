@@ -8,5 +8,6 @@
   "promptDelete": false,
   "defaultViewMode": "preview",
   "livePreview": true,
-  "openBehavior": "file:Home Page"
+  "openBehavior": "file:Home Page",
+  "tabSize": 4
 }
