@@ -4,6 +4,47 @@
     "type": "split",
     "children": [
       {
+        "id": "071c612b9e045813",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bed624059efb9bbe",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "a1kJW8kHL-w",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=a1kJW8kHL-w"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    },
+                    "v": 1
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 32"
+            }
+          }
+        ]
+      },
+      {
         "id": "b828002b8dbbc0c8",
         "type": "tabs",
         "children": [
@@ -13,13 +54,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "playlists/english-galaxy-turquoise-course/B2/Lesson 32 - Учимся  говорить как носители языка.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home Page"
+              "title": "Lesson 32 - Учимся  говорить как носители языка"
             }
           }
         ]
@@ -90,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5024719238281
+    "width": 358.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -210,8 +252,9 @@
   },
   "active": "39f5214649f2e94a",
   "lastOpenFiles": [
-    "Untitled.md",
+    "playlists/english-galaxy-turquoise-course/B2/Lesson 32 - Учимся  говорить как носители языка.md",
     "Home Page.md",
+    "Untitled.md",
     "2026-07-15.md",
     "New.md",
     "playlists/learn-5000-english-words/Lesson 34 (201-204).md",
@@ -245,7 +288,6 @@
     "playlists/learn-5000-english-words/Lesson 58.md",
     "playlists/learn-5000-english-words/Lesson 47.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 34.md",
-    "playlists/english-galaxy-turquoise-course/B2/Lesson 10 - 320 зависимых предлогов.md",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
