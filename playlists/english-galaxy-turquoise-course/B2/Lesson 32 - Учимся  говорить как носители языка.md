@@ -43,4 +43,18 @@ I can't say it for sure but i think that we can't ignore this problem
 What about ....?/ How about...? - Как на счет?
 
 What about a cup of tea?
-What about go shopping?
+What about going shopping?
+What about going to the restaurant? 
+How about a cup of coffee? 
+How about changing the subject? 
+How about going to the park?
+
+---
+
+Yeah, ... - Да..
+
+Yeah, I really like communicating with other people
+Yeah, It works only in theory 
+
+---
+
