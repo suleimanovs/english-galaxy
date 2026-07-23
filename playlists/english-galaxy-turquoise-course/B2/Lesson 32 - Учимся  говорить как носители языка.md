@@ -30,7 +30,7 @@ By the way, it is one of  my favourite dishes
 
 It is said that - Говорят что
 They say that - Говорят что
-They say that it will be very  cold  tomorrow
+They say that it will be very cold tomorrow
 It is said that it is one of the most popular countries among tourists
 
 ---
@@ -54,7 +54,23 @@ How about going to the park?
 Yeah, ... - Да..
 
 Yeah, I really like communicating with other people
-Yeah, It works only in theory 
+Yeah, It works only in theory but not in practice 
 
 ---
 
+If you don't mind - Если ты не возражаешь...
+
+If you don't mind let's drop the subject 
+
+---
+
+Basically - В принципе
+
+Basically, you are right 
+Basically, they have very high requirements
+
+---
+
+Believe it or not - Хочешь верь хочещь нет
+
+Believe it or not it takes all my free time 
