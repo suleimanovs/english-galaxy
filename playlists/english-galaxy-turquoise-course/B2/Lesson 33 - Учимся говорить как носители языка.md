@@ -62,4 +62,20 @@ We can't deny the fact that the popularity of online education is growing year b
 
 ---
 
-You might dissagree
+You might disagree with me, but - Ты возможно не согласишься со мной но
+
+You might disagree with me but it is my personal point of view
+
+---
+
+One of my greatest dreams is to - Одно из моих самых больших желаний
+
+One of my greatest dreams is to communicate with people from other countries no matter where they live.
+
+---
+
+I perfectly realise th
+
+
+
+
