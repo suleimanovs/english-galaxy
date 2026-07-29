@@ -11,35 +11,15 @@
             "id": "d5f71d7be1dfb4dc",
             "type": "leaf",
             "state": {
-              "type": "mx-url",
+              "type": "markdown",
               "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "7a71j18MC-k",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=7a71j18MC-k"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    },
-                    "v": 1
-                  }
-                }
+                "file": "Home Page.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "youtube",
-              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 43"
+              "icon": "lucide-file",
+              "title": "Home Page"
             }
           }
         ]
