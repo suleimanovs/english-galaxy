@@ -47,7 +47,19 @@ It is no exaggeration that it is one of the best hotels in the world.
 
 It is no exaggeration to say that - Не будет преувелечением сказать что
 
-It's no exaggeration to say that he is considered a real hero
+It's no exaggeration to say he is considered a real hero
+It's no exaggeration to say it is the best offer
+
+---
+As I noticed - Как я заметил
+
+As I noticed this trend is becoming more and more popular
+
+---
+We can't deny the fact that -  Мы не можем отрицать что
+
+We can't deny the fact that the popularity of online education is growing year by year
 
 ---
 
+You might dissagree
