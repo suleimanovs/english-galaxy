@@ -74,7 +74,13 @@ One of my greatest dreams is to communicate with people from other countries no 
 
 ---
 
-I perfectly realise th
+I'm perfectly aware of the fact that - Я прекрасно осознаю тот факт что
+
+I'm perfectly aware of the fact that smoking is very harmful to people's health
+
+---
+
+
 
 
 
