@@ -29,4 +29,18 @@ Needless to say something should be done to change the situation
 
 ---
 
-I'd like to mention that - Я хотел бы отм
+I'd like to mention that - Я хотел бы отметить что
+
+I'd like to mention that not everyone can afford to do it
+
+---
+
+As you might have already guessed - Как ты наверное уже догадался
+
+As you might have already guessed he was also invited to this party
+
+---
+
+It is no exaggeration that - Это не преувелечение что
+
+It is no exaggeration that it is one of the best hotels in the w
