@@ -43,4 +43,11 @@ As you might have already guessed he was also invited to this party
 
 It is no exaggeration that - Это не преувелечение что
 
-It is no exaggeration that it is one of the best hotels in the w
+It is no exaggeration that it is one of the best hotels in the world.
+
+It is no exaggeration to say that - Не будет преувелечением сказать что
+
+It's no exaggeration to say that he is considered a real hero
+
+---
+
