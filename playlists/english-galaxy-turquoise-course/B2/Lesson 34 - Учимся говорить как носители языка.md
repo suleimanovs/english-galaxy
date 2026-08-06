@@ -12,4 +12,10 @@ As far as I'm concerned I have a completely different point of view on this issu
 
 ---
 
-As for my hobbies - 
+As for my hobbies - Что касается моих увлечений
+As far as something is concerned - Что касается  чего-то
+As far as my hobbies are concerned - Что касается моих увлечений
+As far as my hobbies are concerned I really enjoy swimming and learning foreign languages
+
+---
+
