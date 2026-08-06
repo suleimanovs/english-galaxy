@@ -57,4 +57,28 @@ It's quite understandable why he refused to do it
 
 Speaking from my own experience - Говорю по собственному опыту / Исходя их своего собственного опыта
 
-Speaking from my own experience 
+Speaking from my own experience I can say the following 
+
+---
+
+In my view - На мой взгляд/ По моему 
+
+In my view it's exactly what you need to do 
+
+---
+
+To sum up - Подводя итог
+To sum up the party was really great
+
+---
+
+What do you mean  - Что ты имеешь ввиду?
+
+What exactly do you  mean? 
+
+---
+That's it - Верно
+
+So, Let's get started
+
+---
