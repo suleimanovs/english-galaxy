@@ -43,6 +43,18 @@ You may think that - Ты возможно подумаешь что
 You may think that it is a crazy idea but it really works
 
 ---
+The most important point is that - Самым важным моментов является то что 
 
+The most important point is that it depends on your aim, needs and demands
 
+---
 
+It's quite understandable why - Вполне  понятно почему
+
+It's quite understandable why he refused to do it
+
+---
+
+Speaking from my own experience - Говорю по собственному опыту / Исходя их своего собственного опыта
+
+Speaking from my own experience 
