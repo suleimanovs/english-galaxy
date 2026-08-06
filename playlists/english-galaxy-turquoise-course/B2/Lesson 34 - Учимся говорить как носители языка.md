@@ -26,8 +26,23 @@ Ideally - в идеале
 Ideally you should train at least three times a week
 
 ---
-As a consequence - Как сле
+As a consequence - Как следствие 
 
+As a consequence it led the company to bankruptcy 
+
+---
+
+As I have just said - Как только что я сказал
+
+As I have just said, there are so many opportunities nowadays
+
+---
+
+You may think that - Ты возможно подумаешь что
+
+You may think that it is a crazy idea but it really works
+
+---
 
 
 
