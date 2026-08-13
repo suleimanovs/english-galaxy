@@ -80,5 +80,7 @@ What exactly do you  mean?
 That's it - Верно
 
 So, Let's get started
+I got your point of view
+I got your idea
 
 ---
