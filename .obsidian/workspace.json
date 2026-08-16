@@ -4,6 +4,47 @@
     "type": "split",
     "children": [
       {
+        "id": "61a18f675e52ac02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73814c9b7d9eb976",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "9KdnJNkZcWY",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=9KdnJNkZcWY"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    },
+                    "v": 1
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 35"
+            }
+          }
+        ]
+      },
+      {
         "id": "519eb7ad4d6237b6",
         "type": "tabs",
         "children": [
@@ -13,13 +54,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New.md",
+                "file": "playlists/english-galaxy-turquoise-course/B2/Lesson 35 -  Учимся говорить как носители языка.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "New"
+              "title": "Lesson 35 -  Учимся говорить как носители языка"
             }
           }
         ]
@@ -77,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5024719238281
+    "width": 358.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -195,10 +237,12 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "f9d0ef617464bc22",
+  "active": "d5f71d7be1dfb4dc",
   "lastOpenFiles": [
-    "Untitled.md",
+    "english-watchlist/Untitled.md",
+    "playlists/english-galaxy-turquoise-course/B2/Lesson 35 -  Учимся говорить как носители языка.md",
     "Home Page.md",
+    "Untitled.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 34 - Учимся говорить как носители языка.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 33 - Учимся говорить как носители языка.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 32 - Учимся  говорить как носители языка.md",
@@ -225,14 +269,12 @@
     "english words/anki/Anki Decks.md",
     "playlists/learn-5000-english-words/Lesson 32 (189-193).md",
     "playlists/learn-5000-english-words/Vocabulary Glossary.md",
-    "playlists/learn-5000-english-words/Unknown Words.md",
     "english words/anki/audio/eg_rightly.mp3",
     "english words/anki/audio/eg_reservation.mp3",
     "english words/anki/audio/eg_necessarily.mp3",
     "english words/anki/audio/eg_nails.mp3",
     "english words/anki/audio/eg_ironing.mp3",
     "english words/anki/audio/eg_favour.mp3",
-    "playlists/learn-5000-english-words/Lesson 31 (184-188).md",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
