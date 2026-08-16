@@ -33,5 +33,21 @@ To put it mildly this food leaves a lot to be desired
 
 ---
 
-To put it blankly - говоря прямо
+To put it blankly - Говоря прямо
+
+To put it blankly it wasn't the best decision.
+
+---
+
+Surprising as it may seem - Как ни удивительно(неожиданно)
+
+Surprising as it may seem he was dismissed for another reason
+
+---
+
+Amazing as it may seem - Как не удивительно(в плане здоров)
+
+Amazing as it may seem he doesn't think that money really matters
+
+---
 
