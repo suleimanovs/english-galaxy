@@ -51,3 +51,24 @@ Amazing as it may seem he doesn't think that money really matters
 
 ---
 
+Strange as it may seem - Как ни странно
+
+Strange as it may seem the boy doesn't go to kindergarten
+
+---
+
+Incredible as it may seem - Неворятно как это может показать, Как это ни неверятно
+
+Incredible as it may seem I won the lottery
+
+---
+
+I'm inclined to believe that - Я склонен считать что
+
+I'm inclined to believe that it won't last forever
+
+---
+
+To put it another way - Говоря иначе 
+
+To put it another way it is the most influenc
