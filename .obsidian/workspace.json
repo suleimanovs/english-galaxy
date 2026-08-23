@@ -4,47 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "61a18f675e52ac02",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "73814c9b7d9eb976",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "9KdnJNkZcWY",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=9KdnJNkZcWY"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    },
-                    "v": 1
-                  }
-                }
-              },
-              "icon": "youtube",
-              "title": "YouTube - 9KdnJNkZcWY"
-            }
-          }
-        ]
-      },
-      {
         "id": "519eb7ad4d6237b6",
         "type": "tabs",
         "children": [
