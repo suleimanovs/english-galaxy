@@ -71,4 +71,17 @@ I'm inclined to believe that it won't last forever
 
 To put it another way - Говоря иначе 
 
-To put it another way it is the most influenc
+To put it another way it is one of the most influential organization in the world.
+
+---
+
+To cut a long story short - Короче говоря
+
+To cut a long story short it led to a very serious disagreement
+To cut a long story short it also helped me to improve my English greatly 
+
+---
+
+
+
+
