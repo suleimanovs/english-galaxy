@@ -21,5 +21,8 @@ If + had v3 + would/could + have v3
 If I had left home earlier, I wouldn't have been late for the meeting
 If we had hurried up, we wouldn't have missed the bus.
 If I had done it I would have lost lots of money.
-If I had known about it I would 
+If I had known about it I would have come there
+
+---
+
 
