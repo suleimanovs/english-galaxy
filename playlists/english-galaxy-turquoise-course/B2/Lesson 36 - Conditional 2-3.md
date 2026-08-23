@@ -3,4 +3,9 @@
 
 ---
 
-Conditional 2 - Когда говорим о настоящем и что-то нереальное
+Conditional 2 - Когда говорим о настоящем , но что-то нереальное
+
+If + Past Simple + would/could + verb
+
+If he had one million he would buy a new house
+If I were you, I would do the same 
