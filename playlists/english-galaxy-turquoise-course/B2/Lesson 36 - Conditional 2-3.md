@@ -25,6 +25,10 @@ If I had known about it I would have come there
 
 ---
 
-I would have done it If i had been here yesterday 
-I would call her, If I knew her phone number
-He 
+I would have done it If i had been here yesterday  - Conditional 2
+I would call her, If I knew her phone number -  Conditional 3
+He wouldn't have bought that flat If he hadn't taken a mortgage - Conditional 3
+I could call her If I had her number.
+In your place 
+
+---
