@@ -29,6 +29,8 @@ I would have done it If i had been here yesterday  - Conditional 2
 I would call her, If I knew her phone number -  Conditional 3
 He wouldn't have bought that flat If he hadn't taken a mortgage - Conditional 3
 I could call her If I had her number.
-In your place 
+If I were you I wouldn't agree to do it - Conditional 2
+I could have done it If I had been there yesterday 
+If he had been more careful this accident wouldn't have happened
 
 ---
