@@ -4,6 +4,47 @@
     "type": "split",
     "children": [
       {
+        "id": "3907cc0c5d827ff0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "652faedb2b6c6960",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "j8uBmJWH6YY",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=j8uBmJWH6YY"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    },
+                    "v": 1
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 36"
+            }
+          }
+        ]
+      },
+      {
         "id": "519eb7ad4d6237b6",
         "type": "tabs",
         "children": [
@@ -13,13 +54,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "grammar/conditionals/Second Conditional — второе условие (нереальное настоящее).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home Page"
+              "title": "Second Conditional — второе условие (нереальное настоящее)"
             }
           }
         ]
@@ -197,9 +238,10 @@
   },
   "active": "d5f71d7be1dfb4dc",
   "lastOpenFiles": [
+    "playlists/english-galaxy-turquoise-course/B2/Lesson 36 - Conditional 2-3.md",
+    "Home Page.md",
     "english-watchlist/Untitled.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 35 -  Учимся говорить как носители языка.md",
-    "Home Page.md",
     "Untitled.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 34 - Учимся говорить как носители языка.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 33 - Учимся говорить как носители языка.md",
@@ -226,7 +268,6 @@
     "playlists/english-galaxy-turquoise-course/B2/Lesson 28 - Учимся говорить как носители языка часть 4.md",
     "english words/anki/Anki Decks.md",
     "playlists/learn-5000-english-words/Lesson 32 (189-193).md",
-    "playlists/learn-5000-english-words/Vocabulary Glossary.md",
     "english words/anki/audio/eg_rightly.mp3",
     "english words/anki/audio/eg_reservation.mp3",
     "english words/anki/audio/eg_necessarily.mp3",
