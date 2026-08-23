@@ -32,5 +32,7 @@ I could call her If I had her number.
 If I were you I wouldn't agree to do it - Conditional 2
 I could have done it If I had been there yesterday 
 If he had been more careful this accident wouldn't have happened
+If he didn't have this debt he would feel much more independent 
+I would have bought this house If I had had enough money
 
 ---
