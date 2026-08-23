@@ -16,6 +16,10 @@ If he didn't have this debt, he could buy it.
 
 Conditional 3 -  Когда говорим о прошлом, но что-то не реальное 
 
-If + had done + would/could + v3
+If + had v3 + would/could + have v3
 
-If I 
+If I had left home earlier, I wouldn't have been late for the meeting
+If we had hurried up, we wouldn't have missed the bus.
+If I had done it I would have lost lots of money.
+If I had known about it I would 
+
