@@ -45,4 +45,27 @@ If only I could buy this thing
 If only + Past Perfect - Если бы только... (о прошлом)
 
 If only I had followed your advice 
-If only I had
+If only I hadn't missed this chance.
+
+---
+
+It's time to do something - Пора сделать что-то
+
+It's time to go home
+
+---
+
+It's time for someone to do something - Пора кому-то сделать что-то
+
+It's time for us to go home
+
+---
+It's time + Past Simple - Пора сделать что-то
+
+It's time I went home
+
+---
+
+It's high time + Past Simple. - Давно пора сделать что-то
+
+It's high time 
