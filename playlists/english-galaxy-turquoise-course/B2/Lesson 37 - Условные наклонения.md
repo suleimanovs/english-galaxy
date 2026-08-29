@@ -25,14 +25,21 @@ If + Past Simple + would/could + verb
 
 If I had more free time I could try to do it.
 
-
 ---
-
 
 Conditional 3 - Мы говорим о прошлом, но что-то не реалистичное, воображаемое 
 
 If + Подлежащее + had + verb3 + would/could + Подлежащее + have verb3
 
+If he had earned this money he would have spent it on his family needs 
 
+---
 
+If only + Past Simple - Если бы только... (о настоящем)
 
+If only I knew what to do 
+If only I could buy this thing
+
+---
+
+If on
