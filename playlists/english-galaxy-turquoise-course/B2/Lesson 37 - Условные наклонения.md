@@ -68,4 +68,16 @@ It's time I went home
 
 It's high time + Past Simple. - Давно пора сделать что-то
 
-It's high time 
+It's high time you thought about it more seriously 
+It's high time we talked about it 
+
+---
+
+I wish + Past Simple -  Я хотел бы, что бы (о настоящем)
+
+I wish I could afford to buy it.
+I wish you were here now
+
+---
+
+I wish + Past Perf -  Я хотел бы, что бы (о настоящем)
