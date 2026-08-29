@@ -42,4 +42,7 @@ If only I could buy this thing
 
 ---
 
-If on
+If only + Past Perfect - Если бы только... (о прошлом)
+
+If only I had followed your advice 
+If only I had
