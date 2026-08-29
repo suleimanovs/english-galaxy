@@ -80,4 +80,10 @@ I wish you were here now
 
 ---
 
-I wish + Past Perf -  Я хотел бы, что бы (о настоящем)
+I wish + Past Perfect -  Я хотел бы, что бы (о прошедшем)
+
+I wish I had met her earlier
+I wish I hadn't said it during our conversation
+
+---
+
