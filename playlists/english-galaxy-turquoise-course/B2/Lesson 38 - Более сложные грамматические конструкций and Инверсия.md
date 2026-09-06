@@ -76,7 +76,11 @@ Having finished doing this exercise, I went for a walk.
 
 ### 2. Инверсия
 
+Подлежащее + do/does + глагол 
+
 I do + глагол - Я реально делаю что-то
 
 I do understand it - Я действительно понимаю
-
+I do realize the importance of this decision - Я действительно осознаю важность этого решения
+It does matter
+I perfectly realize that money does matter in our society 
