@@ -57,8 +57,12 @@ He decided to go out despite the bad weather.
 despite the fact that - Не смотря на тот факт что
 in spite of the fact that - Не смотря на тот факт что
 
+in spite of doing something - 
+despite doing something - 
+
 She went to work despite the fact that she felt bad
 He doesn't buy the latest model in spite of the fact that he can afford to do it.
-I will continue doing it despite the fact that I don't have 
+I will continue doing it despite having little free time 
+She is very active person in spite of being eight hundred years
 
 ---
