@@ -46,17 +46,19 @@ My friend is just about to come
 I was just about to call you 
 
 ---
-despite - не смотря на
-
-He decided to go out despite the bad weather.
-
----
 in spite of - не смотря на
+despite - не смотря на
 
 I decided to go out in spite of the rain
 She is very active in spite of her age
+He decided to go out despite the bad weather.
 
 ---
 despite the fact that - Не смотря на тот факт что
+in spite of the fact that - Не смотря на тот факт что
 
 She went to work despite the fact that she felt bad
+He doesn't buy the latest model in spite of the fact that he can afford to do it.
+I will continue doing it despite the fact that I don't have 
+
+---
