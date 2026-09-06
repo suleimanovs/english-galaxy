@@ -5,4 +5,28 @@
 
 as well as - также как и
 
-I invited her as well as 
+I invited her as well as him
+
+---
+
+as well - так же
+
+We have regular meetings  at the weekends as well - Мы так же проводим регулярные встречи по выходным
+
+---
+likely to - скорее всего
+
+It is likely to happen - Это скорее всего случится
+
+---
+unlikely to - вряд ли
+
+It is unlikely to happen - Это вряд ли случится
+
+---
+It is highly unlikely that - Крайне маловероятно что
+
+It is highly unlikely that they will do it.
+
+---
+It is highly unlile
