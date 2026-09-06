@@ -27,6 +27,22 @@ It is unlikely to happen - Это вряд ли случится
 It is highly unlikely that - Крайне маловероятно что
 
 It is highly unlikely that they will do it.
+It is highly unlikely that  it will be so.
 
 ---
-It is highly unlile
+to be bound to - должно
+
+It was bound to happen sooner or later - 
+
+---
+to be certain to - должно/обязательно
+
+It is certain to happen  - Это обязательно произойдет
+
+---
+to be just about to - вот-вот / как раз произойдет что-то
+
+My friend is just about to come  
+I was just about to call you 
+
+---
