@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "affd5db5381404a5",
+        "id": "fc73e53a9764f943",
         "type": "tabs",
         "children": [
           {
-            "id": "c0abff04f9d631ab",
+            "id": "026a70863523c852",
             "type": "leaf",
             "state": {
               "type": "mx-url",
@@ -19,12 +19,12 @@
                       "type": "url:hosted",
                       "vid": {
                         "host": "youtube",
-                        "vid": "GvLtyk0AQF8",
+                        "vid": "hU_RXHZnQ-4",
                         "t": null,
                         "start": null,
                         "end": null
                       },
-                      "url": "https://www.youtube.com/watch?v=GvLtyk0AQF8"
+                      "url": "https://www.youtube.com/watch?v=hU_RXHZnQ-4"
                     },
                     "hash": {}
                   },
@@ -39,7 +39,7 @@
                 }
               },
               "icon": "youtube",
-              "title": "YouTube - GvLtyk0AQF8"
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 38"
             }
           }
         ]
@@ -54,13 +54,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "playlists/english-galaxy-turquoise-course/B2/Lesson 38 - Более сложные грамматические конструкций.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home Page"
+              "title": "Lesson 38 - Более сложные грамматические конструкций"
             }
           }
         ]
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "If only",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,11 +113,13 @@
               "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 358.5024719238281
+    "width": 488.6907043457031,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -237,8 +239,9 @@
   },
   "active": "fba66944ead0ed3a",
   "lastOpenFiles": [
-    "playlists/english-galaxy-turquoise-course/B2/Lesson 37 - Условные наклонения.md",
+    "playlists/english-galaxy-turquoise-course/B2/Lesson 38 - Более сложные грамматические конструкций.md",
     "Home Page.md",
+    "playlists/english-galaxy-turquoise-course/B2/Lesson 37 - Условные наклонения.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 36 - Conditional 2-3.md",
     "grammar/conditionals/Third Conditional — третье условие (нереальное прошлое).md",
     "grammar/conditionals/First Conditional — первое условие (реальное).md",
@@ -266,7 +269,6 @@
     "english words/anki/secrets.json",
     "hahaha.md",
     "Setup.md",
-    "Backlog.md",
     "english words/anki/audio/eg_rightly.mp3",
     "english words/anki/audio/eg_reservation.mp3",
     "english words/anki/audio/eg_necessarily.mp3",
