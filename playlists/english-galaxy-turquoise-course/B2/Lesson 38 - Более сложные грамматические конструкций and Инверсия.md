@@ -2,6 +2,7 @@
 **Видео:** https://www.youtube.com/watch?v=hU_RXHZnQ-4
 
 ---
+### 1.Более сложные грамматические конструкций
 
 as well as - также как и
 
@@ -63,6 +64,19 @@ despite doing something -
 She went to work despite the fact that she felt bad
 He doesn't buy the latest model in spite of the fact that he can afford to do it.
 I will continue doing it despite having little free time 
-She is very active person in spite of being eight hundred years
+She is very active person in spite of being eighty years old
 
 ---
+Having done something - Сделав/Выполнив что-то
+
+Having done these exercises I called my friend.
+Having finished doing this exercise, I went for a walk.
+
+---
+
+### 2. Инверсия
+
+I do + глагол - Я реально делаю что-то
+
+I do understand it - Я действительно понимаю
+
