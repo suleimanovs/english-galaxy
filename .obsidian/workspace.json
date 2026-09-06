@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "despite the fact that",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,8 +113,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
