@@ -4,63 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fc73e53a9764f943",
+        "id": "b66852e3f80c415e",
         "type": "tabs",
         "children": [
           {
-            "id": "026a70863523c852",
+            "id": "a56878024979e622",
             "type": "leaf",
             "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "hU_RXHZnQ-4",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=hU_RXHZnQ-4"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    },
-                    "v": 1
-                  }
-                }
-              },
-              "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 38"
-            }
-          }
-        ]
-      },
-      {
-        "id": "638ccf88b985224a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fba66944ead0ed3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "playlists/english-galaxy-turquoise-course/B2/Lesson 38 - Более сложные грамматические конструкций and Инверсия.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lesson 38 - Более сложные грамматические конструкций and Инверсия"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -82,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "despite the fact that",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488.6907043457031,
-    "collapsed": true
+    "width": 488.6907043457031
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -236,10 +189,10 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "fba66944ead0ed3a",
+  "active": "a56878024979e622",
   "lastOpenFiles": [
-    "playlists/english-galaxy-turquoise-course/B2/Lesson 38 - Более сложные грамматические конструкций and Инверсия.md",
     "Home Page.md",
+    "playlists/english-galaxy-turquoise-course/B2/Lesson 38 - Более сложные грамматические конструкций and Инверсия.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 37 - Условные наклонения.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 36 - Conditional 2-3.md",
     "grammar/conditionals/Third Conditional — третье условие (нереальное прошлое).md",
