@@ -58,3 +58,23 @@ I can;t help admiring - Я не могу не восхищаться кем-то
 
 I can't help admiring this person
 I can't help admiring the beauty of this place.
+
+---
+
+afterwards - После(просто после, без уточнения после чего)
+
+Afterwards we changed the subject.
+Afterwards they started talking about different things 
+
+---
+
+Would you mind doing ? - Вы не могли бы сделать что-то?
+
+Would you mind closing the door?
+Would you mind opening the window? 
+
+---
+
+It's a pity that - Жаль что
+
+It's a pity that you weren't there
