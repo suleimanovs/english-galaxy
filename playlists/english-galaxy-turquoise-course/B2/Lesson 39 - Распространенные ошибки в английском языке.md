@@ -42,4 +42,19 @@ Please explain this answer to me
 
 I'd like to give you some advice - В русском языке мы можем говорить "один совет", на английском строго "some advice", даже если мы имеем ввиду строго один совет, так же цифру, коль-во вести нельзя
 
-The police is 
+---
+
+The police **are** investigating this crime  - В английском police это множественное число
+
+---
+
+with the aim of - с целью чего-то
+
+I started learning English with the aim of understanding people from other countries 
+
+---
+
+I can;t help admiring - Я не могу не восхищаться кем-то / чем-то
+
+I can't help admiring this person
+I can't help admiring the beauty of this place.
