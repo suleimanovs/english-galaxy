@@ -11,35 +11,15 @@
             "id": "e4475b00ab9ca764",
             "type": "leaf",
             "state": {
-              "type": "mx-url",
+              "type": "markdown",
               "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "BKoizhG33Qc",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=BKoizhG33Qc"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    },
-                    "v": 1
-                  }
-                }
+                "file": "Home Page.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "youtube",
-              "title": "YouTube - BKoizhG33Qc"
+              "icon": "lucide-file",
+              "title": "Home Page"
             }
           }
         ]
@@ -236,7 +216,7 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "f9d0ef617464bc22",
+  "active": "e4475b00ab9ca764",
   "lastOpenFiles": [
     "playlists/learn-5000-english-words/Lesson 44 (248-250).md",
     "playlists/learn-5000-english-words/Lesson 43 (245-247).md",
