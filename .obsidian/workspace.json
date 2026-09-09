@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ae6e6f57b5c98e62",
+        "id": "bc1437f71eca2025",
         "type": "tabs",
         "children": [
           {
-            "id": "c5461a89c8ca0a16",
+            "id": "e4475b00ab9ca764",
             "type": "leaf",
             "state": {
               "type": "mx-url",
@@ -19,12 +19,12 @@
                       "type": "url:hosted",
                       "vid": {
                         "host": "youtube",
-                        "vid": "y5m1RD2eiZo",
+                        "vid": "BKoizhG33Qc",
                         "t": null,
                         "start": null,
                         "end": null
                       },
-                      "url": "https://www.youtube.com/watch?v=y5m1RD2eiZo"
+                      "url": "https://www.youtube.com/watch?v=BKoizhG33Qc"
                     },
                     "hash": {}
                   },
@@ -39,7 +39,7 @@
                 }
               },
               "icon": "youtube",
-              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 39"
+              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 44"
             }
           }
         ]
@@ -54,13 +54,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "playlists/learn-5000-english-words/Lesson 23 (122-130).md",
+                "file": "playlists/learn-5000-english-words/Lesson 44 (248-250).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 23 (122-130)"
+              "title": "Lesson 44 (248-250)"
             }
           }
         ]
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488.6907043457031
+    "width": 488.6907043457031,
+    "collapsed": true
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -238,6 +239,9 @@
   },
   "active": "a56878024979e622",
   "lastOpenFiles": [
+    "playlists/learn-5000-english-words/Lesson 44 (248-250).md",
+    "playlists/learn-5000-english-words/Lesson 43 (245-247).md",
+    "playlists/learn-5000-english-words/Lesson 23 (122-130).md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 39 - Распространенные ошибки в английском языке.md",
     "Home Page.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 38 - Более сложные грамматические конструкций and Инверсия.md",
@@ -252,7 +256,6 @@
     "playlists/english-galaxy-turquoise-course/B2/Lesson 34 - Учимся говорить как носители языка.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 33 - Учимся говорить как носители языка.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 32 - Учимся  говорить как носители языка.md",
-    "playlists/learn-5000-english-words/Lesson 43 (245-247).md",
     "playlists/learn-5000-english-words/Lesson 35 (204-205).md",
     "2026-07-15.md",
     "New.md",
@@ -264,10 +267,8 @@
     "Без названия",
     "media-lib/extra.torrent",
     "english words/anki/Vocabulary Glossary.md",
-    "english words/anki/Unknown Words.md",
     "english words/anki/word-tracker.csv",
     "english words/anki/secrets.json",
-    "hahaha.md",
     "english words/anki/audio/eg_rightly.mp3",
     "english words/anki/audio/eg_reservation.mp3",
     "english words/anki/audio/eg_necessarily.mp3",
