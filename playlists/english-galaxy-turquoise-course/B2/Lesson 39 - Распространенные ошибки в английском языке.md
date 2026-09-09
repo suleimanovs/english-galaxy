@@ -27,6 +27,19 @@ I'd like to make fewer mistakes
 
 ---
 
-hundred - сто
+В русском языке мы можем говорить просто сто как есть, в английском есть два варианта
 
-I need 
+I need one hundred dollars  - уточнить точное кол-во
+I need a hundred dollars -  или использовать артикль
+
+---
+
+explain something to someone - обьяснить что-то кому-то, на англ именно такой порядок
+
+Please explain this answer to me 
+
+---
+
+I'd like to give you some advice - В русском языке мы можем говорить "один совет", на английском строго "some advice", даже если мы имеем ввиду строго один совет, так же цифру, коль-во вести нельзя
+
+The police is 
