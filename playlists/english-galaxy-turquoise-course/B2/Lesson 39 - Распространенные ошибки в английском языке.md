@@ -76,5 +76,19 @@ Would you mind opening the window?
 ---
 
 It's a pity that - Жаль что
+It's a real pity that - Очень жаль что
 
-It's a pity that you weren't there
+
+It's a pity that you weren't there.
+It's a real pity that, we can do nothing about it 
+
+---
+
+exception to - исключение из
+
+There is an exception to almost every rule 
+
+---
+for the last few days - последние несколько дней
+
+I have been at home for the last few days
