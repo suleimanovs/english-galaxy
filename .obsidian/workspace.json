@@ -39,7 +39,7 @@
                 }
               },
               "icon": "youtube",
-              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 44"
+              "title": "YouTube - BKoizhG33Qc"
             }
           }
         ]
@@ -54,13 +54,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "playlists/learn-5000-english-words/Lesson 44 (248-250).md",
+                "file": "Home Page.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 44 (248-250)"
+              "title": "Home Page"
             }
           }
         ]
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488.6907043457031,
-    "collapsed": true
+    "width": 488.6907043457031
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -237,7 +236,7 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "a56878024979e622",
+  "active": "f9d0ef617464bc22",
   "lastOpenFiles": [
     "playlists/learn-5000-english-words/Lesson 44 (248-250).md",
     "playlists/learn-5000-english-words/Lesson 43 (245-247).md",
