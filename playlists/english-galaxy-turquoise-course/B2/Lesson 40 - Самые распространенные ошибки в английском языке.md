@@ -43,4 +43,21 @@ We need to consider different economic factors
 in good condition - в хорошем состояний
 in bad condition - в плохом состояний
 
-The car is in good condition
+The car is in good condition.
+The house was in bad condition.
+
+---
+
+the majority of - большинство
+
+It makes me feel that the majority of people will support this idea
+
+---
+
+conscious of - осознающий что-то
+
+I'm conscious of these risks
+
+---
+
+They say that they are conscious of 
