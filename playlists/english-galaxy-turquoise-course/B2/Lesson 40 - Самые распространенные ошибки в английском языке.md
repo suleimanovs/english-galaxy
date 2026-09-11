@@ -76,6 +76,15 @@ We have a lot in common.
 ---
 
 Учится никогда не поздно - It is never too late to learn
-Внешность обманичва - Appear
+Внешность обманичва - Appearances are deceptive
 
+As we all know appearances can be deceptive
+
+---
+
+a great deal of - много чего-то (когда не исчеслямое)
+a great deal of time - много времени
+
+I spent a great deal of time on it 
+It costs a great deal of money.
 
