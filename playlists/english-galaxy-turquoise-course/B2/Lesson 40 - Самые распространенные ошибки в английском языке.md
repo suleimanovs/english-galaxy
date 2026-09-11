@@ -57,7 +57,25 @@ It makes me feel that the majority of people will support this idea
 conscious of - осознающий что-то
 
 I'm conscious of these risks
+They say that they are conscious of these possible risks 
 
 ---
 
-They say that they are conscious of 
+each of - каждый из
+
+Each of the students was given a clean sheet of paper 
+
+---
+
+have much in common - иметь много общего
+have a lot in common - иметь много общего
+
+These people have much in common
+We have a lot in common.
+
+---
+
+Учится никогда не поздно - It is never too late to learn
+Внешность обманичва - Appear
+
+
