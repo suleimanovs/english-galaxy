@@ -26,4 +26,21 @@ I didn't pay attention to it in the beginning
 
 ---
 
-in cach - на
+in cach - наличными
+
+He usually preferred to pay in cash 
+
+---
+
+economical - экономный, экономичный
+economic - экономический
+
+This machine is very economical 
+We need to consider different economic factors
+
+---
+
+in good condition - в хорошем состояний
+in bad condition - в плохом состояний
+
+The car is in good condition
