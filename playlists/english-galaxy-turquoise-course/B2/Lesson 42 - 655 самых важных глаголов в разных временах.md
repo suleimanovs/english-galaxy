@@ -21,6 +21,8 @@ perceive - воспринимать
 avoid  - избегать
 prescribe - прописывать
 replace - заменять
+fasten - застегнуть
+reckon - считать
 
 ---
 
@@ -38,7 +40,10 @@ He said that he had graduated from a very prestigious university
 It is a well known fact that success is perceived differently by people
 I try to avoid discussing things like that
 I was prescribed to me by the doctor 
-It isn't 
+It isn't so easy to replace these workers
+You need to fasten the belt
+I reckon it is the best choice for us at the moment.
+
 
 
 ---
