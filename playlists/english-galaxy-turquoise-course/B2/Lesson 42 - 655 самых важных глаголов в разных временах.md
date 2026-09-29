@@ -17,6 +17,10 @@ value - ценить
 convey - передавать
 graduate from - окончить какое-то высшее учебное заведение
 prestigious - престижный
+perceive - воспринимать
+avoid  - избегать
+prescribe - прописывать
+replace - заменять
 
 ---
 
@@ -30,7 +34,12 @@ They can't deprive these people of their rights
 I told him that I hadn't installed this program yet
 He is valued and respected.
 I will try to convey the meaning of this sentence
-He said that he graduated from a very prestigious university 5r45r4r4r46556565656565
+He said that he had graduated from a very prestigious university 
+It is a well known fact that success is perceived differently by people
+I try to avoid discussing things like that
+I was prescribed to me by the doctor 
+It isn't 
+
 
 ---
 
