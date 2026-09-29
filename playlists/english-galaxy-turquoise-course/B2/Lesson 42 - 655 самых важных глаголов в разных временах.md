@@ -13,6 +13,10 @@ just out of curiosity - чисто из любопытства
 spread - распространяться
 deprive of - лишить чего-то
 install - устанавливаться
+value - ценить
+convey - передавать
+graduate from - окончить какое-то высшее учебное заведение
+prestigious - престижный
 
 ---
 
@@ -23,6 +27,13 @@ This woman is treated very unfairly
 I decided to glance at it just out of curiosity.
 Surprisingly the disease started spreading very fast 
 They can't deprive these people of their rights
-I told him that I haven't istalled 
+I told him that I hadn't installed this program yet
+He is valued and respected.
+I will try to convey the meaning of this sentence
+He said that he graduated from a very prestigious university 5r45r4r4r46556565656565
+
+---
+
+
 
 
