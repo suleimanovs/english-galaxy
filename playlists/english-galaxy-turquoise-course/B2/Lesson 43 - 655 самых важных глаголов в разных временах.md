@@ -113,4 +113,13 @@ I just wanna remind you of this thing
 
 pause - сделать паузу
 
-he made a pause for a second
+He paused for a couple of seconds
+
+---
+
+clarify - прояснять
+
+I just wanna clarify one point 
+
+---
+
