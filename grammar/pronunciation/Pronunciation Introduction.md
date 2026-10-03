@@ -10,6 +10,7 @@ tags: [grammar, pronunciation]
 [[English Sounds — звуки английского]]
 [[Word Stress — ударение в словах]]
 [[Sentence Stress and Intonation — интонация]]
+[[Connected Speech — связная речь: linking, reductions, flap T]]
 [[Russian Speaker Mistakes — ошибки русскоязычных]]
 
 **Краткий обзор раздела:**
@@ -19,4 +20,5 @@ tags: [grammar, pronunciation]
 | Звуки английского | ~15 гласных в GA (в русском 6), th, w, r, ng |
 | Ударение в словах | Ударение не предсказуемо, меняет значение (REcord /ˈrɛkərd/ — reCORD /rɪˈkɔrd/) |
 | Интонация | Русская интонация плоская; английская поднимается и падает по правилам |
+| Связная речь | Слова сливаются: pick it up → pi-ki-DUP, water → [ˈwɔɾər], want to → wanna |
 | Ошибки русскоязычных | Оглушение конечных согласных, замена th на s/z/f, отсутствие schwa, «проглоченный» /r/ |

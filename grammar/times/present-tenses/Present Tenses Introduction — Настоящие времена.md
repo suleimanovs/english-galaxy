@@ -12,6 +12,8 @@ tags: [grammar, times]
 [[Present Continuous — Настоящее продолженное время]]
 [[Present Perfect — Настоящее совершённое время]]
 [[Present Perfect Continuous — Настоящее совершённое продолженное время]]
+[[Verb To Be — am, is, are, was, were]]
+[[Stative Verbs — глаголы состояния]]
 
 
 **Итоговая таблица всех четырёх Present Tenses:**
@@ -22,3 +24,5 @@ tags: [grammar, times]
 | **Present Continuous**         | am/is/are + V-ing       | Прямо сейчас, временно, план  | She is working now.              |
 | **Present Perfect**            | have/has + V3           | Прошлое → результат сейчас    | She has worked here for 5 years. |
 | **Present Perfect Continuous** | have/has + been + V-ing | Процесс от прошлого до сейчас | She has been working since 9 AM. |
+| **Verb To Be** (справочник) | am / is / are, was / were | Вопросы и отрицания без do | Is she at home? — No, she isn't. |
+| **Stative Verbs** (справочник) | know, like, belong, need… | Не используются в Continuous | I know him. (не: *I am knowing*) |

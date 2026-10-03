@@ -9,6 +9,7 @@ tags: [grammar, articles]
 
 
 [[Articles — артикли (a, an, the, нулевой)]]
+[[Personal Pronouns — личные местоимения (I и me, who и whom, one, other и another, each other)]]
 [[Possessive Pronouns — притяжательные местоимения]]
 [[Reflexive Pronouns — возвратные местоимения]]
 [[Demonstrative Pronouns — указательные местоимения (this, that, these, those)]]
@@ -21,6 +22,7 @@ tags: [grammar, articles]
 | Тема | Суть | Главная сложность |
 |---|---|---|
 | Articles | a/an = новый/один из многих; the = конкретный/известный; нулевой = обобщение | Нет интуиции из родного языка; географические названия; учреждения |
+| Personal Pronouns | I/me, who/whom, one, other/another, each other, singular they | John and me / John and I; than me; whom только формально; the other vs another |
 | Possessive Pronouns | my/your/his... перед существительным; mine/yours/his... без существительного | its vs it's; their/there/they're; двойное притяжание |
 | Reflexive Pronouns | myself/yourself... — действие на себя или усиление | Лишнее возвратное там, где в русском «себя»; by myself vs alone |
 | Demonstrative Pronouns | this/that/these/those — близко/далеко, ед./мн. число | Согласование по числу; this vs it; телефонные разговоры |

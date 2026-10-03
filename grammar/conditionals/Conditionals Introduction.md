@@ -14,6 +14,7 @@ tags: [grammar, cond]
 [[Third Conditional — третье условие (нереальное прошлое)]]
 [[Mixed Conditionals — смешанные условия]]
 [[Wish Constructions — конструкции с wish]]
+[[If Alternatives — unless, as long as, provided, in case, even if, suppose]]
 
 
 **Сравнительная таблица всех типов:**
@@ -26,3 +27,4 @@ tags: [grammar, cond]
 | **Third** | if + Past Perfect | would have + V3 | Нереальное прошлое |
 | **Mixed** | if + Past Perfect | would + V | Прошлое условие → настоящий результат |
 | **Mixed** | if + Past Simple | would have + V3 | Настоящее условие → прошлый результат |
+| **Без if** | unless / as long as / in case / even if / Should you… | как у соответствующего типа | Альтернативы if и инверсия — см. If Alternatives |

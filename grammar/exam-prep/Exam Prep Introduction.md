@@ -8,6 +8,7 @@ tags: [grammar, exam]
 [[IELTS Overview — структура экзамена]]
 [[IELTS Writing — стратегия письменной части]]
 [[IELTS Speaking — стратегия устной части]]
+[[IELTS Listening and Reading — стратегия]]
 
 **Краткий обзор:**
 

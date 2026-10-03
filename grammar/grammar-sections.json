@@ -15,6 +15,16 @@
           "file": "Present Simple — Настоящее простое время"
         },
         {
+          "en": "Verb To Be",
+          "ru": "am / is / are / was / were",
+          "file": "Verb To Be — am, is, are, was, were"
+        },
+        {
+          "en": "Stative Verbs",
+          "ru": "глаголы состояния: know, like, belong…",
+          "file": "Stative Verbs — глаголы состояния"
+        },
+        {
           "en": "Present Continuous",
           "ru": "Настоящее продолженное",
           "file": "Present Continuous — Настоящее продолженное время"
@@ -109,6 +119,11 @@
           "en": "Articles",
           "ru": "a, an, the, нулевой артикль",
           "file": "Articles — артикли (a, an, the, нулевой)"
+        },
+        {
+          "en": "Personal Pronouns",
+          "ru": "I / me, who / whom, other / another",
+          "file": "Personal Pronouns — личные местоимения (I и me, who и whom, one, other и another, each other)"
         },
         {
           "en": "Possessive Pronouns",
@@ -234,6 +249,16 @@
           "en": "Need / Dare",
           "ru": "необходимость и смелость",
           "file": "Need и Dare — необходимость и смелость"
+        },
+        {
+          "en": "Semi-Modals",
+          "ru": "have to, be able to, had better, would rather",
+          "file": "Semi-Modals — have to, be able to, had better, would rather, be supposed to"
+        },
+        {
+          "en": "Modals of Deduction",
+          "ru": "must be, can't be, might have…",
+          "file": "Modals of Deduction — must, may, might, can't, could have"
         }
       ]
     },
@@ -284,6 +309,11 @@
           "en": "Modal Passive",
           "ru": "пассив + модальный глагол",
           "file": "Modal Passive — пассивный залог с модальными глаголами"
+        },
+        {
+          "en": "Passive: Special Cases",
+          "ru": "get-passive, два дополнения, пассивный инфинитив",
+          "file": "Passive Voice Special Cases — get-passive, два дополнения, пассив инфинитива и герундия"
         }
       ]
     },
@@ -324,6 +354,11 @@
           "en": "Wish Constructions",
           "ru": "I wish / If only",
           "file": "Wish Constructions — конструкции с wish"
+        },
+        {
+          "en": "If Alternatives",
+          "ru": "unless, as long as, in case, even if…",
+          "file": "If Alternatives — unless, as long as, provided, in case, even if, suppose"
         }
       ]
     },
@@ -464,13 +499,28 @@
           "en": "Subject-Verb Agreement",
           "ru": "согласование подлежащего и сказуемого",
           "file": "Subject-Verb Agreement — согласование подлежащего и сказуемого"
+        },
+        {
+          "en": "Imperatives & Let's",
+          "ru": "повелительное наклонение",
+          "file": "Imperatives and Let's — повелительное наклонение"
+        },
+        {
+          "en": "Numbers, Dates & Time",
+          "ru": "числа, даты, время (US)",
+          "file": "Numbers, Dates and Time — числительные, даты, время (US формат)"
+        },
+        {
+          "en": "Punctuation (US)",
+          "ru": "запятая, кавычки, апостроф, дефис",
+          "file": "Punctuation — пунктуация (US)"
         }
       ]
     },
     {
       "id": "phrasal",
       "icon": "💬",
-      "label": "Фразовые глаголы",
+      "label": "Фразовые глаголы и идиомы",
       "color": "#16A34A",
       "folder": "grammar/phrasal-verbs",
       "intro": "Phrasal Verbs Introduction",
@@ -479,6 +529,11 @@
           "en": "Phrasal Verbs",
           "ru": "теория: break up, give in, look after...",
           "file": "Phrasal Verbs — фразовые глаголы"
+        },
+        {
+          "en": "Idioms",
+          "ru": "американские идиомы по темам",
+          "file": "Idioms — идиомы"
         },
         {
           "en": "Particles Reference",
@@ -516,6 +571,11 @@
           "file": "Come — фразовые глаголы"
         },
         {
+          "en": "Cut",
+          "ru": "cut down, cut off, cut out…",
+          "file": "Cut — фразовые глаголы"
+        },
+        {
           "en": "Fall",
           "ru": "fall apart, fall behind, fall for...",
           "file": "Fall — фразовые глаголы"
@@ -536,6 +596,11 @@
           "file": "Go — фразовые глаголы"
         },
         {
+          "en": "Hold",
+          "ru": "hold on, hold up, hold back…",
+          "file": "Hold — фразовые глаголы"
+        },
+        {
           "en": "Keep",
           "ru": "keep up, keep on, keep away...",
           "file": "Keep — фразовые глаголы"
@@ -549,6 +614,16 @@
           "en": "Make",
           "ru": "make up, make out, make for...",
           "file": "Make — фразовые глаголы"
+        },
+        {
+          "en": "Pick",
+          "ru": "pick up, pick out, pick on…",
+          "file": "Pick — фразовые глаголы"
+        },
+        {
+          "en": "Pull",
+          "ru": "pull over, pull out, pull through…",
+          "file": "Pull — фразовые глаголы"
         },
         {
           "en": "Put",
@@ -566,6 +641,11 @@
           "file": "Set — фразовые глаголы"
         },
         {
+          "en": "Stand",
+          "ru": "stand up, stand out, stand for…",
+          "file": "Stand — фразовые глаголы"
+        },
+        {
           "en": "Take",
           "ru": "take off, take over, take after...",
           "file": "Take — фразовые глаголы"
@@ -574,6 +654,11 @@
           "en": "Turn",
           "ru": "turn on, turn out, turn down...",
           "file": "Turn — фразовые глаголы"
+        },
+        {
+          "en": "Work",
+          "ru": "work out, work on, work up…",
+          "file": "Work — фразовые глаголы"
         }
       ]
     },
@@ -599,6 +684,11 @@
           "en": "Sentence Stress & Intonation",
           "ru": "ритм, слабые формы, интонация",
           "file": "Sentence Stress and Intonation — интонация"
+        },
+        {
+          "en": "Connected Speech",
+          "ru": "linking, reductions, flap T",
+          "file": "Connected Speech — связная речь: linking, reductions, flap T"
         },
         {
           "en": "Russian Speaker Mistakes",
@@ -629,6 +719,16 @@
           "en": "Opinions & Discussion",
           "ru": "мнения, согласие, несогласие",
           "file": "Opinions and Discussion — мнения и дискуссия"
+        },
+        {
+          "en": "Presentations & Storytelling",
+          "ru": "структура выступления, рассказ истории",
+          "file": "Presentations and Storytelling — презентации и рассказ истории"
+        },
+        {
+          "en": "Describing Pictures & People",
+          "ru": "описание картинок, людей, мест (IELTS Part 2)",
+          "file": "Describing Pictures, People and Places — описание (IELTS Part 2)"
         }
       ]
     },
@@ -654,6 +754,11 @@
           "en": "Formal vs Informal",
           "ru": "регистры речи",
           "file": "Formal vs Informal — регистры речи"
+        },
+        {
+          "en": "Resume & Cover Letter",
+          "ru": "резюме и сопроводительное письмо (US)",
+          "file": "Resume and Cover Letter — резюме и сопроводительное письмо (US)"
         }
       ]
     },
@@ -679,6 +784,11 @@
           "en": "IELTS Speaking",
           "ru": "стратегия устной части",
           "file": "IELTS Speaking — стратегия устной части"
+        },
+        {
+          "en": "IELTS Listening & Reading",
+          "ru": "стратегия",
+          "file": "IELTS Listening and Reading — стратегия"
         }
       ]
     },

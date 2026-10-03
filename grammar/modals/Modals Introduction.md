@@ -15,6 +15,8 @@ tags: [grammar, modals]
 [[Will и Would — будущее, вежливость, привычки]]
 [[Ought To — моральная обязанность]]
 [[Need и Dare — необходимость и смелость]]
+[[Semi-Modals — have to, be able to, had better, would rather, be supposed to]]
+[[Modals of Deduction — must, may, might, can't, could have]]
 
 
 **Общие свойства модальных глаголов:**
@@ -41,3 +43,5 @@ tags: [grammar, modals]
 | Вероятность / предположение | must, can't, should, may, might, could |
 | Совет | should, ought to, had better |
 | Просьба | can, could, will, would |
+| Полумодальные (have to, be able to, had better…) | см. Semi-Modals |
+| Дедукция о настоящем и прошлом | см. Modals of Deduction |

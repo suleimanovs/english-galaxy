@@ -20,3 +20,4 @@ tags: [grammar, phrasal]
 | 7 | **give out** | раздать | sep | They gave out free samples. | |
 | 8 | **give out** | закончиться (о запасах/силах) | intrans | My patience finally gave out. | |
 | 9 | **give off** | выделять (запах, тепло, свет) | sep | The fire gave off a lot of heat. | |
+| 10 | **give in** | сдать (работу) | sep | Give in your homework by Friday. | BrE; AmE: turn in / hand in |

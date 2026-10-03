@@ -11,6 +11,7 @@ tags: [grammar, voices]
 [[Active Voice — активный залог]]
 [[Passive Voice — пассивный залог]]
 [[Modal Passive — пассивный залог с модальными глаголами]]
+[[Passive Voice Special Cases — get-passive, два дополнения, пассив инфинитива и герундия]]
 
 
 **Сравнительная таблица:**
@@ -21,3 +22,4 @@ tags: [grammar, voices]
 | **Структура** | Subject + verb + object | Object + be + V3 |
 | **Когда** | Деятель известен и важен | Деятель неизвестен, неважен или скрыт |
 | **Пример** | The police arrested him. | He was arrested. |
+| **Особые случаи** | — | get-passive, two objects, to be done / being done — см. Passive Voice Special Cases |

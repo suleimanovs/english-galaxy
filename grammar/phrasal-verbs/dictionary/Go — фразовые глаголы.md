@@ -30,3 +30,4 @@ tags: [grammar, phrasal]
 | 17 | **go down** | снижаться; садиться (солнце) | intrans | The temperature went down. / The sun went down at 8. | |
 | 18 | **go away** | уехать; уйти; исчезнуть | intrans | Go away! / The pain won't go away. | ср. go out (выйти ненадолго) |
 | 19 | **go for** | стремиться к; выбрать | insep | Go for it! / She went for the cheapest option. | |
+| 20 | **go without** | обойтись без | insep | We had to go without electricity for two days. | |
