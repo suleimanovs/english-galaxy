@@ -517,21 +517,14 @@ if (!ankiOk) {
 // ════════════════════════════════════════════════════
 // GRAMMAR
 // ════════════════════════════════════════════════════
-root.createEl('div', { cls: 'hp-section-title', text: '📚 Грамматика' });
+const grammarTitle = root.createEl('div', { cls: 'hp-section-title', text: '📚 Грамматика' });
 
-const sections = [
-	{ name: "Времена", icon: "⏰", folder: "grammar/times", intro: "grammar/times/Времена в английском" },
-	{ name: "Артикли и местоимения", icon: "🔤", folder: "grammar/articles-pronouns", intro: "grammar/articles-pronouns/Articles and Pronouns Introduction" },
-	{ name: "Существительные", icon: "📦", folder: "grammar/nouns", intro: "grammar/nouns/Nouns Introduction" },
-	{ name: "Прилагательные", icon: "✨", folder: "grammar/adjectives", intro: "grammar/adjectives/Adjectives Introduction" },
-	{ name: "Модальные глаголы", icon: "🎭", folder: "grammar/modals", intro: "grammar/modals/Modals Introduction" },
-	{ name: "Неличные формы", icon: "🌀", folder: "grammar/non-finite-forms", intro: "grammar/non-finite-forms/Non-Finite Forms Introduction" },
-	{ name: "Залог", icon: "🔄", folder: "grammar/voices", intro: "grammar/voices/Voice Introduction" },
-	{ name: "Условные предложения", icon: "❓", folder: "grammar/conditionals", intro: "grammar/conditionals/Conditionals Introduction" },
-	{ name: "Сложные конструкции", icon: "🧩", folder: "grammar/complex-constructions", intro: "grammar/complex-constructions/Complex Constructions Introduction" },
-	{ name: "Фразовые глаголы", icon: "🔗", folder: "grammar/phrasal-Idiomatic", intro: "grammar/phrasal-Idiomatic/Complex Introduction" },
-	{ name: "Разное", icon: "🎲", folder: "grammar/miscellaneous", intro: "grammar/miscellaneous/Miscellaneous Introduction" },
-];
+// Разделы грамматики берутся из единого реестра grammar/grammar-sections.json
+// (тот же файл читают Grammar Navigator и Grammar Reader)
+const grammarRegistry = JSON.parse(await app.vault.adapter.read('grammar/grammar-sections.json')).sections;
+const sections = grammarRegistry
+	.filter(s => s.folder && s.intro)
+	.map(s => ({ name: s.label, icon: s.icon, folder: s.folder, intro: s.folder + '/' + s.intro }));
 
 const grammarGrid = root.createEl('div', { cls: 'hp-grammar' });
 let grammarTotal = 0;
@@ -554,11 +547,17 @@ for (const sec of sections) {
 		`<div class="hp-grammar-count">${count}</div>`;
 }
 
+grammarTitle.textContent = `📚 Грамматика · ${grammarTotal} заметок`;
+
 const navRow = root.createEl('div', { cls: 'hp-links', attr: { style: 'margin-top:12px' } });
 const nav1 = navRow.createEl('a', { cls: 'hp-link-pill', text: '🗺 Grammar Navigator' });
 egLink(nav1, 'Grammar Navigator');
 const nav2 = navRow.createEl('a', { cls: 'hp-link-pill', text: '📖 Grammar Reader' });
 egLink(nav2, 'Grammar Reader');
+const nav3 = navRow.createEl('a', { cls: 'hp-link-pill', text: '📍 Grammar Map — по уровням' });
+egLink(nav3, 'Grammar Map');
+const nav4 = navRow.createEl('a', { cls: 'hp-link-pill', text: '🌐 External Resources' });
+egLink(nav4, 'External Resources — внешние ресурсы');
 
 // ════════════════════════════════════════════════════
 // WORD RESOURCES

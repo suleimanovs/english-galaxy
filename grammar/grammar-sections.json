@@ -1,0 +1,214 @@
+{
+  "_comment": "Единый реестр разделов grammar/. Его читают Grammar Navigator, Grammar Reader и Home Page. Добавил заметку — допиши её сюда один раз. file = имя заметки без .md (ищется по всему хранилищу).",
+  "sections": [
+    {
+      "id": "times", "icon": "⏱", "label": "Времена", "color": "#3B82F6",
+      "folder": "grammar/times", "intro": "Времена в английском",
+      "topics": [
+        { "en": "Present Simple", "ru": "Настоящее простое", "file": "Present Simple — Настоящее простое время" },
+        { "en": "Present Continuous", "ru": "Настоящее продолженное", "file": "Present Continuous — Настоящее продолженное время" },
+        { "en": "Present Perfect", "ru": "Настоящее совершённое", "file": "Present Perfect — Настоящее совершённое время" },
+        { "en": "Present Perfect Continuous", "ru": "Настоящее совер. продолженное", "file": "Present Perfect Continuous — Настоящее совершённое продолженное время" },
+        { "en": "Past Simple", "ru": "Прошедшее простое", "file": "Past Simple — Прошедшее простое время" },
+        { "en": "Past Continuous", "ru": "Прошедшее продолженное", "file": "Past Continuous — Прошедшее продолженное время" },
+        { "en": "Past Perfect", "ru": "Прошедшее совершённое", "file": "Past Perfect — Прошедшее совершённое время" },
+        { "en": "Past Perfect Continuous", "ru": "Прошедшее совер. продолженное", "file": "Past Perfect Continuous — Прошедшее совершённое продолженное время" },
+        { "en": "Future Simple — will", "ru": "Будущее простое", "file": "Future Simple — will" },
+        { "en": "Future Continuous", "ru": "will be + V-ing", "file": "Future Continuous — will be + ing" },
+        { "en": "Future Perfect", "ru": "will have + V3", "file": "Future Perfect — will have + V3" },
+        { "en": "Future Perfect Continuous", "ru": "will have been + ing", "file": "Future Perfect Continuous — will have been + ing" },
+        { "en": "Be Going To", "ru": "намерение / предсказание", "file": "Be Going To — намерение и предсказание по признакам" },
+        { "en": "Present Cont. → будущее", "ru": "конкретные договорённости", "file": "Present Continuous для будущего — конкретные договорённости" },
+        { "en": "Shall", "ru": "предложения и формальный стиль", "file": "Shall — предложения и формальный стиль" },
+        { "en": "Future in the Past", "ru": "будущее в прошедшем", "file": "Future in the Past — будущее в прошедшем" }
+      ],
+      "subIntros": [
+        "Present Tenses Introduction — Настоящие времена",
+        "Past Tenses Introduction - Прошедшие времена",
+        "Future Tenses Introduction",
+        "Future Additional Introduction"
+      ]
+    },
+    {
+      "id": "articles", "icon": "📌", "label": "Артикли и Местоимения", "color": "#8B5CF6",
+      "folder": "grammar/articles-pronouns", "intro": "Articles and Pronouns Introduction",
+      "topics": [
+        { "en": "Articles", "ru": "a, an, the, нулевой артикль", "file": "Articles — артикли (a, an, the, нулевой)" },
+        { "en": "Possessive Pronouns", "ru": "my, your, his, her...", "file": "Possessive Pronouns — притяжательные местоимения" },
+        { "en": "Reflexive Pronouns", "ru": "myself, yourself...", "file": "Reflexive Pronouns — возвратные местоимения" },
+        { "en": "Demonstrative Pronouns", "ru": "this, that, these, those", "file": "Demonstrative Pronouns — указательные местоимения (this, that, these, those)" },
+        { "en": "Indefinite Pronouns", "ru": "some, any, every, no...", "file": "Indefinite Pronouns — неопределённые местоимения и квантификаторы" },
+        { "en": "Determiners", "ru": "each, every, all, both...", "file": "Determiners — определители (each, every, all, whole, both, either, neither)" }
+      ]
+    },
+    {
+      "id": "nouns", "icon": "📦", "label": "Существительные", "color": "#10B981",
+      "folder": "grammar/nouns", "intro": "Nouns Introduction",
+      "topics": [
+        { "en": "Countable & Uncountable", "ru": "исчисляемые и неисчисляемые", "file": "Countable and Uncountable Nouns — исчисляемые и неисчисляемые" },
+        { "en": "Plural Forms", "ru": "множественное число", "file": "Plural Forms — множественное число" },
+        { "en": "Possessive Case", "ru": "'s и of", "file": "Possessive Case — притяжательный падеж ('s vs of)" }
+      ]
+    },
+    {
+      "id": "adj", "icon": "🎨", "label": "Прилагательные", "color": "#F59E0B",
+      "folder": "grammar/adjectives", "intro": "Adjectives Introduction",
+      "topics": [
+        { "en": "Adjective Order", "ru": "порядок прилагательных", "file": "Adjective Order — порядок прилагательных" },
+        { "en": "Adjectives -ed / -ing", "ru": "boring vs bored", "file": "Adjectives -ed and -ing — прилагательные на -ed и -ing" },
+        { "en": "Adjective + Preposition", "ru": "afraid of, good at...", "file": "Adjective Preposition Patterns — прилагательное + предлог" }
+      ]
+    },
+    {
+      "id": "modals", "icon": "🔧", "label": "Модальные глаголы", "color": "#EF4444",
+      "folder": "grammar/modals", "intro": "Modals Introduction",
+      "topics": [
+        { "en": "Can / Could", "ru": "умение, возможность, разрешение", "file": "Can и Could — умение, возможность, разрешение" },
+        { "en": "May / Might", "ru": "разрешение, вероятность", "file": "May и Might — разрешение, вероятность" },
+        { "en": "Must", "ru": "необходимость, запрет, уверенность", "file": "Must — необходимость, запрет, уверенное предположение" },
+        { "en": "Shall / Should", "ru": "советы, обязанность", "file": "Shall и Should — предложения, советы, обязанность" },
+        { "en": "Will / Would", "ru": "будущее, вежливость, привычки", "file": "Will и Would — будущее, вежливость, привычки" },
+        { "en": "Ought To", "ru": "моральная обязанность", "file": "Ought To — моральная обязанность" },
+        { "en": "Need / Dare", "ru": "необходимость и смелость", "file": "Need и Dare — необходимость и смелость" }
+      ]
+    },
+    {
+      "id": "nonfinite", "icon": "🔄", "label": "Неличные формы", "color": "#06B6D4",
+      "folder": "grammar/non-finite-forms", "intro": "Non-Finite Forms Introduction",
+      "topics": [
+        { "en": "Infinitive", "ru": "инфинитив (to do)", "file": "Infinitive — инфинитив" },
+        { "en": "Gerund", "ru": "герундий (doing)", "file": "Gerund — герундий" },
+        { "en": "Participle", "ru": "причастие I и II", "file": "Participle — причастие (Participle I и Participle II)" }
+      ]
+    },
+    {
+      "id": "voices", "icon": "🔊", "label": "Залог", "color": "#EC4899",
+      "folder": "grammar/voices", "intro": "Voice Introduction",
+      "topics": [
+        { "en": "Active Voice", "ru": "активный залог", "file": "Active Voice — активный залог" },
+        { "en": "Passive Voice", "ru": "пассивный залог", "file": "Passive Voice — пассивный залог" },
+        { "en": "Modal Passive", "ru": "пассив + модальный глагол", "file": "Modal Passive — пассивный залог с модальными глаголами" }
+      ]
+    },
+    {
+      "id": "cond", "icon": "❓", "label": "Условные предложения", "color": "#D97706",
+      "folder": "grammar/conditionals", "intro": "Conditionals Introduction",
+      "topics": [
+        { "en": "Zero Conditional", "ru": "нулевое условие", "file": "Zero Conditional — нулевое условие" },
+        { "en": "First Conditional", "ru": "реальное условие", "file": "First Conditional — первое условие (реальное)" },
+        { "en": "Second Conditional", "ru": "нереальное настоящее", "file": "Second Conditional — второе условие (нереальное настоящее)" },
+        { "en": "Third Conditional", "ru": "нереальное прошлое", "file": "Third Conditional — третье условие (нереальное прошлое)" },
+        { "en": "Mixed Conditionals", "ru": "смешанные условия", "file": "Mixed Conditionals — смешанные условия" },
+        { "en": "Wish Constructions", "ru": "I wish / If only", "file": "Wish Constructions — конструкции с wish" }
+      ]
+    },
+    {
+      "id": "complex", "icon": "🏗", "label": "Сложные конструкции", "color": "#6366F1",
+      "folder": "grammar/complex-constructions", "intro": "Complex Constructions Introduction",
+      "topics": [
+        { "en": "Reported Speech", "ru": "косвенная речь", "file": "Reported Speech — косвенная речь" },
+        { "en": "Questions", "ru": "типы вопросов", "file": "Questions — типы вопросов" },
+        { "en": "Relative Clauses", "ru": "who, which, that, whose...", "file": "Relative Clauses — относительные придаточные" },
+        { "en": "Inversion", "ru": "инверсия", "file": "Inversion — инверсия" },
+        { "en": "Comparisons", "ru": "степени сравнения", "file": "Comparisons — степени сравнения" },
+        { "en": "Causative", "ru": "have / get something done", "file": "Causative — have, get something done" },
+        { "en": "Subjunctive", "ru": "сослагательное наклонение", "file": "Subjunctive — сослагательное наклонение" },
+        { "en": "Cleft Sentences", "ru": "расщеплённые предложения", "file": "Cleft Sentences — расщеплённые предложения" },
+        { "en": "Emphasis", "ru": "конструкции усиления", "file": "Emphasis — конструкции усиления" },
+        { "en": "Ellipsis & Substitution", "ru": "эллипсис и подстановка", "file": "Ellipsis & Substitution — эллипсис и подстановка" },
+        { "en": "Noun Clauses", "ru": "придаточные существительные", "file": "Noun Clauses — придаточные существительные" },
+        { "en": "Embedded Questions", "ru": "косвенные вопросы", "file": "Embedded Questions — косвенные вопросы" }
+      ]
+    },
+    {
+      "id": "misc", "icon": "🗂", "label": "Разное", "color": "#64748B",
+      "folder": "grammar/miscellaneous", "intro": "Miscellaneous Introduction",
+      "topics": [
+        { "en": "Adverbs", "ru": "наречия", "file": "Adverbs — наречия" },
+        { "en": "Prepositions", "ru": "предлоги", "file": "Prepositions — предлоги" },
+        { "en": "Conjunctions", "ru": "союзы", "file": "Conjunctions — союзы" },
+        { "en": "Purpose Clauses", "ru": "to / in order to / so that", "file": "Purpose Clauses — конструкции выражения цели" },
+        { "en": "Tenses in Adverbial Clauses", "ru": "времена в придаточных", "file": "Tenses in Adverbial Clauses — времена в придаточных предложениях" },
+        { "en": "Reported Requests", "ru": "косвенные просьбы и приказы", "file": "Reported Requests — косвенные просьбы и приказы" },
+        { "en": "Used To", "ru": "привычки и адаптация", "file": "Used To — used to, would, be used to, get used to" },
+        { "en": "Word Order", "ru": "порядок слов (SVO, SVOMPT)", "file": "Word Order — порядок слов" },
+        { "en": "So / Such / Too / Enough", "ru": "усилители и ограничители", "file": "So, Such, Too, Enough — усилители и ограничители" },
+        { "en": "There Is / It Is", "ru": "вводные конструкции", "file": "There Is, It Is — вводные конструкции" },
+        { "en": "Linking Words", "ru": "however, therefore, moreover...", "file": "Linking Words — дискурсивные маркеры" },
+        { "en": "Word Formation", "ru": "словообразование", "file": "Word Formation — словообразование" },
+        { "en": "Subject-Verb Agreement", "ru": "согласование подлежащего и сказуемого", "file": "Subject-Verb Agreement — согласование подлежащего и сказуемого" }
+      ]
+    },
+    {
+      "id": "phrasal", "icon": "💬", "label": "Фразовые глаголы", "color": "#16A34A",
+      "folder": "grammar/phrasal-Idiomatic", "intro": "Complex Introduction",
+      "topics": [
+        { "en": "Phrasal Verbs", "ru": "теория: break up, give in, look after...", "file": "Phrasal Verbs — фразовые глаголы" },
+        { "en": "Particles Reference", "ru": "значения частиц: up, out, off, over...", "file": "Particles Reference" },
+        { "en": "Dictionary — Introduction", "ru": "как устроен словарь", "file": "Phrasal Verbs Dictionary — Introduction" },
+        { "en": "Common Phrasal Verbs", "ru": "общая таблица (до 4 вариаций)", "file": "Common Phrasal Verbs — общая таблица" },
+        { "en": "Break", "ru": "break down, break up, break into...", "file": "Break — фразовые глаголы" },
+        { "en": "Bring", "ru": "bring up, bring about, bring back...", "file": "Bring — фразовые глаголы" },
+        { "en": "Call", "ru": "call off, call back, call for...", "file": "Call — фразовые глаголы" },
+        { "en": "Come", "ru": "come across, come up with, come back...", "file": "Come — фразовые глаголы" },
+        { "en": "Fall", "ru": "fall apart, fall behind, fall for...", "file": "Fall — фразовые глаголы" },
+        { "en": "Get", "ru": "get along, get over, get rid of...", "file": "Get — фразовые глаголы" },
+        { "en": "Give", "ru": "give up, give in, give away...", "file": "Give — фразовые глаголы" },
+        { "en": "Go", "ru": "go on, go through, go ahead...", "file": "Go — фразовые глаголы" },
+        { "en": "Keep", "ru": "keep up, keep on, keep away...", "file": "Keep — фразовые глаголы" },
+        { "en": "Look", "ru": "look after, look for, look forward to...", "file": "Look — фразовые глаголы" },
+        { "en": "Make", "ru": "make up, make out, make for...", "file": "Make — фразовые глаголы" },
+        { "en": "Put", "ru": "put off, put up with, put on...", "file": "Put — фразовые глаголы" },
+        { "en": "Run", "ru": "run out, run into, run over...", "file": "Run — фразовые глаголы" },
+        { "en": "Set", "ru": "set up, set off, set aside...", "file": "Set — фразовые глаголы" },
+        { "en": "Take", "ru": "take off, take over, take after...", "file": "Take — фразовые глаголы" },
+        { "en": "Turn", "ru": "turn on, turn out, turn down...", "file": "Turn — фразовые глаголы" }
+      ]
+    },
+    {
+      "id": "pronunciation", "icon": "🗣", "label": "Произношение", "color": "#0EA5E9",
+      "folder": "grammar/pronunciation", "intro": "Pronunciation Introduction",
+      "topics": [
+        { "en": "English Sounds", "ru": "звуки английского, IPA", "file": "English Sounds — звуки английского" },
+        { "en": "Word Stress", "ru": "ударение в словах", "file": "Word Stress — ударение в словах" },
+        { "en": "Sentence Stress & Intonation", "ru": "ритм, слабые формы, интонация", "file": "Sentence Stress and Intonation — интонация" },
+        { "en": "Russian Speaker Mistakes", "ru": "ошибки русскоязычных", "file": "Russian Speaker Mistakes — ошибки русскоязычных" }
+      ]
+    },
+    {
+      "id": "speaking", "icon": "💭", "label": "Разговорная речь", "color": "#A855F7",
+      "folder": "grammar/speaking", "intro": "Speaking Introduction",
+      "topics": [
+        { "en": "Functional Phrases", "ru": "просьба, извинение, благодарность...", "file": "Functional Phrases — функциональные фразы" },
+        { "en": "Small Talk", "ru": "светская беседа", "file": "Small Talk — светская беседа" },
+        { "en": "Opinions & Discussion", "ru": "мнения, согласие, несогласие", "file": "Opinions and Discussion — мнения и дискуссия" }
+      ]
+    },
+    {
+      "id": "writing", "icon": "✍️", "label": "Письмо", "color": "#F97316",
+      "folder": "grammar/writing", "intro": "Writing Introduction",
+      "topics": [
+        { "en": "Essay Structure", "ru": "структура эссе", "file": "Essay Structure — структура эссе" },
+        { "en": "Email & Letters", "ru": "письма и email", "file": "Email and Letters — письма и email" },
+        { "en": "Formal vs Informal", "ru": "регистры речи", "file": "Formal vs Informal — регистры речи" }
+      ]
+    },
+    {
+      "id": "exam", "icon": "🎓", "label": "Экзамены", "color": "#DC2626",
+      "folder": "grammar/exam-prep", "intro": "Exam Prep Introduction",
+      "topics": [
+        { "en": "IELTS Overview", "ru": "структура экзамена", "file": "IELTS Overview — структура экзамена" },
+        { "en": "IELTS Writing", "ru": "стратегия письменной части", "file": "IELTS Writing — стратегия письменной части" },
+        { "en": "IELTS Speaking", "ru": "стратегия устной части", "file": "IELTS Speaking — стратегия устной части" }
+      ]
+    },
+    {
+      "id": "resources", "icon": "🌐", "label": "Ресурсы", "color": "#78716C",
+      "folder": null, "intro": null,
+      "topics": [
+        { "en": "Grammar Map", "ru": "грамматика по уровням A1–C1", "file": "Grammar Map" },
+        { "en": "External Resources", "ru": "сериалы, подкасты, YouTube, сайты", "file": "External Resources — внешние ресурсы" }
+      ]
+    }
+  ]
+}

@@ -106,137 +106,17 @@ if (!document.getElementById('gn-styles')) {
 
 // ─── DATA ─────────────────────────────────────────────────────────
 
-const SECTIONS = [
-  {
-    id: 'times', icon: '⏱', label: 'Времена', color: '#3B82F6',
+// Единый реестр разделов и тем: grammar/grammar-sections.json
+// (общий для Grammar Navigator, Grammar Reader и Home Page — правим в одном месте)
+const REGISTRY_PATH = 'grammar/grammar-sections.json';
+const SECTIONS = JSON.parse(await app.vault.adapter.read(REGISTRY_PATH)).sections
+  .map(sec => ({
+    ...sec,
     topics: [
-      { en: 'Обзор всех времён', ru: 'Полная сравнительная таблица', file: 'Времена в английском' },
-      { en: 'Present Simple', ru: 'Настоящее простое', file: 'Present Simple — Настоящее простое время' },
-      { en: 'Present Continuous', ru: 'Настоящее продолженное', file: 'Present Continuous — Настоящее продолженное время' },
-      { en: 'Present Perfect', ru: 'Настоящее совершённое', file: 'Present Perfect — Настоящее совершённое время' },
-      { en: 'Present Perfect Continuous', ru: 'Настоящее совер. продолженное', file: 'Present Perfect Continuous — Настоящее совершённое продолженное время' },
-      { en: 'Past Simple', ru: 'Прошедшее простое', file: 'Past Simple — Прошедшее простое время' },
-      { en: 'Past Continuous', ru: 'Прошедшее продолженное', file: 'Past Continuous — Прошедшее продолженное время' },
-      { en: 'Past Perfect', ru: 'Прошедшее совершённое', file: 'Past Perfect — Прошедшее совершённое время' },
-      { en: 'Past Perfect Continuous', ru: 'Прошедшее совер. продолженное', file: 'Past Perfect Continuous — Прошедшее совершённое продолженное время' },
-      { en: 'Future Simple — will', ru: 'Будущее простое', file: 'Future Simple — will' },
-      { en: 'Future Continuous', ru: 'will be + V-ing', file: 'Future Continuous — will be + ing' },
-      { en: 'Future Perfect', ru: 'will have + V3', file: 'Future Perfect — will have + V3' },
-      { en: 'Future Perfect Continuous', ru: 'will have been + ing', file: 'Future Perfect Continuous — will have been + ing' },
-      { en: 'Be Going To', ru: 'намерение / предсказание', file: 'Be Going To — намерение и предсказание по признакам' },
-      { en: 'Present Cont. → будущее', ru: 'конкретные договорённости', file: 'Present Continuous для будущего — конкретные договорённости' },
-      { en: 'Shall', ru: 'предложения и формальный стиль', file: 'Shall — предложения и формальный стиль' },
-      { en: 'Future in the Past', ru: 'будущее в прошедшем', file: 'Future in the Past — будущее в прошедшем' },
-    ]
-  },
-  {
-    id: 'articles', icon: '📌', label: 'Артикли и Местоимения', color: '#8B5CF6',
-    topics: [
-      { en: 'Articles', ru: 'a, an, the, нулевой артикль', file: 'Articles — артикли (a, an, the, нулевой)' },
-      { en: 'Possessive Pronouns', ru: 'my, your, his, her...', file: 'Possessive Pronouns — притяжательные местоимения' },
-      { en: 'Reflexive Pronouns', ru: 'myself, yourself...', file: 'Reflexive Pronouns — возвратные местоимения' },
-      { en: 'Demonstrative Pronouns', ru: 'this, that, these, those', file: 'Demonstrative Pronouns — указательные местоимения (this, that, these, those)' },
-      { en: 'Indefinite Pronouns', ru: 'some, any, every, no...', file: 'Indefinite Pronouns — неопределённые местоимения и квантификаторы' },
-      { en: 'Determiners', ru: 'each, every, all, both...', file: 'Determiners — определители (each, every, all, whole, both, either, neither)' },
-    ]
-  },
-  {
-    id: 'nouns', icon: '📦', label: 'Существительные', color: '#10B981',
-    topics: [
-      { en: 'Countable & Uncountable', ru: 'исчисляемые и неисчисляемые', file: 'Countable and Uncountable Nouns — исчисляемые и неисчисляемые' },
-      { en: 'Plural Forms', ru: 'множественное число', file: 'Plural Forms — множественное число' },
-      { en: 'Possessive Case', ru: "'s и of", file: "Possessive Case — притяжательный падеж ('s vs of)" },
-    ]
-  },
-  {
-    id: 'adj', icon: '🎨', label: 'Прилагательные', color: '#F59E0B',
-    topics: [
-      { en: 'Adjective Order', ru: 'порядок прилагательных', file: 'Adjective Order — порядок прилагательных' },
-      { en: 'Adjectives -ed / -ing', ru: 'boring vs bored', file: 'Adjectives -ed and -ing — прилагательные на -ed и -ing' },
-      { en: 'Adjective + Preposition', ru: 'afraid of, good at...', file: 'Adjective Preposition Patterns — прилагательное + предлог' },
-    ]
-  },
-  {
-    id: 'modals', icon: '🔧', label: 'Модальные глаголы', color: '#EF4444',
-    topics: [
-      { en: 'Can / Could', ru: 'умение, возможность, разрешение', file: 'Can и Could — умение, возможность, разрешение' },
-      { en: 'May / Might', ru: 'разрешение, вероятность', file: 'May и Might — разрешение, вероятность' },
-      { en: 'Must', ru: 'необходимость, запрет, уверенность', file: 'Must — необходимость, запрет, уверенное предположение' },
-      { en: 'Shall / Should', ru: 'советы, обязанность', file: 'Shall и Should — предложения, советы, обязанность' },
-      { en: 'Will / Would', ru: 'будущее, вежливость, привычки', file: 'Will и Would — будущее, вежливость, привычки' },
-      { en: 'Ought To', ru: 'моральная обязанность', file: 'Ought To — моральная обязанность' },
-      { en: 'Need / Dare', ru: 'необходимость и смелость', file: 'Need и Dare — необходимость и смелость' },
-    ]
-  },
-  {
-    id: 'nonfinite', icon: '🔄', label: 'Неличные формы', color: '#06B6D4',
-    topics: [
-      { en: 'Infinitive', ru: 'инфинитив (to do)', file: 'Infinitive — инфинитив' },
-      { en: 'Gerund', ru: 'герундий (doing)', file: 'Gerund — герундий' },
-      { en: 'Participle', ru: 'причастие I и II', file: 'Participle — причастие (Participle I и Participle II)' },
-    ]
-  },
-  {
-    id: 'voices', icon: '🔊', label: 'Залог', color: '#EC4899',
-    topics: [
-      { en: 'Active Voice', ru: 'активный залог', file: 'Active Voice — активный залог' },
-      { en: 'Passive Voice', ru: 'пассивный залог', file: 'Passive Voice — пассивный залог' },
-      { en: 'Modal Passive', ru: 'пассив + модальный глагол', file: 'Modal Passive — пассивный залог с модальными глаголами' },
-    ]
-  },
-  {
-    id: 'cond', icon: '❓', label: 'Условные предложения', color: '#D97706',
-    topics: [
-      { en: 'Zero Conditional', ru: 'нулевое условие', file: 'Zero Conditional — нулевое условие' },
-      { en: 'First Conditional', ru: 'реальное условие', file: 'First Conditional — первое условие (реальное)' },
-      { en: 'Second Conditional', ru: 'нереальное настоящее', file: 'Second Conditional — второе условие (нереальное настоящее)' },
-      { en: 'Third Conditional', ru: 'нереальное прошлое', file: 'Third Conditional — третье условие (нереальное прошлое)' },
-      { en: 'Mixed Conditionals', ru: 'смешанные условия', file: 'Mixed Conditionals — смешанные условия' },
-      { en: 'Wish Constructions', ru: 'I wish / If only', file: 'Wish Constructions — конструкции с wish' },
-    ]
-  },
-  {
-    id: 'complex', icon: '🏗', label: 'Сложные конструкции', color: '#6366F1',
-    topics: [
-      { en: 'Reported Speech', ru: 'косвенная речь', file: 'grammar/complex-constructions/Reported Speech — косвенная речь' },
-      { en: 'Questions', ru: 'типы вопросов', file: 'grammar/complex-constructions/Questions — типы вопросов' },
-      { en: 'Relative Clauses', ru: 'who, which, that, whose...', file: 'grammar/complex-constructions/Relative Clauses — относительные придаточные' },
-      { en: 'Inversion', ru: 'инверсия', file: 'grammar/complex-constructions/Inversion — инверсия' },
-      { en: 'Comparisons', ru: 'степени сравнения', file: 'grammar/complex-constructions/Comparisons — степени сравнения' },
-      { en: 'Causative', ru: 'have / get something done', file: 'Causative — have, get something done' },
-      { en: 'Subjunctive', ru: 'сослагательное наклонение', file: 'Subjunctive — сослагательное наклонение' },
-      { en: 'Cleft Sentences', ru: 'расщеплённые предложения', file: 'Cleft Sentences — расщеплённые предложения' },
-      { en: 'Emphasis', ru: 'конструкции усиления', file: 'Emphasis — конструкции усиления' },
-      { en: 'Ellipsis & Substitution', ru: 'эллипсис и подстановка', file: 'Ellipsis & Substitution — эллипсис и подстановка' },
-      { en: 'Noun Clauses', ru: 'придаточные существительные', file: 'Noun Clauses — придаточные существительные' },
-      { en: 'Embedded Questions', ru: 'косвенные вопросы', file: 'Embedded Questions — косвенные вопросы' },
-    ]
-  },
-  {
-    id: 'misc', icon: '🗂', label: 'Разное', color: '#64748B',
-    topics: [
-      { en: 'Adverbs', ru: 'наречия', file: 'Adverbs — наречия' },
-      { en: 'Prepositions', ru: 'предлоги', file: 'Prepositions — предлоги' },
-      { en: 'Conjunctions', ru: 'союзы', file: 'Conjunctions — союзы' },
-      { en: 'Purpose Clauses', ru: 'to / in order to / so that', file: 'Purpose Clauses — конструкции выражения цели' },
-      { en: 'Tenses in Adverbial Clauses', ru: 'времена в придаточных', file: 'Tenses in Adverbial Clauses — времена в придаточных предложениях' },
-      { en: 'Reported Requests', ru: 'косвенные просьбы и приказы', file: 'Reported Requests — косвенные просьбы и приказы' },
-      { en: 'Used To', ru: 'привычки и адаптация', file: 'Used To — used to, would, be used to, get used to' },
-      { en: 'Word Order', ru: 'порядок слов (SVO, SVOMPT)', file: 'Word Order — порядок слов' },
-      { en: 'So / Such / Too / Enough', ru: 'усилители и ограничители', file: 'So, Such, Too, Enough — усилители и ограничители' },
-      { en: 'There Is / It Is', ru: 'вводные конструкции', file: 'There Is, It Is — вводные конструкции' },
-      { en: 'Linking Words', ru: 'however, therefore, moreover...', file: 'Linking Words — дискурсивные маркеры' },
-      { en: 'Word Formation', ru: 'словообразование', file: 'Word Formation — словообразование' },
-      { en: 'Subject-Verb Agreement', ru: 'согласование подлежащего и сказуемого', file: 'Subject-Verb Agreement — согласование подлежащего и сказуемого' },
-    ]
-  },
-  {
-    id: 'phrasal', icon: '💬', label: 'Фразовые глаголы', color: '#16A34A',
-    topics: [
-      { en: 'Phrasal Verbs', ru: 'break up, give in, look after...', file: 'Phrasal Verbs — фразовые глаголы' },
-    ]
-  },
-];
+      ...(sec.intro ? [{ en: 'Введение', ru: sec.label + ' — обзор раздела', file: sec.intro, isIntro: true }] : []),
+      ...sec.topics,
+    ],
+  }));
 
 // ─── STATE ────────────────────────────────────────────────────────
 let activeId = 'all';
@@ -256,6 +136,18 @@ function render() {
   title.className = 'gn-title';
   title.textContent = '📚 Grammar Navigator';
   wrap.appendChild(title);
+
+  // Links to the other two hubs
+  const hubs = document.createElement('div');
+  hubs.style.cssText = 'display:flex;gap:14px;margin:-8px 0 14px;font-size:12.5px';
+  [['🗺 Grammar Map — по уровням', 'Grammar Map'], ['📖 Grammar Reader — чтение внутри', 'Grammar Reader']].forEach(([txt, file]) => {
+    const a = document.createElement('a');
+    a.textContent = txt;
+    a.style.cssText = 'cursor:pointer;color:var(--text-muted)';
+    a.addEventListener('click', e => app.workspace.openLinkText(file, '', e.ctrlKey || e.metaKey));
+    hubs.appendChild(a);
+  });
+  wrap.appendChild(hubs);
 
   // Search
   const searchEl = document.createElement('input');
