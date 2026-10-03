@@ -21,3 +21,27 @@ They were ordered not to do it
 
 ---
 
+relate - иметь отношение, связывать
+
+These things are closely related  to each other 
+
+---
+
+solve - решать
+
+I do think that this problem needs to be solved as soon as possible 
+
+---
+
+repeat - повторять 
+
+Could you repeat what you have just said?
+
+---
+
+analyse - анализировать
+
+These figures need to be analysed more thoroughly 
+
+---
+
