@@ -75,5 +75,42 @@ It was reported in the news
 
 ---
 
-park - парков
+park - парковать
 
+He parked his car not far from the office
+
+---
+
+panic - паниковать
+
+You need to stop panicking 
+
+---
+
+ignore - игнорировать
+
+Their words are often ignored
+
+---
+
+digest - переваривать
+
+I need some time to digest all this information 
+
+---
+
+press - нажимать
+
+You need to press the button 
+
+---
+
+remind of - напоминать о чем-то
+
+I just wanna remind you of this thing
+
+---
+
+pause - сделать паузу
+
+he made a pause for a second
