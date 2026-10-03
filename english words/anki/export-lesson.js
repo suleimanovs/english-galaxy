@@ -62,7 +62,7 @@ function parseLesson(file) {
     const m = line.match(/^\s*(\d+)\.\s*\[([ xX])\]\s*(.+?)\s*$/);
     if (!m) continue;
     const body = m[3].replace(/<\/?font[^>]*>/gi, '').trim();
-    const p = body.match(/^(.+?)\s*[-–]\s*(.+)$/);
+    const p = body.match(/^(.+?)\s+[-–]\s+(.+)$/);   // dash must be surrounded by spaces, so "full-time" stays intact
     if (!p) { console.warn(`  ⚠ cannot parse line: ${line}`); continue; }
     out.push({ num: +m[1], learn: m[2].toLowerCase() === 'x', word: p[1].trim(), translation: p[2].trim() });
   }
