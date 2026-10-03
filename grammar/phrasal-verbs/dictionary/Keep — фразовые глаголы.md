@@ -19,3 +19,4 @@ tags: [grammar, phrasal]
 | 6 | **keep out** | не допускать | sep | This coat keeps out the cold. | |
 | 7 | **keep away (from)** | держаться подальше (от) | intrans / insep | Keep away from the edge! / Keep children away from the fire. | |
 | 8 | **keep off** | не ходить по; не касаться (темы) | insep | Keep off the grass. / Let's keep off politics tonight. | |
+| 9 | **keep at** | упорно продолжать | — | Keep at it, you're almost there! | из Anki-трекера |

@@ -30,3 +30,7 @@ tags: [grammar, phrasal]
 | 17 | **come around** (BrE: come round) | зайти в гости | intrans | Come around for dinner. (AmE чаще: come over) | |
 | 18 | **come around** (BrE: come round) | изменить мнение | intrans | He'll come around eventually. | |
 | 19 | **come down** | снизиться (о цене, температуре) | intrans | Prices have come down. / The temperature came down overnight. | |
+| 20 | **come over** | зайти в гости | intrans | Come over for dinner on Saturday. / Want to come over and watch the game? | AmE; ср. come around (BrE: come round) |
+| 21 | **come apart** | распасться; развалиться | — | The old book came apart in my hands. | из Anki-трекера |
+| 22 | **come on** | давай, ну же | — | Come on, we are going to be late again! | из Anki-трекера |
+| 23 | **come through** | пережить; справиться | — | She came through the difficult times. | из Anki-трекера |

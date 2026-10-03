@@ -31,3 +31,7 @@ tags: [grammar, phrasal]
 | 18 | **go away** | уехать; уйти; исчезнуть | intrans | Go away! / The pain won't go away. | ср. go out (выйти ненадолго) |
 | 19 | **go for** | стремиться к; выбрать | insep | Go for it! / She went for the cheapest option. | |
 | 20 | **go without** | обойтись без | insep | We had to go without electricity for two days. | |
+| 21 | **go about** | приступить к; заниматься | — | How do you go about finding a job? | из Anki-трекера |
+| 22 | **go along with** | согласиться с | — | I'll go along with your plan. | из Anki-трекера |
+| 23 | **go by** | проходить; ориентироваться | — | Time goes by so fast. | из Anki-трекера |
+| 24 | **go under** | обанкротиться; затонуть | — | The company went under last year. | из Anki-трекера |

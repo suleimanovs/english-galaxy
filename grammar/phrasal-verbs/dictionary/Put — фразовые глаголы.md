@@ -30,3 +30,6 @@ tags: [grammar, phrasal]
 | 17 | **put through** | соединить (по телефону) | sep | Can you put me through to the manager? | |
 | 18 | **put through** | подвергнуть | sep | He put his family through a lot. | |
 | 19 | **put forward** | предложить (идею, кандидатуру) | sep | She put forward an interesting proposal. / He put himself forward for the role. | |
+| 20 | **put together** | собрать (мебель); составить (план, команду) | sep | We put the crib together in an hour. / She put together a great presentation. | |
+| 21 | **put across** | донести мысль | — | She put across her ideas clearly. | из Anki-трекера |
+| 22 | **put aside** | отложить (в сторону) | — | She put aside her book and listened. | из Anki-трекера |

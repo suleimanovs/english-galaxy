@@ -33,3 +33,11 @@ tags: [grammar, phrasal]
 | 20 | **get rid of** | избавиться от | insep | I need to get rid of these old clothes. | |
 | 21 | **get by** | сводить концы с концами; обходиться | intrans | We don't earn much but we get by. / She gets by on a small pension. | |
 | 22 | **get along** | уживаться; ладить | intrans | We get along fine. / They don't get along. | AmE; = get on (BrE); без with |
+| 23 | **get back to** | перезвонить; ответить позже | insep | I'll get back to you by the end of the day. / Let me check and get back to you. | |
+| 24 | **get across** | донести (мысль) | — | I tried to get my point across. | из Anki-трекера |
+| 25 | **get ahead** | продвинуться | — | You need to study hard to get ahead. | из Anki-трекера |
+| 26 | **get around** | обойти правило; передвигаться | — | She always finds a way to get around the rules. | из Anki-трекера |
+| 27 | **get down** | расстраивать; угнетать | — | Don't let it get you down. | из Anki-трекера |
+| 28 | **get down to** | приступить к | — | Let's get down to business. | из Anki-трекера |
+| 29 | **get in** | войти; сесть в машину | — | Get in the car, we're late. | из Anki-трекера |
+| 30 | **get together** | собраться | — | Let's get together this weekend. | из Anki-трекера |

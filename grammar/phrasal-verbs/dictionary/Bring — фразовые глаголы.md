@@ -23,3 +23,5 @@ tags: [grammar, phrasal]
 | 10 | **bring about** | вызвать; привести к | sep | What brought about the change? | |
 | 11 | **bring down** | снизить | sep | We need to bring down costs. | |
 | 12 | **bring down** | свергнуть | sep | The scandal brought down the government. | |
+| 13 | **bring along** | взять с собой | — | Can I bring along a friend? | из Anki-трекера |
+| 14 | **bring forward** | перенести (на раньше); предложить | — | They brought forward the meeting to Monday. | из Anki-трекера |
