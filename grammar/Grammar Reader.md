@@ -568,6 +568,9 @@ async function selectTopic(topic) {
     return;
   }
 
+  // Strip YAML frontmatter — it is metadata for the registry, not reading content
+  content = content.replace(/^---\n[\s\S]*?\n---\n/, '');
+
   // Render
   mainScrollEl.innerHTML = '';
 
