@@ -54,13 +54,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "playlists/learn-5000-english-words/Lesson 42.md",
+                "file": "Home Page.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 42"
+              "title": "Home Page"
             }
           }
         ]
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488.6907043457031,
-    "collapsed": true
+    "width": 488.6907043457031
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -237,7 +236,7 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "1f42041290cc9ea6",
+  "active": "f9d0ef617464bc22",
   "lastOpenFiles": [
     "playlists/learn-5000-english-words/Lesson 42.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 42 - 655 самых важных глаголов в разных временах.md",
