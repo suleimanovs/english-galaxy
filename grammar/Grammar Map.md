@@ -44,7 +44,6 @@ tags: [grammar, resources]
 | [[Demonstrative Pronouns — указательные местоимения (this, that, these, those)]] | Местоимения |
 | [[There Is, It Is — вводные конструкции]] | Разное |
 | [[Can и Could — умение, возможность, разрешение]] | Модальные |
-| [[Adjective Order — порядок прилагательных]] | Прилагательные |
 | [[Word Order — порядок слов]] | Разное |
 | [[Imperatives and Let's — повелительное наклонение]] | Разное |
 | [[Prepositions — предлоги]] | Разное |
@@ -92,6 +91,7 @@ tags: [grammar, resources]
 | [[Infinitive — инфинитив]] | Неличные формы |
 | [[Gerund — герундий]] | Неличные формы |
 | [[Reported Speech — косвенная речь]] | Сложные конструкции |
+| [[Reported Requests — косвенные просьбы и приказы]] | Сложные конструкции |
 | [[Questions — типы вопросов]] | Сложные конструкции |
 | [[Relative Clauses — относительные придаточные]] | Сложные конструкции |
 | [[Indefinite Pronouns — неопределённые местоимения и квантификаторы]] | Местоимения |
@@ -105,6 +105,7 @@ tags: [grammar, resources]
 | [[So, Such, Too, Enough — усилители и ограничители]] | Разное |
 | [[Punctuation — пунктуация (US)]] | Разное |
 | [[Adjective Preposition Patterns — прилагательное + предлог]] | Прилагательные |
+| [[Adjective Order — порядок прилагательных]] | Прилагательные |
 | [[Phrasal Verbs — фразовые глаголы]] | Фразовые глаголы |
 | [[Particles Reference\|Particles Reference — значения частиц]] | Фразовые глаголы |
 | [[Common Phrasal Verbs — общая таблица]] | Фразовые глаголы |
@@ -127,7 +128,6 @@ tags: [grammar, resources]
 | [[Participle — причастие (Participle I и Participle II)]] | Неличные формы |
 | [[Causative — have, get something done]] | Сложные конструкции |
 | [[Embedded Questions — косвенные вопросы]] | Сложные конструкции |
-| [[Reported Requests — косвенные просьбы и приказы]] | Сложные конструкции |
 | [[Ought To — моральная обязанность]] | Модальные |
 | [[Need и Dare — необходимость и смелость]] | Модальные |
 | [[Purpose Clauses — конструкции выражения цели]] | Разное |
@@ -143,7 +143,6 @@ tags: [grammar, resources]
 
 | Тема | Раздел |
 | --- | --- |
-| [[Shall — предложения и формальный стиль]] | Времена |
 | [[Inversion — инверсия]] | Сложные конструкции |
 | [[Subjunctive — сослагательное наклонение]] | Сложные конструкции |
 | [[Cleft Sentences — расщеплённые предложения]] | Сложные конструкции |

@@ -76,6 +76,9 @@ tags: [grammar, nouns]
 
 #### Квантификаторы: сводная таблица
 
+> Квантификаторы подробнее: some/any/much/many/few/little — [[Indefinite Pronouns — неопределённые местоимения и квантификаторы]]; each/every/all/both/either — [[Determiners — определители (each, every, all, whole, both, either, neither)]].
+
+
 | Квантификатор | Countable | Uncountable | Оба |
 |---|---|---|---|
 | many / much | many books | much water | — |

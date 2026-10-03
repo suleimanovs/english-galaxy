@@ -10,7 +10,6 @@ tags: [grammar, times]
 
 [[Be Going To — намерение и предсказание по признакам]]
 [[Present Continuous для будущего — конкретные договорённости]]
-[[Shall — предложения и формальный стиль]]
 [[Future in the Past — будущее в прошедшем]]
 
 
@@ -21,7 +20,7 @@ tags: [grammar, times]
 | **Future Simple** | will + V | Спонтанное решение, обещание, предсказание по мнению | I'll help you. |
 | **Be Going To** | am/is/are going to + V | Намерение (решено заранее), предсказание по признакам | I'm going to study medicine. / It's going to rain. |
 | **Present Continuous** | am/is/are + V-ing | Конкретная договорённость с деталями | I'm meeting John at 6 tomorrow. |
-| **Shall** | shall + V | Предложения (Shall I/we?), юридические тексты | Shall I open the window? |
+| **Shall** | shall + V | Архаичное будущее; Shall I/we? (BrE); договоры — см. [[Shall и Should — предложения, советы, обязанность]] | Shall I open the window? |
 | **Future Continuous** | will be + V-ing | Процесс в определённый момент будущего | I'll be working at 9 PM. |
 | **Future Perfect** | will have + V3 | Завершится до момента в будущем | I'll have finished by Friday. |
 | **Future Perfect Continuous** | will have been + V-ing | Процесс будет длиться до момента в будущем | I'll have been waiting for an hour by then. |

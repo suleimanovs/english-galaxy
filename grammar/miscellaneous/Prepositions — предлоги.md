@@ -339,25 +339,6 @@ Dover is on the south coast of England.
 
 ---
 
-#### Предлоги направления
-
-| Предлог | Значение | Пример |
-|---|---|---|
-| to | движение к цели | go to school, travel to Paris |
-| into | движение внутрь | go into the room |
-| out of | движение изнутри | come out of the building |
-| onto | движение на поверхность | jump onto the table |
-| off | движение с поверхности | fall off the chair |
-| towards | движение в направлении (не обязательно достигая) | walk towards the station |
-| away from | движение прочь | run away from the crowd |
-| past | мимо | drive past the school |
-| through | сквозь, через | walk through the park |
-| across | поперёк | swim across the river |
-| along | вдоль | walk along the beach |
-| up / down | вверх / вниз | climb up the hill, walk down the stairs |
-
----
-
 #### Предлоги после глаголов (collocations) — расширенный список
 
 Это самый сложный раздел — предлог определяется конкретным глаголом, и заменить его другим нельзя. Ниже 30+ важнейших сочетаний.
@@ -416,44 +397,9 @@ She agreed to the plan.     — Она согласилась на план (д�
 
 ---
 
-#### Прилагательные + предлог (collocations)
+#### Прилагательные + предлог
 
-Многие из этих сочетаний не совпадают с русской интуицией — особенно важно запомнить.
-
-| Прилагательное + предлог | Пример | Комментарий |
-|---|---|---|
-| afraid OF | She's afraid of spiders. | рус.: бояться чего-то |
-| angry WITH sb | I'm angry with him. | на человека — with |
-| angry ABOUT sth | She's angry about the delay. | по поводу ситуации — about |
-| anxious ABOUT sth | He's anxious about the exam. | |
-| aware OF sth | Are you aware of the problem? | |
-| bad AT sth | He's bad at cooking. | |
-| bored WITH/OF sth | I'm bored with this routine. | |
-| capable OF sth | She's capable of great things. | |
-| certain OF/ABOUT sth | I'm not certain about that. | |
-| clever AT sth | She's clever at math. | |
-| curious ABOUT sth | He's curious about everything. | |
-| different FROM sth | English is different from Russian. | не «than»! |
-| disappointed WITH/IN sth | He was disappointed with the result. | |
-| excited ABOUT sth | I'm excited about the trip. | |
-| familiar WITH sth | Are you familiar with this software? | |
-| famous FOR sth | Paris is famous for its food. | |
-| fond OF sth | She's fond of classical music. | |
-| full OF sth | The room was full of people. | |
-| good AT sth | She's good at languages. | |
-| guilty OF sth | He was found guilty of fraud. | |
-| interested IN sth | Are you interested in art? | |
-| jealous OF sb | She's jealous of her sister. | |
-| keen ON sth | He's keen on football. | |
-| married TO sb | She's married to a doctor. | не «with»! |
-| pleased WITH sth | I'm pleased with the result. | |
-| proud OF sb/sth | He's proud of his children. | |
-| responsible FOR sth | He's responsible for the mistake. | |
-| satisfied WITH sth | Are you satisfied with the service? | |
-| similar TO sth | This is similar to what I saw. | не «with»! |
-| surprised AT/BY sth | She was surprised at his reaction. | |
-| tired OF sth | She's tired of waiting. | |
-| worried ABOUT sth | He's worried about his health. | |
+Полная таблица «прилагательное + предлог» (afraid of, good at, married to, different from…) с группировкой по предлогам, двойными предлогами и мини-тестом — в [[Adjective Preposition Patterns — прилагательное + предлог]]. Здесь только ловушки, где русский предлог подводит:
 
 **Особые случаи, отличающиеся от русского:**
 

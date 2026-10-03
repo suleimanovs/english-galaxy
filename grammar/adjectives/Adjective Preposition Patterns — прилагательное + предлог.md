@@ -255,23 +255,6 @@ tags: [grammar, adj]
 
 ---
 
-#### Прилагательные с несколькими предлогами (разные значения)
-
-| Выражение | Значение | Пример |
-|---|---|---|
-| sorry **about** | извиняться за (ситуацию) | I'm sorry about the delay. |
-| sorry **for** | жалеть (человека) | I feel sorry for him. |
-| angry **with** | злиться на (человека) | She's angry with me. |
-| angry **at/about** | злиться на (ситуацию) | He's angry about the decision. |
-| good **at** | хорош в (навык) | She's good at drawing. |
-| good **for** | полезно для | Fruit is good for you. |
-| good **to** | добр к | He's always good to his mother. |
-| disappointed **with** | разочарован чем-то/кем-то | I'm disappointed with the result. |
-| disappointed **in** | разочарован в человеке (лично) | I'm disappointed in you. |
-| disappointed **about** | разочарован из-за ситуации | She was disappointed about the cancellation. |
-
----
-
 #### Типичные ошибки русскоязычных
 
 Ошибка 1: Дословный перевод предлога с русского

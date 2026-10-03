@@ -23,17 +23,47 @@ Shall и Should формально связаны — should является п
 
 #### Shall — что осталось в современном языке
 
-Подробный разбор shall как формы будущего — в [[Shall — предложения и формальный стиль|файле Future — Shall]]. Здесь только то, что актуально вне контекста будущего.
+Shall исторически — форма будущего для I / we (*I shall return*). В современном английском, особенно американском, в этом значении он почти исчез: будущее передаёт will. Остались три узких употребления.
 
-**Предложения помощи и инициатива — Shall I / Shall we**
+```
+I / We  +  shall  +  V (base form)        — архаичное будущее
+Shall I / Shall we  +  V?                 — предложение, инициатива (BrE)
+Сторона  +  shall  +  V                   — обязательство в договорах и законах
+```
 
-Это единственное активное разговорное употребление shall сегодня — и в основном британское. В американском английском вместо *Shall I…?* говорят *Should I…? / Want me to…? / Do you want me to…?*, вместо *Shall we…?* — *Should we…? / Let's…*.
+**1. Предложения помощи и инициатива — Shall I / Shall we**
 
-- Shall I open the window? — Открыть окно? (предлагаю сделать)
-- Shall I get you a coffee? — Принести вам кофе?
-- Shall we go? — Пойдём?
-- Shall we say Thursday at 3? — Скажем, четверг в 3?
-- What shall we do this evening? — Что мы будем делать сегодня вечером?
+Это единственное живое разговорное употребление shall сегодня — и в основном британское. В американском английском вместо *Shall I…?* говорят *Should I…? / Want me to…? / Do you want me to…?*, вместо *Shall we…?* — *Should we…? / Let's…, okay?*
+
+- Shall I open the window? — Открыть окно? (предлагаю сделать) → AmE: Should I open the window? / Want me to open the window?
+- Shall I get you a coffee? — Принести вам кофе? → AmE: Can I get you a coffee?
+- Shall we go? — Пойдём? → AmE: Should we go? / Ready to go?
+- Shall we say Thursday at 3? — Скажем, четверг в 3? → AmE: Let's say Thursday at 3.
+- What shall we do this evening? — Что мы будем делать сегодня вечером? → AmE: What should we do tonight?
+
+**2. Юридические и официальные документы**
+
+В договорах, законах, уставах shall означает обязательство — «должен», «обязан». Это одинаково и в американском, и в британском юридическом языке.
+
+- The contractor shall complete the work by the agreed date. — Подрядчик обязан завершить работу к согласованной дате.
+- All parties shall comply with the terms of this agreement. — Все стороны обязаны соблюдать условия настоящего соглашения.
+- The tenant shall pay rent on the first of each month. — Арендатор обязан платить аренду первого числа каждого месяца.
+
+**3. Торжественный, литературный стиль и цитаты**
+
+- We shall overcome. — Мы преодолеем. (гимн, лозунг)
+- We shall fight on the beaches. (Черчилль) — Мы будем сражаться на пляжах.
+- I shall return. (Макартур) — Я вернусь.
+
+> [!note]
+> В обычной речи и письме shall как будущее звучит архаично или нарочито: *I shall call you tomorrow* → **I'll call you tomorrow**; *We shall meet at 6* → **We'll meet at 6 / We're meeting at 6**. Запоминай shall, чтобы понимать договоры и классику, а говори через will и should.
+
+| | Shall | Will |
+|---|---|---|
+| **Употребление** | Shall I/we (предложения, BrE), договоры и законы, торжественный стиль | Всё остальное: решения, обещания, предсказания, факты |
+| **Лицо** | Преимущественно I / we | Все лица |
+| **Стиль** | Формальный, архаичный, официальный | Нейтральный, разговорный |
+| **Пример** | Shall I open the door? / The buyer shall pay… | I'll open the door. |
 
 ---
 
@@ -136,7 +166,7 @@ Must — сильная обязанность. Should — мягкий сове
 ---
 
 #### См. также
-- [[Shall — предложения и формальный стиль]]
+- [[Future Simple — will]]
 - [[Ought To — моральная обязанность]]
 - [[Must — необходимость, запрет, уверенное предположение]]
 - ← [[Modals Introduction|Назад к разделу: Модальные глаголы]]

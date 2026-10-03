@@ -320,7 +320,6 @@ slightly  →  fairly  →  quite  →  rather  →  pretty  →  very  →  ext
 |---|---|---|---|
 | **completely** | wrong | completely wrong | совершенно неправильно |
 | **completely** | different | completely different | совершенно другой |
-| **completely** | wrong | completely wrong | полностью ошибочный |
 | **totally** | different | totally different | абсолютно другой |
 | **totally** | unacceptable | totally unacceptable | совершенно недопустимо |
 | **totally** | devoted | totally devoted | полностью преданный |

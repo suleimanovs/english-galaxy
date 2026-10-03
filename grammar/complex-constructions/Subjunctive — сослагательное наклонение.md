@@ -168,20 +168,6 @@ Subjunctive сохранился в нескольких фиксированн�
 
 ---
 
-#### Альтернатива: should + V
-
-В британском английском (и в менее формальных контекстах) вместо subjunctive часто используют **should + V**:
-
-| Subjunctive (AmE / формальный) | Should (BrE / менее формальный) |
-|---|---|
-| I suggest that he **go**. | I suggest that he **should go**. |
-| It's important that she **be** there. | It's important that she **should be** there. |
-| He recommended that I **take** a break. | He recommended that I **should take** a break. |
-
-Оба варианта правильны. Subjunctive звучит формальнее.
-
----
-
 #### Типичные ошибки русскоязычных
 
 Ошибка 1: Добавление -s в третьем лице
