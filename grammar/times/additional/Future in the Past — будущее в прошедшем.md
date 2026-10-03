@@ -96,8 +96,10 @@ Future in the Past — способ выразить **будущее с точ�
 
 | Неправильно | Правильно |
 |---|---|
-| He said he will come. | He said he **would** come. |
-| She told me she will help. | She told me she **would** help. |
+| He said he will come. (встреча уже прошла) | He said he **would** come. |
+| She told me she will help. (помощь уже была или не была) | She told me she **would** help. |
+
+[!] Сдвиг не обязателен, если сказанное всё ещё актуально: *He said he will come tomorrow* (завтра ещё не наступило) — нормально, особенно в AmE. Подробнее: [[Reported Speech — косвенная речь]].
 
 Ошибка 2: Путаница would (Future in the Past) и would (условное)
 

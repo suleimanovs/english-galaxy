@@ -165,12 +165,14 @@ Did  +  подлежащее  +  глагол (base form)?
 
 Ошибка 3: Past Simple вместо Present Perfect
 
-Когда результат действия важен прямо сейчас — нужен Present Perfect, а не Past Simple. Подробнее в файле Present Perfect.
+Когда результат действия важен прямо сейчас — точнее Present Perfect, а не Past Simple. Подробнее: [[Present Perfect — Настоящее совершённое время]].
 
-| Неправильно | Правильно |
+| Менее точно | Точнее (результат важен сейчас) |
 |---|---|
 | I lost my keys. (если ключей нет сейчас) | I've lost my keys. |
 | I forgot my password. (и не знаю его сейчас) | I've forgotten my password. |
+
+[!] В американском английском Past Simple с *just, already, yet* звучит естественно (*I already ate. Did you finish yet?*) — это не ошибка, а норма AmE.
 
 Ошибка 4: Вопрос без did
 

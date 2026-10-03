@@ -96,8 +96,8 @@
 
 **9. Устойчивые выражения с the:**
 - in **the** morning / afternoon / evening
-- at **the** weekend (BrE)
-- go to **the** cinema / theatre / hospital (BrE, в общем смысле учреждения)
+- on **the** weekend (AmE) / at the weekend (BrE)
+- go to **the** movies / **the** theater / **the** hospital (AmE — всегда с артиклем, даже в общем смысле)
 
 ---
 
@@ -127,9 +127,10 @@
 - **Breakfast** is at 8. / We had **lunch** together. / What's for **dinner**?
 - [!] Но: **The breakfast** we had was excellent. (конкретный, запомнившийся)
 
-**7. Учреждения — when used for their primary purpose:**
-- She's in **hospital**. (BrE — лежит на лечении)
-- He goes to **school** / **university** / **church** / **prison**. (в первичной функции)
+**7. Учреждения в первичной функции (без артикля):**
+- He goes to **school** / **college** / **church**. He's in **prison** / in **jail**. (в первичной функции — учиться, молиться, сидеть)
+- AmE: She's in **the hospital**. (с артиклем и как пациент, и как здание; BrE без артикля: *in hospital*)
+- AmE: *the university* обычно с артиклем (*She's at the university*), а *in college* — без.
 - [!] Но: I went to **the hospital** to visit her. (как здание, не как пациент)
 
 **8. Транспорт с by:**

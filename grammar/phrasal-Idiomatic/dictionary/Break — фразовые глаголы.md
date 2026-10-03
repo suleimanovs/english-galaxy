@@ -12,7 +12,7 @@
 | 4 | **break down** | разложить на части | sep | Let's break down the problem into steps. | переходное значение |
 | 5 | **break up** | расстаться | intrans | They broke up last month. | |
 | 6 | **break up** | разбить на части | sep | Break up the chocolate. | |
-| 7 | **break up** | распустить(ся) | intrans | School breaks up on Friday. | |
+| 7 | **break up** | распустить(ся) на каникулы | intrans | School breaks up on Friday. | BrE; AmE: school lets out / gets out |
 | 8 | **break in** | вломиться | intrans | Someone broke in last night. | без объекта; ср. break into |
 | 9 | **break in** | разносить (обувь) | sep | I need to break in these new shoes. | |
 | 10 | **break into** | вломиться в | insep | They broke into the house. | с объектом; ср. break in |

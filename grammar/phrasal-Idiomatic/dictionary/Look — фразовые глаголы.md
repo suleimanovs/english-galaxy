@@ -6,7 +6,7 @@
 
 | # | Фразовый глагол | Перевод | Тип | Пример | Заметки |
 |---|---|---|---|---|---|
-| 1 | **look after** | заботиться о | insep | Can you look after my cat while I'm away? | синоним take care of (BrE чаще look after) |
+| 1 | **look after** | заботиться о | insep | Can you look after my cat while I'm away? | синоним take care of (в AmE чаще take care of) |
 | 2 | **look for** | искать | insep | I'm looking for my keys. / She's looking for a new job. | |
 | 3 | **look up** | найти (в словаре/интернете) | sep | Look up this word. / Look it up online. | единственный разделяемый в группе; ~~Look up it.~~ ✗ |
 | 4 | **look into** | расследовать; изучить | insep | The police are looking into the case. | |

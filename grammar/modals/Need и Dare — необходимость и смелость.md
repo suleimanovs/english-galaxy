@@ -18,6 +18,8 @@ Need  +  подлежащее  +  V?
 - Need I say more? — Мне нужно говорить больше? (риторический вопрос)
 - Needn't he tell her? — Ему не нужно говорить ей? (формально)
 
+[!] Модальный need (*Need I…? / needn't*) — британская и книжная форма. В американском английском почти всегда смысловой глагол: *Do I need to say more? / He doesn't need to tell her. / You don't need to worry.* Исключение, которое стоит знать и в AmE: *needn't have + V3* (см. ниже) — его чаще заменяют на *didn't have to*.
+
 **Need как смысловой глагол**
 
 Это гораздо более частое употребление в современном английском — особенно в США и в неформальной речи.
@@ -63,6 +65,8 @@ Dare  +  подлежащее  +  V?
 - She dare not say a word. — Она не смеет сказать ни слова.
 - Dare he challenge the boss? — Решится ли он бросить вызов начальнику?
 - I daren't look down from that height. — Я не решаюсь смотреть вниз с такой высоты.
+
+[!] *dare not / daren't / Dare he…?* — литературные формы. В американской речи dare — обычный глагол: *She doesn't dare (to) say a word. / Does he dare to challenge the boss?* Живые разговорные формы: *How dare you!* и *Don't you dare!*
 
 **Dare как смысловой глагол**
 

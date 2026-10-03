@@ -21,7 +21,7 @@
 | 13 | **come along** | идти вместе | intrans | Do you want to come along? | |
 | 14 | **come along** | продвигаться | intrans | How's your project coming along? | |
 | 15 | **come down with** | заболеть | insep | I've come down with a cold. | |
-| 16 | **come round/around** | прийти в сознание | intrans | She fainted but came round quickly. | |
-| 17 | **come round/around** | зайти в гости | intrans | Come round for dinner. | |
-| 18 | **come round/around** | изменить мнение | intrans | He'll come around eventually. | |
+| 16 | **come around** (BrE: come round) | прийти в сознание | intrans | She fainted but came around quickly. | |
+| 17 | **come around** (BrE: come round) | зайти в гости | intrans | Come around for dinner. (AmE чаще: come over) | |
+| 18 | **come around** (BrE: come round) | изменить мнение | intrans | He'll come around eventually. | |
 | 19 | **come down** | снизиться (о цене, температуре) | intrans | Prices have come down. / The temperature came down overnight. | |

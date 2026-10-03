@@ -14,4 +14,4 @@
 | 6 | **call on** | навестить | insep | I called on my grandmother. | |
 | 7 | **call on** | призвать | insep | The UN called on both sides to negotiate. | |
 | 8 | **call for** | требовать | insep | The situation calls for immediate action. | *This calls for a celebration!* |
-| 9 | **call for** | зайти за (кем-то) | insep | I'll call for you at 8. | |
+| 9 | **call for** | зайти за (кем-то) | insep | I'll call for you at 8. | BrE; AmE: pick you up / come by for you |

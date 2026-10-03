@@ -62,8 +62,8 @@ AT  — точка, координата, отметка
 She is in the school.   — Она находится внутри здания школы (физически).
 She is at school.       — Она учится (функция: ученик на занятиях).
 
-He is in hospital.      — Он в здании больницы.
-He is in the hospital.  — То же (AmE).
+He is in the hospital.  — Он в больнице (AmE: и лежит на лечении, и просто находится там).
+He is in hospital.      — BrE: лежит на лечении (без артикля).
 He is at the hospital.  — Он там по делу (навещает, ждёт).
 ```
 
@@ -85,7 +85,7 @@ She lives in flat 7.              — квартира (внутри = in)
 | In | On | At |
 |---|---|---|
 | in bed | on the bus / train / plane | at home |
-| in hospital (BrE — пациент) | on TV / the radio | at work |
+| in the hospital (AmE) / in hospital (BrE — пациент) | on TV / the radio | at work |
 | in prison | on the phone | at school / university |
 | in the street (BrE) | on the street (AmE) | at the top / bottom |
 | in a car / taxi | on a bicycle / horse | at the end |
@@ -132,7 +132,7 @@ Can I come in? — No, there's no room in the car.
 |---|---|---|
 | in | месяцы, годы, сезоны, части суток | in January, in 2020, in summer, in the morning |
 | on | дни недели, даты, конкретные дни | on Monday, on March 5, on my birthday |
-| at | конкретное время, праздники, ночь | at 6 PM, at Christmas, at night, at the weekend (BrE) |
+| at | конкретное время, праздники, ночь | at 6 PM, at Christmas, at night (AmE: on the weekend) |
 | for | продолжительность | for two hours, for years |
 | since | начало периода | since Monday, since 2010 |
 | during | в течение периода | during the meeting, during summer |
@@ -170,7 +170,7 @@ on my birthday / on our anniversary
 ```
 at 9 o'clock / at noon / at midnight
 at night
-at the weekend (BrE) / on the weekend (AmE)
+on the weekend (AmE) / at the weekend (BrE)
 at Christmas / at Easter / at New Year (как период)
 at the moment / at present / at the time
 at the age of 18

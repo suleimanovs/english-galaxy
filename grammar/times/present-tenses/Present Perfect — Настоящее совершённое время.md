@@ -93,7 +93,7 @@ Has   +  he / she / it        +  глагол V3?
 | lose | lost | lost |
 | put | put | put |
 | cut | cut | cut |
-| get | got | got / gotten (AmE) |
+| get | got | gotten (AmE) / got (BrE) |
 | tell | told | told |
 | leave | left | left |
 | bring | brought | brought |
@@ -203,11 +203,12 @@ Has   +  he / she / it        +  глагол V3?
 
 В русском «я потерял» — просто прошедшее, без разницы актуален результат сейчас или нет. В английском это разные времена.
 
-| Неправильно | Правильно |
+| Менее точно | Точнее (результат важен сейчас) |
 |---|---|
 | I lost my keys. (если ключей нет сейчас) | I've lost my keys. |
-| Did you eat yet? | Have you eaten yet? |
 | I forgot my password. (и не знаю его сейчас) | I've forgotten my password. |
+
+[!] В американском английском Past Simple с *just, already, yet* — норма: *Did you eat yet? I already saw it. He just left.* Это не ошибка. Британцы в тех же фразах чаще выберут Present Perfect (*Have you eaten yet?*). Экзамены (IELTS) принимают оба варианта.
 
 Ошибка 2: Present Perfect с конкретным указателем прошлого
 

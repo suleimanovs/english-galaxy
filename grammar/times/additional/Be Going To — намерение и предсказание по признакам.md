@@ -101,8 +101,9 @@ Are  +  you/we/they  +  going to + глагол?
 
 | Ситуация | Неправильно | Правильно |
 |---|---|---|
-| Тебя спросили, что будешь есть — ты уже думал об этом | I will have the pasta. | I'm going to have the pasta. |
+| Рассказываешь о заранее принятом плане на вечер | I will cook pasta tonight. | I'm going to cook pasta tonight. |
 | Друг просит помощи — ты решаешь прямо сейчас | I'm going to help you. | I'll help you. |
+| Официант спрашивает заказ — решаешь на месте | I'm going to have the pasta. | I'll have the pasta. |
 | Видишь тучи и делаешь вывод | It will rain. | It's going to rain. |
 | Просто думаешь, что завтра будет дождь | It's going to rain tomorrow. | It will probably rain tomorrow. |
 

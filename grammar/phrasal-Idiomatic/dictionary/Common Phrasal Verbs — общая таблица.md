@@ -109,7 +109,7 @@
 | 57 | **grow up** | вырасти; повзрослеть | intrans | Where did you grow up? / Oh, grow up! | *Oh, grow up!* = не будь ребёнком! |
 | 58 | **go without** | обойтись без | insep | We had to go without electricity for two days. | подробнее: [[Go — фразовые глаголы]] |
 | 59 | **give in** | уступить | intrans | She finally gave in. | подробнее: [[Give — фразовые глаголы]] |
-| 60 | **give in** | сдать (работу) | sep | Give in your homework by Friday. | BrE |
+| 60 | **give in** | сдать (работу) | sep | Give in your homework by Friday. | BrE; AmE: turn in / hand in |
 
 ---
 
@@ -245,7 +245,7 @@
 | 144 | **think over** | обдумать | sep | Think it over before you decide. | |
 | 145 | **throw away/out** | выбросить | sep | Throw away these old newspapers. | |
 | 146 | **throw up** | вырвать (тошнить) | intrans | He felt sick and threw up. | |
-| 147 | **top up** | пополнить (баланс, стакан) | sep | Can I top up your glass? / Top up your phone credit. | BrE |
+| 147 | **top up** | пополнить (баланс, стакан) | sep | Can I top up your glass? / Top up your phone credit. | BrE; AmE: refill / add money to your phone |
 | 148 | **try on** | примерить | sep | Try on these jeans. / Try them on. | |
 | 149 | **try out** | испытать; попробовать | sep | I want to try out the new software. | |
 | 150 | **talk into** | уговорить | sep | She talked me into going. | антоним: talk out of |
@@ -262,7 +262,7 @@
 | 154 | **wind down** | расслабиться; свернуть (деятельность) | intrans / sep | I need to wind down after work. / They're winding down the business. | |
 | 155 | **wake up** | проснуться; разбудить | intrans / sep | I wake up at 6. / Wake me up at 7. | |
 | 156 | **warm up** | разогреть(ся); размяться | intrans / sep | The weather is warming up. / Warm up before exercising. | |
-| 157 | **wash up** | помыть посуду | intrans | I'll wash up after dinner. | BrE; AmE = умыться |
+| 157 | **wash up** | умыться (AmE); помыть посуду (BrE) | intrans | Go wash up before dinner. (AmE) / I'll wash up after dinner. (BrE) | AmE «помыть посуду» = do the dishes |
 | 158 | **watch out** | быть осторожным | intrans | Watch out! There's a car coming! | ≈ look out |
 | 159 | **wear out** | износить(ся) | sep / intrans | My shoes wore out. | |
 | 160 | **wear out** | вымотать | sep | The long walk wore me out. | |

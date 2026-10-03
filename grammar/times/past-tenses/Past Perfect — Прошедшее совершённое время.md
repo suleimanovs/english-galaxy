@@ -104,11 +104,13 @@ Had  +  подлежащее  +  V3?
 
 В русском порядок событий часто передаётся контекстом или словами «уже», «до того». В английском грамматика сама показывает, что было раньше.
 
-| Неправильно | Правильно |
+| Менее точно | Точнее |
 |---|---|
 | When I arrived, she already left. | When I arrived, she had already left. |
 | He ate all the food before I came home. (если важно подчеркнуть предшествование) | He had eaten all the food before I came home. |
-| I was tired because I didn't sleep well. | I was tired because I hadn't slept well. |
+| I was tired because I didn't sleep well. (в разговорном AmE допустимо) | I was tired because I hadn't slept well. |
+
+[!] Когда порядок событий ясен из *before / after / because*, американцы в речи часто обходятся Past Simple. Past Perfect обязателен, когда без него смысл меняется (*When I arrived, she left* = ушла после моего прихода).
 
 Ошибка 2: Past Perfect без необходимости
 

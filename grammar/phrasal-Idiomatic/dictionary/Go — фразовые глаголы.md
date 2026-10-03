@@ -10,9 +10,9 @@
 | 2 | **go on** | происходить | intrans | What's going on here? | |
 | 3 | **go on** | продолжать делать (+ герундий) | intrans | He went on talking for an hour. | |
 | 4 | **go off** | сработать (будильник, сигнализация) | intrans | The fire alarm went off. | |
-| 5 | **go off** | испортиться (еда) | intrans | This cheese has gone off. | |
+| 5 | **go off** | испортиться (еда) | intrans | This cheese has gone off. | BrE; AmE: has gone bad / spoiled |
 | 6 | **go off** | взорваться | intrans | The bomb went off. | |
-| 7 | **go off** | разонравиться | insep | I've gone off chocolate. | BrE |
+| 7 | **go off** | разонравиться | insep | I've gone off chocolate. | BrE; AmE: I don't like chocolate anymore / I've lost my taste for it |
 | 8 | **go out** | выйти (из дома, на вечер) | intrans | Let's go out tonight. / We go out every Friday. | ср. go away (уехать надолго) |
 | 9 | **go out** | погаснуть | intrans | The lights went out. | |
 | 10 | **go out** | встречаться | intrans | They've been going out for a year. | |
