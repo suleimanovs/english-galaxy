@@ -663,6 +663,7 @@ let currentTracker = {};
 
 async function selectDeck(deck) {
   activeDeck = deck;
+  try { localStorage.setItem('eg-anki-active-deck', deck.id); } catch {}
   tabs.forEach(t => {
     const isActive = t.deck.id === deck.id;
     t.btn.style.background = isActive ? 'var(--interactive-accent)' : 'var(--background-secondary)';
@@ -761,5 +762,8 @@ stylesBtn.addEventListener('click', async () => {
   enableAll(); stylesBtn.textContent = 'Apply Styles';
 });
 
-await selectDeck(DECKS[0]);
+// Open the deck that was active last time (e.g. Phrasal Verbs when coming from the grammar section)
+let _savedDeck = null;
+try { _savedDeck = DECKS.find(d => d.id === localStorage.getItem('eg-anki-active-deck')); } catch {}
+await selectDeck(_savedDeck || DECKS[0]);
 ```
