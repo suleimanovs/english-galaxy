@@ -45,3 +45,12 @@ These figures need to be analysed more thoroughly
 
 ---
 
+suppose - пологать
+
+I suppose it is a fair price 
+
+---
+
+declare - провозглашать, обьявлять
+
+The country declared independence
