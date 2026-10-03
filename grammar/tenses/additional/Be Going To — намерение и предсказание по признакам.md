@@ -137,6 +137,6 @@ Going to требует правильной формы глагола be — am
 ---
 
 #### См. также
-- [[Future Simple — will]]
+- [[Future Simple — Будущее простое время (will)]]
 - [[Present Continuous для будущего — конкретные договорённости]]
 - ← [[Future Additional Introduction|Назад к разделу: Дополнительные формы будущего]]

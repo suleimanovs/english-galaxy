@@ -178,5 +178,5 @@ To-infinitive отвечает на вопрос «зачем?» — это оч
 #### См. также
 - [[Gerund — герундий]]
 - [[Purpose Clauses — конструкции выражения цели]]
-- [[Causative — have, get something done]]
+- [[Causative — каузатив (have, get something done)]]
 - ← [[Non-Finite Forms Introduction|Назад к разделу: Неличные формы]]

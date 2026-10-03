@@ -250,4 +250,4 @@ Wh-word + do/does + subject + глагол?
 - [[Present Continuous — Настоящее продолженное время]]
 - [[Past Simple — Прошедшее простое время]]
 - [[Subject-Verb Agreement — согласование подлежащего и сказуемого]]
-- ← [[Present Tenses Introduction — Настоящие времена|Назад к разделу: Настоящие времена]]
+- ← [[Present Tenses Introduction|Назад к разделу: Настоящие времена]]

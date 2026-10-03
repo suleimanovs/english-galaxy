@@ -6,7 +6,7 @@
       "icon": "⏱",
       "label": "Времена",
       "color": "#3B82F6",
-      "folder": "grammar/times",
+      "folder": "grammar/tenses",
       "intro": "Времена в английском",
       "topics": [
         {
@@ -60,24 +60,24 @@
           "file": "Past Perfect Continuous — Прошедшее совершённое продолженное время"
         },
         {
-          "en": "Future Simple — will",
+          "en": "Future Simple — Будущее простое время (will)",
           "ru": "Будущее простое",
-          "file": "Future Simple — will"
+          "file": "Future Simple — Будущее простое время (will)"
         },
         {
           "en": "Future Continuous",
           "ru": "will be + V-ing",
-          "file": "Future Continuous — will be + ing"
+          "file": "Future Continuous — Будущее продолженное время (will be + V-ing)"
         },
         {
           "en": "Future Perfect",
           "ru": "will have + V3",
-          "file": "Future Perfect — will have + V3"
+          "file": "Future Perfect — Будущее совершённое время (will have + V3)"
         },
         {
           "en": "Future Perfect Continuous",
           "ru": "will have been + ing",
-          "file": "Future Perfect Continuous — will have been + ing"
+          "file": "Future Perfect Continuous — Будущее совершённое продолженное время (will have been + V-ing)"
         },
         {
           "en": "Be Going To",
@@ -96,8 +96,8 @@
         }
       ],
       "subIntros": [
-        "Present Tenses Introduction — Настоящие времена",
-        "Past Tenses Introduction — Прошедшие времена",
+        "Present Tenses Introduction",
+        "Past Tenses Introduction",
         "Future Tenses Introduction",
         "Future Additional Introduction"
       ]
@@ -393,7 +393,7 @@
         {
           "en": "Causative",
           "ru": "have / get something done",
-          "file": "Causative — have, get something done"
+          "file": "Causative — каузатив (have, get something done)"
         },
         {
           "en": "Subjunctive",
@@ -463,7 +463,7 @@
         {
           "en": "Used To",
           "ru": "привычки и адаптация",
-          "file": "Used To — used to, would, be used to, get used to"
+          "file": "Used To — привычки в прошлом (used to, would, be used to, get used to)"
         },
         {
           "en": "Word Order",

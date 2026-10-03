@@ -122,6 +122,6 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 ---
 
 #### См. также
-- [[Future Perfect — will have + V3]]
+- [[Future Perfect — Будущее совершённое время (will have + V3)]]
 - [[Present Perfect Continuous — Настоящее совершённое продолженное время]]
 - ← [[Future Tenses Introduction|Назад к разделу: Будущие времена]]

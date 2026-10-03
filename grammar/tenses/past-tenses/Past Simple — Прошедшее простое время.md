@@ -207,5 +207,5 @@ Did  +  подлежащее  +  глагол (base form)?
 #### См. также
 - [[Present Perfect — Настоящее совершённое время]]
 - [[Past Continuous — Прошедшее продолженное время]]
-- [[Used To — used to, would, be used to, get used to]]
-- ← [[Past Tenses Introduction — Прошедшие времена|Назад к разделу: Прошедшие времена]]
+- [[Used To — привычки в прошлом (used to, would, be used to, get used to)]]
+- ← [[Past Tenses Introduction|Назад к разделу: Прошедшие времена]]

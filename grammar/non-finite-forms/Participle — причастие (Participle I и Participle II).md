@@ -95,7 +95,7 @@ V3 используется в образовании Perfect-форм и пас
 
 **4. В конструкции have + объект + V3**
 
-> Это каузатив — отдельная заметка: [[Causative — have, get something done]].
+> Это каузатив — отдельная заметка: [[Causative — каузатив (have, get something done)]].
 
 
 Конструкция «have something done» означает, что действие выполняет кто-то другой по вашей просьбе или за вас.
@@ -163,6 +163,6 @@ V3 используется в образовании Perfect-форм и пас
 #### См. также
 - [[Gerund — герундий]]
 - [[Adjectives -ed and -ing — прилагательные на -ed и -ing]]
-- [[Causative — have, get something done]]
+- [[Causative — каузатив (have, get something done)]]
 - [[Relative Clauses — относительные придаточные]]
 - ← [[Non-Finite Forms Introduction|Назад к разделу: Неличные формы]]

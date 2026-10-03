@@ -140,4 +140,4 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 #### См. также
 - [[Past Perfect — Прошедшее совершённое время]]
 - [[Present Perfect Continuous — Настоящее совершённое продолженное время]]
-- ← [[Past Tenses Introduction — Прошедшие времена|Назад к разделу: Прошедшие времена]]
+- ← [[Past Tenses Introduction|Назад к разделу: Прошедшие времена]]

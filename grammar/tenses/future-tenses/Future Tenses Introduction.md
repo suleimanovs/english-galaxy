@@ -8,10 +8,10 @@ tags: [grammar, times]
 В русском будущее время одно — «я буду работать» или «я сделаю». В английском несколько разных конструкций, и выбор между ними зависит от того, что именно ты хочешь передать: спонтанное решение, заранее организованный план, намерение, процесс в момент будущего или завершённость к моменту в будущем. Кроме четырёх времён с will, для будущего также используются **going to**, **Present Continuous** и **Present Simple** — они разобраны в отдельных файлах раздела [[Future Additional Introduction|«Дополнительные формы будущего»]].
 
 
-[[Future Simple — will]]
-[[Future Continuous — will be + ing]]
-[[Future Perfect — will have + V3]]
-[[Future Perfect Continuous — will have been + ing]]
+[[Future Simple — Будущее простое время (will)]]
+[[Future Continuous — Будущее продолженное время (will be + V-ing)]]
+[[Future Perfect — Будущее совершённое время (will have + V3)]]
+[[Future Perfect Continuous — Будущее совершённое продолженное время (will have been + V-ing)]]
 
 
 **Итоговая таблица всех четырёх Future Tenses:**

@@ -181,5 +181,5 @@ not + герундий
 #### См. также
 - [[Infinitive — инфинитив]]
 - [[Participle — причастие (Participle I и Participle II)]]
-- [[Used To — used to, would, be used to, get used to]]
+- [[Used To — привычки в прошлом (used to, would, be used to, get used to)]]
 - ← [[Non-Finite Forms Introduction|Назад к разделу: Неличные формы]]

@@ -190,5 +190,5 @@ Unless you hurry, we'll miss the train.
 #### См. также
 - [[First Conditional — первое условие (реальное)]]
 - [[Purpose Clauses — конструкции выражения цели]]
-- [[Future Simple — will]]
+- [[Future Simple — Будущее простое время (will)]]
 - ← [[Miscellaneous Introduction|Назад к разделу: Разное]]

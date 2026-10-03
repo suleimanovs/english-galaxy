@@ -13,7 +13,7 @@ tags: [grammar, resources]
 
 | Раздел | Введение |
 | --- | --- |
-| Времена | [[Времена в английском]] · [[Present Tenses Introduction — Настоящие времена\|Настоящие]] · [[Past Tenses Introduction — Прошедшие времена\|Прошедшие]] · [[Future Tenses Introduction\|Будущие]] · [[Future Additional Introduction\|Будущее без will]] |
+| Времена | [[Времена в английском]] · [[Present Tenses Introduction\|Настоящие]] · [[Past Tenses Introduction\|Прошедшие]] · [[Future Tenses Introduction\|Будущие]] · [[Future Additional Introduction\|Будущее без will]] |
 | Артикли и местоимения | [[Articles and Pronouns Introduction]] |
 | Существительные | [[Nouns Introduction]] |
 | Прилагательные | [[Adjectives Introduction]] |
@@ -56,7 +56,7 @@ tags: [grammar, resources]
 | --- | --- |
 | [[Past Simple — Прошедшее простое время]] | Времена |
 | [[Past Continuous — Прошедшее продолженное время]] | Времена |
-| [[Future Simple — will]] | Времена |
+| [[Future Simple — Будущее простое время (will)]] | Времена |
 | [[Be Going To — намерение и предсказание по признакам]] | Времена |
 | [[Present Perfect — Настоящее совершённое время]] | Времена |
 | [[Stative Verbs — глаголы состояния]] | Времена |
@@ -84,7 +84,7 @@ tags: [grammar, resources]
 | --- | --- |
 | [[Present Perfect Continuous — Настоящее совершённое продолженное время]] | Времена |
 | [[Past Perfect — Прошедшее совершённое время]] | Времена |
-| [[Future Continuous — will be + ing]] | Времена |
+| [[Future Continuous — Будущее продолженное время (will be + V-ing)]] | Времена |
 | [[Present Continuous для будущего — конкретные договорённости]] | Времена |
 | [[Second Conditional — второе условие (нереальное настоящее)]] | Условные |
 | [[Wish Constructions — конструкции с wish]] | Условные |
@@ -100,7 +100,7 @@ tags: [grammar, resources]
 | [[Will и Would — будущее, вежливость, привычки]] | Модальные |
 | [[Semi-Modals — have to, be able to, had better, would rather, be supposed to]] | Модальные |
 | [[Modals of Deduction — must, may, might, can't, could have]] | Модальные |
-| [[Used To — used to, would, be used to, get used to]] | Разное |
+| [[Used To — привычки в прошлом (used to, would, be used to, get used to)]] | Разное |
 | [[Linking Words — дискурсивные маркеры]] | Разное |
 | [[So, Such, Too, Enough — усилители и ограничители]] | Разное |
 | [[Punctuation — пунктуация (US)]] | Разное |
@@ -119,14 +119,14 @@ tags: [grammar, resources]
 | Тема | Раздел |
 | --- | --- |
 | [[Past Perfect Continuous — Прошедшее совершённое продолженное время]] | Времена |
-| [[Future Perfect — will have + V3]] | Времена |
-| [[Future Perfect Continuous — will have been + ing]] | Времена |
+| [[Future Perfect — Будущее совершённое время (will have + V3)]] | Времена |
+| [[Future Perfect Continuous — Будущее совершённое продолженное время (will have been + V-ing)]] | Времена |
 | [[Future in the Past — будущее в прошедшем]] | Времена |
 | [[Third Conditional — третье условие (нереальное прошлое)]] | Условные |
 | [[Mixed Conditionals — смешанные условия]] | Условные |
 | [[If Alternatives — unless, as long as, provided, in case, even if, suppose]] | Условные |
 | [[Participle — причастие (Participle I и Participle II)]] | Неличные формы |
-| [[Causative — have, get something done]] | Сложные конструкции |
+| [[Causative — каузатив (have, get something done)]] | Сложные конструкции |
 | [[Embedded Questions — косвенные вопросы]] | Сложные конструкции |
 | [[Ought To — моральная обязанность]] | Модальные |
 | [[Need и Dare — необходимость и смелость]] | Модальные |

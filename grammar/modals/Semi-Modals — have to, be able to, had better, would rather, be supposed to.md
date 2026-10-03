@@ -261,5 +261,5 @@ Be supposed to описывает то, что **должно происходи
 - [[Can и Could — умение, возможность, разрешение]]
 - [[Shall и Should — предложения, советы, обязанность]]
 - [[Ought To — моральная обязанность]]
-- [[Used To — used to, would, be used to, get used to]]
+- [[Used To — привычки в прошлом (used to, would, be used to, get used to)]]
 - ← [[Modals Introduction|Назад к разделу: Модальные глаголы]]

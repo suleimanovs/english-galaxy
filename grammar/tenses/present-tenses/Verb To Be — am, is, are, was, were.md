@@ -236,4 +236,4 @@ you / we / they      +  were / weren't
 - [[Present Simple — Настоящее простое время]]
 - [[Present Continuous — Настоящее продолженное время]]
 - [[Past Simple — Прошедшее простое время]]
-- ← [[Present Tenses Introduction — Настоящие времена|Назад к разделу: Настоящие времена]]
+- ← [[Present Tenses Introduction|Назад к разделу: Настоящие времена]]

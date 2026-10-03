@@ -125,6 +125,6 @@ Future Continuous в вопросе звучит мягче и деликатн�
 ---
 
 #### См. также
-- [[Future Simple — will]]
-- [[Future Perfect — will have + V3]]
+- [[Future Simple — Будущее простое время (will)]]
+- [[Future Perfect — Будущее совершённое время (will have + V3)]]
 - ← [[Future Tenses Introduction|Назад к разделу: Будущие времена]]

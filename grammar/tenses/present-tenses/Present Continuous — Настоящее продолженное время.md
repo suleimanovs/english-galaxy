@@ -234,4 +234,4 @@ Are + you/we/they + глагол-ing?
 - [[Present Simple — Настоящее простое время]]
 - [[Present Continuous для будущего — конкретные договорённости]]
 - [[Participle — причастие (Participle I и Participle II)]]
-- ← [[Present Tenses Introduction — Настоящие времена|Назад к разделу: Настоящие времена]]
+- ← [[Present Tenses Introduction|Назад к разделу: Настоящие времена]]

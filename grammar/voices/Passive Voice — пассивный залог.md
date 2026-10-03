@@ -193,5 +193,5 @@ Passive Voice (пассивный залог) это конструкция, п�
 #### См. также
 - [[Active Voice — активный залог]]
 - [[Modal Passive — пассивный залог с модальными глаголами]]
-- [[Causative — have, get something done]]
+- [[Causative — каузатив (have, get something done)]]
 - ← [[Voices Introduction|Назад к разделу: Залог]]

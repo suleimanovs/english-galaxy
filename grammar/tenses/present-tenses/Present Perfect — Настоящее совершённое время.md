@@ -264,4 +264,4 @@ Has   +  he / she / it        +  глагол V3?
 - [[Past Simple — Прошедшее простое время]]
 - [[Present Perfect Continuous — Настоящее совершённое продолженное время]]
 - [[Past Perfect — Прошедшее совершённое время]]
-- ← [[Present Tenses Introduction — Настоящие времена|Назад к разделу: Настоящие времена]]
+- ← [[Present Tenses Introduction|Назад к разделу: Настоящие времена]]
