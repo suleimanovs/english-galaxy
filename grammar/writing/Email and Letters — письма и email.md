@@ -8,7 +8,7 @@ tags: [grammar, writing]
 
 ---
 
-## Formal email / letter (деловое письмо)
+#### Formal email / letter (деловое письмо)
 
 ```
 Subject: [Чёткая тема] -- Meeting Request / Application for... / Invoice Query
@@ -51,7 +51,7 @@ Yours sincerely / Yours faithfully — британские формулы; в �
 
 ---
 
-## Semi-formal email (полуформальное)
+#### Semi-formal email (полуформальное)
 
 Для коллег, клиентов с которыми уже общался, преподавателей.
 
@@ -78,7 +78,7 @@ Thanks, / Take care, (неформально-дружелюбный; *Cheers* �
 
 ---
 
-## Informal email / message (неформальное)
+#### Informal email / message (неформальное)
 
 Для друзей, близких знакомых.
 
@@ -96,9 +96,9 @@ xx
 
 ---
 
-## Полезные фразы по ситуациям
+#### Полезные фразы по ситуациям
 
-### Запрос информации
+##### Запрос информации
 
 | Formal | Semi-formal |
 |---|---|
@@ -106,7 +106,7 @@ xx
 | I would be grateful if you could provide... | Could you send me some info on...? |
 | Could you kindly confirm whether... | Do you happen to know if...? |
 
-### Просьба
+##### Просьба
 
 | Formal | Semi-formal |
 |---|---|
@@ -114,7 +114,7 @@ xx
 | Would it be possible to...? | Could you possibly...? |
 | I wonder if you would be so kind as to... | Any chance you could...? |
 
-### Жалоба
+##### Жалоба
 
 | Formal | Semi-formal |
 |---|---|
@@ -123,7 +123,7 @@ xx
 | I must insist that this matter be resolved... | Could you look into this? |
 | I expect a full refund / replacement. | I'd appreciate it if you could sort this out. |
 
-### Извинение
+##### Извинение
 
 | Formal | Semi-formal |
 |---|---|
@@ -131,7 +131,7 @@ xx
 | Please accept my apologies for... | Sorry for the mix-up / delay / confusion. |
 | I deeply regret any inconvenience caused. | My bad, I should have... |
 
-### Благодарность
+##### Благодарность
 
 | Formal | Semi-formal |
 |---|---|
@@ -139,7 +139,7 @@ xx
 | Thank you for your prompt response. | Thanks for getting back to me so quickly. |
 | I truly appreciate your time and effort. | Really appreciate it! |
 
-### Приложения
+##### Приложения
 
 | Formal | Semi-formal |
 |---|---|
@@ -147,7 +147,7 @@ xx
 | Enclosed please find... | Here's the document you asked for. |
 | As per your request, I am attaching... | Sending this over as promised. |
 
-### Завершение и follow-up
+##### Завершение и follow-up
 
 | Formal | Semi-formal |
 |---|---|
@@ -157,7 +157,7 @@ xx
 
 ---
 
-## Структура cover letter (сопроводительное письмо к резюме)
+#### Структура cover letter (сопроводительное письмо к резюме)
 
 ```
 Dear Hiring Manager, / Dear Mr./Ms. [Фамилия]:
@@ -187,7 +187,7 @@ Sincerely,
 
 ---
 
-## Типичные ошибки русскоязычных
+#### Типичные ошибки русскоязычных
 
 | Ошибка | Правильно |
 |---|---|

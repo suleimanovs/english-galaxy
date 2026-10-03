@@ -69,8 +69,8 @@ Would описывает то, что человек делал регулярн
 
 > [!note]
 > Would для прошлых привычек — только для действий, не для состояний. Для состояний — used to.
-- *I used to live in Paris.* [OK] — Я жил в Париже.
-- *I would live in Paris.* [X] — так нельзя.
+- *I used to live in Paris.* ✓ — Я жил в Париже.
+- *I would live in Paris.* ✗ — так нельзя.
 
 **4. Гипотетические ситуации (Second Conditional и вежливость)**
 

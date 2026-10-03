@@ -8,11 +8,11 @@ tags: [grammar, exam]
 
 ---
 
-## Part 1: Introduction (4-5 минут)
+#### Part 1: Introduction (4-5 минут)
 
 Простые вопросы о себе: работа, учёба, дом, хобби, ежедневная рутина.
 
-### Правило ответа: 2-4 предложения
+##### Правило ответа: 2-4 предложения
 
 Не одно слово. Не монолог. Формула: **ответ + деталь + пример или причина**.
 
@@ -22,7 +22,7 @@ tags: [grammar, exam]
 | What do you like about your job? | It's good. | I'd say the best thing about my job is the flexibility. I can work from home a couple of days a week, which saves me a lot of commuting time. |
 | Do you like cooking? | Yes. | Yes, I do. I find it quite relaxing after a long day. I usually try to cook something simple during the week, but on weekends I like to experiment with new recipes. |
 
-### Типичные темы Part 1
+##### Типичные темы Part 1
 
 | Тема | Примеры вопросов |
 |---|---|
@@ -41,11 +41,11 @@ tags: [grammar, exam]
 
 ---
 
-## Part 2: Long Turn (3-4 минуты)
+#### Part 2: Long Turn (3-4 минуты)
 
 Получаешь карточку с темой и 3-4 пунктами. 1 минута на подготовку (с бумагой и карандашом), затем 2 минуты монолог.
 
-### Пример карточки:
+##### Пример карточки:
 
 ```
 Describe a book you have recently read.
@@ -56,14 +56,14 @@ You should say:
 and explain what you learned from it.
 ```
 
-### Стратегия подготовки (1 минута):
+##### Стратегия подготовки (1 минута):
 
 1. Быстро выбрать конкретный пример (не абстрактный)
 2. Записать ключевые слова по каждому пункту (не предложения)
 3. Придумать 1-2 детали для каждого пункта
 4. Спланировать порядок: пункты карточки = план монолога
 
-### Структура монолога:
+##### Структура монолога:
 
 ```
 Opening: I'd like to talk about [тема].
@@ -80,18 +80,18 @@ Final point: [ответ на "explain" пункт -- самый развёрн�
 Closing: So that's why [итог] / That's the [book/place/person] I wanted to talk about.
 ```
 
-### Полезные фразы для Part 2:
+##### Полезные фразы для Part 2:
 
 | Функция | Фразы |
 |---|---|
-| Начать | I'd like to talk about... / The [X] I want to describe is... |
+| Начать | I'd like to talk about... / The ✗ I want to describe is... |
 | Переход | As for [next point]... / Moving on to... / Another thing I should mention is... |
 | Деталь | What I particularly liked was... / The reason I chose this is... |
 | Время/место | This happened about [time] ago. / It took place in... |
 | Эмоции | I was really impressed by... / It made me feel... / What struck me was... |
 | Завершить | Overall, it was a [positive/memorable] experience. / Looking back, I'm really glad... |
 
-### Если застрял:
+##### Если застрял:
 
 ```
 - Let me think about that for a moment...
@@ -100,18 +100,18 @@ Closing: So that's why [итог] / That's the [book/place/person] I wanted to t
 - If I recall correctly...
 ```
 
-### Если закончил рано (< 2 минут):
+##### Если закончил рано (< 2 минут):
 
-Добавить: "I think the main reason this [X] is special to me is because..."
+Добавить: "I think the main reason this ✗ is special to me is because..."
 Или вернуться к любому пункту и добавить деталь.
 
 ---
 
-## Part 3: Discussion (4-5 минут)
+#### Part 3: Discussion (4-5 минут)
 
 Абстрактные вопросы, связанные с темой Part 2. Экзаменатор ожидает развёрнутые ответы с аргументацией.
 
-### Пример (если Part 2 был о книге):
+##### Пример (если Part 2 был о книге):
 
 ```
 - Do you think people read less nowadays?
@@ -120,7 +120,7 @@ Closing: So that's why [итог] / That's the [book/place/person] I wanted to t
 - Should children be encouraged to read more? Why?
 ```
 
-### Формула ответа: **мнение + причина + пример + итог**
+##### Формула ответа: **мнение + причина + пример + итог**
 
 ```
 Q: Do you think people read less nowadays?
@@ -134,7 +134,7 @@ A: Yes, I think they probably do, and there are several reasons for this.
    so it's not all negative.
 ```
 
-### Фразы для Part 3:
+##### Фразы для Part 3:
 
 | Функция | Фразы |
 |---|---|
@@ -148,9 +148,9 @@ A: Yes, I think they probably do, and there are several reasons for this.
 
 ---
 
-## 4 критерия оценки и как набрать баллы
+#### 4 критерия оценки и как набрать баллы
 
-### Fluency & Coherence (беглость и связность)
+##### Fluency & Coherence (беглость и связность)
 
 | Что делать | Чего избегать |
 |---|---|
@@ -160,7 +160,7 @@ A: Yes, I think they probably do, and there are several reasons for this.
 | Допустимы fillers: "Well...", "Let me think..." | Повторять "um... um... um..." |
 | Self-correction допустима | Не исправлять себя вообще |
 
-### Lexical Resource (лексика)
+##### Lexical Resource (лексика)
 
 | Что делать | Чего избегать |
 |---|---|
@@ -169,7 +169,7 @@ A: Yes, I think they probably do, and there are several reasons for this.
 | Парафразировать (не повторять слова вопроса) | Копировать формулировку вопроса |
 | Использовать less common vocabulary | Только basic слова (good, bad, nice) |
 
-### Grammatical Range & Accuracy (грамматика)
+##### Grammatical Range & Accuracy (грамматика)
 
 | Что делать | Чего избегать |
 |---|---|
@@ -179,7 +179,7 @@ A: Yes, I think they probably do, and there are several reasons for this.
 | Relative clauses: "...which is something I really enjoy" | Короткие рубленые предложения |
 | Self-correct: "I went... I mean, I go there every week" | Повторять одну и ту же ошибку |
 
-### Pronunciation (произношение)
+##### Pronunciation (произношение)
 
 | Что делать | Чего избегать |
 |---|---|
@@ -191,7 +191,7 @@ A: Yes, I think they probably do, and there are several reasons for this.
 
 ---
 
-## Типичные ошибки русскоязычных в IELTS Speaking
+#### Типичные ошибки русскоязычных в IELTS Speaking
 
 | Ошибка | Проблема | Решение |
 |---|---|---|

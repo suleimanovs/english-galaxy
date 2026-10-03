@@ -61,7 +61,7 @@ told / asked / ordered / warned + объект + not to + V
 
 - "Let's go for a walk." → He **suggested going** for a walk. / He suggested **that we go** for a walk.
 - "Why don't you try again?" → She **suggested trying** again. / She suggested **that I try** again.
-- [X] He suggested me to go. — так нельзя.
+- ✗ He suggested me to go. — так нельзя.
 
 ---
 

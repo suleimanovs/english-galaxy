@@ -8,7 +8,7 @@ tags: [grammar, writing]
 
 ---
 
-## Когда какой регистр
+#### Когда какой регистр
 
 | Formal | Semi-formal | Informal |
 |---|---|---|
@@ -20,9 +20,9 @@ tags: [grammar, writing]
 
 ---
 
-## Замены: formal vs informal
+#### Замены: formal vs informal
 
-### Глаголы
+##### Глаголы
 
 | Informal | Formal | Перевод |
 |---|---|---|
@@ -69,7 +69,7 @@ tags: [grammar, writing]
 | a lot of | numerous, a great deal of | много |
 | right away | immediately | немедленно |
 
-### Конструкции
+##### Конструкции
 
 | Informal | Formal |
 |---|---|
@@ -88,7 +88,7 @@ tags: [grammar, writing]
 | A long time ago | In the distant past / Historically |
 | More and more | An increasing number of / Increasingly |
 
-### Грамматические различия
+##### Грамматические различия
 
 | Informal | Formal |
 |---|---|
@@ -104,7 +104,7 @@ tags: [grammar, writing]
 
 ---
 
-## Примеры одного и того же в трёх регистрах
+#### Примеры одного и того же в трёх регистрах
 
 **Сообщить о проблеме:**
 
@@ -132,7 +132,7 @@ tags: [grammar, writing]
 
 ---
 
-## Подсказки для выбора регистра
+#### Подсказки для выбора регистра
 
 1. Если сомневаешься — выбирай semi-formal. Это самый безопасный вариант.
 2. В email первое письмо незнакомому человеку — formal. Дальше подстраивайся под его стиль.

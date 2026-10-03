@@ -236,14 +236,14 @@ She worked two jobs during the recession.
 Типичные ошибки:
 
 ```
-WRONG: I studied during two hours.
-RIGHT: I studied for two hours.
+✗ I studied during two hours.
+✓ I studied for two hours.
 
-WRONG: She's been here since three years.
-RIGHT: She's been here for three years.
+✗ She's been here since three years.
+✓ She's been here for three years.
 
-WRONG: I didn't sleep for the night.
-RIGHT: I didn't sleep during the night.
+✗ I didn't sleep for the night.
+✓ I didn't sleep during the night.
 ```
 
 ---

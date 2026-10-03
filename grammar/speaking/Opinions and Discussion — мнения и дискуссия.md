@@ -8,7 +8,7 @@ tags: [grammar, speaking]
 
 ---
 
-## Выразить мнение
+#### Выразить мнение
 
 | Уровень уверенности | Фразы |
 |---|---|
@@ -19,7 +19,7 @@ tags: [grammar, speaking]
 
 ---
 
-## Спросить мнение
+#### Спросить мнение
 
 | Прямо | Мягко |
 |---|---|
@@ -31,7 +31,7 @@ tags: [grammar, speaking]
 
 ---
 
-## Согласиться
+#### Согласиться
 
 | Полное согласие | Фразы |
 |---|---|
@@ -45,7 +45,7 @@ tags: [grammar, speaking]
 
 ---
 
-## Не согласиться (от мягкого к жёсткому)
+#### Не согласиться (от мягкого к жёсткому)
 
 **Уровень 1 — намёк (understatement, особенно британский):**
 ```
@@ -85,19 +85,19 @@ That doesn't hold up at all.
 
 ---
 
-## Аргументация
+#### Аргументация
 
-### Представить аргумент
+##### Представить аргумент
 
 | Фразы |
 |---|
 | The main reason is... / One important factor is... |
 | It's worth noting that... / It's important to point out that... |
 | The key issue here is... / What we need to consider is... |
-| Let me give you an example... / Take [X] for instance... |
+| Let me give you an example... / Take ✗ for instance... |
 | Research has shown that... / Studies suggest that... / According to [source]... |
 
-### Добавить аргумент
+##### Добавить аргумент
 
 | Фразы |
 |---|
@@ -105,16 +105,16 @@ That doesn't hold up at all.
 | Another thing to consider is... / There's also the fact that... |
 | And let's not forget... / It's also worth mentioning... |
 
-### Привести пример
+##### Привести пример
 
 | Фразы |
 |---|
 | For example... / For instance... / To give you an example... |
-| Take [X] for example... / Consider the case of... |
+| Take ✗ for example... / Consider the case of... |
 | A good example of this is... / This is illustrated by... |
 | Let me put it this way... / In other words... |
 
-### Признать контраргумент и отвергнуть
+##### Признать контраргумент и отвергнуть
 
 | Фразы |
 |---|
@@ -127,9 +127,9 @@ That doesn't hold up at all.
 
 ---
 
-## Управление дискуссией
+#### Управление дискуссией
 
-### Прервать вежливо
+##### Прервать вежливо
 
 ```
 Sorry to interrupt, but...
@@ -139,7 +139,7 @@ I'd like to add something to that.
 Could I make a quick point?
 ```
 
-### Вернуться к теме
+##### Вернуться к теме
 
 ```
 Going back to what [name] said earlier...
@@ -148,7 +148,7 @@ Can I bring us back to the original question?
 That's an interesting tangent, but...
 ```
 
-### Попросить объяснить
+##### Попросить объяснить
 
 ```
 What exactly do you mean by that?
@@ -157,7 +157,7 @@ Can you give me a concrete example?
 I'm not sure I follow -- could you clarify?
 ```
 
-### Подвести итог
+##### Подвести итог
 
 ```
 So, to sum up...
@@ -169,7 +169,7 @@ If I understand correctly, we're saying that...
 
 ---
 
-## Hedging (смягчение утверждений)
+#### Hedging (смягчение утверждений)
 
 Англоязычные, и британцы, и американцы, редко говорят категорично. Они "хеджируют" — вставляют слова-смягчители.
 
@@ -199,7 +199,7 @@ If I understand correctly, we're saying that...
 
 ---
 
-## Культурные различия в дискуссии
+#### Культурные различия в дискуссии
 
 | Русская культура | Англоязычная культура |
 |---|---|

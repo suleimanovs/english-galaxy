@@ -8,7 +8,7 @@ tags: [grammar, writing]
 
 ---
 
-## Базовая структура (5-paragraph essay)
+#### Базовая структура (5-paragraph essay)
 
 ```
 1. Introduction (вступление)         -- 3-5 предложений
@@ -39,7 +39,7 @@ tags: [grammar, writing]
 
 ---
 
-## Introduction (вступление)
+#### Introduction (вступление)
 
 Три обязательных элемента:
 
@@ -67,7 +67,7 @@ tags: [grammar, writing]
 
 ---
 
-## Body paragraphs (основная часть)
+#### Body paragraphs (основная часть)
 
 Каждый абзац = один аргумент. Структура абзаца:
 
@@ -86,7 +86,7 @@ tags: [grammar, writing]
 
 ---
 
-## Transition words между абзацами
+#### Transition words между абзацами
 
 | Функция | Слова |
 |---|---|
@@ -99,7 +99,7 @@ tags: [grammar, writing]
 
 ---
 
-## Conclusion (заключение)
+#### Conclusion (заключение)
 
 Три элемента:
 
@@ -117,9 +117,9 @@ tags: [grammar, writing]
 
 ---
 
-## Типы эссе
+#### Типы эссе
 
-### Opinion essay (эссе-мнение)
+##### Opinion essay (эссе-мнение)
 
 Задание: Do you agree or disagree?
 
@@ -141,7 +141,7 @@ Conclusion: перефразированный тезис + итог
 | Признать противоположное мнение | While some people argue that..., it is important to consider that... |
 | Опровергнуть | However, this argument fails to consider..., Nevertheless, the evidence suggests... |
 
-### For and against essay (за и против)
+##### For and against essay (за и против)
 
 Задание: Discuss the advantages and disadvantages.
 
@@ -160,7 +160,7 @@ Conclusion: ваше мнение на основе баланса аргуме�
 | Недостатки | One major drawback is, A significant disadvantage is, On the negative side |
 | Баланс | On balance, Weighing up both sides, Taking everything into account |
 
-### Problem-solution essay (проблема-решение)
+##### Problem-solution essay (проблема-решение)
 
 ```
 Introduction: описание проблемы + тезис
@@ -172,7 +172,7 @@ Conclusion: итог + призыв к действию
 
 ---
 
-## Типичные ошибки русскоязычных в эссе
+#### Типичные ошибки русскоязычных в эссе
 
 | Ошибка | Правильно |
 |---|---|

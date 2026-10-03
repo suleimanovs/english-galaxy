@@ -58,8 +58,8 @@ tags: [grammar, articles]
 
 > [!note]
 > **Whole** не используется с uncountable и plural:
-- *the whole furniture* [НЕПРАВИЛЬНО] → all the furniture
-- *the whole students* [НЕПРАВИЛЬНО] → all the students
+- *the whole furniture* ✗ → all the furniture
+- *the whole students* ✗ → all the students
 
 ---
 

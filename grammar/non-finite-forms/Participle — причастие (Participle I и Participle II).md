@@ -108,9 +108,9 @@ V3 используется в образовании Perfect-форм и пас
 
 **Субъект причастного оборота должен совпадать с подлежащим главного предложения.** Нарушение этого правила — «висячее причастие» (dangling participle) — классическая ошибка.
 
-- [OK] Walking down the street, *I* saw a dog. — Идя по улице, *я* увидел собаку. (я иду — я вижу, субъект один)
-- [X] Walking down the street, *a dog* ran past me. — Причастие относится к dog, но собака не идёт по улице — это я иду. Нарушение логики.
-- [OK] Walking down the street, *I* was nearly knocked over by a dog. — Исправленный вариант.
+- ✓ Walking down the street, *I* saw a dog. — Идя по улице, *я* увидел собаку. (я иду — я вижу, субъект один)
+- ✗ Walking down the street, *a dog* ran past me. — Причастие относится к dog, но собака не идёт по улице — это я иду. Нарушение логики.
+- ✓ Walking down the street, *I* was nearly knocked over by a dog. — Исправленный вариант.
 
 ---
 
@@ -134,9 +134,9 @@ V3 используется в образовании Perfect-форм и пас
 
 Ошибка 3: Путать V-ing и V3 в роли определения
 
-- a writing letter [X] — такого нет
-- a written letter [OK] — написанное письмо (V3, пассивное)
-- a sleeping child [OK] — спящий ребёнок (V-ing, активное)
+- a writing letter ✗ — такого нет
+- a written letter ✓ — написанное письмо (V3, пассивное)
+- a sleeping child ✓ — спящий ребёнок (V-ing, активное)
 
 Ошибка 4: Путать «have something done» с обычным перфектом
 

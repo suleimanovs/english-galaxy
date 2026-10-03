@@ -65,8 +65,8 @@ tags: [grammar, adj]
 - She was very **annoying** at the party. — Она была очень раздражающей на вечеринке.
 
 **2. -ed НЕ используется для неодушевлённых объектов (обычно):**
-- *The movie was bored.* [НЕПРАВИЛЬНО] — фильм не может испытывать скуку
-- *The movie was boring.* [ПРАВИЛЬНО]
+- *The movie was bored.* ✗ — фильм не может испытывать скуку
+- *The movie was boring.* ✓
 
 ---
 

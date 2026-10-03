@@ -56,14 +56,14 @@ tags: [grammar, misc]
 | | Used to | Would |
 |---|---|---|
 | **Повторяющиеся действия** | I used to play football. | I would play football. |
-| **Состояния (be, have, like, know...)** | I used to be thin. | *I would be thin.* [НЕПРАВИЛЬНО] |
+| **Состояния (be, have, like, know...)** | I used to be thin. | *I would be thin.* ✗ |
 | **Контраст «раньше / сейчас»** | I used to smoke. (сейчас нет) | — (would не подчёркивает контраст) |
 | **Первое упоминание привычки** | I used to live in Paris. | — (would нужен контекст) |
 
 > [!note]
 > **Would нельзя использовать с глаголами состояния** (be, have, like, know, live, believe, want):
 - I **used to** live in Moscow. [OK]
-- *I **would** live in Moscow.* [НЕПРАВИЛЬНО]
+- *I **would** live in Moscow.* ✗
 
 > [!note]
 > **Would** обычно требует предварительного контекста — вводной фразы вроде *When I was a child...*, *Every summer...*:

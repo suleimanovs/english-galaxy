@@ -37,8 +37,8 @@ tags: [grammar, adj]
 #### Практические правила
 
 **1. Мнение всегда первое:**
-- a nice big house [OK] — *a big nice house* [неестественно]
-- a beautiful old church [OK] — *an old beautiful church* [неестественно]
+- a nice big house ✓ — *a big nice house* [неестественно]
+- a beautiful old church ✓ — *an old beautiful church* [неестественно]
 
 **2. Назначение (purpose) всегда последнее — ближе всего к существительному:**
 - a large plastic shopping bag — (размер + материал + назначение)

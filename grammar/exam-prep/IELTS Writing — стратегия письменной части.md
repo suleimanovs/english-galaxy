@@ -8,9 +8,9 @@ tags: [grammar, exam]
 
 ---
 
-## Task 1 Academic — описание графика
+#### Task 1 Academic — описание графика
 
-### Структура (4 абзаца, ~150-180 слов)
+##### Структура (4 абзаца, ~150-180 слов)
 
 ```
 Paragraph 1: Introduction (перефразировать задание)
@@ -27,7 +27,7 @@ Paragraph 4: Detail 2 (конкретные данные с цифрами)
 
 Правило: Overview обязателен. Без него потолок балла — 5.0.
 
-### Фразы для описания трендов
+##### Фразы для описания трендов
 
 **Рост:**
 
@@ -80,7 +80,7 @@ Paragraph 4: Detail 2 (конкретные данные с цифрами)
 | approximately / about / around | **Approximately** 40% of respondents agreed. |
 | just over / just under | **Just over** half the population... |
 
-### Фразы для сравнения
+##### Фразы для сравнения
 
 | Фраза | Пример |
 |---|---|
@@ -93,9 +93,9 @@ Paragraph 4: Detail 2 (конкретные данные с цифрами)
 
 ---
 
-## Task 1 General Training — письмо
+#### Task 1 General Training — письмо
 
-### Типы писем
+##### Типы писем
 
 | Тип | Стиль | Обращение |
 |---|---|---|
@@ -103,7 +103,7 @@ Paragraph 4: Detail 2 (конкретные данные с цифрами)
 | Semi-formal (коллеге, преподавателю) | Dear [Name] | Kind regards |
 | Informal (другу) | Dear [Name] / Hi [Name] | Best wishes / Take care |
 
-### Структура (3 абзаца)
+##### Структура (3 абзаца)
 
 ```
 Opening: объяснить зачем пишешь
@@ -118,11 +118,11 @@ Closing: что ожидаешь дальше
 
 ---
 
-## Task 2 — эссе
+#### Task 2 — эссе
 
-### 5 типов заданий с шаблонами
+##### 5 типов заданий с шаблонами
 
-#### Тип 1: Opinion (Agree/Disagree)
+###### Тип 1: Opinion (Agree/Disagree)
 
 Задание: "Some people think that... Do you agree or disagree?"
 
@@ -145,7 +145,7 @@ Conclusion:
   In conclusion, [перефразировать тезис]. [Финальная мысль].
 ```
 
-#### Тип 2: Discussion + Opinion
+###### Тип 2: Discussion + Opinion
 
 Задание: "Discuss both views and give your own opinion."
 
@@ -167,7 +167,7 @@ Conclusion:
   In conclusion, although both views have merit, I believe that...
 ```
 
-#### Тип 3: Problem-Solution
+###### Тип 3: Problem-Solution
 
 Задание: "What problems does this cause? What solutions can you suggest?"
 
@@ -188,7 +188,7 @@ Conclusion:
   [решения] could help address them effectively.
 ```
 
-#### Тип 4: Two-part question
+###### Тип 4: Two-part question
 
 Задание: "Why is this happening? Is this a positive or negative development?"
 
@@ -207,7 +207,7 @@ Conclusion:
   To sum up, [причины] and [оценка].
 ```
 
-#### Тип 5: Advantages/Disadvantages
+###### Тип 5: Advantages/Disadvantages
 
 Задание: "What are the advantages and disadvantages?"
 
@@ -229,9 +229,9 @@ Conclusion:
 
 ---
 
-## Фразы, которые поднимают балл
+#### Фразы, которые поднимают балл
 
-### Для Coherence & Cohesion (связность)
+##### Для Coherence & Cohesion (связность)
 
 | Функция | Фразы |
 |---|---|
@@ -242,7 +242,7 @@ Conclusion:
 | Вывод | In conclusion, To sum up, All things considered |
 | Уступка | Although, Even though, While it is true that |
 
-### Для Lexical Resource (лексика)
+##### Для Lexical Resource (лексика)
 
 Не повторять одно слово — использовать синонимы:
 
@@ -258,7 +258,7 @@ Conclusion:
 | increase | rise, grow, surge, escalate |
 | decrease | decline, drop, diminish, reduce |
 
-### Для Grammatical Range (грамматика)
+##### Для Grammatical Range (грамматика)
 
 Экзаменатор хочет видеть разнообразие конструкций. Используйте:
 
@@ -274,7 +274,7 @@ Conclusion:
 
 ---
 
-## Типичные ошибки в IELTS Writing
+#### Типичные ошибки в IELTS Writing
 
 | Ошибка | Штраф | Как избежать |
 |---|---|---|

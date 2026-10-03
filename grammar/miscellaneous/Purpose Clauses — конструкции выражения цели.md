@@ -110,8 +110,8 @@ so as not to     +  V
 
 > [!note]
 > **For + -ing** — это конструкция о вещах и местах. Если подлежащее — человек, используйте **to-infinitive**:
-- [X] I went to the store **for buying** milk. → [OK] I went to the store **to buy** milk.
-- [X] She studies **for getting** good grades. → [OK] She studies **to get** good grades.
+- ✗ I went to the store **for buying** milk. → ✓ I went to the store **to buy** milk.
+- ✗ She studies **for getting** good grades. → ✓ She studies **to get** good grades.
 
 ---
 
@@ -147,8 +147,8 @@ so as not to     +  V
 
 > [!note]
 > Одна из самых частых ошибок — использовать **will** в придаточном so that, когда главное предложение в прошедшем времени. В прошедшем контексте нужен **would**, а не **will**:
-- [X] She called him so that he **will** be ready.
-- [OK] She called him **so that he would** be ready.
+- ✗ She called him so that he **will** be ready.
+- ✓ She called him **so that he would** be ready.
 
 ---
 

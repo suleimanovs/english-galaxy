@@ -10,7 +10,7 @@ tags: [grammar, pronunciation]
 
 ---
 
-## Sentence stress: какие слова ударные
+#### Sentence stress: какие слова ударные
 
 В английском предложении ударение получают СОДЕРЖАТЕЛЬНЫЕ слова (content words). Служебные слова (function words) безударны и редуцируются.
 
@@ -41,7 +41,7 @@ tags: [grammar, pronunciation]
 
 ---
 
-## Как это работает на практике
+#### Как это работает на практике
 
 Предложение: "I want to go to the store to buy some bread."
 
@@ -63,7 +63,7 @@ we NEED to TALK about what HAPpened YESterday.
 
 ---
 
-## Weak forms (слабые формы)
+#### Weak forms (слабые формы)
 
 Служебные слова имеют две формы: сильную (когда на них ударение) и слабую (обычно).
 
@@ -97,9 +97,9 @@ we NEED to TALK about what HAPpened YESterday.
 
 ---
 
-## Интонация (Intonation)
+#### Интонация (Intonation)
 
-### Falling intonation (нисходящая) — тон падает в конце
+##### Falling intonation (нисходящая) — тон падает в конце
 
 Используется для:
 
@@ -111,7 +111,7 @@ we NEED to TALK about what HAPpened YESterday.
 | Восклицания | What a great idea! | idea ↘ |
 | Перечисление (последний элемент) | I need milk, bread, and eggs. | eggs ↘ |
 
-### Rising intonation (восходящая) — тон поднимается в конце
+##### Rising intonation (восходящая) — тон поднимается в конце
 
 Используется для:
 
@@ -125,7 +125,7 @@ we NEED to TALK about what HAPpened YESterday.
 
 Американская особенность — **uptalk**: восходящий тон на обычных утверждениях ("So I went to the store ↗... and they were closed ↗..."). Распространено в разговорной речи, особенно у молодёжи; понимать нужно, копировать не обязательно — в формальной речи звучит неуверенно.
 
-### Fall-rise (падение-подъём) — неуверенность, "но..."
+##### Fall-rise (падение-подъём) — неуверенность, "но..."
 
 | Ситуация | Пример | Смысл |
 |---|---|---|
@@ -136,7 +136,7 @@ we NEED to TALK about what HAPpened YESterday.
 
 ---
 
-## Linking (связывание слов)
+#### Linking (связывание слов)
 
 Носители не делают пауз между словами. Слова сливаются.
 
@@ -160,7 +160,7 @@ we NEED to TALK about what HAPpened YESterday.
 
 ---
 
-## Contraction (сокращения)
+#### Contraction (сокращения)
 
 В разговорной речи сокращения обязательны. Полные формы звучат формально или с emphasis.
 

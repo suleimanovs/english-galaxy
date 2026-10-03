@@ -8,7 +8,7 @@ tags: [grammar, speaking]
 
 ---
 
-## Правила small talk
+#### Правила small talk
 
 1. Темы лёгкие: погода, выходные, работа (общее), путешествия, еда, хобби, текущие события.
 2. Не задавать личных вопросов: зарплата, возраст, вес, семейное положение, политика, религия — табу при первом знакомстве.
@@ -18,9 +18,9 @@ tags: [grammar, speaking]
 
 ---
 
-## Стартеры по ситуациям
+#### Стартеры по ситуациям
 
-### С коллегами (утро)
+##### С коллегами (утро)
 
 ```
 - Morning! How was your weekend?
@@ -37,7 +37,7 @@ Follow-up:
 - Really? I've always wanted to try that.
 ```
 
-### На вечеринке / мероприятии
+##### На вечеринке / мероприятии
 
 ```
 - Hi, I'm [имя]. How do you know [хозяин]?
@@ -47,16 +47,16 @@ Follow-up:
 - Are you from around here?
 ```
 
-### В очереди / лифте / ожидании
+##### В очереди / лифте / ожидании
 
 ```
 - Busy today, isn't it?
 - The weather's been awful/great lately, hasn't it?
-- Are you waiting for the [X] too?
+- Are you waiting for the ✗ too?
 - Have you been waiting long?
 ```
 
-### С незнакомцем (путешествие, конференция)
+##### С незнакомцем (путешествие, конференция)
 
 ```
 - Is this your first time here?
@@ -68,7 +68,7 @@ Follow-up:
 
 ---
 
-## Безопасные темы
+#### Безопасные темы
 
 | Тема | Примеры вопросов |
 |---|---|
@@ -82,9 +82,9 @@ Follow-up:
 
 ---
 
-## Как поддержать разговор
+#### Как поддержать разговор
 
-### Показать интерес
+##### Показать интерес
 
 ```
 - Oh really? / Is that right? / No way!
@@ -93,7 +93,7 @@ Follow-up:
 - Wow, that must have been [amazing/tough/exciting].
 ```
 
-### Задать follow-up вопрос
+##### Задать follow-up вопрос
 
 Не просто кивать — задавать вопрос по теме:
 
@@ -104,7 +104,7 @@ Follow-up:
 | I'm really into running. | Oh cool! Do you run marathons? / How often do you go? |
 | The traffic was terrible today. | I know, right? Which way do you come in? |
 
-### Переключить тему
+##### Переключить тему
 
 ```
 - Speaking of which... / That reminds me...
@@ -113,7 +113,7 @@ Follow-up:
 - On a completely different note...
 ```
 
-### Закончить разговор вежливо
+##### Закончить разговор вежливо
 
 ```
 - Well, it was nice chatting with you!
@@ -125,7 +125,7 @@ Follow-up:
 
 ---
 
-## Типичные ошибки русскоязычных в small talk
+#### Типичные ошибки русскоязычных в small talk
 
 | Ошибка | Почему проблема | Что делать |
 |---|---|---|
@@ -138,7 +138,7 @@ Follow-up:
 
 ---
 
-## Filler phrases (заполнители пауз)
+#### Filler phrases (заполнители пауз)
 
 Когда нужно время подумать:
 

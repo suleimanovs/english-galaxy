@@ -103,9 +103,9 @@ Dare  +  подлежащее  +  V?
 
 Ошибка 2: Смешивать модальную и смысловую форму
 
-- [X] She needs call him. → [OK] She needs to call him. (смысловой глагол — нужен to)
-- [X] She doesn't need call him. → [OK] She doesn't need to call him.
-- [OK] She needn't call him. (модальная форма — без to)
+- ✗ She needs call him. → ✓ She needs to call him. (смысловой глагол — нужен to)
+- ✗ She doesn't need call him. → ✓ She doesn't need to call him.
+- ✓ She needn't call him. (модальная форма — без to)
 
 ---
 
