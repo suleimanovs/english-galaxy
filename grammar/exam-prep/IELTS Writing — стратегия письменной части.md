@@ -1,8 +1,8 @@
-> Writing -- часть IELTS, которая вызывает больше всего проблем у русскоязычных. Здесь пошаговые шаблоны для Task 1 и Task 2.
+> Writing — часть IELTS, которая вызывает больше всего проблем у русскоязычных. Здесь пошаговые шаблоны для Task 1 и Task 2.
 
 ---
 
-## Task 1 Academic -- описание графика
+## Task 1 Academic — описание графика
 
 ### Структура (4 абзаца, ~150-180 слов)
 
@@ -19,7 +19,7 @@ Paragraph 3: Detail 1 (конкретные данные с цифрами)
 Paragraph 4: Detail 2 (конкретные данные с цифрами)
 ```
 
-Правило: Overview обязателен. Без него потолок балла -- 5.0.
+Правило: Overview обязателен. Без него потолок балла — 5.0.
 
 ### Фразы для описания трендов
 
@@ -30,8 +30,8 @@ Paragraph 4: Detail 2 (конкретные данные с цифрами)
 | increase | an increase | Sales **increased** from 100 to 200. / There was **an increase** in sales. |
 | rise | a rise | Prices **rose** sharply. / There was **a sharp rise** in prices. |
 | grow | growth | The economy **grew** by 3%. / There was **growth** of 3%. |
-| go up | -- | Temperatures **went up** in July. |
-| climb | -- | Unemployment **climbed** to 8%. |
+| go up | — | Temperatures **went up** in July. |
+| climb | — | Unemployment **climbed** to 8%. |
 | surge | a surge | Demand **surged** in December. |
 
 **Падение:**
@@ -42,7 +42,7 @@ Paragraph 4: Detail 2 (конкретные данные с цифрами)
 | decline | a decline |
 | fall | a fall |
 | drop | a drop |
-| go down | -- |
+| go down | — |
 | plummet | a plummet (резкое падение) |
 
 **Стабильность:**
@@ -87,7 +87,7 @@ Paragraph 4: Detail 2 (конкретные данные с цифрами)
 
 ---
 
-## Task 1 General Training -- письмо
+## Task 1 General Training — письмо
 
 ### Типы писем
 
@@ -112,7 +112,7 @@ Closing: что ожидаешь дальше
 
 ---
 
-## Task 2 -- эссе
+## Task 2 — эссе
 
 ### 5 типов заданий с шаблонами
 
@@ -238,7 +238,7 @@ Conclusion:
 
 ### Для Lexical Resource (лексика)
 
-Не повторять одно слово -- использовать синонимы:
+Не повторять одно слово — использовать синонимы:
 
 | Базовое | Варианты |
 |---|---|

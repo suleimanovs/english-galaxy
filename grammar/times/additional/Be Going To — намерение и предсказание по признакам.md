@@ -78,7 +78,7 @@ Are  +  you/we/they  +  going to + глагол?
 
 ---
 
-**Сигнальные слова**
+#### Сигнальные слова
 
 У going to нет строгих сигнальных слов — контекст важнее. Но часто встречаются:
 
@@ -93,7 +93,7 @@ Are  +  you/we/they  +  going to + глагол?
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: Путать going to и will
 
@@ -119,7 +119,7 @@ Going to требует правильной формы глагола be — am
 
 ---
 
-**Сравнение: will vs going to vs Present Continuous**
+#### Сравнение: will vs going to vs Present Continuous
 
 | | Will | Going to | Present Continuous |
 |---|---|---|---|

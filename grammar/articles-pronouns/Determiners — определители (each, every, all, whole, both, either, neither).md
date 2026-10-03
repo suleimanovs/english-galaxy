@@ -50,7 +50,8 @@
 - **All of** my friends came.
 - **All of** us agreed.
 
-[!] **Whole** не используется с uncountable и plural:
+> [!note]
+> **Whole** не используется с uncountable и plural:
 - *the whole furniture* [НЕПРАВИЛЬНО] → all the furniture
 - *the whole students* [НЕПРАВИЛЬНО] → all the students
 
@@ -96,7 +97,8 @@
 - **Neither** John **nor** Mary came. — Ни Джон, ни Мэри не пришли.
 - She speaks **neither** French **nor** German. — Она не говорит ни по-французски, ни по-немецки.
 
-[!] **Neither** + утвердительный глагол (одно отрицание):
+> [!note]
+> **Neither** + утвердительный глагол (одно отрицание):
 - **Neither** of them **is** ready. (не: *Neither of them isn't ready.*)
 
 ---
@@ -115,7 +117,7 @@
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: Every с of
 
@@ -123,7 +125,8 @@
 |---|---|
 | Every of the students passed. | **Each** of the students passed. / **Every** student passed. |
 
-[!] **Every** не используется с **of**. Для «каждый из» — **each of**.
+> [!note]
+> **Every** не используется с **of**. Для «каждый из» — **each of**.
 
 Ошибка 2: Both / neither / either с множественным глаголом (neither/either)
 

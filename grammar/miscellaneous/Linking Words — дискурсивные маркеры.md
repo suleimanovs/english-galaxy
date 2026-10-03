@@ -117,7 +117,7 @@
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: But вместо however/nevertheless (стиль)
 
@@ -140,4 +140,5 @@
 | It rained, however we went out. | It rained. **However**, we went out. / It rained; **however**, we went out. |
 | She's smart, therefore she passed. | She's smart. **Therefore**, she passed. / She's smart; **therefore**, she passed. |
 
-[!] **However, therefore, moreover, nevertheless** — наречия, не союзы. Они не соединяют предложения запятой. Нужна точка или точка с запятой.
+> [!note]
+> **However, therefore, moreover, nevertheless** — наречия, не союзы. Они не соединяют предложения запятой. Нужна точка или точка с запятой.

@@ -94,7 +94,7 @@ Past Continuous задаёт обстановку, фон — а конкрет�
 
 ---
 
-**Сигнальные слова**
+#### Сигнальные слова
 
 | Слово / фраза | Перевод |
 |---|---|
@@ -108,7 +108,7 @@ Past Continuous задаёт обстановку, фон — а конкрет�
 
 ---
 
-**Исключения и сложные случаи**
+#### Исключения и сложные случаи
 
 Stative verbs (know, love, want, understand, believe, own и др.) не используются в Past Continuous по той же причине, что и в Present Continuous — они описывают состояние, а не процесс.
 
@@ -120,7 +120,7 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: Past Simple вместо Past Continuous для фонового действия
 
@@ -148,7 +148,7 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 
 ---
 
-**Сравнение: Past Simple vs Past Continuous**
+#### Сравнение: Past Simple vs Past Continuous
 
 | | Past Simple | Past Continuous |
 |---|---|---|

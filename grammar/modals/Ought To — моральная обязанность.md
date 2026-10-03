@@ -16,7 +16,8 @@ Ought to выражает **моральную обязанность, сове�
 - He oughtn't to speak to her like that. — Ему не следует так разговаривать с ней.
 - Ought I to tell him? — Мне следует ему сказать? (книжно)
 
-[!] Вопросы и отрицания с ought to (*Ought I to…? / oughtn't to*) в американском английском почти не встречаются — звучат архаично. В AmE ought to живёт только в утверждениях (*You ought to see it*), а для вопросов и отрицаний берут should: *Should I tell him? / He shouldn't speak to her like that.*
+> [!note]
+> Вопросы и отрицания с ought to (*Ought I to…? / oughtn't to*) в американском английском почти не встречаются — звучат архаично. В AmE ought to живёт только в утверждениях (*You ought to see it*), а для вопросов и отрицаний берут should: *Should I tell him? / He shouldn't speak to her like that.*
 
 ---
 
@@ -50,7 +51,7 @@ Ought to чаще, чем should, несёт оттенок морального
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: Пропуск to
 
@@ -65,7 +66,7 @@ Ought to чаще, чем should, несёт оттенок морального
 
 ---
 
-**Сравнение: ought to vs should**
+#### Сравнение: ought to vs should
 
 | | Should | Ought to |
 |---|---|---|

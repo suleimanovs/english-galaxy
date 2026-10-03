@@ -60,7 +60,7 @@ If + Present Simple  ,  will + V (base form)
 
 ---
 
-**Сигнальные слова**
+#### Сигнальные слова
 
 Вместо if в First Conditional можно использовать другие союзы:
 
@@ -73,13 +73,15 @@ If + Present Simple  ,  will + V (base form)
 | in case | на случай если | Take an umbrella in case it rains. |
 | when | когда (уверенный результат) | When I finish, I'll call you. |
 
-[!] **unless** = **if...not**: *Unless you hurry* = *If you don't hurry*.
+> [!note]
+> **unless** = **if...not**: *Unless you hurry* = *If you don't hurry*.
 
-[!] **in case** ≠ **if**: *Take an umbrella in case it rains* — возьми зонт на всякий случай (заранее, независимо от того, пойдёт ли дождь). *Take an umbrella if it rains* — возьми зонт, если пойдёт дождь (условие).
+> [!note]
+> **in case** ≠ **if**: *Take an umbrella in case it rains* — возьми зонт на всякий случай (заранее, независимо от того, пойдёт ли дождь). *Take an umbrella if it rains* — возьми зонт, если пойдёт дождь (условие).
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: Will в if-clause
 
@@ -108,7 +110,7 @@ Unless означает «если только не» — условие отр
 
 ---
 
-**Сравнение: First vs Second Conditional**
+#### Сравнение: First vs Second Conditional
 
 | | First Conditional | Second Conditional |
 |---|---|---|

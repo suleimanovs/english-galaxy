@@ -74,7 +74,7 @@ Second Conditional делает просьбы мягче и вежливее.
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: Would в if-clause
 
@@ -102,7 +102,7 @@ Second Conditional делает просьбы мягче и вежливее.
 
 ---
 
-**Сравнение: Second vs Third Conditional**
+#### Сравнение: Second vs Third Conditional
 
 | | Second Conditional | Third Conditional |
 |---|---|---|

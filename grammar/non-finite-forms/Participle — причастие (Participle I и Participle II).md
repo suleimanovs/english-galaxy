@@ -49,7 +49,8 @@
 - She heard someone crying in the next room. — Она слышала, как кто-то плакал в соседней комнате.
 - We watched them playing in the garden. — Мы наблюдали, как они играли в саду.
 
-[!] Разница с bare infinitive: *I saw him cross the street* (весь процесс целиком, факт) vs *I saw him crossing the street* (застал в процессе).
+> [!note]
+> Разница с bare infinitive: *I saw him cross the street* (весь процесс целиком, факт) vs *I saw him crossing the street* (застал в процессе).
 
 **5. В составных временах (вспомогательная функция)**
 
@@ -107,7 +108,7 @@ V3 используется в образовании Perfect-форм и пас
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: Путать Present Participle (V-ing) с герундием
 
@@ -138,7 +139,7 @@ V3 используется в образовании Perfect-форм и пас
 
 ---
 
-**Сравнение: Present Participle vs Past Participle**
+#### Сравнение: Present Participle vs Past Participle
 
 | | Present Participle (V-ing) | Past Participle (V3) |
 |---|---|---|

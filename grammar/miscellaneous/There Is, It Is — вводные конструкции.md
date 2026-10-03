@@ -105,7 +105,7 @@ There  +  is/are  +  подлежащее  +  (место/время)
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: Пропуск there (калька с русского «в парке много деревьев»)
 
@@ -129,7 +129,8 @@ There  +  is/are  +  подлежащее  +  (место/время)
 | The city has many parks. | **There are** many parks in the city. |
 | The room has no windows. | **There are** no windows in the room. |
 
-[!] *The city has many parks* — грамматически правильно, но *There are many parks in the city* — естественнее.
+> [!note]
+> *The city has many parks* — грамматически правильно, но *There are many parks in the city* — естественнее.
 
 Ошибка 4: There is + plural (несогласование)
 
@@ -138,7 +139,8 @@ There  +  is/are  +  подлежащее  +  (место/время)
 | There is many problems. | There **are** many problems. |
 | There is three books on the table. | There **are** three books on the table. |
 
-[!] В разговорной речи *There's three books...* допустимо, но в письменной — **there are**.
+> [!note]
+> В разговорной речи *There's three books...* допустимо, но в письменной — **there are**.
 
 Ошибка 5: It is + adj без to-infinitive (незаконченная мысль)
 

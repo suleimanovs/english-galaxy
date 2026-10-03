@@ -1,4 +1,4 @@
-> Англоязычное эссе строится по жёсткой структуре. Отклонение от неё считается ошибкой, даже если содержание хорошее. Русские сочинения допускают свободную форму; англоязычные -- нет.
+> Англоязычное эссе строится по жёсткой структуре. Отклонение от неё считается ошибкой, даже если содержание хорошее. Русские сочинения допускают свободную форму; англоязычные — нет.
 
 ---
 
@@ -37,7 +37,7 @@
 
 Три обязательных элемента:
 
-**1. Hook (зацепка)** -- первое предложение, которое привлекает внимание.
+**1. Hook (зацепка)** — первое предложение, которое привлекает внимание.
 
 Типы hooks:
 
@@ -49,9 +49,9 @@
 | Факт | English is the official language of 67 countries. |
 | Сценарий | Imagine arriving in a foreign country without knowing a single word of the local language. |
 
-**2. Background (контекст)** -- 1-2 предложения, вводящие тему.
+**2. Background (контекст)** — 1-2 предложения, вводящие тему.
 
-**3. Thesis statement (тезис)** -- последнее предложение Introduction. Ясно формулирует позицию автора и предваряет аргументы.
+**3. Thesis statement (тезис)** — последнее предложение Introduction. Ясно формулирует позицию автора и предваряет аргументы.
 
 Примеры thesis:
 - While technology has transformed education, its excessive use in classrooms can be harmful to students' concentration, social skills, and academic performance.
@@ -65,17 +65,17 @@
 
 Каждый абзац = один аргумент. Структура абзаца:
 
-**Topic sentence** -- первое предложение. Заявляет главную мысль абзаца.
+**Topic sentence** — первое предложение. Заявляет главную мысль абзаца.
 - First, learning a second language improves cognitive abilities.
 - Another key advantage of remote work is the flexibility it offers.
 
-**Explanation** -- развитие мысли. Объяснение, почему это так.
+**Explanation** — развитие мысли. Объяснение, почему это так.
 - Research has shown that bilingual individuals tend to have better memory and problem-solving skills.
 
-**Evidence** -- доказательство: пример, статистика, цитата.
+**Evidence** — доказательство: пример, статистика, цитата.
 - For instance, a study by the University of Edinburgh found that people who speak two languages score higher on attention tests.
 
-**Concluding sentence** -- последнее предложение абзаца. Связывает аргумент с тезисом.
+**Concluding sentence** — последнее предложение абзаца. Связывает аргумент с тезисом.
 - This demonstrates that bilingualism has measurable benefits for mental performance.
 
 ---
@@ -97,9 +97,9 @@
 
 Три элемента:
 
-1. **Restate thesis** -- перефразировать (НЕ копировать) тезис из Introduction.
-2. **Summary** -- кратко напомнить основные аргументы (1-2 предложения).
-3. **Final thought** -- призыв к действию, прогноз или риторический вопрос.
+1. **Restate thesis** — перефразировать (НЕ копировать) тезис из Introduction.
+2. **Summary** — кратко напомнить основные аргументы (1-2 предложения).
+3. **Final thought** — призыв к действию, прогноз или риторический вопрос.
 
 Чего НЕ делать в Conclusion:
 - Не вводить новые аргументы

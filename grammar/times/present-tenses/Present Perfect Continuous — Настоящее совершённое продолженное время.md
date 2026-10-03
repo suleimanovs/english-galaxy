@@ -80,7 +80,7 @@ Has   +  he / she / it        +  been + глагол-ing?
 
 ---
 
-**Сигнальные слова**
+#### Сигнальные слова
 
 | Слово / фраза | Перевод |
 |---|---|
@@ -92,7 +92,7 @@ Has   +  he / she / it        +  been + глагол-ing?
 
 ---
 
-**Исключения и сложные случаи**
+#### Исключения и сложные случаи
 
 Stative verbs (know, love, want, understand, believe, own и др.) не используются в Continuous-формах даже здесь. Для длительных состояний с этими глаголами используется Present Perfect Simple.
 
@@ -104,7 +104,7 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: Не использовать это время вообще
 
@@ -128,7 +128,7 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 
 ---
 
-**Сравнение: Present Perfect Simple vs Present Perfect Continuous**
+#### Сравнение: Present Perfect Simple vs Present Perfect Continuous
 
 | | Present Perfect Simple | Present Perfect Continuous |
 |---|---|---|

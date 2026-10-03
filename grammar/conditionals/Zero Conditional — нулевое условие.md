@@ -43,7 +43,7 @@ If-clause (условие) и main clause (результат) — оба в Pre
 
 ---
 
-**Сигнальные слова**
+#### Сигнальные слова
 
 | Слово / фраза | Перевод |
 |---|---|
@@ -55,7 +55,7 @@ If-clause (условие) и main clause (результат) — оба в Pre
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: Future Simple вместо Present Simple в главной части
 
@@ -66,11 +66,12 @@ If-clause (условие) и main clause (результат) — оба в Pre
 | If you heat water, it will boil. | If you heat water, it boils. |
 | If it rains, the ground will get wet. | If it rains, the ground gets wet. |
 
-[!] Если ты используешь will в главной части — это уже First Conditional, то есть конкретное предсказание или реальное условие в будущем, а не общая истина.
+> [!note]
+> Если ты используешь will в главной части — это уже First Conditional, то есть конкретное предсказание или реальное условие в будущем, а не общая истина.
 
 ---
 
-**Сравнение: Zero vs First Conditional**
+#### Сравнение: Zero vs First Conditional
 
 | | Zero Conditional | First Conditional |
 |---|---|---|

@@ -81,7 +81,7 @@ Had  +  подлежащее  +  V3?
 
 ---
 
-**Сигнальные слова**
+#### Сигнальные слова
 
 | Слово / фраза | Перевод |
 |---|---|
@@ -98,7 +98,7 @@ Had  +  подлежащее  +  V3?
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: Past Simple вместо Past Perfect для более раннего из двух событий
 
@@ -110,7 +110,8 @@ Had  +  подлежащее  +  V3?
 | He ate all the food before I came home. (если важно подчеркнуть предшествование) | He had eaten all the food before I came home. |
 | I was tired because I didn't sleep well. (в разговорном AmE допустимо) | I was tired because I hadn't slept well. |
 
-[!] Когда порядок событий ясен из *before / after / because*, американцы в речи часто обходятся Past Simple. Past Perfect обязателен, когда без него смысл меняется (*When I arrived, she left* = ушла после моего прихода).
+> [!note]
+> Когда порядок событий ясен из *before / after / because*, американцы в речи часто обходятся Past Simple. Past Perfect обязателен, когда без него смысл меняется (*When I arrived, she left* = ушла после моего прихода).
 
 Ошибка 2: Past Perfect без необходимости
 
@@ -131,7 +132,7 @@ Past Perfect нужен только когда важно показать, ч�
 
 ---
 
-**Сравнение: Past Perfect vs Past Simple**
+#### Сравнение: Past Perfect vs Past Simple
 
 | | Past Simple | Past Perfect |
 |---|---|---|
@@ -140,7 +141,7 @@ Past Perfect нужен только когда важно показать, ч�
 | **Сигналы** | yesterday, ago, last year, in 2010 | already, by the time, before, never...before |
 | **Пример** | She left at 6. | She had left before I arrived. |
 
-**Сравнение: Past Perfect vs Present Perfect**
+#### Сравнение: Past Perfect vs Present Perfect
 
 | | Present Perfect | Past Perfect |
 |---|---|---|

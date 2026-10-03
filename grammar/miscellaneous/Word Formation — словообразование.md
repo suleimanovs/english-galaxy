@@ -33,7 +33,8 @@
 | **non-** | не-, без- | non-stop, non-fiction, non-smoking, non-profit |
 | **mis-** | не-, неверно, плохо | misunderstand, mistake, mislead, misbehave, misuse, misspell |
 
-[!] Префикс **in-** меняет форму в зависимости от первой буквы следующего слова: **im-** перед m и p (*impossible, impolite*), **ir-** перед r (*irregular, irresponsible*), **il-** перед l (*illegal, illogical*), **in-** во всех остальных случаях (*incorrect, informal*).
+> [!note]
+> Префикс **in-** меняет форму в зависимости от первой буквы следующего слова: **im-** перед m и p (*impossible, impolite*), **ir-** перед r (*irregular, irresponsible*), **il-** перед l (*illegal, illogical*), **in-** во всех остальных случаях (*incorrect, informal*).
 
 ---
 
@@ -52,7 +53,8 @@
 | **anti-** | против-, анти- | anti-social, antibiotics, counterclockwise |
 | **pro-** | за, в пользу | pro-government; также: promote, produce (другие значения) |
 
-[!] Префикс **ex-** в значении «бывший» всегда пишется через дефис: *ex-wife, ex-president, ex-boss*. В словах типа *export, explain, expect* это другой латинский префикс с другим значением.
+> [!note]
+> Префикс **ex-** в значении «бывший» всегда пишется через дефис: *ex-wife, ex-president, ex-boss*. В словах типа *export, explain, expect* это другой латинский префикс с другим значением.
 
 ---
 
@@ -93,7 +95,8 @@
 | **-y** | имеющий признак | cloudy, windy, sunny, lucky, tricky, messy, noisy, sleepy |
 | **-ish** | немного, похожий на | childish, foolish, selfish, reddish, British, Spanish |
 
-[!] Суффиксы **-ful** и **-less** образуют пары с противоположным значением: *hopeful ↔ hopeless*, *careful ↔ careless*, *useful ↔ useless*, *powerful ↔ powerless*. Это удобно: выучив одно слово из пары, сразу получаете и второе.
+> [!note]
+> Суффиксы **-ful** и **-less** образуют пары с противоположным значением: *hopeful ↔ hopeless*, *careful ↔ careless*, *useful ↔ useless*, *powerful ↔ powerless*. Это удобно: выучив одно слово из пары, сразу получаете и второе.
 
 ---
 
@@ -104,7 +107,8 @@
 | **-ize** (брит. -ise) | придать качество, сделать | organize, realize, modernize, summarize, recognize, apologize |
 | **-en** | сделать каким-то | widen, shorten, strengthen, lighten, deepen, darken, soften |
 
-[!] В американском английском — суффикс **-ize** (*organize, realize*), в британском чаще **-ise** (*organise, realise*). В этом хранилище везде американский **-ize**. Оба варианта правильны, но важно не смешивать их в одном тексте. Исключение: слова *advise, surprise, exercise* — в них -ise не суффикс, а часть корня, поэтому они пишутся одинаково в обоих вариантах.
+> [!note]
+> В американском английском — суффикс **-ize** (*organize, realize*), в британском чаще **-ise** (*organise, realise*). В этом хранилище везде американский **-ize**. Оба варианта правильны, но важно не смешивать их в одном тексте. Исключение: слова *advise, surprise, exercise* — в них -ise не суффикс, а часть корня, поэтому они пишутся одинаково в обоих вариантах.
 
 ---
 
@@ -132,7 +136,8 @@
 | late | late |
 | early | early |
 
-[!] *Lately* и *late* — разные слова с разными значениями: *She arrived late* (поздно) vs *I haven't seen him lately* (в последнее время). Подробнее — в теме «Adverbs».
+> [!note]
+> *Lately* и *late* — разные слова с разными значениями: *She arrived late* (поздно) vs *I haven't seen him lately* (в последнее время). Подробнее — в теме «Adverbs».
 
 ---
 
@@ -180,7 +185,8 @@
 | прилагательное + существительное | greenhouse, blackboard, software, hardware |
 | глагол + предлог / наречие | outcome, outburst, income, upstairs, download |
 
-[!] Сложные слова могут писаться по-разному: слитно (*bedroom*), через дефис (*self-control*) или раздельно (*coffee table*). Чёткого правила нет — лучше проверять в словаре. Со временем написание может меняться: *email* раньше писали *e-mail*.
+> [!note]
+> Сложные слова могут писаться по-разному: слитно (*bedroom*), через дефис (*self-control*) или раздельно (*coffee table*). Чёткого правила нет — лучше проверять в словаре. Со временем написание может меняться: *email* раньше писали *e-mail*.
 
 ---
 

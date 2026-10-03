@@ -48,7 +48,8 @@
 - She succeeded in passing the exam. — Ей удалось сдать экзамен.
 - Despite feeling tired, he finished the work. — Несмотря на усталость, он закончил работу.
 
-[!] Особая ловушка — конструкция *to* как предлог (не часть инфинитива): *look forward to, be used to, be accustomed to, object to, in addition to*. После них — герундий, не инфинитив.
+> [!note]
+> Особая ловушка — конструкция *to* как предлог (не часть инфинитива): *look forward to, be used to, be accustomed to, object to, in addition to*. После них — герундий, не инфинитив.
 
 - I'm used to getting up early. — Я привык рано вставать. (не: *used to get up*)
 - She objects to being treated this way. — Она против такого обращения.
@@ -123,7 +124,7 @@ not + герундий
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: To-infinitive вместо герундия после глаголов, требующих -ing
 
@@ -159,7 +160,7 @@ not + герундий
 
 ---
 
-**Сравнение: Герундий vs To-infinitive**
+#### Сравнение: Герундий vs To-infinitive
 
 | | Герундий (-ing) | To-infinitive |
 |---|---|---|

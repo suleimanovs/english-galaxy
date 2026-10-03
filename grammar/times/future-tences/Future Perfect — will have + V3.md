@@ -66,7 +66,7 @@ Will  +  подлежащее  +  have  +  V3?
 
 ---
 
-**Сигнальные слова**
+#### Сигнальные слова
 
 | Слово / фраза | Перевод |
 |---|---|
@@ -78,7 +78,7 @@ Will  +  подлежащее  +  have  +  V3?
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: Не использовать это время вообще
 
@@ -109,7 +109,7 @@ Will  +  подлежащее  +  have  +  V3?
 
 ---
 
-**Сравнение: Future Perfect vs Future Simple**
+#### Сравнение: Future Perfect vs Future Simple
 
 | | Future Simple (will) | Future Perfect (will have + V3) |
 |---|---|---|
@@ -117,7 +117,7 @@ Will  +  подлежащее  +  have  +  V3?
 | **Пример** | I will finish the report tomorrow. | I will have finished the report by tomorrow. |
 | **Вопрос** | When will you finish? | Will you have finished by Friday? |
 
-**Сравнение: Future Perfect vs Past Perfect**
+#### Сравнение: Future Perfect vs Past Perfect
 
 | | Past Perfect | Future Perfect |
 |---|---|---|

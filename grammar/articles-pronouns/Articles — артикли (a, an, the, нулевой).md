@@ -19,7 +19,8 @@
 **a** — перед согласным звуком: *a cat, a university, a European* (u и eu здесь произносятся как [j] — согласный звук).
 **an** — перед гласным звуком: *an apple, an hour, an honest man* (h здесь немое).
 
-[!] Важен звук, а не буква: *a university* (звук [j]), но *an umbrella* (звук [ʌ]); *an hour* (h немое), но *a hotel* (h произносится).
+> [!note]
+> Важен звук, а не буква: *a university* (звук [j]), но *an umbrella* (звук [ʌ]); *an hour* (h немое), но *a hotel* (h произносится).
 
 **Когда использовать a/an:**
 
@@ -111,7 +112,7 @@
 
 **2. Имена людей:**
 - **John** called. / **Maria** is here.
-- [!] Но: **the** John I know — тот Джон, которого я знаю (конкретный из нескольких)
+- **Но:** **the** John I know — тот Джон, которого я знаю (конкретный из нескольких)
 
 **3. Большинство стран, городов, улиц:**
 - **Russia**, **France**, **Moscow**, **Baker Street**
@@ -125,24 +126,24 @@
 
 **6. Приёмы пищи:**
 - **Breakfast** is at 8. / We had **lunch** together. / What's for **dinner**?
-- [!] Но: **The breakfast** we had was excellent. (конкретный, запомнившийся)
+- **Но:** **The breakfast** we had was excellent. (конкретный, запомнившийся)
 
 **7. Учреждения в первичной функции (без артикля):**
 - He goes to **school** / **college** / **church**. He's in **prison** / in **jail**. (в первичной функции — учиться, молиться, сидеть)
 - AmE: She's in **the hospital**. (с артиклем и как пациент, и как здание; BrE без артикля: *in hospital*)
 - AmE: *the university* обычно с артиклем (*She's at the university*), а *in college* — без.
-- [!] Но: I went to **the hospital** to visit her. (как здание, не как пациент)
+- **Но:** I went to **the hospital** to visit her. (как здание, не как пациент)
 
 **8. Транспорт с by:**
 - by **car** / **bus** / **train** / **plane** / **bike**
 
 **9. Дни недели, месяцы, времена года (обычно):**
 - on **Monday**, in **January**, in **summer**
-- [!] Но: **the summer of 2020** — конкретное лето
+- **Но:** **the summer of 2020** — конкретное лето
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: Пропуск the там, где он нужен
 
@@ -176,7 +177,7 @@
 
 ---
 
-**Сравнение: a/an vs the vs нулевой**
+#### Сравнение: a/an vs the vs нулевой
 
 | | A / An | The | Нулевой |
 |---|---|---|---|

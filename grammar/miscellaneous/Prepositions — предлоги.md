@@ -122,7 +122,8 @@ He drove here in his car.       — Он приехал сюда на машин
 Can I come in? — No, there's no room in the car.
 ```
 
-[!] Get on/off используется для общественного транспорта; get in/out of — для машины и такси.
+> [!note]
+> Get on/off используется для общественного транспорта; get in/out of — для машины и такси.
 
 ---
 
@@ -176,7 +177,8 @@ at the moment / at present / at the time
 at the age of 18
 ```
 
-[!] Исключения без предлога: *last week, next year, this morning, yesterday, tomorrow* — предлог не нужен.
+> [!note]
+> Исключения без предлога: *last week, next year, this morning, yesterday, tomorrow* — предлог не нужен.
 
 ---
 
@@ -397,7 +399,8 @@ Dover is on the south coast of England.
 | warn sb ABOUT sth | предупреждать о | She warned me about the risk. |
 | worry ABOUT sth | беспокоиться о | Don't worry about it. |
 
-[!] **agree with / on / to** — три разных предлога с разными значениями. Это классическая ловушка.
+> [!note]
+> **agree with / on / to** — три разных предлога с разными значениями. Это классическая ловушка.
 
 ```
 I agree with you.           — Я согласен с тобой (с человеком).
@@ -500,7 +503,8 @@ capable OF (не «to»):       He's capable of more.
 |---|---|
 | English is different than Russian. | English is different **from** Russian. |
 
-[!] В американском английском *different than* встречается, но *different from* — стандартная форма в обоих вариантах.
+> [!note]
+> В американском английском *different than* встречается, но *different from* — стандартная форма в обоих вариантах.
 
 Ошибка 5: Транспорт
 

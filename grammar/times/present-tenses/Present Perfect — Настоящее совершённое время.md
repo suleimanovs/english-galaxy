@@ -168,7 +168,7 @@ Has   +  he / she / it        +  глагол V3?
 
 ---
 
-**Сигнальные слова**
+#### Сигнальные слова
 
 | Слово / фраза | Перевод | Где используется |
 |---|---|---|
@@ -185,7 +185,7 @@ Has   +  he / she / it        +  глагол V3?
 
 ---
 
-**Исключения и сложные случаи**
+#### Исключения и сложные случаи
 
 **have been to** vs **have gone to** — классическая путаница даже у носителей.
 
@@ -197,7 +197,7 @@ Has   +  he / she / it        +  глагол V3?
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: Past Simple вместо Present Perfect, когда результат важен сейчас
 
@@ -208,7 +208,8 @@ Has   +  he / she / it        +  глагол V3?
 | I lost my keys. (если ключей нет сейчас) | I've lost my keys. |
 | I forgot my password. (и не знаю его сейчас) | I've forgotten my password. |
 
-[!] В американском английском Past Simple с *just, already, yet* — норма: *Did you eat yet? I already saw it. He just left.* Это не ошибка. Британцы в тех же фразах чаще выберут Present Perfect (*Have you eaten yet?*). Экзамены (IELTS) принимают оба варианта.
+> [!note]
+> В американском английском Past Simple с *just, already, yet* — норма: *Did you eat yet? I already saw it. He just left.* Это не ошибка. Британцы в тех же фразах чаще выберут Present Perfect (*Have you eaten yet?*). Экзамены (IELTS) принимают оба варианта.
 
 Ошибка 2: Present Perfect с конкретным указателем прошлого
 
@@ -241,7 +242,7 @@ Has   +  he / she / it        +  глагол V3?
 
 ---
 
-**Сравнение: Present Perfect vs Past Simple**
+#### Сравнение: Present Perfect vs Past Simple
 
 | | Present Perfect | Past Simple |
 |---|---|---|

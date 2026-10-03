@@ -95,7 +95,8 @@ To-infinitive отвечает на вопрос «зачем?» — это оч
 - She heard the door open. — Она услышала, как открылась дверь.
 - We watched them play. — Мы наблюдали, как они играют.
 
-[!] Разница: *I saw him cross the street* (bare infinitive — весь процесс) vs *I saw him crossing the street* (V-ing — процесс в момент). Подробнее в файле Participle.
+> [!note]
+> Разница: *I saw him cross the street* (bare infinitive — весь процесс) vs *I saw him crossing the street* (V-ing — процесс в момент). Подробнее в файле Participle.
 
 **3. После let и make (в значении «заставить»)**
 
@@ -104,7 +105,8 @@ To-infinitive отвечает на вопрос «зачем?» — это оч
 - The teacher made us repeat it. — Учитель заставил нас повторить это.
 - Don't make me laugh. — Не заставляй меня смеяться.
 
-[!] В пассивном залоге после make появляется to: *He was made to repeat it.*
+> [!note]
+> В пассивном залоге после make появляется to: *He was made to repeat it.*
 
 **4. После had better и would rather**
 
@@ -131,7 +133,7 @@ To-infinitive отвечает на вопрос «зачем?» — это оч
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: to после модальных глаголов
 

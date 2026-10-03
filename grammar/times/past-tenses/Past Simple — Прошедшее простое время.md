@@ -125,7 +125,7 @@ Did  +  подлежащее  +  глагол (base form)?
 
 ---
 
-**Сигнальные слова**
+#### Сигнальные слова
 
 | Слово / фраза | Перевод |
 |---|---|
@@ -141,7 +141,7 @@ Did  +  подлежащее  +  глагол (base form)?
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: Неправильная форма глагола в отрицании и вопросе
 
@@ -172,7 +172,8 @@ Did  +  подлежащее  +  глагол (base form)?
 | I lost my keys. (если ключей нет сейчас) | I've lost my keys. |
 | I forgot my password. (и не знаю его сейчас) | I've forgotten my password. |
 
-[!] В американском английском Past Simple с *just, already, yet* звучит естественно (*I already ate. Did you finish yet?*) — это не ошибка, а норма AmE.
+> [!note]
+> В американском английском Past Simple с *just, already, yet* звучит естественно (*I already ate. Did you finish yet?*) — это не ошибка, а норма AmE.
 
 Ошибка 4: Вопрос без did
 
@@ -185,7 +186,7 @@ Did  +  подлежащее  +  глагол (base form)?
 
 ---
 
-**Сравнение: Past Simple vs Present Perfect**
+#### Сравнение: Past Simple vs Present Perfect
 
 | | Past Simple | Present Perfect |
 |---|---|---|

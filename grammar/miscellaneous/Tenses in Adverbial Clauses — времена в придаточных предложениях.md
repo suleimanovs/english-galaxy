@@ -22,7 +22,8 @@
 - Once you **understand** this rule, it becomes easy. ✓
 - While you**'re cooking**, I'll set the table. ✓
 
-> [!] Will в придаточном времени — это всегда ошибка. Даже если по смыслу действие явно будущее, форма глагола — Present Simple.
+> [!note]
+> Will в придаточном времени — это всегда ошибка. Даже если по смыслу действие явно будущее, форма глагола — Present Simple.
 
 ---
 
@@ -64,7 +65,8 @@ After / when / once / as soon as + Present Perfect → will / can + infinitive
 | When you **read** the book, we can discuss it. | When you **have read** the book, we can discuss it. |
 | Оба варианта правильны | Perfect подчёркивает завершённость действия |
 
-> [!] В большинстве случаев оба варианта (Present Simple и Present Perfect) грамматически верны. Present Perfect выбирают, когда важно выделить, что одно действие полностью завершится до другого.
+> [!note]
+> В большинстве случаев оба варианта (Present Simple и Present Perfect) грамматически верны. Present Perfect выбирают, когда важно выделить, что одно действие полностью завершится до другого.
 
 ---
 
@@ -174,4 +176,5 @@ Unless you hurry, we'll miss the train.
 | After you **read** all the chapters... | After you **have read** all the chapters... |
 | Once she **signs** the documents... | Once she **has signed** the documents... |
 
-> [!] Запомните три главных союза-ловушки, после которых will никогда не ставится: **when**, **until**, **as soon as**. Они встречаются чаще всего и чаще всего провоцируют ошибку.
+> [!note]
+> Запомните три главных союза-ловушки, после которых will никогда не ставится: **when**, **until**, **as soon as**. Они встречаются чаще всего и чаще всего провоцируют ошибку.

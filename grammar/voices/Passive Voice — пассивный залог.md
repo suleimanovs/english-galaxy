@@ -33,7 +33,8 @@ Passive Voice (пассивный залог) это конструкция, п�
 | Future Simple | will be + V3 | The report will be written tomorrow. |
 | Future Perfect | will have been + V3 | The report will have been written by Friday. |
 
-[!] Present Perfect Continuous, Past Perfect Continuous и Future Continuous в пассивном залоге теоретически возможны, но в реальной речи почти не встречаются и считаются неестественными. На практике их заменяют другими конструкциями.
+> [!note]
+> Present Perfect Continuous, Past Perfect Continuous и Future Continuous в пассивном залоге теоретически возможны, но в реальной речи почти не встречаются и считаются неестественными. На практике их заменяют другими конструкциями.
 
 ---
 
@@ -130,7 +131,7 @@ Passive Voice (пассивный залог) это конструкция, п�
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: Неправильная форма be в нужном времени
 
@@ -171,7 +172,7 @@ Passive Voice (пассивный залог) это конструкция, п�
 
 ---
 
-**Сравнение: Active vs Passive Voice**
+#### Сравнение: Active vs Passive Voice
 
 | | Active Voice | Passive Voice |
 |---|---|---|

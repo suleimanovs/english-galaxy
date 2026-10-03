@@ -33,7 +33,8 @@
 | They **haven't** finished. | **Neither/Nor have** we. |
 | I **won't** be there. | **Neither/Nor will** she. |
 
-[!] **Neither** и **Nor** взаимозаменяемы: *Neither do I* = *Nor do I*.
+> [!note]
+> **Neither** и **Nor** взаимозаменяемы: *Neither do I* = *Nor do I*.
 
 ---
 
@@ -119,7 +120,7 @@
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: Me too вместо So do I (грамматически допустимо, но менее формально)
 
@@ -128,7 +129,8 @@
 | "I like it." — "**Me too.**" | "I like it." — "**So do I.**" |
 | "I don't like it." — "**Me neither.**" | "I don't like it." — "**Neither do I.**" |
 
-[!] *Me too* и *Me neither* — разговорные и допустимы. Но на экзамене или в формальном контексте — *So do I / Neither do I*.
+> [!note]
+> *Me too* и *Me neither* — разговорные и допустимы. Но на экзамене или в формальном контексте — *So do I / Neither do I*.
 
 Ошибка 2: Неправильный вспомогательный глагол в So/Neither
 
@@ -138,7 +140,8 @@
 | "She is tired." — "So do I." | "She is tired." — "**So am** I." |
 | "He can swim." — "So do I." | "He can swim." — "**So can** I." |
 
-[!] Вспомогательный глагол в ответе должен совпадать с исходным предложением.
+> [!note]
+> Вспомогательный глагол в ответе должен совпадать с исходным предложением.
 
 Ошибка 3: I think no вместо I don't think so
 

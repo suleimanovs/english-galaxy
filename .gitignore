@@ -5,3 +5,6 @@
 .obsidian/workspace-mobile.json
 # secrets
 english words/anki/secrets.json
+
+# macOS
+.DS_Store

@@ -62,7 +62,7 @@ Will  +  подлежащее  +  have been  +  глагол-ing?
 
 ---
 
-**Сигнальные слова**
+#### Сигнальные слова
 
 | Слово / фраза | Перевод |
 |---|---|
@@ -74,7 +74,7 @@ Will  +  подлежащее  +  have been  +  глагол-ing?
 
 ---
 
-**Исключения и сложные случаи**
+#### Исключения и сложные случаи
 
 Stative verbs (know, love, want, understand, believe, own и др.) не используются в Future Perfect Continuous. Для состояний используется Future Perfect Simple.
 
@@ -85,7 +85,7 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: Путать с Future Perfect Simple
 

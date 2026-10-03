@@ -44,8 +44,10 @@
 | much / many | more | the most |
 | old | older / elder | the oldest / eldest |
 
-[!] **farther** — физическое расстояние; **further** — также «дополнительно, более»: *further information, further discussion*.
-[!] **elder/eldest** — только для членов семьи: *my elder sister, the eldest child*. В остальных случаях — older/oldest.
+> [!note]
+> **farther** — физическое расстояние; **further** — также «дополнительно, более»: *further information, further discussion*.
+> [!note]
+> **elder/eldest** — только для членов семьи: *my elder sister, the eldest child*. В остальных случаях — older/oldest.
 
 ---
 
@@ -106,7 +108,7 @@
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: Двойная сравнительная степень
 

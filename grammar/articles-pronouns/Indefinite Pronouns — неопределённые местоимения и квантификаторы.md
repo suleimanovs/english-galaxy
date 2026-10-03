@@ -11,7 +11,8 @@
 | **no-** (полное отрицание) | nobody / no one | nothing | nowhere |
 | **every-** (все без исключения) | everybody / everyone | everything | everywhere |
 
-[!] **-body** и **-one** полностью взаимозаменяемы: somebody = someone.
+> [!note]
+> **-body** и **-one** полностью взаимозаменяемы: somebody = someone.
 
 ---
 
@@ -60,7 +61,8 @@
 - **Everything** is ready. — Всё готово.
 - I've looked **everywhere**. — Я искал везде.
 
-[!] **Everybody / everyone / everything** + глагол в единственном числе:
+> [!note]
+> **Everybody / everyone / everything** + глагол в единственном числе:
 - Everyone **is** here. (не: *Everyone are here.*)
 - Everything **was** perfect. (не: *Everything were perfect.*)
 
@@ -86,7 +88,8 @@
 | **Много** (утверждение) | **a lot of** books | **a lot of** time |
 | **Вопрос** | How **many** books? | How **much** time? |
 
-[!] **Much** и **many** в утверждениях звучат формально. В разговорной речи предпочитают **a lot of / lots of**:
+> [!note]
+> **Much** и **many** в утверждениях звучат формально. В разговорной речи предпочитают **a lot of / lots of**:
 - I have **a lot of** friends. (разговорное) — I have **many** friends. (формальное)
 - There's **a lot of** traffic. (разговорное) — There's **much** traffic. (формальное/неестественное)
 
@@ -117,7 +120,7 @@
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: Двойное отрицание
 
@@ -136,7 +139,8 @@
 | Do you have some questions? | Do you have any questions? |
 | Is there some problem? | Is there any problem? |
 
-[!] Но: *Would you like some tea?* [OK — это предложение, ожидаем «да»]
+> [!note]
+> Но: *Would you like some tea?* [OK — это предложение, ожидаем «да»]
 
 Ошибка 3: Much/many путаница
 

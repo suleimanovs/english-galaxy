@@ -64,7 +64,7 @@ If + Past Perfect  ,  would have + V3
 
 ---
 
-**Типичные ошибки русскоязычных**
+#### Типичные ошибки русскоязычных
 
 Ошибка 1: Would have в if-clause
 
@@ -93,7 +93,7 @@ If + Past Perfect  ,  would have + V3
 
 ---
 
-**Сравнение: Second vs Third Conditional**
+#### Сравнение: Second vs Third Conditional
 
 | | Second Conditional | Third Conditional |
 |---|---|---|
