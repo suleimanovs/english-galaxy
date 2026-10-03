@@ -66,7 +66,7 @@
 Каждый абзац = один аргумент. Структура абзаца:
 
 **Topic sentence** -- первое предложение. Заявляет главную мысль абзаца.
-- Firstly, learning a second language improves cognitive abilities.
+- First, learning a second language improves cognitive abilities.
 - Another key advantage of remote work is the flexibility it offers.
 
 **Explanation** -- развитие мысли. Объяснение, почему это так.
@@ -84,8 +84,8 @@
 
 | Функция | Слова |
 |---|---|
-| Первый аргумент | Firstly, To begin with, First of all |
-| Следующий аргумент | Secondly, Furthermore, Moreover, In addition, Another point is |
+| Первый аргумент | First, To begin with, First of all (*Firstly* — британский вариант) |
+| Следующий аргумент | Second, Furthermore, Moreover, In addition, Another point is |
 | Контраст | However, On the other hand, Nevertheless, In contrast |
 | Пример | For example, For instance, Such as, To illustrate |
 | Следствие | Therefore, As a result, Consequently, Thus |

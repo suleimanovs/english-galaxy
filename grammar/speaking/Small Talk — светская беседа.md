@@ -67,7 +67,7 @@ Follow-up:
 | Тема | Примеры вопросов |
 |---|---|
 | Погода | Lovely weather, isn't it? / Can you believe this rain? / Is it always this hot here? |
-| Выходные/отпуск | Got any plans for the weekend? / Been anywhere nice recently? / Are you going away this summer? |
+| Выходные/отпуск | Got any plans for the weekend? / Taken any trips lately? / Are you going anywhere this summer? |
 | Работа (общее) | What do you do? / How's work going? / Busy at the moment? |
 | Еда | Have you tried this? It's really good. / Do you know any good restaurants around here? / Are you a coffee or tea person? |
 | Хобби | Do you follow any sports? / What do you do in your free time? / Seen any good movies lately? |
@@ -110,11 +110,11 @@ Follow-up:
 ### Закончить разговор вежливо
 
 ```
-- Well, it was nice chatting to you!
+- Well, it was nice chatting with you!
 - Anyway, I'd better get going. / I should probably head off.
 - I'll let you get back to [what they were doing].
 - Let's catch up properly sometime.
-- Great to meet you! / Lovely talking to you!
+- Great to meet you! / Nice talking to you!
 ```
 
 ---

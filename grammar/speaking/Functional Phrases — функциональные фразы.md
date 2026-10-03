@@ -40,7 +40,7 @@
 | Can I help you? / Would you like some help? |
 | Let me help you with that. |
 | Is there anything I can do? |
-| Shall I...? (British) |
+| Should I...? / Want me to...? (AmE) / Shall I...? (British) |
 | Do you want me to...? |
 | I'd be happy to help if you need anything. |
 
@@ -91,7 +91,7 @@
 
 | Ситуация | Фразы |
 |---|---|
-| Не расслышал | Sorry, could you say that again? / Pardon? / I didn't quite catch that. / Could you repeat that? |
+| Не расслышал | Sorry, could you say that again? / Sorry? / What was that? / I didn't quite catch that. / Could you repeat that? (Pardon? — British) |
 | Не понял | What do you mean by...? / Sorry, I'm not following. / Could you explain what you mean? |
 | Уточнить | So what you're saying is...? / Do you mean...? / Just to clarify... / Let me make sure I understand. |
 | Попросить говорить медленнее | Could you speak a bit more slowly, please? / Sorry, could you slow down a little? |
@@ -113,7 +113,7 @@
 
 | Уровень | Фразы |
 |---|---|
-| Повседневное | Thanks. / Cheers. (British) / Ta. (British, очень informal) |
+| Повседневное | Thanks. / Thanks a lot. / Appreciate it. (AmE) / Cheers. (British) |
 | Нейтральное | Thank you. / Thanks a lot. / Thank you so much. / I really appreciate it. |
 | Формальное | I'm very grateful for your help. / Thank you for your kind assistance. / I can't thank you enough. |
 | Ответ | You're welcome. / No problem. / Don't mention it. / My pleasure. / Anytime. / Happy to help. |
@@ -124,7 +124,7 @@
 
 | Функция | Фразы |
 |---|---|
-| Предложить | Would you like to...? / How about...? / Why don't we...? / Shall we...? / Fancy a...? (British) |
+| Предложить | Would you like to...? / How about...? / Why don't we...? / Do you want to...? / Wanna...? (AmE, informal) / Shall we...? / Fancy a...? (British) |
 | Принять | That sounds great! / I'd love to! / Sure, why not! / Count me in! |
 | Отклонить вежливо | I'd love to, but... / That sounds nice, but I'm afraid I can't. / Maybe another time? / I'll have to take a rain check. |
 
@@ -158,6 +158,6 @@
 | Ситуация | Фразы |
 |---|---|
 | В магазине | Could I try this on? / Do you have this in a different size? / I'm just browsing, thanks. / I'll take it. |
-| В ресторане | Could we have a table for two? / I'll have the... / Could I get the bill, please? / Is service included? |
+| В ресторане | Could we have a table for two? / I'll have the... / Could I get the check, please? (AmE; bill — British) / Is the tip included? |
 | Заказать кофе | Can I get a flat white, please? / Could I have a latte to go? / For here or to go? |
 | Проблема с заказом | Excuse me, I think there's been a mix-up. / This isn't what I ordered. / I'm afraid this is cold. |

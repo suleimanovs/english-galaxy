@@ -106,7 +106,7 @@
 |---|---|
 | Informal | Hey, just so you know, the printer's broken again. Can someone fix it? |
 | Semi-formal | Hi team, the printer on the 3rd floor isn't working. Could someone from IT take a look? Thanks. |
-| Formal | Dear IT Department, I am writing to report a malfunction with the printer located on the third floor. I would be grateful if a technician could inspect the equipment at their earliest convenience. Kind regards, [Name] |
+| Formal | Dear IT Department, I am writing to report a malfunction with the printer located on the third floor. I would be grateful if a technician could inspect the equipment at their earliest convenience. Sincerely, [Name] |
 
 **Попросить о помощи:**
 

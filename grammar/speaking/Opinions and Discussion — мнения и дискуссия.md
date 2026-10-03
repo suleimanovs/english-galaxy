@@ -21,7 +21,7 @@
 | Do you agree? | Would you agree with that? |
 | What's your opinion? | What's your take on this? |
 | How do you feel about it? | How do you see the situation? |
-| What do you reckon? (informal) | I was wondering what you think about... |
+| What do you think? / What's your take on it? (informal; *What do you reckon?* — British) | I was wondering what you think about... |
 
 ---
 
@@ -31,7 +31,7 @@
 |---|---|
 | Формальное | I entirely agree with your assessment. / I share your view on this matter. |
 | Нейтральное | I agree. / You're right. / I think so too. / That's exactly how I see it. |
-| Неформальное | Totally! / Spot on! / You've hit the nail on the head. / Couldn't agree more. |
+| Неформальное | Totally! / Exactly! / You nailed it. / You've hit the nail on the head. / Couldn't agree more. (*Spot on!* — British) |
 
 | Частичное согласие | Фразы |
 |---|---|
@@ -41,7 +41,7 @@
 
 ## Не согласиться (от мягкого к жёсткому)
 
-**Уровень 1 -- намёк (British understatement):**
+**Уровень 1 -- намёк (understatement, особенно британский):**
 ```
 I'm not sure that's entirely the case.
 That's an interesting perspective.  (= я не согласен)
@@ -165,7 +165,7 @@ If I understand correctly, we're saying that...
 
 ## Hedging (смягчение утверждений)
 
-Англоязычные, особенно British, почти никогда не говорят категорично. Они "хеджируют" -- вставляют слова-смягчители.
+Англоязычные, и британцы, и американцы, редко говорят категорично. Они "хеджируют" -- вставляют слова-смягчители.
 
 | Категорично (звучит агрессивно) | С hedging (нормально) |
 |---|---|

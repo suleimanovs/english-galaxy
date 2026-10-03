@@ -7,7 +7,7 @@
 ```
 Subject: [Чёткая тема] -- Meeting Request / Application for... / Invoice Query
 
-Dear Mr/Ms [Фамилия],        (если знаешь имя)
+Dear Mr./Ms. [Фамилия]:      (AmE: точка после Mr./Ms. и двоеточие в деловом письме; в email допустима запятая)
 Dear Sir or Madam,            (если не знаешь)
 Dear Hiring Manager,          (если пишешь на вакансию)
 To Whom It May Concern,       (очень формально, крайний случай)
@@ -32,10 +32,11 @@ Please do not hesitate to contact me if you require further information.
 I would appreciate a response at your earliest convenience.
 Thank you for your time and consideration.
 
-Yours sincerely,              (если знаешь имя: Dear Mr Smith)
-Yours faithfully,             (если не знаешь: Dear Sir or Madam)
-Kind regards,                 (нейтрально-формальный)
+Sincerely,                    (AmE — универсальное формальное завершение)
+Respectfully,                 (AmE, очень формально: официальные письма, обращения)
 Best regards,                 (нейтрально-формальный)
+Kind regards,                 (нейтрально-формальный, чаще в британских письмах)
+Yours sincerely / Yours faithfully — британские формулы; в американском письме не используются
 
 [Имя Фамилия]
 [Должность]
@@ -64,7 +65,7 @@ Looking forward to your reply.
 Best,
 Best regards,
 Many thanks,
-Cheers, (British, неформально-дружелюбный)
+Thanks, / Take care, (неформально-дружелюбный; *Cheers* — British)
 
 [Имя]
 ```
@@ -76,7 +77,7 @@ Cheers, (British, неформально-дружелюбный)
 Для друзей, близких знакомых.
 
 ```
-Hey [Имя]! / Hi! / Hiya!
+Hey [Имя]! / Hi! / Hi there!
 
 [Свободный текст]
 
@@ -153,7 +154,7 @@ xx
 ## Структура cover letter (сопроводительное письмо к резюме)
 
 ```
-Dear [Hiring Manager / Mr/Ms Фамилия],
+Dear Hiring Manager, / Dear Mr./Ms. [Фамилия]:
 
 Paragraph 1: Позиция + где нашёл + почему интересна
 I am writing to apply for the [position] role at [company],
@@ -174,7 +175,7 @@ I would welcome the opportunity to discuss my application
 further. I am available for an interview at your convenience.
 Thank you for considering my application.
 
-Yours sincerely,
+Sincerely,
 [Имя Фамилия]
 ```
 
@@ -184,10 +185,10 @@ Yours sincerely,
 
 | Ошибка | Правильно |
 |---|---|
-| "Dear friend" в формальном письме | Dear Mr Smith / Dear Sir or Madam |
-| "Respectfully, ..." как завершение | Yours sincerely / Kind regards |
+| "Dear friend" в формальном письме | Dear Mr. Smith / Dear Hiring Manager / To Whom It May Concern |
+| "Yours faithfully" в американском письме | Sincerely, (универсально) / Respectfully, (очень формально) |
 | Длинное вступление перед сутью | Первый абзац сразу объясняет цель письма |
 | "I want to..." в просьбе | "I would like to..." / "I would appreciate if..." |
 | Отсутствие Subject в email | Всегда писать чёткий Subject |
-| "With best wishes" в деловом письме | Kind regards / Best regards |
+| "With best wishes" в деловом письме | Best regards / Sincerely |
 | Слишком длинные абзацы | 3-5 предложений на абзац максимум |

@@ -14,7 +14,7 @@
 |---|---|---|
 | Do you work or study? | I work. | I work as a software developer at a tech company. I've been there for about two years and I really enjoy it. |
 | What do you like about your job? | It's good. | I'd say the best thing about my job is the flexibility. I can work from home a couple of days a week, which saves me a lot of commuting time. |
-| Do you like cooking? | Yes. | Yes, I do. I find it quite relaxing after a long day. I usually try to cook something simple during the week, but at weekends I like to experiment with new recipes. |
+| Do you like cooking? | Yes. | Yes, I do. I find it quite relaxing after a long day. I usually try to cook something simple during the week, but on weekends I like to experiment with new recipes. |
 
 ### Типичные темы Part 1
 
