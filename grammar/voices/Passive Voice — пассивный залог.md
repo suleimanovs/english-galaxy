@@ -188,6 +188,23 @@ Passive Voice (пассивный залог) это конструкция, п�
 | **Стиль** | Разговорный, динамичный | Формальный, научный, официальный |
 | **Пример** | The police arrested him. | He was arrested (by the police). |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Переделай в пассив: She writes the report. | **The report is written (by her).** |
+| Исправь ошибку: The car stolen last night. | **The car was stolen last night.** (нужен be в нужном времени) |
+| Исправь ошибку: The car has stolen. | **The car has been stolen.** (пассив через be, не have) |
+| Переделай в пассив: They are building a new bridge. | **A new bridge is being built.** |
+| Исправь ошибку: The theory was developed Einstein. | **The theory was developed by Einstein.** |
+| Переведи: На английском говорят по всему миру. | **English is spoken all over the world.** |
+| Переделай в пассив: They will announce the results. | **The results will be announced.** |
+| Выбери лучший вариант: The problem was solved by him very quickly. / He solved the problem very quickly. | **He solved the problem very quickly.** (деятель известен → активный) |
+| Переделай: People say that he is very rich. → It ___ | **It is said that he is very rich.** |
+| Поставь глагол (Past Perfect, пассив): The report ___ (write) before the meeting. | **had been written** |
+
 ---
 
 #### См. также

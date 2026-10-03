@@ -122,6 +122,21 @@ Future Continuous в вопросе звучит мягче и деликатн�
 | **Пример** | I'll call you at 9. | I'll be working at 9 — call me later. |
 | **Вопрос** | Will you come? (просьба/предложение) | Will you be coming? (нейтральный вопрос о планах) |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Поставь глагол: This time tomorrow I ___ (fly) to Tokyo. | **will be flying** (процесс в момент будущего) |
+| Выбери: She (will sleep / will be sleeping) when you arrive. | **will be sleeping** |
+| Исправь ошибку: I'll be working while you will be sleeping. | **I'll be working while you are sleeping.** (в придаточном — настоящее) |
+| Переведи: Не звони мне в 3 — у меня будет встреча. | **Don't call me at 3 PM — I'll be having a meeting.** |
+| Выбери более мягкий вопрос о планах: Will you use the car tonight? / Will you be using the car tonight? | **Will you be using the car tonight?** (вопрос без давления) |
+| Сделай вопрос: What / you / do / at 8 tomorrow? | **What will you be doing at 8 tomorrow?** |
+| Поставь глагол: She ___ (not come) to the meeting. | **won't be coming** |
+| Исправь ошибку: Call me when I will be finishing. | **Call me when I finish.** / **…when I'm done.** |
+
 ---
 
 #### См. также

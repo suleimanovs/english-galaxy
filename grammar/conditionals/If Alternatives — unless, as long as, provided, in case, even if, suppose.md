@@ -226,6 +226,25 @@ Unless уже содержит «не». В русском «если не по�
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: Unless you don't hurry, you'll be late. | **Unless you hurry, you'll be late.** (unless уже содержит «не») |
+| Исправь ошибку: I'll call you in case I'm late. (хотел сказать «если опоздаю») | **I'll call you if I'm late.** (in case — предосторожность заранее) |
+| even if или even though: ___ it was raining, we went out. | **Even though** (факт, а не гипотеза) |
+| Исправь ошибку: Unless it will rain, we'll go. | **Unless it rains, we'll go.** (после unless — Present Simple) |
+| Исправь ошибку: Hadn't I known, I would have stayed. | **Had I not known, I would have stayed.** (при инверсии отрицание не сокращается) |
+| Переведи формально: Мы подпишем договор при условии, что цена останется прежней. | **We'll sign the contract provided that the price stays the same.** |
+| Переведи: Если бы не пробки, мы бы приехали вовремя. | **If it hadn't been for the traffic, we would have arrived on time.** / **But for the traffic…** |
+| Перепиши с инверсией без if: If you should need help, let us know. | **Should you need help, let us know.** |
+| Переведи: Мы уезжаем в восемь, готов ты или нет. | **We're leaving at eight whether you're ready or not.** |
+| Переведи: Если бы компания закрылась, сотни людей потеряли бы работу. (очень гипотетично) | **If the company were to close, hundreds would lose their jobs.** (were to) |
+
+---
+
 #### См. также
 - [[First Conditional — первое условие (реальное)]]
 - [[Second Conditional — второе условие (нереальное настоящее)]]

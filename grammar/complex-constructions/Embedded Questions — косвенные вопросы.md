@@ -163,6 +163,23 @@ Embedded question (косвенный вопрос) — это вопрос, в�
 | *It depends on **if** he agrees.* | It depends on **whether** he agrees. |
 | ***If** she'll come is uncertain.* | **Whether** she'll come is uncertain. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Перестрой: Where does he work? → I don't know ___ | **I don't know where he works.** (прямой порядок, без does) |
+| Исправь ошибку: Can you tell me how much does it cost? | **Can you tell me how much it costs?** |
+| Исправь ошибку: I wonder where he is? | **I wonder where he is.** (главное предложение — не вопрос) |
+| Перестрой: Is he coming? → I'm not sure ___ | **I'm not sure whether/if he is coming.** |
+| Исправь ошибку: It depends on if he agrees. | **It depends on whether he agrees.** (после предлога — только whether) |
+| Перестрой: Who came? → Tell me ___ | **Tell me who came.** (who — подлежащее, порядок не меняется) |
+| Исправь ошибку: She asked when will we arrive. | **She asked when we would arrive.** (сдвиг времени после asked) |
+| Исправь ошибку: I don't know he is coming. | **I don't know if/whether he is coming.** |
+| Нужен ли вопросительный знак: *Do you know where he is* | **Да: Do you know where he is?** (главное предложение — вопрос) |
+| Переведи: «Скажи мне, что она сказала». | **Tell me what she said.** |
+
 ---
 
 #### См. также

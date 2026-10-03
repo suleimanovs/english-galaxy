@@ -144,6 +144,22 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 | **Пример** | She has read the book. | She has been reading for two hours. |
 | **Пример** | I've drunk three cups of coffee. | I've been drinking coffee since this morning. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Поставь глагол: I ___ (learn) English for three years. | **have been learning** (процесс + for) |
+| Исправь ошибку: How long do you wait? | **How long have you been waiting?** |
+| Выбери: I (have been knowing / have known) her for years. | **have known** (stative verb → Perfect Simple) |
+| Выбери: I've (written / been writing) three emails. | **written** (результат, количество) |
+| Переведи: Ты запыхался. Ты бегал? | **You're out of breath. Have you been running?** (следы процесса) |
+| Выбери: She (works / has been working) here since January. | **has been working** |
+| Поставь глагол: I ___ (not sleep) well lately. | **haven't been sleeping** |
+| Выбери: Her eyes are red. She (has cried / has been crying). | **has been crying** (видимые следы действия) |
+| Сделай вопрос: What / you / do / all day? | **What have you been doing all day?** |
+
 ---
 
 #### См. также

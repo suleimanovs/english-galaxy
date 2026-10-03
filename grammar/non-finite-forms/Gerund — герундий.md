@@ -176,6 +176,23 @@ not + герундий
 | **Типичные глаголы** | enjoy, avoid, finish, mind, suggest | want, hope, decide, refuse, manage |
 | **Пример** | I enjoy reading. | I want to read. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: I enjoy to swim. | **I enjoy swimming.** |
+| Исправь ошибку: She left without to say goodbye. | **She left without saying goodbye.** (после предлога — герундий) |
+| Выбери: I'm used to (get / getting) up early. | **getting** (to здесь предлог) |
+| Выбери: I remember (locking / to lock) the door — I did it. | **locking** (помню прошлое действие) |
+| Выбери: Don't forget (calling / to call) me. | **to call** (напоминание о будущем) |
+| Что значит: She stopped to smoke. | **остановилась, чтобы покурить** (не «бросила курить») |
+| Переведи: Он предложил пойти в ресторан. | **He suggested going to a restaurant.** |
+| Переведи: Я с нетерпением жду встречи с тобой. | **I'm looking forward to seeing you.** |
+| Поставь форму: She suggested ___ (not go) by car. | **not going** |
+| Выбери: Try (eating / to eat) less sugar — it might help. | **eating** (попробуй как метод) |
+
 ---
 
 #### См. также

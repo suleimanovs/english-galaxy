@@ -92,6 +92,21 @@ Present Continuous для будущего работает только для 
 | **Когда решено** | Прямо сейчас | До момента речи | Заранее организовано |
 | **Пример** | I'll call you. | I'm going to call him about the job. | I'm calling him at 3 PM tomorrow. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Выбери (встреча уже назначена): I (will meet / 'm meeting) John tomorrow. | **'m meeting** (конкретная договорённость) |
+| Исправь ошибку: One day I'm traveling around the world. | **One day I'm going to travel around the world.** (далёкое, абстрактное будущее) |
+| Переведи (билет куплен): В понедельник она летит в Берлин. | **She's flying to Berlin on Monday.** |
+| Исправь ошибку: In 2050, people are living on Mars. | **In 2050, people will be living on Mars.** |
+| Сделай вопрос: you / do / anything tonight? | **Are you doing anything tonight?** |
+| Выбери: We (will have / 're having) a party on Saturday — everything's organized. | **'re having** |
+| Поставь глагол: He ___ (start) his new job next week. | **is starting** |
+| Переведи: Что ты делаешь в эти выходные? | **What are you doing this weekend?** |
+
 ---
 
 #### См. также

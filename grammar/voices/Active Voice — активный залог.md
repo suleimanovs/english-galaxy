@@ -105,6 +105,21 @@ Active Voice (активный залог) это **стандартная фо�
 | **Пример** | The dog bit the man. | The man was bitten by the dog. |
 | **Когда использовать** | Деятель известен и важен, разговорная речь, нарратив | Деятель неизвестен, неважен или намеренно скрыт |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Переделай в активный: A decision was made by the committee. | **The committee made a decision.** |
+| Исправь порядок слов: The fish the cat ate. | **The cat ate the fish.** (подлежащее → глагол → дополнение) |
+| Переделай в активный: The report was written by her. | **She wrote the report.** |
+| Поставь глагол (Present Perfect): She ___ (write) the report. | **has written** |
+| Выбери естественный вариант: I made a mistake. / A mistake was made by me. | **I made a mistake.** (разговорная речь — активный) |
+| Поставь глагол (Past Continuous): She ___ (write) when I called. | **was writing** |
+| Переведи: Учёные открыли новый вид. | **Scientists discovered a new species.** |
+| Переделай в активный: The man was bitten by the dog. | **The dog bit the man.** |
+
 ---
 
 #### См. также

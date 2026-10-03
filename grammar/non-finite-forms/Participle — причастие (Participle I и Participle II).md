@@ -158,6 +158,22 @@ V3 используется в образовании Perfect-форм и пас
 | **Как обстоятельство** | одновременное действие | предшествующее действие или причина |
 | **Пример** | Walking home, she called him. | Exhausted, she went to bed. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Выбери: a (writing / written) letter | **written** (пассивное значение → V3) |
+| Исправь ошибку: Driving home, the rain started. | **Driving home, I got caught in the rain.** (висячее причастие) |
+| Герундий или причастие: Swimming is good for you. | **герундий** (называет действие, подлежащее) |
+| Герундий или причастие: She sat there, reading quietly. | **причастие** (описывает обстоятельство) |
+| Соедини через причастие: She felt tired. She went to bed early. | **Feeling tired, she went to bed early.** |
+| В чём разница: I have cut my hair. / I had my hair cut. | **сам постригся / постригли в парикмахерской** |
+| Переведи: Построенный в XVIII веке, замок привлекает тысячи туристов. | **Built in the 18th century, the castle attracts thousands of tourists.** |
+| Выбери: I saw him (cross / crossing) the street — he was halfway across. | **crossing** (застал в процессе) |
+| Исправь ошибку: Exhausted by work, the sofa looked very inviting. | **Exhausted by work, I found the sofa very inviting.** |
+
 ---
 
 #### См. также

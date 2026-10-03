@@ -140,6 +140,25 @@ wish + would + V
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: I wish I know the answer. | **I wish I knew the answer.** (о настоящем — Past Simple) |
+| Исправь ошибку (сожаление о прошлом): I wish I studied harder. | **I wish I had studied harder.** (о прошлом — Past Perfect) |
+| wish или hope: I ___ you'll come to the party. | **hope** (реальная, достижимая надежда) |
+| Исправь ошибку: I wish I would be taller. | **I wish I were taller.** (would о себе не используется) |
+| Переведи: Хотелось бы, чтобы ты перестал шуметь. (раздражение) | **I wish you would stop making that noise.** (wish + would — о поведении другого) |
+| Переведи: Она сожалеет, что сказала это. | **She wishes she hadn't said that.** |
+| Переведи: Жаль, что её здесь нет. | **I wish she were here.** (were для всех лиц) |
+| Усиль эмоцию через if only: I wish I had known earlier. | **If only I had known earlier.** |
+| Переведи: Он хотел бы уметь говорить по-испански. | **He wishes he could speak Spanish.** |
+| wish или hope: I ___ it doesn't rain tomorrow. | **hope** (реальная возможность) |
+
+---
+
 #### См. также
 - [[Second Conditional — второе условие (нереальное настоящее)]]
 - [[Subjunctive — сослагательное наклонение]]

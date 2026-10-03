@@ -165,6 +165,23 @@ Noun clause раскрывает содержание абстрактного �
 - I know **that** she left. (= Я знаю, что она ушла — факт.)
 - I know **what** she said. (= Я знаю, что она сказала — содержание.)
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: I don't know where does she live. | **I don't know where she lives.** (прямой порядок, без does) |
+| Выбери: **If / Whether** we go is up to you. | **Whether** (в позиции подлежащего — только whether) |
+| Исправь ошибку: It depends on if she agrees. | **It depends on whether she agrees.** (после предлога — whether) |
+| Выбери: The fact **he lied / that he lied** changed everything. | **The fact that he lied** (после существительного that не опускаем) |
+| Выбери: I know **that / what** she said. | **what** (= что именно сказала, содержание) |
+| Выбери: **What / That** he is smart is obvious. | **That** (that = факт; what = «то, что») |
+| Перестрой с вводным *it*: That prices are rising is a fact. | **It is a fact that prices are rising.** |
+| Заполни пропуск: I wonder ___ he is coming. (yes/no) | **whether / if** |
+| Исправь ошибку: It's essential that every student attends. | **It's essential that every student attend.** (subjunctive — базовая форма) |
+| Переведи: «Я не понимаю, почему он ушёл». | **I don't understand why he left.** |
+
 ---
 
 #### См. также

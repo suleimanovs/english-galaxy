@@ -90,6 +90,25 @@ If + Past Simple  ,  would have + V3
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: If I had studied medicine, I would have been a doctor now. | **If I had studied medicine, I would be a doctor now.** (результат в настоящем — would + V) |
+| Исправь ошибку: If I were more organized, I wouldn't miss the deadline yesterday. | **If I were more organized, I wouldn't have missed the deadline yesterday.** (результат в прошлом) |
+| Исправь ошибку: If I would have studied medicine, I'd be a doctor now. | **If I had studied medicine, I'd be a doctor now.** (would не стоит в if-clause) |
+| Переведи: Если бы она не уехала за границу, она всё ещё жила бы здесь. | **If she hadn't moved abroad, she would still be living here.** |
+| Переведи: Если бы я ему не доверял, я бы не рассказал ему секрет. | **If I didn't trust him, I wouldn't have told him the secret.** (доверяю сейчас → рассказал тогда) |
+| Какой тип: прошлое условие → настоящий результат. Напиши формулу. | **If + Past Perfect, would + V** (Mixed 1) |
+| Какой тип: настоящее условие → прошлый результат. Напиши формулу. | **If + Past Simple, would have + V3** (Mixed 2) |
+| Поставь глаголы: If they ___ (invest) earlier, they ___ (be) rich now. | **had invested … would be** |
+| Поставь глаголы: If he ___ (speak) better English, he ___ (get) the job last month. | **spoke … would have gotten** |
+| На какой тип указывают слова now, still, by now в главной части? | **Mixed 1** (прошлое условие → настоящий результат) |
+
+---
+
 #### См. также
 - [[Second Conditional — второе условие (нереальное настоящее)]]
 - [[Third Conditional — третье условие (нереальное прошлое)]]

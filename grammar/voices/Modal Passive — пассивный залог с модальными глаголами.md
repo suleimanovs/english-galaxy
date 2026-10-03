@@ -282,6 +282,22 @@ Modal Passive особенно характерен для официальны�
 | The work must been finished. | The work must **have been** finished. |
 | It could been avoided. | It could **have been** avoided. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: It must finished by Friday. | **It must be finished by Friday.** (modal + be + V3) |
+| Исправь ошибку: The door can be open. | **The door can be opened.** (нужно причастие V3) |
+| Переделай в пассив: Someone must repair this road. | **This road must be repaired.** |
+| Исправь ошибку: It should been done yesterday. | **It should have been done yesterday.** (прошлое → have been) |
+| Выбери: The mistake (could be / could have been) avoided — but it wasn't. | **could have been** (упущенная возможность в прошлом) |
+| Переведи: Ремни безопасности должны быть пристёгнуты постоянно. | **Seat belts must be worn at all times.** |
+| Переделай в пассив: You have to pay the fine. | **The fine has to be paid.** |
+| Переведи: Письмо, должно быть, потеряли. | **The letter must have been lost.** (уверенное предположение о прошлом) |
+| Переделай в пассив: You need to sign the form. | **The form needs to be signed.** |
+
 ---
 
 #### См. также

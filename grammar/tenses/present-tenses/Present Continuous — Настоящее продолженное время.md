@@ -228,6 +228,23 @@ Are + you/we/they + глагол-ing?
 | **Вспомог. глагол** | do / does | am / is / are |
 | **Форма** | V / V+s | V-ing |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Напиши -ing форму: run, make, lie | **running, making, lying** |
+| Поставь глагол: Look! It ___ (snow). | **is snowing** |
+| Исправь ошибку: What do you do right now? | **What are you doing right now?** (действие в момент речи) |
+| Выбери: I (am understanding / understand) you. | **understand** (stative verb) |
+| Переведи: Она сейчас не смотрит телевизор. | **She isn't watching TV now.** |
+| Выбери: He's always (losing / loses) his keys! | **losing** (раздражение → Continuous с always) |
+| Поставь глагол: I ___ (meet) John tomorrow at 6. | **am meeting** (конкретная договорённость) |
+| Исправь ошибку: The Sun is rising in the east. | **The Sun rises in the east.** (постоянный факт) |
+| Выбери: He (is / is being) rude today — that's not like him. | **is being** (ведёт себя так сейчас) |
+| Сделай вопрос: She is coming with us. | **Is she coming with us?** |
+
 ---
 
 #### См. также

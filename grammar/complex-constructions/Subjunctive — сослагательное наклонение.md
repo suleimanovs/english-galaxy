@@ -194,6 +194,23 @@ Subjunctive сохранился в нескольких фиксированн�
 | She acts as if she was in charge. | She acts as if she **were** in charge. |
 | It's time he **is** more careful. | It's time he **was** more careful. (после it's time — Past Simple; were — книжный вариант) |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: I suggest that he goes to the doctor. | **I suggest that he go to the doctor.** (базовая форма без -s) |
+| Исправь ошибку: It's important that she is here. | **It's important that she be here.** |
+| Исправь ошибку: I suggest that he doesn't go. | **I suggest that he not go.** (отрицание — not перед глаголом) |
+| Заполни пропуск: If I ___ you, I would reconsider. (формально) | **were** (Past Subjunctive — were для всех лиц) |
+| Заполни пропуск: They demanded that the report ___ (submit) by Friday. | **be submitted** (subjunctive в пассиве) |
+| Британский вариант: I suggest that he **go**. | **I suggest that he should go.** |
+| Заполни пропуск: It's time he ___ (take) responsibility. | **took** (после it's time — Past Simple) |
+| Заполни пропуск: The law requires that every driver ___ (have) insurance. | **have** |
+| Заполни пропуск: Come what ___, I'll be there. | **may** (устойчивое выражение) |
+| Переведи: «Она ведёт себя так, будто она начальник». | **She acts as if she were the boss.** |
+
 ---
 
 #### См. также

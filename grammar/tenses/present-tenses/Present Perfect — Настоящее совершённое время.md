@@ -258,6 +258,23 @@ Has   +  he / she / it        +  глагол V3?
 | **Пример** | I've seen that film. | I saw that film last Tuesday. |
 | **Вопрос** | Have you seen it? | Did you see it on Saturday? |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Поставь глагол: I ___ (lose) my wallet — I can't find it anywhere. | **have lost** (результат важен сейчас) |
+| Выбери: I (have seen / saw) him yesterday. | **saw** (конкретное время прошлого) |
+| Исправь ошибку: I live here for 10 years. | **I have lived here for 10 years.** (началось в прошлом, продолжается) |
+| Вставь for или since: She has worked here ___ 2018. | **since** (точка начала) |
+| Напиши V3: get, catch, buy, go | **gotten, caught, bought, gone** |
+| Выбери: Have you finished (already / yet)? | **yet** (вопросы и отрицания) |
+| Выбери: He has (been / gone) to the store — he'll be back soon. | **gone** (его сейчас нет) |
+| Переведи: Ты когда-нибудь пробовал суши? | **Have you ever tried sushi?** |
+| Исправь ошибку: She has catched a cold. | **She has caught a cold.** |
+| Выбери: We (know / have known) each other since school. | **have known** |
+
 ---
 
 #### См. также

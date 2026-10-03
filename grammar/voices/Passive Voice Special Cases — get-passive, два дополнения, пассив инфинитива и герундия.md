@@ -267,6 +267,23 @@ The car needs washing.  =  The car needs to be washed.
 | Need + -ing | need + V-ing | The dog needs walking. |
 | Безличный | It is said that… / He is said to… | He is said to be a genius. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: The children were looked by a nanny. | **The children were looked after by a nanny.** (предлог остаётся) |
+| Исправь ошибку: The car needs to wash. | **The car needs washing.** / **…needs to be washed.** |
+| Переделай (лицо — подлежащее): They gave her a book. | **She was given a book.** |
+| Исправь ошибку: He is said that he is rich. | **He is said to be rich.** / **It is said that he is rich.** |
+| Выбери: The window was broken (by / with) a rock. | **with** (инструмент, не деятель) |
+| Переведи разговорно: Его уволили за опоздания. | **He got fired for being late.** (get-passive — событие) |
+| Исправь ошибку (чтобы меня не беспокоили): I don't want to disturb. | **I don't want to be disturbed.** (пассивный инфинитив) |
+| Поставь форму: I hate ___ (ignore). | **being ignored** (пассивный герундий) |
+| Исправь ошибку: It was explained us the rule. | **The rule was explained to us.** (explain не берёт лицо-подлежащее) |
+| Выбери (AmE): I've (got / gotten) used to the noise. | **gotten** (американская форма V3) |
+
 ---
 
 #### См. также

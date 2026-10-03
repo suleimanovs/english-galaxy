@@ -162,6 +162,25 @@ tags: [grammar, nouns]
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Образуй множественное число: child, woman, foot, mouse | **children, women, feet, mice** |
+| Образуй множественное число: city, day, knife, tomato, photo | **cities, days, knives, tomatoes, photos** |
+| Исправь ошибку: I saw five sheeps in the field. | **I saw five sheep in the field.** (форма совпадает) |
+| Исправь ошибку: Where is my jean? | **Where are my jeans?** (парные предметы — только мн. число) |
+| Поставь глагол: Mathematics ___ (be) hard. The news ___ (be) bad. | **is … is** (слова на -ics и news — ед. число) |
+| Исправь ошибку: People is friendly here. | **People are friendly here.** (people — всегда мн. число) |
+| Образуй множественное число: analysis, criterion, phenomenon | **analyses, criteria, phenomena** |
+| Как сказать «одни ножницы»? | **a pair of scissors** |
+| Поставь глагол (AmE): My family ___ (be) large. The police ___ (be) investigating. | **is … are** (собирательные — ед. число; police — всегда мн.) |
+| Переведи: Один человек ждёт снаружи. | **A person is waiting outside.** (не a people) |
+
+---
+
 #### См. также
 - [[Countable and Uncountable Nouns — исчисляемые и неисчисляемые]]
 - [[Subject-Verb Agreement — согласование подлежащего и сказуемого]]

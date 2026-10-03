@@ -236,6 +236,25 @@ tags: [grammar, articles]
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: She told John and I about it. | **She told John and me about it.** (тест на удаление: She told me) |
+| Исправь ошибку: Me and my friend went to the movies. | **My friend and I went to the movies.** (подлежащее — I) |
+| Вставь: Between you and ___, the plan won't work. | **me** (после предлога — объектный падеж) |
+| Переведи: Сегодня холодно. | **It's cold today.** (формальное подлежащее it) |
+| Исправь ошибку: Give me an another chance. | **Give me another chance.** (another уже содержит an) |
+| other / others / the others: Some people like coffee; ___ prefer tea. | **others** (другие вообще, без артикля) |
+| Вставь: One sock is here. Where's ___ sock? | **the other** (второй из двух) |
+| who или whom (формальное письмо): To ___ should I address the letter? | **whom** (после предлога) |
+| Исправь ошибку: They looked at themselves and smiled. (друг на друга) | **They looked at each other and smiled.** |
+| Вставь: Someone left ___ phone on the table. | **their** (singular they — пол неизвестен) |
+
+---
+
 #### См. также
 - [[Possessive Pronouns — притяжательные местоимения]]
 - [[Reflexive Pronouns — возвратные местоимения]]

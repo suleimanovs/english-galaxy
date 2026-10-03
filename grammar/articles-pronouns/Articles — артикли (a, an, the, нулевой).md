@@ -193,6 +193,25 @@ tags: [grammar, articles]
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Вставь артикль: She is ___ teacher. | **a** (профессия через be — всегда a/an) |
+| a или an: ___ university, ___ hour, ___ umbrella | **a university, an hour, an umbrella** (важен звук, а не буква) |
+| Исправь ошибку: I have a cat. A cat is very playful. | **I have a cat. The cat is very playful.** (повторное упоминание — the) |
+| Исправь ошибку: She speaks the English very well. | **She speaks English very well.** (языки — без артикля) |
+| Вставь the или — (ничего): ___ dogs are loyal animals. | **—** (обобщение во множественном числе) |
+| Переведи: Солнце встаёт на востоке. | **The Sun rises in the east.** (единственный в своём роде) |
+| Вставь артикли: She's ___ best student in ___ class. | **the best … the class** (превосходная степень + ясно из контекста) |
+| the или —: ___ Alps, ___ Mount Everest, ___ Lake Baikal, ___ Netherlands | **the Alps, Mount Everest, Lake Baikal, the Netherlands** |
+| Выбери: He plays (football / the football). She plays (piano / the piano). | **football; the piano** (спорт без артикля, инструмент с the) |
+| Переведи: Я езжу на работу на автобусе. | **I go to work by bus.** (транспорт с by — без артикля) |
+
+---
+
 #### См. также
 - [[Countable and Uncountable Nouns — исчисляемые и неисчисляемые]]
 - [[Determiners — определители (each, every, all, whole, both, either, neither)]]

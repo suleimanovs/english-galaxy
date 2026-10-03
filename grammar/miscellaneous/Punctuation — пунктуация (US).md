@@ -242,6 +242,23 @@ tags: [grammar, misc]
 | i think so. | I think so. |
 | Dear mr. smith, | Dear Mr. Smith, |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь пунктуацию: I think, that you're right. | **I think that you're right.** (перед that запятой нет) |
+| Исправь пунктуацию: He said: «I'm leaving». | **He said, "I'm leaving."** (запятая перед цитатой, точка внутри кавычек) |
+| Выбери: The cat licked **its / it's** paw. | **its** (it's = it is) |
+| Исправь ошибку: in the 1990's, three CD's | **in the 1990s, three CDs** (множественное — без апострофа) |
+| Исправь comma splice: It was late, we went home. | **It was late, so we went home. / It was late; we went home.** |
+| Выбери: The author is **well-known / well known**. | **well known** (дефис только перед существительным: a well-known author) |
+| Исправь ошибку: a highly-paid job | **a highly paid job** (после наречий на -ly дефиса нет) |
+| Поставь серийную запятую: I bought apples, oranges and bananas. | **I bought apples, oranges, and bananas.** |
+| Исправь заглавные буквы: on monday the russian teacher said that i was late. | **On Monday the Russian teacher said that I was late.** |
+| Как в США пишут тире: She left — without a word. | **She left—without a word.** (em dash без пробелов) |
+
 ---
 
 #### См. также

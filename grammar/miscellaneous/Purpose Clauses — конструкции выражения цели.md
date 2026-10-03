@@ -253,6 +253,23 @@ so as not to     +  V
 | Одинаковые подлежащие | I study so that I can pass the exam. *(правильно, но длиннее)* | I study **to pass** the exam. *(естественнее)* |
 | Разные подлежащие | I explain it **to** you understand. | I explain it **so that you can** understand. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: I went there for to buy milk. | **I went there to buy milk.** |
+| Исправь ошибку: She studies for getting good grades. | **She studies to get good grades.** (цель человека — to-infinitive) |
+| Выбери: This knife is **to cut / for cutting** bread. | **for cutting** (назначение предмета) |
+| Исправь ошибку: I spoke slowly to she understand me. | **I spoke slowly so that she could understand me.** (разные подлежащие — so that) |
+| Исправь ошибку: She called him so that he will be ready. | **She called him so that he would be ready.** (прошедшее — would) |
+| Переведи формально: «Он ушёл пораньше, чтобы не опоздать на поезд». | **He left early in order not to / so as not to miss the train.** |
+| Сделай естественнее: I study so that I can pass the exam. | **I study to pass the exam.** (одинаковые подлежащие — to) |
+| Заполни пропуск: Speak up ___ everyone can hear you. | **so that** |
+| Что формальнее: *I came to help* или *I came in order to assist you*? | **in order to** (деловой, письменный стиль) |
+| Выбери для письменной речи: Try **to not / not to** be late. | **not to** (to not — разговорный split infinitive) |
+
 ---
 
 #### См. также

@@ -256,6 +256,25 @@ Be supposed to описывает то, что **должно происходи
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: Have you to work tomorrow? | **Do you have to work tomorrow?** (have to — через do) |
+| Исправь ошибку: Yesterday I must stay late. | **Yesterday I had to stay late.** |
+| Выбери: After an hour he (could / was able to) open the door. | **was able to** (конкретный успех, не общее умение) |
+| Исправь ошибку: You'd better to go now. | **You'd better go now.** |
+| Исправь ошибку: I'd rather you to come tomorrow. | **I'd rather you came tomorrow.** ('d rather + person + Past Simple) |
+| Исправь ошибку: You supposed to call me. | **You were supposed to call me.** (be обязателен) |
+| Переведи: Мне пришлось взять такси — метро было закрыто. | **I had to take a taxi — the subway was closed.** |
+| Переведи: Вы сможете забрать заказ завтра. | **You'll be able to pick up your order tomorrow.** (у can нет будущего) |
+| Переведи: Я бы лучше прошёлся пешком, чем ехал на автобусе. | **I'd rather walk than take the bus.** |
+| should или 'd better: You ___ read the contract before you sign it — otherwise you'll have problems. | **'d better** (срочность, плохие последствия) |
+
+---
+
 #### См. также
 - [[Must — необходимость, запрет, уверенное предположение]]
 - [[Can и Could — умение, возможность, разрешение]]

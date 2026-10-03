@@ -117,6 +117,25 @@ tags: [grammar, articles]
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: This books are mine. | **These books are mine.** (множественное число — these) |
+| Вставь: ___ people over there are waiting for a bus. | **Those** (далеко + множественное число) |
+| Переведи (по телефону): Алло, это Джон. | **Hello, this is John.** (не It is) |
+| this или that: I didn't know ___. (о том, что только что сказали) | **that** (ссылка на уже сказанное) |
+| this или that: Listen to ___: the company is closing. | **this** (то, что будет сказано дальше) |
+| Переведи: В то утро я проснулся рано. | **That morning I woke up early.** (прошедший период — that) |
+| Переведи: Я позвоню тебе сегодня вечером. | **I'll call you this evening.** |
+| Исправь ошибку: These is my friend. | **This is my friend.** |
+| Исправь ошибку: Give me pen. (ту, что на столе) | **Give me that pen.** (указатель нельзя опустить, как в русском) |
+| this/that или it: I bought a car. ___ is red. | **It** (замена уже известного предмета) |
+
+---
+
 #### См. также
 - [[Articles — артикли (a, an, the, нулевой)]]
 - [[Determiners — определители (each, every, all, whole, both, either, neither)]]

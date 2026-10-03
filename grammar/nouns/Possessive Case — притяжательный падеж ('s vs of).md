@@ -130,6 +130,25 @@ tags: [grammar, nouns]
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Поставь апостроф: the girls bag (одна девочка) / the students books (много студентов) | **the girl's bag / the students' books** |
+| Поставь апостроф: the childrens toys | **the children's toys** (мн. число без -s → 's) |
+| Исправь ошибку: The dog's are big. | **The dogs are big.** ('s — притяжательный, s — мн. число) |
+| 's или of: нога стола | **the leg of the table** (неодушевлённое → of) |
+| 's или of: сегодняшние новости | **today's news** (время → 's) |
+| Переведи: Это дом Джека и Джилл. (один дом на двоих) | **This is Jack and Jill's house.** ('s только к последнему) |
+| Переведи: Он один из друзей Джона. | **He's a friend of John's.** (двойной притяжательный) |
+| Исправь ошибку: It's color is red. | **Its color is red.** (it's = it is) |
+| Переведи: У Маши есть кот. | **Masha has a cat.** (не At Masha has) |
+| Сократи: I'm at the doctor's office. | **I'm at the doctor's.** |
+
+---
+
 #### См. также
 - [[Possessive Pronouns — притяжательные местоимения]]
 - [[Plural Forms — множественное число]]

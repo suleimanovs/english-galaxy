@@ -173,6 +173,23 @@ tags: [grammar, times]
 | **С «сейчас»** | I need it now. | I'm doing it now. |
 | **Проверка** | Можно ли это «делать»? Нет → состояние | Можно ли это «делать»? Да → действие |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Выбери: I (am knowing / know) the answer now. | **know** (состояние — только Simple) |
+| Выбери: I (think / am thinking) about changing jobs. | **am thinking** (обдумываю — действие) |
+| Исправь ошибку: She's having two brothers. | **She has two brothers.** (have = «иметь» → Simple) |
+| Выбери: The chef (tastes / is tasting) the sauce. | **is tasting** (пробует — действие) |
+| Выбери: You (look / are looking) tired. | **look** (выглядеть → состояние) |
+| Исправь ошибку: Are you understanding me? | **Do you understand me?** |
+| Переведи: Я вижу птицу на крыше. | **I can see a bird on the roof.** (или I see; не am seeing) |
+| Выбери: He (is / is being) rude — he's usually so polite. | **is being** (временное поведение) |
+| Верно ли оба: How do you feel? = How are you feeling? | **Да, оба верны** (feel — исключение) |
+| Выбери: This box (contains / is containing) old photos. | **contains** |
+
 ---
 
 #### См. также

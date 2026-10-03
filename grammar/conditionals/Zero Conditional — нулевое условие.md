@@ -88,6 +88,24 @@ If-clause (условие) и main clause (результат) — оба в Pre
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку (общая истина): If you heat water, it will boil. | **If you heat water, it boils.** (оба глагола — Present Simple) |
+| Исправь ошибку (закономерность): If it rains, the ground will get wet. | **If it rains, the ground gets wet.** |
+| Переведи: Если смешать красный и синий, получишь фиолетовый. | **If you mix red and blue, you get purple.** |
+| Поставь глаголы: If I ___ (drink) coffee late, I ___ (can't) sleep. | **drink … can't** |
+| Нужна ли запятая: Water boils(,) if you heat it to 100°C. | **Без запятой** (условие стоит в конце) |
+| Переведи: Если не высыпаться, чувствуешь усталость. | **If you don't sleep enough, you feel tired.** |
+| Каким словом можно заменить if в Zero Conditional без изменения смысла? | **when** |
+| Zero или First: If it rains tomorrow, I'll stay home. | **First** (конкретное предсказание, will в главной части) |
+| Переведи: Растения гибнут, если не получают воды. | **Plants die if they don't get water.** |
+
+---
+
 #### См. также
 - [[First Conditional — первое условие (реальное)]]
 - [[Tenses in Adverbial Clauses — времена в придаточных предложениях]]

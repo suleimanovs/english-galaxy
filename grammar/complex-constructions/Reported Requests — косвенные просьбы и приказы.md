@@ -98,6 +98,23 @@ told / asked / ordered / warned + объект + not to + V
 | She suggested me to try again. | She suggested trying again. / She suggested that I try again. |
 | He suggested to go for a walk. | He suggested going for a walk. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Передай косвенно: "Sit down," she said to me. | **She told me to sit down.** |
+| Передай косвенно: "Don't be late," she said to him. | **She told him not to be late.** |
+| Исправь ошибку: She said me to sit down. | **She told me to sit down.** (с объектом — told, не said) |
+| Исправь ошибку: He asked me that I help him. | **He asked me to help him.** (просьба = to-infinitive, без that) |
+| Исправь ошибку: She suggested me to try again. | **She suggested trying again. / She suggested that I try again.** |
+| Передай косвенно: "Don't touch that wire!" he said to us. | **He warned us not to touch that wire.** |
+| Передай косвенно: "You should see a doctor," she said to me. | **She advised me to see a doctor.** |
+| Передай косвенно: "Let's go for a walk," he said. | **He suggested going for a walk.** |
+| Какой глагол подходит для «Please, please don't go»? | **beg: She begged him not to go.** |
+| Переведи: «Охранник запретил нам входить». | **The guard forbade us to enter.** |
+
 ---
 
 #### См. также

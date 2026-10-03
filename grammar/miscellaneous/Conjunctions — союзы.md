@@ -142,6 +142,23 @@ tags: [grammar, misc]
 | **Примеры** | and, but, because, although | however, therefore, furthermore |
 | **Пример** | She was tired **but** continued. | She was tired. **However**, she continued. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: Despite she was tired, she continued. | **Although she was tired, she continued.** (despite + существительное, не придаточное) |
+| Исправь ошибку: She was late because the traffic. | **She was late because of the traffic.** |
+| Исправь ошибку: Because she was tired, so she left early. | **Because she was tired, she left early. / She was tired, so she left early.** (один союз, не два) |
+| Выбери: **Unless / If** you hurry, you'll be late. | **Unless** (= если не) |
+| Заполни пропуск: Take a jacket ___ it gets cold. | **in case** |
+| Заполни пропуск: He doesn't smoke, ___ does he drink. | **nor** |
+| Заполни пропуск: She was ___ tired ___ she fell asleep immediately. | **so … that** |
+| Нужна ли запятая: She's tired but happy | **Нет** (короткое предложение) |
+| Соедини: It was raining. We stayed home. (следствие) | **It was raining, so we stayed home.** |
+| Переведи: «Ни он, ни она там не были». | **Neither he nor she was there.** (глагол — по ближайшему подлежащему) |
+
 ---
 
 #### См. также

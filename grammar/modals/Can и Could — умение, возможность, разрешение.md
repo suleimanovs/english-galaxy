@@ -163,6 +163,25 @@ Can уместен в разговорной речи, но could — вежли
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: She can to swim. | **She can swim.** (после can — без to) |
+| Переведи: Я умел плавать в пять лет. | **I could swim when I was five.** (умение в прошлом) |
+| Исправь ошибку: After an hour of searching, she could find her keys. | **She managed to find her keys.** / **was able to find** (конкретный успех) |
+| Сделай просьбу вежливее: Can you send me the report? | **Could you send me the report?** |
+| Переведи: Мог бы и сказать мне! (но не сказал) | **You could have told me!** (could have + V3) |
+| Переведи: Этого не может быть! | **That can't be true!** (уверенное отрицание) |
+| Вставь can или be able to: I want to ___ drive. | **be able to** (у can нет инфинитива) |
+| Переведи: Здесь нельзя парковаться. | **You can't park here.** |
+| Переведи: Мы могли бы пойти в кино сегодня вечером. | **We could go to the movies tonight.** (гипотетическая возможность) |
+| Исправь ошибку: He has could do it before. | **He has been able to do it before.** (у can нет Perfect) |
+
+---
+
 #### См. также
 - [[May и Might — разрешение, вероятность]]
 - [[Must — необходимость, запрет, уверенное предположение]]

@@ -207,6 +207,25 @@ Maybe — наречие «может быть», отдельное слово 
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: She mustn't be at home — the lights are off. | **She can't be at home — the lights are off.** (отрицательный вывод — can't) |
+| Исправь ошибку: He must forgot his keys. | **He must have forgotten his keys.** (о прошлом — have + V3) |
+| Исправь ошибку: She maybe at work. | **She may be at work.** / **Maybe she's at work.** |
+| Переведи: Земля мокрая — ночью, должно быть, шёл дождь. | **The ground is wet — it must have rained last night.** |
+| Переведи: Он не отвечает — должно быть, спит. | **He isn't answering — he must be sleeping.** (процесс сейчас — be + V-ing) |
+| Переведи: Не может быть, что он уже закончил — он только начал. | **He can't have finished already — he just started.** |
+| Исправь ошибку: Someone's knocking. It will be John. | **It must be John.** (вывод, а не предсказание) |
+| Выбери: He (couldn't do / couldn't have done) it — he was in another city. (вывод) | **couldn't have done** (не «не сумел», а «не мог быть») |
+| Переведи: Возможно, он забыл о встрече. | **He might have forgotten about the meeting.** / **may have** |
+| Переведи: Ты, видимо, работал всю ночь — ужасно выглядишь. | **You must have been working all night — you look terrible.** |
+
+---
+
 #### См. также
 - [[Must — необходимость, запрет, уверенное предположение]]
 - [[May и Might — разрешение, вероятность]]

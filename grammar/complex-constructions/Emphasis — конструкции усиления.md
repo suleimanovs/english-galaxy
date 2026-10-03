@@ -122,6 +122,22 @@ Emphatic do работает только с **Present Simple** и **Past Simple
 - Она ведь знает! — She **does** know!
 - Ты же обещал! — You **did** promise!
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Усиль утверждение: She knows the answer. | **She does know the answer.** |
+| Исправь ошибку: I did called you. | **I did call you.** (после did — базовая форма) |
+| Исправь ошибку: I do am trying. | **I am trying. / I really am trying.** (emphatic do — только в Simple) |
+| Переведи: «Я же тебе говорил!» | **I did tell you!** |
+| Заполни пропуск: This is the ___ book I was looking for. (very / own) | **very** (= тот самый) |
+| Переведи: «Президент сам мне позвонил». | **The president himself called me.** |
+| Усиль отрицание: I don't mind. | **I don't mind at all.** |
+| Сделай настойчивое приглашение: Sit down. | **Do sit down!** |
+| Перестрой с выносом в начало: I have never seen such a mess. | **Never have I seen such a mess!** (после вынесенного never — инверсия) |
+
 ---
 
 #### См. также

@@ -155,6 +155,22 @@ Past Perfect нужен только когда важно показать, ч�
 | **Пример** | I have finished. (к сейчас) | I had finished. (к тому моменту) |
 | **Логика** | прошлое → настоящее | прошлое → другое прошлое |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Поставь глагол: When I arrived, she ___ already ___ (leave). | **had already left** (более раннее событие) |
+| Исправь ошибку: She had went there before. | **She had gone there before.** |
+| Выбери: I came home, (cooked / had cooked) dinner and went to bed. | **cooked** (простая последовательность) |
+| Поставь глагол: By 9 PM, I ___ (finish) all my homework. | **had finished** (by + момент в прошлом) |
+| Переведи: Он провалил экзамен, потому что не учился. | **He failed the exam because he hadn't studied.** |
+| В чём разница: When I arrived, she left. / When I arrived, she had left. | **первое — ушла после; второе — до** моего прихода |
+| Поставь глагол: It was his first time in Japan — he ___ never ___ (be) there before. | **had never been** |
+| Сделай вопрос: you / meet / him / before? | **Had you met him before?** |
+| Исправь ошибку: I had catched the bus. | **I had caught the bus.** |
+
 ---
 
 #### См. также

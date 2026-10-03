@@ -498,6 +498,23 @@ capable OF (не «to»):       He's capable of more.
   across  = поперёк (поверхность)→ swim across the river
 ```
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Заполни пропуски: She lives ___ Moscow, ___ Tverskaya Street, ___ 14 Tverskaya Street. | **in, on, at** (город → улица → адрес) |
+| Выбери: I left my bag **in / on** the bus. | **on** (общественный транспорт — on; машина, такси — in) |
+| Исправь ошибку: at the morning, in Monday, on 6 PM | **in the morning, on Monday, at 6 PM** |
+| Выбери: I've lived here **since / for** five years. | **for** (for = сколько; since = с какого момента) |
+| Выбери: I fell asleep **during / for** the lecture. | **during** (именованный период) |
+| Выбери: She walked **in / into** the room. | **into** (движение внутрь) |
+| Выбери: We drove **through / across** the forest. | **through** (внутри объёма; across — по поверхности) |
+| Исправь ошибку: I listen music. She depends from the weather. | **I listen to music. She depends on the weather.** |
+| Исправь ошибку: He is married with her. He's good in tennis. | **He is married to her. He's good at tennis.** |
+| Заполни пропуски: I agree ___ you. We agreed ___ a price. She agreed ___ the plan. | **with, on, to** |
+
 ---
 
 #### См. также

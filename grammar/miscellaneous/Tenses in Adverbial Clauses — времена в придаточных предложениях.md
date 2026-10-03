@@ -185,6 +185,23 @@ Unless you hurry, we'll miss the train.
 > [!note]
 > Запомните три главных союза-ловушки, после которых will никогда не ставится: **when**, **until**, **as soon as**. Они встречаются чаще всего и чаще всего провоцируют ошибку.
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: When she will come, we'll eat. | **When she comes, we'll eat.** (после when — Present Simple) |
+| Исправь ошибку: Until he will finish, I'll wait. | **Until he finishes, I'll wait.** |
+| Исправь ошибку: When she came tomorrow, I'll tell her. | **When she comes tomorrow, I'll tell her.** (не Past Simple, а Present Simple) |
+| Заполни пропуск: As soon as they ___ (arrive), call me. | **arrive** |
+| Подчеркни завершённость: Once she ___ (sign) the documents, we can start. | **has signed** (Present Perfect — акцент на завершённости) |
+| Выбери: I don't know when he **comes / will come**. | **will come** (when вводит дополнение, не обстоятельство) |
+| Заполни пропуск: She left early so that she ___ (can) avoid the traffic. | **could** (прошедшее — could/would) |
+| Выбери: Even if it **rains / will rain** tomorrow, we'll go. | **rains** (как в условных) |
+| Переведи: «Я позвоню тебе, когда приеду». | **I'll call you when I arrive.** |
+| В каких придаточных will запрещён: времени, цели, причины? | **Только времени** (и условия); цель и причина — обычные времена |
+
 ---
 
 #### См. также

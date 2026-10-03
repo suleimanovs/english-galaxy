@@ -135,6 +135,22 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 | Past Perfect | had + V3 | Действие, завершившееся до другого момента в прошлом | She had worked there for years before she quit. |
 | Past Perfect Continuous | had been + V-ing | Процесс, продолжавшийся до момента в прошлом | She had been working for hours when I arrived. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Поставь глагол: I ___ (work) for three hours when she called. | **had been working** (длительность до момента в прошлом) |
+| Исправь ошибку: I had been knowing her for years when we lost touch. | **I had known her for years when we lost touch.** (stative verb) |
+| Выбери: I (had written / had been writing) the report — it was ready. | **had written** (результат) |
+| Переведи: Она была измотана, потому что работала всю ночь. | **She was exhausted because she had been working all night.** |
+| Подчеркни длительность: She waited for an hour before the bus came. | **She had been waiting for an hour before the bus came.** |
+| Сделай вопрос: How long / you / wait / when the train arrived? | **How long had you been waiting when the train arrived?** |
+| Поставь глагол: His hands were dirty because he ___ (fix) the car. | **had been fixing** (следы процесса) |
+| Выбери: By the time he arrived, we (waited / had been waiting) for two hours. | **had been waiting** |
+| Поставь глагол: I ___ (not sleep) well before the exam. | **hadn't been sleeping** |
+
 ---
 
 #### См. также

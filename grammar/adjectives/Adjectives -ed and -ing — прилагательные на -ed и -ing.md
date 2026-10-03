@@ -91,6 +91,25 @@ tags: [grammar, adj]
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: I am boring, let's go somewhere. | **I am bored, let's go somewhere.** (-ed — что я чувствую) |
+| Исправь ошибку: She is interesting in art. | **She is interested in art.** |
+| Исправь ошибку: The movie was bored. | **The movie was boring.** (фильм вызывает скуку) |
+| bored или boring: The lesson was ___. The students were ___. | **boring … bored** |
+| Выбери: We are (exciting / excited) about the trip. | **excited** |
+| Выбери: This task is very (tired / tiring). | **tiring** (задача утомляет) |
+| Переведи: Это была неловкая ситуация. Мне было неловко. | **It was an embarrassing situation. I was embarrassed.** |
+| Переведи: Он такой скучный! (о человеке, который наводит скуку) | **He's so boring!** (-ing для человека — о впечатлении) |
+| Выбери: The news was (shocking / shocked). We were (shocking / shocked). | **shocking … shocked** |
+| Переведи: Поездка была изнуряющей. Я изнурён. | **The trip was exhausting. I'm exhausted.** |
+
+---
+
 #### См. также
 - [[Participle — причастие (Participle I и Participle II)]]
 - [[Adjective Order — порядок прилагательных]]

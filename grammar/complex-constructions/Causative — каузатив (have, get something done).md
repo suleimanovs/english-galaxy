@@ -207,6 +207,23 @@ have +  человек  +  V (без to)
 | I had him **to fix** the tap. | I had him **fix** the tap. (без to!) |
 | She had the assistant **to book** tickets. | She had the assistant **book** tickets. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Переведи: «Мне починили машину» (в сервисе). | **I had my car repaired.** (не *I repaired my car* — это «сам») |
+| Выбери: I got him **help / to help** me. | **I got him to help me.** (get + человек + to V) |
+| Выбери: She had the assistant **to book / book** the tickets. | **She had the assistant book the tickets.** (have + человек + V без to) |
+| Что означает: *He had his wallet stolen*? | **У него украли кошелёк.** (пассив неудачи, не услуга) |
+| Исправь ошибку: I had repaired my car at the garage yesterday. | **I had my car repaired at the garage yesterday.** (had + V3 + объект = Past Perfect) |
+| Заполни пропуск: You should ___ your eyes ___ (test). | **You should have your eyes tested.** |
+| Расставь слова: nails / is / her / done / she / having | **She is having her nails done.** |
+| Выбери: My boss made me **work / to work** overtime. | **made me work** (после make — инфинитив без to) |
+| Какой глагол подразумевает усилия и уговоры: I **had / got** my landlord to fix the heating. | **got** (get = пришлось добиваться) |
+| Исправь ошибку: They forced him sign the contract. | **They forced him to sign the contract.** (force + to V) |
+
 ---
 
 #### См. также

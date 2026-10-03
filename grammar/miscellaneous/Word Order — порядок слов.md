@@ -347,6 +347,23 @@ It  +  глагол  +  прилагательное/существительн�
 | He sent there the letter. | He sent the letter **there**. |
 | They left outside the dog. | They left the dog **outside**. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: Coffee I like very much. | **I like coffee very much.** |
+| Исправь ошибку: She speaks fluently English. | **She speaks English fluently.** (наречие не между глаголом и дополнением) |
+| Исправь ошибку: Always she is late. | **She is always late.** (после be) |
+| Исправь ошибку: I go never there. | **I never go there.** |
+| Исправь ошибку: She took abroad her children. | **She took her children abroad.** |
+| Расставь слова: the piano / every evening / she plays / at home / beautifully | **She plays the piano beautifully at home every evening.** (как → где → когда) |
+| Исправь ошибку: Where you live? | **Where do you live?** |
+| Исправь ошибку: I wonder where is he. | **I wonder where he is.** (во вложенном вопросе — прямой порядок) |
+| Выбери: He's **enough old / old enough** to drive. | **old enough** |
+| Сделай естественнее: To learn Russian is difficult. | **It is difficult to learn Russian.** (экстрапозиция) |
+
 ---
 
 #### См. также

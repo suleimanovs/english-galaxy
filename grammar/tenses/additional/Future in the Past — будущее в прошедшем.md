@@ -122,6 +122,22 @@ Future in the Past — способ выразить **будущее с точ�
 | She said she is going to leave. | She said she **was going to** leave. |
 | They told us they are going to help. | They told us they **were going to** help. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Перескажи: "I will help you." → He said he ___ help me. | **would** |
+| Исправь ошибку (она уже ушла): She said she is going to leave. | **She said she was going to leave.** (сдвиг на шаг назад) |
+| Переведи: Я собирался тебе позвонить, но забыл. | **I was going to call you, but I forgot.** (нереализованное намерение) |
+| Перескажи: "I'm meeting John tomorrow." → He said he ___ John the next day. | **was meeting** |
+| Перескажи: "I will have finished by then." → He said he ___ by then. | **would have finished** |
+| Выбери: I knew that at 9 PM I (will be / would be) working. | **would be** |
+| Исправь ошибку (встреча уже прошла): He said he will come. | **He said he would come.** |
+| Какое это would: He would come if he had time. | **условное (Second Conditional)** (не Future in the Past) |
+| Переведи: Казалось, что пойдёт дождь. | **It looked like it was going to rain.** |
+
 ---
 
 #### См. также

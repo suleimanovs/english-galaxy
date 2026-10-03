@@ -299,6 +299,23 @@ Cleft — это инструмент, и, как любой инструмен�
 | What we need **is** more volunteers and resources. | What we need **are** more volunteers and resources. *(или: What we need is more support — ед.ч.)* |
 | What I like **are** her honesty. | What I like **is** her honesty. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Перестрой с акцентом на *John*: John fixed the computer. | **It was John who/that fixed the computer.** |
+| Исправь ошибку: It was the weather who ruined the trip. | **It was the weather that ruined the trip.** (who — только для людей) |
+| Исправь ошибку: What is I need is a break. | **What I need is a break.** |
+| Заполни пропуск: What we need ___ better tools. (is / are) | **are** (согласование с мн. числом) |
+| Исправь ошибку: It is John who broke the window yesterday. | **It was John who broke the window yesterday.** (время *be* = времени события) |
+| Переведи: «Всё, что она сделала, — улыбнулась». | **All she did was smile.** |
+| Преобразуй в инвертированный what-cleft: What she wants is recognition. | **Recognition is what she wants.** |
+| Выдели причину: We stayed home because of the rain. | **It was because of the rain that we stayed home.** |
+| Что звучит естественнее: (a) It was yesterday that I had breakfast. (b) I had breakfast yesterday. | **(b)** (cleft без контраста — лишний) |
+| Переведи: «Причина, по которой я опоздал, — автобус сломался». | **The reason I'm late is that the bus broke down.** |
+
 ---
 
 #### См. также

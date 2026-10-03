@@ -187,6 +187,23 @@ Do you know + if/whether + Subject + Verb?
 | They went there, didn't they go? | They went there, didn't they? |
 | I am right, amn't I? | I am right, aren't I? |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: She speaks English? | **Does she speak English?** (нужна инверсия, не интонация) |
+| Исправь ошибку: Who did call you? | **Who called you?** (вопрос к подлежащему — без did) |
+| Задай вопрос к выделенному слову: You talked to **Mike**. | **Who did you talk to?** (вопрос к дополнению — нужен did) |
+| Добавь тег: She speaks French, ___? | **doesn't she?** |
+| Добавь тег: They haven't called, ___? | **have they?** |
+| Добавь тег: I am right, ___? | **aren't I?** (не *amn't I*) |
+| Добавь тег: Let's go, ___? | **shall we?** |
+| Исправь ошибку: Could you tell me where is the station? | **Could you tell me where the station is?** |
+| Дай краткий ответ: Did she call? — Yes, ___. | **Yes, she did.** |
+| Выбери вопросительное слово: ___ many people came? | **How many** (исчисляемое) |
+
 ---
 
 #### См. также

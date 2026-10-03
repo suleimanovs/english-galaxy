@@ -155,6 +155,23 @@ There  +  is/are  +  подлежащее  +  (место/время)
 | It's important study. | It's important **to** study. |
 | It's easy make mistakes. | It's easy **to** make mistakes. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: In the park are many trees. | **There are many trees in the park.** |
+| Исправь ошибку: It is a cat on the roof. | **There is a cat on the roof.** (наличие — there is) |
+| Выбери: **There is / It is** 5 o'clock. | **It is** (время — it) |
+| Исправь ошибку: There is three books on the table. | **There are three books on the table.** |
+| Исправь ошибку: It's important study. | **It's important to study.** |
+| Заполни пропуск: ___ a restaurant on the corner. ___ a very good restaurant. | **There is … It is** (наличие → описание) |
+| Задай вопрос: ___ a pharmacy nearby? | **Is there** |
+| Переведи: «Дорога занимает 30 минут». | **It takes 30 minutes to get there.** |
+| Сделай естественнее: The city has many parks. | **There are many parks in the city.** |
+| Заполни пропуск: There ___ (be) a meeting tomorrow. | **will be** |
+
 ---
 
 #### См. также

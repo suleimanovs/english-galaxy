@@ -119,6 +119,25 @@ Dare  +  подлежащее  +  V?
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Ты купил билеты, а вход оказался бесплатным. Что скажешь? | **You needn't have bought tickets.** (сделал, но зря) |
+| Ты знал, что вход бесплатный, и билеты не покупал. | **You didn't need to buy tickets.** (необходимости не было) |
+| Исправь ошибку: She needs call him. | **She needs to call him.** (смысловой глагол — с to) |
+| Исправь ошибку: She doesn't need call him. | **She doesn't need to call him.** |
+| Переведи по-американски: Мне нужно что-нибудь принести? | **Do I need to bring anything?** (не Need I…?) |
+| Переведи разговорно: Он не осмеливается говорить то, что думает. | **He doesn't dare (to) say what he thinks.** |
+| Переведи: Как ты смеешь! | **How dare you!** |
+| Переведи: Только попробуй! / Не смей! | **Don't you dare!** |
+| needn't или mustn't: You ___ come if you don't want to. You ___ touch that wire — it's live. | **needn't … mustn't** (нет необходимости vs запрет) |
+| Какой вариант естественнее в AmE: Needn't he tell her? / Doesn't he need to tell her? | **Doesn't he need to tell her?** (модальный need — книжный, британский) |
+
+---
+
 #### См. также
 - [[Must — необходимость, запрет, уверенное предположение]]
 - [[Infinitive — инфинитив]]

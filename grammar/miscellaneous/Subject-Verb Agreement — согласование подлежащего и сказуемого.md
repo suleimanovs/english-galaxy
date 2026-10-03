@@ -263,6 +263,23 @@ all, any, more, most, some, none — см. раздел «None of / Some of» в
 |---|---|
 | *The teacher, as well as the students, **were** present.* | The teacher, as well as the students, **was** present. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: The list of items are long. | **The list of items is long.** (подлежащее — list) |
+| Выбери: One of my friends **live / lives** in London. | **lives** (one — ед. ч.) |
+| Исправь ошибку: Everyone are ready. | **Everyone is ready.** |
+| Выбери: A number of students **was / were** absent. The number of students **is / are** increasing. | **were; is** (a number of = many; the number of = количество) |
+| Исправь ошибку: The news are good. | **The news is good.** |
+| Выбери: The teacher, as well as the students, **was / were** present. | **was** (as well as — не and) |
+| Выбери: Neither he nor his friends **was / were** invited. | **were** (по ближайшему подлежащему) |
+| Выбери: Ten miles **is / are** a long way. | **is** (расстояние — одна единица) |
+| Выбери: Bread and butter **is / are** my favorite breakfast. | **is** (одно блюдо) |
+| Выбери: The police **is / are** investigating. The team **is / are** winning. (AmE) | **are; is** (police — всегда мн. ч.; team в AmE — ед. ч.) |
+
 ---
 
 #### См. также

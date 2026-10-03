@@ -156,6 +156,25 @@ tags: [grammar, articles]
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: Every of the students passed. | **Each of the students passed.** (every не сочетается с of) |
+| each или every: I go to the gym ___ day. | **every** (все дни без исключения) |
+| Поставь глагол в нужную форму: Neither of them ___ (be) ready. | **is** (формально — единственное число) |
+| Исправь ошибку: Neither of them didn't come. | **Neither of them came.** (neither уже содержит отрицание) |
+| Исправь ошибку: I was working all the day. | **I was working all day.** / **the whole day** |
+| all или whole: ___ the furniture in this room is new. | **All** (whole не используется с неисчисляемыми) |
+| Переведи: Она говорит и по-английски, и по-французски. | **She speaks both English and French.** |
+| Переведи: Ни Джон, ни Мэри не пришли. | **Neither John nor Mary came.** |
+| either или neither: You can take ___ bus — they both go downtown. | **either** (любой из двух) |
+| Исправь ошибку: I don't like neither. | **I like neither.** / **I don't like either.** (одно отрицание) |
+
+---
+
 #### См. также
 - [[Indefinite Pronouns — неопределённые местоимения и квантификаторы]]
 - [[Subject-Verb Agreement — согласование подлежащего и сказуемого]]

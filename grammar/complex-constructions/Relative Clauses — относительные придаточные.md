@@ -138,6 +138,23 @@ Whose используется для людей и вещей, заменяет
 | **Опущение** | Можно (если дополнение) | Нельзя |
 | **Пример** | The movie that I saw was great. | Titanic, which I saw last week, was great. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: My sister, that lives in London, is visiting. | **My sister, who lives in London, is visiting.** (в non-defining that нельзя) |
+| Исправь ошибку: The man which called you is here. | **The man who called you is here.** |
+| Исправь ошибку: The book that I recommended it is out of stock. | **The book that I recommended is out of stock.** (местоимение не дублируем) |
+| Нужны ли запятые: The woman who lives next door is a doctor | **Нет** (defining — уточняет, о ком речь) |
+| Можно ли опустить местоимение: The man (who) she married is kind. | **Да** (who — дополнение, не подлежащее) |
+| Можно ли опустить местоимение: The woman (who) lives next door is a doctor. | **Нет** (who — подлежащее) |
+| Заполни пропуск: The student ___ essay won the prize is in my class. | **whose** |
+| Исправь ошибку: The hotel where we stayed at was excellent. | **The hotel where we stayed was excellent.** (where уже содержит предлог) |
+| Сделай формальнее: The person who I spoke to was helpful. | **The person to whom I spoke was helpful.** |
+| Переведи: «Я помню день, когда мы впервые встретились». | **I remember the day when we first met.** |
+
 ---
 
 #### См. также

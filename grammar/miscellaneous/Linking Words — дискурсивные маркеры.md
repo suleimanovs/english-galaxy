@@ -149,6 +149,23 @@ tags: [grammar, misc]
 > [!note]
 > **However, therefore, moreover, nevertheless** — наречия, не союзы. Они не соединяют предложения запятой. Нужна точка или точка с запятой.
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь пунктуацию: It rained, however we went out. | **It rained. However, we went out. / It rained; however, we went out.** (however — наречие, не союз) |
+| Исправь пунктуацию: She's smart, therefore she passed. | **She's smart. Therefore, she passed.** |
+| Разговорный аналог: I'm tired. Moreover, I'm hungry. | **I'm tired. Besides, I'm hungry.** |
+| Формальный аналог для контраста: The plan is good, but expensive. | **The plan is good. However, it is expensive.** |
+| Заполни пропуск: Hurry up, ___ we'll be late. | **otherwise** |
+| Заполни пропуск: She studied hard. ___, she passed. (следствие, нейтрально) | **As a result** |
+| Заполни пропуск: Two students failed, ___ Tom and Sarah. | **namely** |
+| Выбери для устной речи: ___, it was a great trip. (In conclusion / All in all) | **All in all** (in conclusion — формально) |
+| Заполни пропуск: The odds were against us. ___, we won. | **Even so / Nevertheless** |
+| Переведи: «Она общительная, тогда как её брат застенчивый». | **She's outgoing, whereas her brother is shy.** |
+
 ---
 
 #### См. также

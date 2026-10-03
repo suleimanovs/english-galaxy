@@ -207,6 +207,23 @@ tags: [grammar, complex]
 | She said "I am here" → She said she was here. | She said she was there. |
 | He said "I'll do it today" → He said he would do it today. | He said he would do it that day. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Передай косвенно: "I'm tired," she said. | **She said (that) she was tired.** |
+| Передай косвенно: "I will call you," he said to me. | **He said he would call me.** |
+| Передай косвенно: "I went home," she said. | **She said she had gone home.** (Past Simple → Past Perfect) |
+| Исправь ошибку: She said me she was tired. | **She told me she was tired.** (с собеседником — told) |
+| Передай косвенно: "Where do you live?" she asked me. | **She asked me where I lived.** (прямой порядок, без do) |
+| Передай косвенно: "Are you coming?" he asked. | **He asked if/whether I was coming.** |
+| Передай косвенно: "I'll meet you tomorrow," she said. | **She said she would meet me the next day.** (tomorrow → the next day) |
+| Передай косвенно: "I saw her here yesterday," he said. | **He said he had seen her there the day before.** |
+| Нужен ли сдвиг: She told me the Earth ___ (orbit) the Sun. | **orbits** (вечная истина — сдвига нет) |
+| Передай косвенно: "You must be careful," he said to me. | **He said I had to be careful.** (must → had to) |
+
 ---
 
 #### См. также

@@ -176,6 +176,23 @@ Will — спонтанное решение или предсказание п�
 | **Пример** | I'll help you. / It will be cold. | I'm going to study medicine. / It's going to rain. | I'm meeting her at 7. |
 | **Когда решено** | Прямо сейчас | До момента речи | Заранее организовано |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: I'll call you when I will arrive. | **I'll call you when I arrive.** (после when — Present Simple) |
+| Выбери: The phone is ringing — I (will / am going to) get it. | **will** (спонтанное решение) |
+| Выбери: Look at those clouds — it (will / is going to) rain. | **is going to** (видимые признаки) |
+| Исправь ошибку: If it will rain, we'll stay home. | **If it rains, we'll stay home.** |
+| Выбери: I (will meet / 'm meeting) John tomorrow at 6 — we set it up last week. | **'m meeting** (договорённость заранее) |
+| Переведи: Обещаю, я никому не скажу. | **I promise I won't tell anyone.** |
+| Сделай вопрос: She will come to the party. | **Will she come to the party?** |
+| Поставь глагол: I think it ___ (rain) tomorrow. | **will rain** (предсказание по мнению) |
+| Ответь кратко: Will you help me? — No, ___ | **No, I won't.** |
+| Исправь ошибку: I'll wait until you will finish. | **I'll wait until you finish.** |
+
 ---
 
 #### См. также

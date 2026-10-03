@@ -134,6 +134,22 @@ Going to требует правильной формы глагола be — am
 | **Предсказание** | По мнению / ощущению | По видимым признакам | — |
 | **Пример** | I'll call you later. | I'm going to call him about the job. | I'm calling him at 3 PM tomorrow. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Выбери: I've already decided — I (will / am going to) study medicine. | **am going to** (решение принято заранее) |
+| Выбери: Официант: What would you like? — I (will / am going to) have the pasta. | **will** (решение на месте) |
+| Исправь ошибку: She going to call you. | **She's going to call you.** (нужна форма be) |
+| Выбери: He's driving too fast — he (will / is going to) crash. | **is going to** (вывод по видимым признакам) |
+| Исправь ошибку: They is going to leave. | **They are going to leave.** |
+| Переведи: Я не собираюсь спорить об этом. | **I'm not going to argue about this.** |
+| Сделай вопрос: you / apply for the job? | **Are you going to apply for the job?** |
+| Выбери (просто мнение): It (is going to / will probably) rain tomorrow. | **will probably** (мнение, не признаки) |
+| Ответь кратко: Is she going to come? — Yes, ___ | **Yes, she is.** |
+
 ---
 
 #### См. также

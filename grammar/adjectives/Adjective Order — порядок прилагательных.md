@@ -76,6 +76,24 @@ tags: [grammar, adj]
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Расставь по порядку: a (wooden / big) table | **a big wooden table** (размер перед материалом) |
+| Расставь по порядку: a (red / beautiful) dress | **a beautiful red dress** (мнение всегда первое) |
+| Расставь по порядку: an (French / old) house | **an old French house** (возраст перед происхождением) |
+| Расставь по порядку: (shopping / plastic / large) bag | **a large plastic shopping bag** (назначение — последнее) |
+| Расставь по порядку: (leather / small / black) bag | **a small black leather bag** |
+| Нужна ли запятая: a big(,) red ball | **a big red ball** — без запятой (разные категории) |
+| Нужна ли запятая: a kind(,) generous man | **a kind, generous man** — с запятой (оба — мнение) |
+| Как соединить два цвета: a black ___ white cat | **a black and white cat** (одна категория — через and) |
+| Переведи: милый маленький старый домик | **a lovely little old cottage** |
+
+---
+
 #### См. также
 - [[Comparisons — степени сравнения]]
 - [[Adjectives -ed and -ing — прилагательные на -ed и -ing]]

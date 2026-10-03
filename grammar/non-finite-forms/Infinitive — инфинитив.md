@@ -173,6 +173,23 @@ To-infinitive отвечает на вопрос «зачем?» — это оч
 - *I saw him leave.* — Я видел, как он ушёл. (видел весь момент ухода, факт)
 - *I saw him leaving.* — Я видел, как он уходил. (застал в процессе)
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: She can to speak English. | **She can speak English.** (после модальных — без to) |
+| Исправь ошибку: I want going to Paris. | **I want to go to Paris.** |
+| Исправь ошибку: I went there buy some food. | **I went there to buy some food.** (цель → to) |
+| Выбери: The teacher made us (repeat / to repeat) it. | **repeat** (после make — bare infinitive) |
+| Переделай в пассив: They made him repeat it. | **He was made to repeat it.** (в пассиве to возвращается) |
+| Выбери: You had better (leave / to leave) now. | **leave** |
+| Переведи: Слишком холодно, чтобы выходить на улицу. | **It's too cold to go outside.** |
+| В чём разница: I saw him leave. / I saw him leaving. | **факт целиком / застал в процессе** |
+| Переведи: Я не знаю, что сказать. | **I don't know what to say.** |
+| Выбери: He claims (to see / to have seen) it yesterday. | **to have seen** (действие раньше основного) |
+
 ---
 
 #### См. также

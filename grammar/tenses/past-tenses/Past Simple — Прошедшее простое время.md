@@ -202,6 +202,23 @@ Did  +  подлежащее  +  глагол (base form)?
 | **Пример** | I saw that film last Tuesday. | I've seen that film. |
 | **Вопрос** | Did you see it on Saturday? | Have you seen it? |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Напиши V2: stop, study, play | **stopped, studied, played** |
+| Исправь ошибку: She didn't went. | **She didn't go.** (после didn't — базовая форма) |
+| Исправь ошибку: Did he came? | **Did he come?** |
+| Напиши V2: buy, catch, think, go | **bought, caught, thought, went** |
+| Выбери: I (have seen / saw) that movie last Tuesday. | **saw** (конкретное время) |
+| Переведи: Куда ты ходил вчера? | **Where did you go yesterday?** |
+| Исправь ошибку: You went there? | **Did you go there?** (вопрос требует did) |
+| Поставь глагол: As a child, I ___ (walk) to school every day. | **walked** (привычка в прошлом) |
+| Выбери: I (lost / 've lost) my keys — I can't get in. | **'ve lost** (результат важен сейчас) |
+| Переведи: Я пришёл домой, приготовил ужин и посмотрел телевизор. | **I came home, made dinner, and watched TV.** |
+
 ---
 
 #### См. также

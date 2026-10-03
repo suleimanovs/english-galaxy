@@ -127,6 +127,25 @@ Must в значении предположения означает, что г�
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| mustn't или don't have to: You ___ come if you don't want to. | **don't have to** (не обязан) |
+| mustn't или don't have to: You ___ smoke in here. | **mustn't** (запрет) |
+| Исправь ошибку: Yesterday I must work late. | **Yesterday I had to work late.** (у must нет прошедшего) |
+| Исправь ошибку: You must to wear a seatbelt. | **You must wear a seatbelt.** |
+| Переведи: Ты обязан попробовать этот торт — он потрясающий! | **You must try this cake — it's amazing!** |
+| Переведи: Она, должно быть, устала — она работала весь день. | **She must be tired — she's been working all day.** (уверенный вывод) |
+| must или have to: I ___ show my passport at the border. | **have to** (внешнее правило) |
+| Переведи: Они, должно быть, уже ушли — в доме темно. | **They must have left already — the house is dark.** (must have + V3) |
+| Переведи: На следующей неделе мне придётся посетить три встречи. | **Next week I'll have to attend three meetings.** (будущее — will have to) |
+| Переведи: Нельзя никому об этом говорить. | **You mustn't tell anyone about this.** |
+
+---
+
 #### См. также
 - [[Need и Dare — необходимость и смелость]]
 - [[Shall и Should — предложения, советы, обязанность]]

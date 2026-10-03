@@ -143,6 +143,23 @@ tags: [grammar, misc]
 | The food is **very** good. | Еда очень вкусная. [хорошо] |
 | The food is **too** good. | Еда слишком вкусная. [подозрительно хорошо?] |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: It's so beautiful day! | **It's such a beautiful day!** (перед существительным — such) |
+| Исправь ошибку: I'm such tired. | **I'm so tired.** (перед прилагательным без существительного — so) |
+| Исправь ошибку: He's enough old to vote. | **He's old enough to vote.** (enough после прилагательного) |
+| Выбери: Do we have **enough time / time enough**? | **enough time** (перед существительным) |
+| Выбери: The food is **very / too** good! (комплимент) | **very** (too = чрезмерно, проблема) |
+| Соедини: It was very cold. We stayed home. | **It was so cold that we stayed home.** |
+| Переведи: «Слишком холодно, чтобы выходить». | **It's too cold to go outside.** |
+| Перефразируй с enough: She's too young to work. | **She's not old enough to work.** |
+| Выбери: There were **so much / so many** people! | **so many** (исчисляемое) |
+| Заполни пропуск: It was ___ beautiful weather. (so / such / such a) | **such** (weather — неисчисляемое, без a) |
+
 ---
 
 #### См. также

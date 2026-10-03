@@ -244,6 +244,23 @@ Wh-word + do/does + subject + глагол?
 | **Вспомог. глагол** | do / does | am / is / are |
 | **Форма** | V / V+s | V-ing |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Поставь глагол: She ___ (go) to work by bus. | **goes** (he/she/it, окончание -es после -o) |
+| Поставь глагол: He ___ (study) math every evening. | **studies** (согласная + y → ies) |
+| Исправь ошибку: She doesn't likes coffee. | **She doesn't like coffee.** (после doesn't глагол без -s) |
+| Сделай вопрос: You work here. | **Do you work here?** |
+| Выбери: Water (boils / is boiling) at 212°F. | **boils** (факт, закон природы) |
+| Исправь ошибку: He work here every day. | **He works here every day.** |
+| Переведи: Поезд отходит в 8:15. | **The train leaves at 8:15.** (расписание → Present Simple) |
+| Выбери: I (read / am reading) a book right now. | **am reading** (действие прямо сейчас) |
+| Исправь ошибку: She doesn't know nothing. | **She doesn't know anything.** (двойное отрицание недопустимо) |
+| Выбери: I (know / am knowing) the answer. | **know** (stative verb — только Simple) |
+
 ---
 
 #### См. также

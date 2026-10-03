@@ -175,6 +175,25 @@ tags: [grammar, articles]
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: I don't know nothing about it. | **I don't know anything about it.** / **I know nothing about it.** (одно отрицание) |
+| some или any: Do you have ___ questions? | **any** (вопрос) |
+| some или any: Would you like ___ tea? | **some** (предложение — ожидаем «да») |
+| Исправь ошибку: I don't have many time. | **I don't have much time.** (time — неисчисляемое) |
+| Исправь ошибку: Everyone are here. | **Everyone is here.** (every- + глагол в ед. числе) |
+| few или a few: He has ___ friends, so he's lonely. | **few** (мало, не хватает) |
+| little или a little: Don't worry, there's still ___ time. | **a little** (немного, но достаточно) |
+| Переведи: Если кто-нибудь позвонит, запиши сообщение. | **If anyone calls, take a message.** (условие — any-) |
+| Исправь ошибку: There isn't much people here. | **There aren't many people here.** |
+| Переведи разговорно: У меня много друзей. | **I have a lot of friends.** (many в утверждении — формально) |
+
+---
+
 #### См. также
 - [[Determiners — определители (each, every, all, whole, both, either, neither)]]
 - [[Countable and Uncountable Nouns — исчисляемые и неисчисляемые]]

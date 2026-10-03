@@ -230,6 +230,23 @@ you / we / they      +  were / weren't
 | **Краткий ответ** | Yes, she is. | Yes, she does. |
 | **Вспомогательный глагол** | не нужен | do / does |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Вставь форму: I ___ a teacher. They ___ at school. | **am; are** |
+| Исправь ошибку: She very tired. | **She is very tired.** (to be нельзя пропускать) |
+| Исправь ошибку: I am agree with you. | **I agree with you.** (agree — глагол, не прилагательное) |
+| Сделай вопрос: You are tired. | **Are you tired?** (без do) |
+| Ответь кратко: Are you ready? — Yes, ___ | **Yes, I am.** (без сокращения в конце) |
+| Исправь ошибку: You was late. | **You were late.** |
+| Переведи: Мне 20 лет. | **I am 20 (years old).** (возраст через to be) |
+| Исправь ошибку: Did you were at home? | **Were you at home?** |
+| Добавь хвостик: I'm next, ___? | **aren't I?** (amn't не существует) |
+| Выбери: (It's / Its) cold today. | **It's** (= it is) |
+
 ---
 
 #### См. также

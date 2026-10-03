@@ -147,6 +147,23 @@ tags: [grammar, misc]
 | I didn't used to like it. | I didn't **use** to like it. |
 | Did you used to play sports? | Did you **use** to play sports? |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: I used to smoking. (привычка в прошлом) | **I used to smoke.** |
+| Исправь ошибку: I am used to get up early. | **I am used to getting up early.** (be used to + V-ing) |
+| Исправь ошибку: She would have long hair. | **She used to have long hair.** (would — не с глаголами состояния) |
+| Исправь ошибку: Did you used to play sports? | **Did you use to play sports?** (did уже показывает прошедшее) |
+| Переведи: «Раньше здесь был кинотеатр». | **There used to be a movie theater here.** |
+| Переведи: «Я привыкаю к новой работе». | **I'm getting used to my new job.** (процесс — get used to) |
+| Переведи: «Ты привыкнешь». | **You'll get used to it.** |
+| Выбери: Every summer we **used to / would** go to the beach. | **Оба верны** (повторяющееся действие с контекстом) |
+| Дай отрицание: I used to like coffee. | **I didn't use to like coffee.** |
+| Что значит *I am used to the cold*: «раньше» или «привык»? | **Привык** (сейчас это нормально) |
+
 ---
 
 #### См. также

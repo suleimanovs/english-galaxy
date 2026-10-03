@@ -111,6 +111,25 @@ If + Past Perfect  ,  would have + V3
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: If I would have known, I'd have told you. | **If I had known, I'd have told you.** (would не стоит в if-clause) |
+| Исправь ошибку: If I knew earlier, I would have helped. | **If I had known earlier, I would have helped.** (Past Perfect в if-clause) |
+| Исправь ошибку: If she didn't miss the bus, she'd have been on time. | **If she hadn't missed the bus, she would have been on time.** |
+| Что значит 'd в каждом случае: If I'd known, I'd have called. | **had … would** (в if-clause — had, в главной — would) |
+| Переведи: Если бы я учился усерднее, я бы сдал экзамен. | **If I had studied harder, I would have passed the exam.** |
+| Переведи: Ты бы помог ему, если бы он попросил? | **Would you have helped him if he had asked?** |
+| Перепиши формально с инверсией: If I had known, I would have acted differently. | **Had I known, I would have acted differently.** |
+| Поставь глаголы: If they ___ (plan) better, the project ___ (not fail). | **had planned … wouldn't have failed** |
+| Переведи с оттенком возможности: Если бы она попыталась, она могла бы добиться успеха. | **If she'd tried, she could have succeeded.** |
+| Second или Third: If I had had money, I would have traveled. | **Third** (денег не было тогда, не поехал) |
+
+---
+
 #### См. также
 - [[Second Conditional — второе условие (нереальное настоящее)]]
 - [[Mixed Conditionals — смешанные условия]]

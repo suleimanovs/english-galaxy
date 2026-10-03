@@ -83,6 +83,24 @@ Ought to чаще, чем should, несёт оттенок морального
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: You ought apologize. | **You ought to apologize.** (единственный модальный с to) |
+| Исправь ошибку: She ought see a doctor. | **She ought to see a doctor.** |
+| Переведи: Нужно помогать людям в беде. | **You ought to help people in need.** (моральный долг) |
+| Переведи: Тебе следовало сказать мне раньше. | **You ought to have told me sooner.** / **should have told** (ought to have + V3) |
+| Переведи: Посылка должна прийти сегодня. (ожидание) | **The package ought to arrive today.** |
+| Как естественнее задать вопрос в AmE: Ought I to tell him? | **Should I tell him?** (вопросы с ought to — архаично) |
+| Как естественнее сказать в AmE: He oughtn't to speak to her like that. | **He shouldn't speak to her like that.** |
+| ought to или should — где сильнее моральный оттенок: We ___ take better care of the environment. | **ought to** (оба верны, но ought to подчёркивает долг) |
+| Переведи: Ей следовало быть осторожнее. | **She ought to have been more careful.** |
+
+---
+
 #### См. также
 - [[Shall и Should — предложения, советы, обязанность]]
 - [[Must — необходимость, запрет, уверенное предположение]]

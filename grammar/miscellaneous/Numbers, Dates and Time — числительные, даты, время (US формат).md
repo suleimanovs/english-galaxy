@@ -291,6 +291,23 @@ tags: [grammar, misc]
 |---|---|
 | a milliard dollars | a billion dollars |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: three hundreds dollars | **three hundred dollars** (после числа — без -s) |
+| Прочитай по-американски: 3.5 | **three point five** (не *three comma five*) |
+| Запиши дату 5 марта 2024 в формате США | **March 5, 2024** (месяц → день → год) |
+| Что значит 3/5/2024 в США? | **5 марта** (не 3 мая) |
+| Исправь ошибку: in Monday, at the morning, in 5 o'clock | **on Monday, in the morning, at 5 o'clock** |
+| Скажи по-американски: 5:30 | **five thirty** (не *half six*) |
+| Скажи: 17:30 (в речи) | **five thirty p.m.** |
+| Прочитай год: 1805; 2024 | **eighteen oh five; twenty twenty-four** |
+| Переведи: «два миллиарда долларов» | **two billion dollars** (не *milliard*) |
+| Прочитай цену: $5.99 | **five ninety-nine** |
+
 ---
 
 #### См. также

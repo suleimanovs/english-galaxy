@@ -156,6 +156,25 @@ tags: [grammar, nouns]
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: He gave me many advices. | **He gave me a lot of advice.** (advice — неисчисляемое) |
+| Исправь ошибку: We need new furnitures. | **We need new furniture.** |
+| much или many: How ___ money do you need? How ___ books did you buy? | **much money … many books** |
+| Поставь глагол: The news ___ (be) good. | **is** (news — неисчисляемое, ед. число) |
+| Как сказать «один совет»? | **a piece of advice** (не an advice) |
+| Исправь ошибку: There were less people than expected. | **There were fewer people than expected.** (people — исчисляемое) |
+| Countable или uncountable? Two coffees, please. | **countable** (= две чашки кофе) |
+| Переведи: У неё длинные волосы. | **She has long hair.** (hair — неисчисляемое) |
+| Вставь единицу измерения: a ___ of bread, a ___ of soap | **a slice / loaf of bread, a bar of soap** |
+| Исправь ошибку: I have a homework to do. | **I have homework to do.** / **some homework** (без a/an) |
+
+---
+
 #### См. также
 - [[Plural Forms — множественное число]]
 - [[Indefinite Pronouns — неопределённые местоимения и квантификаторы]]

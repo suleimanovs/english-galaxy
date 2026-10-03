@@ -272,6 +272,23 @@ tags: [grammar, misc]
 | Садись. | Sit down. / Have a seat. | You sit down. (приказ, резко) |
 | Подожди здесь. | Wait here. | You wait here. (контраст или строгость) |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: Don't to touch it. | **Don't touch it.** (после don't — без to) |
+| Исправь ошибку: Let's go to walk. | **Let's go for a walk. / Let's take a walk.** |
+| Исправь ошибку: Let's don't go. | **Let's not go.** |
+| Переведи: «Не опаздывай». | **Don't be late.** (не *No be late*) |
+| Сделай приглашение теплее: Come in! | **Do come in!** |
+| Где может стоять please: Sit down? | **Please sit down. / Sit down, please.** (не в середине) |
+| Скажи вежливо незнакомцу: Give me a coffee. | **Can I get a coffee, please?** |
+| Заполни пропуск: Hurry up ___ you'll miss the bus. (and / or) | **or** (= иначе) |
+| Американский тег после Let's: Let's start, ___? | **okay?** (shall we — британское) |
+| Переведи: «Пусть сами решают». | **Let them decide.** |
+
 ---
 
 #### См. также

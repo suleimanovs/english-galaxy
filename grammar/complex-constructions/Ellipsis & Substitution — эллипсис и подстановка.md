@@ -163,6 +163,23 @@ tags: [grammar, complex]
 | "Can you swim?" — "Yes, I can swim." | "Can you swim?" — "Yes, I **can**." |
 | "Do you like it?" — "Yes, I like it." | "Do you like it?" — "Yes, I **do**." |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Ответь согласием: "She is tired." | **So am I.** |
+| Ответь согласием: "I can't swim." | **Neither can I. / Nor can I.** |
+| Исправь ошибку: "I like coffee." — "So am I." | **So do I.** (вспомогательный должен совпадать с исходным) |
+| Исправь ошибку: I think no. | **I don't think so.** |
+| Дай отрицательную форму: I hope so. | **I hope not.** |
+| Сократи ответ: "Can you swim?" — "Yes, I can swim." | **Yes, I can.** (глагол не повторяем) |
+| Заполни пропуск: I didn't want to leave, but I had ___. | **to** (to вместо повтора инфинитива) |
+| Заполни пропуск: "Which shoes do you want?" — "The black ___." | **ones** |
+| Заполни пропуск: He works harder than she ___. | **does** |
+| Формальный аналог *Me neither* | **Neither do I. / Nor do I.** (на экзамене — полная форма) |
+
 ---
 
 #### См. также

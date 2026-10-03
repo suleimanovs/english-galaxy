@@ -119,6 +119,21 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 | Future Perfect | will have + V3 | Завершится до момента в будущем | She will have finished by 9 PM. |
 | Future Perfect Continuous | will have been + V-ing | Процесс, продолжавшийся до момента в будущем | She will have been working for 3 hours by 9 PM. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Поставь глагол: By June, I ___ (learn) English for three years. | **will have been learning** (продолжительность к моменту) |
+| Выбери: By then, I (will have been knowing / will have known) her for ten years. | **will have known** (stative verb) |
+| Выбери: By Friday, I (will have written / will have been writing) the report — it'll be done. | **will have written** (результат) |
+| Исправь ошибку: By the time you will arrive, I will have been waiting for an hour. | **By the time you arrive, I will have been waiting for an hour.** |
+| Переведи: Когда мы приедем, они будут ждать уже два часа. | **When we arrive, they will have been waiting for two hours.** |
+| Сделай вопрос: How long / she / work / here by December? | **How long will she have been working here by December?** |
+| Выбери: He (will have owned / will have been owning) the house for a decade. | **will have owned** |
+| Поставь глагол: By the time she gets home, she ___ (travel) for 20 hours. | **will have been traveling** |
+
 ---
 
 #### См. также

@@ -139,6 +139,25 @@ Will — нейтральная или разговорная просьба. Wo
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: Would you to like some tea? | **Would you like some tea?** (после would — без to) |
+| Исправь ошибку: She would have long hair when she was young. | **She used to have long hair.** (would — не для состояний) |
+| Сделай просьбу вежливее: Will you send me the report? | **Would you send me the report?** |
+| Переведи вежливо: Я хочу кофе. | **I'd like a coffee.** (would like вместо want) |
+| Переведи: Машина никак не хотела заводиться. | **The car wouldn't start.** (упрямый отказ в прошлом) |
+| Переведи: Когда я был ребёнком, мы каждое лето проводили у озера. | **When I was a child, we would spend summers at the lake.** (привычное действие) |
+| Переведи: На твоём месте я бы этого не делал. | **I wouldn't do that if I were you.** |
+| Переведи: Это, наверное, почтальон. (уверен) | **That'll be the mailman.** (will — уверенное предположение) |
+| Переведи: Вы не против закрыть дверь? | **Would you mind closing the door?** |
+| would или used to: I ___ live in Paris. | **used to** (состояние, не действие) |
+
+---
+
 #### См. также
 - [[Future Simple — Будущее простое время (will)]]
 - [[Used To — привычки в прошлом (used to, would, be used to, get used to)]]

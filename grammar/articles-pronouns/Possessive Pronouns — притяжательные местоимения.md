@@ -126,6 +126,24 @@ tags: [grammar, articles]
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: This book is my. | **This book is mine.** (существительное опущено — mine) |
+| my или mine: Can I borrow ___ pen? I forgot ___. | **your … mine** |
+| Исправь ошибку: The dog wagged it's tail. | **The dog wagged its tail.** (its — притяжательное, без апострофа) |
+| its или it's: ___ raining outside. | **It's** (= it is) |
+| Переведи: Этот телефон её. | **That phone is hers.** |
+| Исправь ошибку: They left there bags at home. | **They left their bags at home.** |
+| Переведи: Он мой друг (один из моих друзей). | **He's a friend of mine.** (не a my friend) |
+| Поставь апостроф: the students books / the childrens room | **the students' books / the children's room** |
+| Исправь ошибку: Is this pen your? | **Is this pen yours?** |
+
+---
+
 #### См. также
 - [[Possessive Case — притяжательный падеж ('s vs of)]]
 - [[Reflexive Pronouns — возвратные местоимения]]

@@ -397,6 +397,23 @@ slightly  →  fairly  →  quite  →  rather  →  pretty  →  very  →  ext
 | She sang last night beautifully at the concert. | She sang **beautifully at the concert last night**. |
 | He arrived yesterday quickly to the office. | He arrived **quickly at the office yesterday**. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: She speaks very clear. | **She speaks very clearly.** (после глагола действия — наречие) |
+| Выбери: She sings **good / well**. | **well** (наречие от good) |
+| Исправь ошибку: She arrives always on time. | **She always arrives on time.** (наречие частотности — перед глаголом) |
+| Выбери: I work **hard / hardly** every day. | **hard** (hardly = «едва, почти не») |
+| Выбери: She arrived **late / lately** at the party. | **late** (lately = «в последнее время») |
+| Выбери: He is **near / nearly** finished. | **nearly** (= почти) |
+| Выбери: The movie was **very / too** interesting. | **very** (too = «слишком», подразумевает проблему) |
+| Расставь слова: last night / beautifully / at the concert / she sang | **She sang beautifully at the concert last night.** (как → где → когда) |
+| Образуй наречие: happy, terrible, fast | **happily, terribly, fast** |
+| Заполни пропуск: Have you finished ___? (already / yet) | **yet** (в вопросах и отрицаниях — в конце) |
+
 ---
 
 #### См. также

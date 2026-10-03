@@ -244,6 +244,23 @@ tags: [grammar, misc]
 | organise... then we need to organize | organize... then we need to **organize** |
 | realize... we should recognise | realize... we should **recognize** |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Образуй отрицание: possible, regular, legal, correct | **impossible, irregular, illegal, incorrect** (in- меняется по первой букве) |
+| Исправь ошибку: happyness, usefull, arguement | **happiness, useful, argument** |
+| Выбери: **economic / economical** growth; an **economic / economical** car | **economic growth; an economical car** (economical = экономный) |
+| Выбери: a **historic / historical** novel | **historical** (относящийся к истории) |
+| Исправь ошибку: She is very success. | **She is very successful.** (нужно прилагательное) |
+| Образуй существительное: happy, develop, possible, perform | **happiness, development, possibility, performance** |
+| Образуй прилагательное: danger, power, use (без), create | **dangerous, powerful, useless, creative** |
+| Исправь ошибку: informational lecture (= познавательная) | **informative** |
+| Образуй глагол: wide, modern, strength | **widen, modernize, strengthen** |
+| Исправь написание в американском тексте: organise, realise | **organize, realize** (AmE — -ize) |
+
 ---
 
 #### См. также

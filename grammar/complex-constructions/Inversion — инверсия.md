@@ -246,6 +246,23 @@ No sooner + had + подлежащее + V3 + than + Past Simple
 |---|---|
 | No sooner had he left when it rained. | No sooner had he left **than** it rained. |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Перестрой с *Never* в начале: I have never seen such a sunset. | **Never have I seen such a sunset.** |
+| Исправь ошибку: Rarely she complains. | **Rarely does she complain.** (наречие в начале — инверсия обязательна) |
+| Заполни пропуск: No sooner had he left ___ it started to rain. (when / than) | **than** (No sooner — than, остальные — when) |
+| Заполни пропуск: Hardly ___ I sat down when she called. | **had** (Hardly + Past Perfect) |
+| Перестрой без *if*: If I had known, I would have helped. | **Had I known, I would have helped.** |
+| Перестрой без *if* (формально): If you have any questions, contact us. | **Should you have any questions, contact us.** |
+| Исправь ошибку: Although was she tired, she continued. | **Although she was tired, she continued.** (после although инверсии нет) |
+| Ответь согласием: "She went to Paris." | **So did I.** (не *So I did*) |
+| Исправь ошибку: It was raining, so did we stay home. | **It was raining, so we stayed home.** (so = «поэтому» — без инверсии) |
+| Переведи формально: «Если бы не твоя помощь, мы бы провалились». | **Had it not been for your help, we would have failed.** |
+
 ---
 
 #### См. также

@@ -164,6 +164,22 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 | **Пример** | She called me at 9. | She was sleeping at 9. |
 | **В паре** | прерывающее действие | фоновое действие |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Поставь глагол: I ___ (take) a shower when the phone rang. | **was taking** (длинное действие, прерванное коротким) |
+| Исправь ошибку: I watched TV when she entered. | **I was watching TV when she entered.** (фоновое действие) |
+| Выбери: While I was cooking, she (set / was setting) the table. | **was setting** (одновременные действия) |
+| Исправь ошибку: I was coming home, was making dinner and was watching TV. | **I came home, made dinner and watched TV.** (последовательность → Past Simple) |
+| Выбери: I (was knowing / knew) the answer. | **knew** (stative verb) |
+| Переведи: Что ты делал в 8 вечера? | **What were you doing at 8 PM?** |
+| Поставь глаголы: They ___ (not work) — they ___ (chat). | **weren't working; were chatting** |
+| Выбери (раздражение): He (was always coming / always came) late! | **was always coming** |
+| Сделай вопрос: She was sleeping when you arrived. | **Was she sleeping when you arrived?** |
+
 ---
 
 #### См. также

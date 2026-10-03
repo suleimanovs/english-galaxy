@@ -165,6 +165,25 @@ Must — сильная обязанность. Should — мягкий сове
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: You should to see a doctor. | **You should see a doctor.** (после should — без to) |
+| Исправь ошибку (о прошлом): You should tell me earlier. | **You should have told me earlier.** (should have + V3) |
+| Смягчи совет: You must try this restaurant. | **You should try this restaurant.** (must звучит как приказ) |
+| Переведи: Ей не стоило есть столько. | **She shouldn't have eaten so much.** |
+| Как сказать по-американски: Shall I open the window? | **Should I open the window?** / **Want me to open the window?** |
+| Переведи: Посылка должна прийти завтра. (ожидание) | **The package should arrive tomorrow.** |
+| Где уместен shall: а) I shall call you tomorrow; б) The tenant shall pay rent on the first of each month? | **б** — договоры и законы; в а) естественнее **I'll call you tomorrow** |
+| Перепиши формально через should: If you need any help, please contact us. | **Should you need any help, please contact us.** (инверсия) |
+| Переведи: Тебе не стоит так много работать — ты выгоришь. | **You shouldn't work so hard — you'll burn out.** |
+| Переведи: Мне стоит извиниться перед ним? | **Should I apologize to him?** |
+
+---
+
 #### См. также
 - [[Future Simple — Будущее простое время (will)]]
 - [[Ought To — моральная обязанность]]

@@ -120,6 +120,25 @@ Second Conditional делает просьбы мягче и вежливее.
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: If I would have more money, I'd travel. | **If I had more money, I'd travel.** (would не стоит в if-clause) |
+| Исправь ошибку: If it would be warmer, I'd go out. | **If it were warmer, I'd go out.** |
+| was или were (письменно): If I ___ you, I'd leave. | **were** (If I were you — только were) |
+| Переведи: Если бы она знала ответ, она бы сказала нам. | **If she knew the answer, she would tell us.** (сейчас не знает) |
+| Переведи: На твоём месте я бы не упоминал об этом. | **If I were you, I wouldn't mention it.** |
+| Поставь глаголы: What ___ you ___ (do) if you ___ (lose) your job? | **would you do … lost** |
+| First или Second: If I won the lottery, I would buy a house. | **Second** (маловероятно, фантазия) |
+| Переведи: Если бы она говорила по-китайски, она могла бы получить эту работу. | **If she spoke Chinese, she could get that job.** (could — гипотетическая возможность) |
+| Переведи вежливо: Вы не против, если я открою окно? | **Would you mind if I opened the window?** |
+| Переведи: Если бы я мог летать, я бы побывал везде. | **If I could fly, I'd go everywhere.** |
+
+---
+
 #### См. также
 - [[First Conditional — первое условие (реальное)]]
 - [[Third Conditional — третье условие (нереальное прошлое)]]

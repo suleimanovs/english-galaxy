@@ -128,6 +128,25 @@ May в значении разрешения — более формально, 
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: It may to rain tomorrow. | **It may rain tomorrow.** (после may — без to) |
+| Переведи формально: Можно воспользоваться вашим телефоном? | **May I use your phone?** |
+| may или might: I ___ come to the party — I'm really not sure yet. | **might** (меньше уверенности) |
+| Переведи: Возможно, она уже ушла. | **She may have left already.** / **might have left** (may/might have + V3) |
+| Переведи: Возможно, вам стоит попробовать другой подход. | **You might want to try a different approach.** (вежливый совет) |
+| Переведи в косвенную речь: "It may rain," he said. | **He said it might rain.** (сдвиг времён) |
+| Выбери по степени уверенности (~95%): He (must / may / might) be tired — he worked all day. | **must** |
+| Переведи: Здесь нельзя фотографировать. (официальное правило) | **You may not take photographs in here.** |
+| Переведи: Пусть все твои мечты сбудутся. | **May all your dreams come true.** (пожелание) |
+| Выбери (~95% отрицания): That (may not / can't) be true. | **can't** |
+
+---
+
 #### См. также
 - [[Can и Could — умение, возможность, разрешение]]
 - [[Must — необходимость, запрет, уверенное предположение]]

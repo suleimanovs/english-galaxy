@@ -175,6 +175,25 @@ tags: [grammar, adj]
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: This car is more bigger than mine. | **This car is bigger than mine.** (двойная сравнительная степень) |
+| Исправь ошибку: She is best student in class. | **She is the best student in the class.** (the перед превосходной степенью) |
+| Исправь ошибку: She is taller then him. | **She is taller than him.** (then — о времени) |
+| Образуй степени сравнения: hot, happy, expensive | **hotter / the hottest; happier / the happiest; more expensive / the most expensive** |
+| Образуй степени сравнения: good, bad, far | **better / the best; worse / the worst; farther (further) / the farthest (furthest)** |
+| Исправь ошибку: He is not as fast me. | **He is not as fast as me.** (второе as обязательно) |
+| Переведи: Чем больше ты практикуешься, тем лучше становишься. | **The more you practice, the better you become.** |
+| Переведи: Она намного выше, чем он. | **She is much taller than him.** (much / far / a lot для усиления) |
+| farther или further: I need ___ information. | **further** (дополнительно, не о расстоянии) |
+| Переведи: Она безусловно лучшая студентка в группе. | **She's by far the best student in the group.** |
+
+---
+
 #### См. также
 - [[Adverbs — наречия]]
 - [[So, Such, Too, Enough — усилители и ограничители]]

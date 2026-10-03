@@ -131,6 +131,22 @@ Will  +  подлежащее  +  have  +  V3?
 | **Пример** | She had left by the time I arrived. | She will have left by the time I arrive. |
 | **Логика** | прошлое → другое прошлое | будущее завершится → до другого будущего |
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Поставь глагол: By 6 PM, I ___ (finish). | **will have finished** (завершится к моменту) |
+| Исправь ошибку: By the time you will arrive, I will have left. | **By the time you arrive, I will have left.** |
+| Подчеркни завершённость: I will finish the report by Friday. | **I will have finished the report by Friday.** |
+| Исправь ошибку: I will have writed the report. | **I will have written the report.** |
+| Переведи: К следующему месяцу я проживу здесь десять лет. | **By next month, I will have lived here for ten years.** |
+| Сделай вопрос: they / fix / it / by Friday? | **Will they have fixed it by Friday?** |
+| Поставь глагол: She ___ (not arrive) by then. | **won't have arrived** |
+| Выбери: She (will leave / will have left) before you arrive. | **will have left** (уйдёт до твоего приезда) |
+| Поставь глагол: By the time he arrives, we ___ (eat). | **will have eaten** |
+
 ---
 
 #### См. также

@@ -119,6 +119,25 @@ tags: [grammar, articles]
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: I feel myself tired. | **I feel tired.** (feel без возвратного местоимения) |
+| Исправь ошибку: She cut her while cooking. | **She cut herself while cooking.** (действие на себя) |
+| Вставь: They enjoyed ___ at the party. | **themselves** |
+| Переведи: Я испёк этот торт сам. | **I made this cake myself.** (усиление) |
+| Переведи: Он сосредоточился на задаче. | **He concentrated on the task.** (без himself) |
+| by myself или alone: I fixed it ___ — nobody helped me. | **by myself** (акцент на самостоятельности) |
+| Переведи: Угощайтесь! | **Help yourself!** / **Help yourselves!** |
+| Исправь ошибку: He looked at him in the mirror. | **He looked at himself in the mirror.** |
+| Переведи: Они встретились в кафе. | **They met at a cafe.** (не met themselves) |
+| Вставь: Make ___ comfortable, everyone. | **yourselves** (вы — множественное число) |
+
+---
+
 #### См. также
 - [[Possessive Pronouns — притяжательные местоимения]]
 - [[Emphasis — конструкции усиления]]

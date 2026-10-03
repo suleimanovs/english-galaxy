@@ -128,6 +128,25 @@ Unless означает «если только не» — условие отр
 
 ---
 
+#### Мини-тест
+
+Закрой правую колонку, выполни задание, затем проверь себя.
+
+| Задание | Ответ |
+|---|---|
+| Исправь ошибку: If it will rain, I'll stay home. | **If it rains, I'll stay home.** (после if — Present Simple) |
+| Исправь ошибку: If she will come, tell me. | **If she comes, tell me.** |
+| Исправь ошибку: Unless you don't hurry, you'll be late. | **Unless you hurry, you'll be late.** (unless = if not) |
+| Переведи: Если поможешь мне, я куплю тебе ужин. | **If you help me, I'll buy you dinner.** |
+| Переведи: Если увидишь её, скажи ей, чтобы позвонила мне. | **If you see her, tell her to call me.** (imperative в главной части) |
+| Выбери: Take an umbrella (if / in case) it rains. — возьми на всякий случай | **in case** (заранее, независимо от дождя) |
+| Поставь глаголы: If you ___ (not take) your medicine, you ___ (not get) better. | **don't take … won't get** |
+| First или Second: If I won the lottery, I would buy a house. | **Second** (нереальное, фантазия) |
+| Перепиши через unless: If you don't study, you'll fail. | **Unless you study, you'll fail.** |
+| Переведи: Если пойдёт дождь, мы, возможно, отменим это. | **If it rains, we might cancel it.** (might — менее уверенный результат) |
+
+---
+
 #### См. также
 - [[Zero Conditional — нулевое условие]]
 - [[Second Conditional — второе условие (нереальное настоящее)]]
