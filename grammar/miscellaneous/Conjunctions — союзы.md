@@ -110,7 +110,7 @@
 | Неправильно | Правильно |
 |---|---|
 | She was late because the traffic. | She was late because of the traffic. |
-| Because the rain, the match was cancelled. | Because of the rain... / Because it rained... |
+| Because the rain, the match was canceled. | Because of the rain... / Because it rained... |
 
 Ошибка 3: Запятая перед and, but, or в коротких предложениях
 

@@ -76,8 +76,8 @@ Subject + Verb + Object + Manner + Place + Time
 [!] Наречие места (here, there, abroad, upstairs и т.д.) не может вставать между глаголом и его прямым дополнением:
 - *She took abroad her children.* [НЕПРАВИЛЬНО]
 - She took her children **abroad**. [OK]
-- *He put outside the bin.* [НЕПРАВИЛЬНО]
-- He put the bin **outside**. [OK]
+- *He put outside the trash can.* [НЕПРАВИЛЬНО]
+- He put the trash can **outside**. [OK]
 - *They sent there the package.* [НЕПРАВИЛЬНО]
 - They sent the package **there**. [OK]
 
@@ -261,7 +261,7 @@ It  +  глагол  +  прилагательное/существительн�
 | **To learn Russian** is difficult. | **It** is difficult **to learn Russian**. |
 | **To make a decision like that** takes courage. | **It** takes courage **to make a decision like that**. |
 | **That he lied** surprised everyone. | **It** surprised everyone **that he lied**. |
-| **Waiting in queues** is annoying. | **It** is annoying **waiting in queues**. |
+| **Waiting in line** is annoying. | **It** is annoying **waiting in line**. |
 
 **Почему экстрапозиция предпочтительна?**
 
@@ -286,7 +286,7 @@ It  +  глагол  +  прилагательное/существительн�
 | Неправильно | Правильно |
 |---|---|
 | Coffee I like very much. | I like coffee very much. |
-| Yesterday went she to the shop. | She went to the shop yesterday. |
+| Yesterday went she to the store. | She went to the store yesterday. |
 | Very beautiful is this city. | This city is very beautiful. |
 
 Ошибка 2: Наречие между глаголом и дополнением

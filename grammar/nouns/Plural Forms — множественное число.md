@@ -81,10 +81,10 @@
 
 | Категория | Примеры |
 |---|---|
-| Парные предметы | scissors, trousers, jeans, pants, shorts, glasses (очки), binoculars |
+| Парные предметы | scissors, pants, jeans, shorts, glasses (очки), binoculars |
 | Другие | clothes, stairs, goods, surroundings, outskirts, earnings, savings |
 
-Чтобы посчитать: **a pair of** scissors / trousers / glasses
+Чтобы посчитать: **a pair of** scissors / pants / glasses
 
 ---
 
@@ -137,7 +137,7 @@
 | Неправильно | Правильно |
 |---|---|
 | *a scissor* | **scissors** / a pair of scissors |
-| *a trouser* | **trousers** / a pair of trousers |
+| *a pant* | **pants** / a pair of pants |
 | *Where is my jean?* | Where **are** my **jeans**? |
 
 **Ошибка 3: Множественное число для слов на -ics**

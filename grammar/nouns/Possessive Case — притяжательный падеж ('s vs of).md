@@ -24,7 +24,7 @@
 |---|---|
 | Люди | my sister's friend, the doctor's advice |
 | Животные | the cat's tail, the dog's bone |
-| Время | today's news, yesterday's meeting, a week's holiday, two hours' delay |
+| Время | today's news, yesterday's meeting, a week's vacation, two hours' delay |
 | Расстояние | a mile's walk, ten minutes' drive |
 | Страны и города | Russia's economy, London's population |
 | Организации | the company's policy, the government's decision |
@@ -53,9 +53,9 @@
 |---|---|---|
 | the boy's name | the name of the boy | Оба возможны, 's естественнее |
 | the company's CEO | the CEO of the company | Оба возможны |
-| — | the colour of the car | Неодушевлённое → of |
+| — | the color of the car | Неодушевлённое → of |
 | today's paper | — | Время → 's |
-| — | the beginning of the film | Абстрактное → of |
+| — | the beginning of the movie | Абстрактное → of |
 
 ---
 
@@ -92,7 +92,7 @@
 |---|---|---|
 | *the dog's are big* | the dog**s** are big | 's = притяжательный, s = множественное |
 | *two boy's came* | two **boys** came | Не нужен апостроф для множественного числа |
-| *it's color* | **its** colour | it's = it is; its = притяжательное |
+| *it's color* | **its** color | it's = it is; its = притяжательное |
 
 **Ошибка 2: Неправильное место апострофа во множественном числе**
 
@@ -107,7 +107,7 @@
 |---|---|
 | *the table's leg* | the leg **of** the table |
 | *the book's cover* | the cover **of** the book (хотя the book's cover допустимо) |
-| *the car's colour* | the colour **of** the car |
+| *the car's color* | the color **of** the car |
 
 **Ошибка 4: Калька с русского «у Маши есть...»**
 

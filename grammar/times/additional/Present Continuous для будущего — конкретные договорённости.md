@@ -36,7 +36,7 @@ You/We/They  +  are  +  глагол-ing
 **2. Вопрос о чужих планах**
 
 - What are you doing this weekend? — Что ты делаешь в эти выходные?
-- Where are you going for your holiday? — Куда ты едешь на каникулы?
+- Where are you going on vacation? — Куда ты едешь в отпуск?
 - Are you coming to the party on Saturday? — Ты придёшь на вечеринку в субботу?
 
 ---
@@ -72,7 +72,7 @@ Present Continuous для будущего работает только для 
 
 | Неправильно | Правильно |
 |---|---|
-| One day I'm travelling around the world. | One day I'm going to travel around the world. |
+| One day I'm traveling around the world. | One day I'm going to travel around the world. |
 | In 2050, people are living on Mars. | In 2050, people will be living on Mars. |
 
 ---

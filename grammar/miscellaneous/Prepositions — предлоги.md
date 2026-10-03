@@ -109,7 +109,7 @@ on a horse        on a scooter
 
 ```
 in a car          in a taxi / cab   in a van
-in a helicopter   in a submarine    in a lift / elevator
+in a helicopter   in a submarine    in an elevator
 ```
 
 Примеры в предложениях:
@@ -131,7 +131,7 @@ Can I come in? — No, there's no room in the car.
 | Предлог | Использование | Примеры |
 |---|---|---|
 | in | месяцы, годы, сезоны, части суток | in January, in 2020, in summer, in the morning |
-| on | дни недели, даты, конкретные дни | on Monday, on 5th March, on my birthday |
+| on | дни недели, даты, конкретные дни | on Monday, on March 5, on my birthday |
 | at | конкретное время, праздники, ночь | at 6 PM, at Christmas, at night, at the weekend (BrE) |
 | for | продолжительность | for two hours, for years |
 | since | начало периода | since Monday, since 2010 |
@@ -151,7 +151,7 @@ Can I come in? — No, there's no room in the car.
 in the morning / afternoon / evening   (но: at night!)
 in January / February / March...
 in 2023 / in the 1990s / in the 21st century
-in winter / spring / summer / autumn
+in winter / spring / summer / fall
 in a moment / in a week / in an hour   (через некоторое время)
 ```
 
@@ -159,9 +159,9 @@ in a moment / in a week / in an hour   (через некоторое время
 
 ```
 on Monday / on Tuesdays (каждый вторник)
-on 5th March / on March 5th
+on March 5 / on the 5th of March
 on Christmas Day / on New Year's Day   (но: at Christmas, at New Year — период)
-on the morning of 3rd June             (конкретное утро конкретного дня)
+on the morning of June 3             (конкретное утро конкретного дня)
 on my birthday / on our anniversary
 ```
 
@@ -213,7 +213,7 @@ He hasn't called since Monday.
 Требует конкретного именованного периода (не числа!).
 
 I fell asleep during the lecture.
-It rained a lot during our holiday.
+It rained a lot during our vacation.
 She worked two jobs during the recession.
 ```
 
@@ -250,8 +250,8 @@ RIGHT: I didn't sleep during the night.
 | onto | движение на поверхность | jump onto the table, climb onto the roof |
 | through | сквозь, из конца в конец | walk through the tunnel, read through the report |
 | across | пересечь поперёк | swim across the river, walk across the square |
-| along | двигаться вдоль | walk along the beach, drive along the motorway |
-| past | мимо (не останавливаясь) | drive past the school, walk past the shop |
+| along | двигаться вдоль | walk along the beach, drive along the highway |
+| past | мимо (не останавливаясь) | drive past the school, walk past the store |
 | around / round | вокруг / по периметру | walk around the lake, travel around Europe |
 | out of | движение изнутри наружу | come out of the building, take out of the bag |
 | off | движение с поверхности | fall off the chair, get off the bus |
@@ -389,7 +389,7 @@ Dover is on the south coast of England.
 | rely ON sb | полагаться на | I rely on you. |
 | result IN sth | приводить к | This resulted in delays. |
 | search FOR sth | искать (активно) | Police are searching for clues. |
-| specialise IN sth | специализироваться на | She specialises in tax law. |
+| specialize IN sth | специализироваться на | She specializes in tax law. |
 | succeed IN sth | преуспевать в | She succeeded in passing the exam. |
 | think ABOUT sth | думать о / рассматривать | I'm thinking about changing jobs. |
 | think OF sth | думать о / иметь мнение | What do you think of him? |
@@ -422,7 +422,7 @@ She agreed to the plan.     — Она согласилась на план (д�
 | bored WITH/OF sth | I'm bored with this routine. | |
 | capable OF sth | She's capable of great things. | |
 | certain OF/ABOUT sth | I'm not certain about that. | |
-| clever AT sth | She's clever at maths. | |
+| clever AT sth | She's clever at math. | |
 | curious ABOUT sth | He's curious about everything. | |
 | different FROM sth | English is different from Russian. | не «than»! |
 | disappointed WITH/IN sth | He was disappointed with the result. | |
@@ -522,7 +522,7 @@ capable OF (не «to»):       He's capable of more.
 
 ВРЕМЯ
   in   = большой период    → in the morning, in July, in 2023
-  on   = конкретный день   → on Monday, on 5th March
+  on   = конкретный день   → on Monday, on March 5
   at   = точный момент     → at 9 AM, at night, at Christmas
 
 ПРОДОЛЖИТЕЛЬНОСТЬ

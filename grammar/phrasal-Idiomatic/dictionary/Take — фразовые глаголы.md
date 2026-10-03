@@ -21,7 +21,7 @@
 | 13 | **take in** | обмануть | sep | Don't be taken in by his lies. | часто в passive |
 | 14 | **take in** | усвоить (информацию) | sep | It's a lot to take in. / There was so much to take in. | |
 | 15 | **take in** | ушить (одежду) | sep | I need to take in this dress. | |
-| 16 | **take back** | вернуть (в магазин) | sep | I took the shirt back to the shop. | |
+| 16 | **take back** | вернуть (в магазин) | sep | I took the shirt back to the store. | |
 | 17 | **take back** | взять слова обратно | sep | I take back what I said. | |
 | 18 | **take after** | быть похожим на (родственника) | insep | She takes after her mother. | характер и/или внешность; ср. look like (только внешность, с кем угодно) |
 | 19 | **take down** | записать | sep | Take down this number. | |

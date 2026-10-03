@@ -49,7 +49,7 @@ Future in the Past — способ выразить **будущее с точ�
 
 #### Was/Were + V-ing — запланированная договорённость
 
-- I **was meeting** him at 5, but he cancelled. — Я должен был встретиться с ним в 5, но он отменил.
+- I **was meeting** him at 5, but he canceled. — Я должен был встретиться с ним в 5, но он отменил.
 - They **were flying** to Paris the next day. — Они летели в Париж на следующий день.
 - She **was starting** her new job on Monday. — Она начинала новую работу в понедельник.
 

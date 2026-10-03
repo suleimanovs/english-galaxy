@@ -33,7 +33,7 @@ She gave up.         ✓
 
 | Пример | Перевод |
 |---|---|
-| The car broke down on the motorway. | Машина сломалась на шоссе. |
+| The car broke down on the highway. | Машина сломалась на шоссе. |
 | He gave up after ten minutes. | Он сдался через десять минут. |
 | She sat down and started reading. | Она села и начала читать. |
 | The meeting ran over by an hour. | Совещание затянулось на час. |

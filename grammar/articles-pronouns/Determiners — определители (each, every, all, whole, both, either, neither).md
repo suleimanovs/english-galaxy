@@ -62,7 +62,7 @@
 
 - **Both** answers are correct. — Оба ответа правильны.
 - **Both** of them are teachers. — Они оба учителя.
-- I like **both** films. — Мне нравятся оба фильма.
+- I like **both** movies. — Мне нравятся оба фильма.
 - We **both** agree. — Мы оба согласны.
 
 **Both ... and — и ... и:**
@@ -84,7 +84,7 @@
 - I don't like **either** of them. — Мне не нравится ни тот, ни другой.
 
 **Either ... or — или ... или:**
-- **Either** you apologise, **or** I'll leave. — Или ты извинишься, или я уйду.
+- **Either** you apologize, **or** I'll leave. — Или ты извинишься, или я уйду.
 - You can have **either** tea **or** coffee. — Можешь выпить или чай, или кофе.
 
 **Neither:**

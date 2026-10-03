@@ -8,12 +8,12 @@
 |---|---|---|---|---|---|
 | 1 | **get up** | вставать (с кровати) | intrans | I get up at 7 every morning. | |
 | 2 | **get on** | садиться (в транспорт) | insep | Get on the bus. | |
-| 3 | **get on (with)** | ладить | insep | We get on well. / Do you get on with your neighbours? | BrE; ср. get along (AmE) |
+| 3 | **get on (with)** | ладить | insep | We get on well. / Do you get on with your neighbors? | BrE; ср. get along (AmE) |
 | 4 | **get off** | выходить (из транспорта) | insep | Get off at the next stop. | |
 | 5 | **get off** | отделаться | insep | He got off with a warning. | |
 | 6 | **get over** | оправиться от | insep | She got over the flu quickly. / She never got over him. | что-то конкретное; ср. get through (трудный период) |
 | 7 | **get over** | преодолеть | insep | Get over your fear. | |
-| 8 | **get along with** | ладить с кем-то | insep | Do you get along with your neighbours? | AmE; ср. get on (BrE) |
+| 8 | **get along with** | ладить с кем-то | insep | Do you get along with your neighbors? | AmE; ср. get on (BrE) |
 | 9 | **get away** | убежать | intrans | The thief got away. | |
 | 10 | **get away** | уехать (в отпуск) | intrans | We need to get away for a weekend. | |
 | 11 | **get away with** | избежать наказания за | insep | He got away with cheating on the exam. | |

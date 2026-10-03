@@ -100,5 +100,5 @@ If + Past Perfect  ,  would have + V3
 | **Смысл** | Нереальное настоящее / будущее | Нереальное прошлое |
 | **If-clause** | Past Simple | Past Perfect |
 | **Main clause** | would + V | would have + V3 |
-| **Пример** | If I had money, I would travel. | If I had had money, I would have travelled. |
+| **Пример** | If I had money, I would travel. | If I had had money, I would have traveled. |
 | **Подтекст** | денег нет сейчас | денег не было тогда, поехать не удалось |

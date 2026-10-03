@@ -92,7 +92,7 @@ get   +  человек  +  to + V (инфинитив с to)
 
 - He **had** his wallet **stolen**. — У него украли кошелёк. (он не заказывал это!)
 - She **got** her phone **broken**. — У неё сломался телефон.
-- We **had** our flight **cancelled**. — Наш рейс отменили.
+- We **had** our flight **canceled**. — Наш рейс отменили.
 - I **had** my bicycle **taken** outside the supermarket. — У меня угнали велосипед у супермаркета.
 - They **got** their car **towed** away. — Их машину эвакуировали.
 
@@ -119,7 +119,7 @@ have +  человек  +  V (без to)
 
 | Глагол | Структура | Оттенок | Пример |
 |---|---|---|---|
-| **make** | make + человек + V (без to) | Принуждение, нет выбора | She **made** him apologise. |
+| **make** | make + человек + V (без to) | Принуждение, нет выбора | She **made** him apologize. |
 | **let** | let + человек + V (без to) | Разрешение | He **let** her leave early. |
 | **force** | force + человек + to + V | Жёсткое принуждение | They **forced** him **to sign**. |
 | **have** | have + человек + V (без to) | Поручение, авторитет | I **had** the driver **wait** outside. |

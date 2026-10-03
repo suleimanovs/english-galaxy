@@ -14,7 +14,7 @@
 
 Значение: **зачем** кто-то что-то делает. Это самый нейтральный и частотный способ выразить цель.
 
-- I went to the shop **to buy** milk. — Я пошёл в магазин, чтобы купить молоко.
+- I went to the store **to buy** milk. — Я пошёл в магазин, чтобы купить молоко.
 - She studies hard **to get** good grades. — Она усердно учится, чтобы получить хорошие оценки.
 - He called me **to ask** a question. — Он позвонил мне, чтобы задать вопрос.
 - They moved to London **to find** better jobs. — Они переехали в Лондон, чтобы найти работу получше.
@@ -100,7 +100,7 @@ so as not to     +  V
 | The pool is **for swimming**. | I go to the pool **to swim**. |
 
 [!] **For + -ing** — это конструкция о вещах и местах. Если подлежащее — человек, используйте **to-infinitive**:
-- [X] I went to the shop **for buying** milk. → [OK] I went to the shop **to buy** milk.
+- [X] I went to the store **for buying** milk. → [OK] I went to the store **to buy** milk.
 - [X] She studies **for getting** good grades. → [OK] She studies **to get** good grades.
 
 ---
@@ -216,7 +216,7 @@ so as not to     +  V
 
 | Неправильно | Правильно |
 |---|---|
-| I went to the shop **for buying** milk. | I went to the shop **to buy** milk. |
+| I went to the store **for buying** milk. | I went to the store **to buy** milk. |
 | She called him **for telling** the news. | She called him **to tell** him the news. |
 
 Ошибка 4: To-infinitive при разных подлежащих (нужен so that)

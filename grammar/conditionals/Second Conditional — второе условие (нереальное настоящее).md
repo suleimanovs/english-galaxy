@@ -14,7 +14,7 @@ If + Past Simple  ,  would + V (base form)
 
 - If I had more money, I would travel the world. — Если бы у меня было больше денег, я бы путешествовал по миру. (денег нет)
 - If she knew the answer, she would tell us. — Если бы она знала ответ, она бы сказала нам. (не знает)
-- If I were you, I would apologise. — На твоём месте я бы извинился.
+- If I were you, I would apologize. — На твоём месте я бы извинился.
 - What would you do if you lost your job? — Что бы ты сделал, если бы потерял работу?
 
 ---
@@ -109,5 +109,5 @@ Second Conditional делает просьбы мягче и вежливее.
 | **Смысл** | Нереальное / маловероятное настоящее или будущее | Нереальное прошлое — сожаление или иной исход |
 | **If-clause** | Past Simple | Past Perfect |
 | **Main clause** | would + V | would have + V3 |
-| **Пример** | If I had money, I would travel. | If I had had money, I would have travelled. |
+| **Пример** | If I had money, I would travel. | If I had had money, I would have traveled. |
 | **Подтекст** | денег нет сейчас | денег не было тогда, и я не поехал |

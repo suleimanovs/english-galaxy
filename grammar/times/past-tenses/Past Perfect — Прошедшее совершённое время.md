@@ -54,8 +54,8 @@ Had  +  подлежащее  +  V3?
 
 - When I arrived, she had already left. — Когда я пришёл, она уже ушла. (сначала ушла, потом я пришёл)
 - He had eaten all the food before I got home. — Он съел всю еду до того, как я пришёл домой.
-- By the time the film started, we had found our seats. — К тому времени, как начался фильм, мы уже нашли свои места.
-- I recognised her because I had seen her photo before. — Я узнал её, потому что раньше видел её фотографию.
+- By the time the movie started, we had found our seats. — К тому времени, как начался фильм, мы уже нашли свои места.
+- I recognized her because I had seen her photo before. — Я узнал её, потому что раньше видел её фотографию.
 
 **2. Действие завершилось к определённому моменту в прошлом**
 

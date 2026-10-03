@@ -11,7 +11,7 @@
 | 3 | **look up** | найти (в словаре/интернете) | sep | Look up this word. / Look it up online. | единственный разделяемый в группе; ~~Look up it.~~ ✗ |
 | 4 | **look into** | расследовать; изучить | insep | The police are looking into the case. | |
 | 5 | **look out** | осторожно! | intrans | Look out! There's a car coming! | |
-| 6 | **look forward to** | ждать с нетерпением | insep | I'm looking forward to the holiday. | после to — герундий: *looking forward to **seeing** you* ✓; ~~to see~~ ✗ |
+| 6 | **look forward to** | ждать с нетерпением | insep | I'm looking forward to the vacation. | после to — герундий: *looking forward to **seeing** you* ✓; ~~to see~~ ✗ |
 | 7 | **look up to** | уважать; восхищаться | insep | Children look up to their parents. | антоним: look down on |
 | 8 | **look down on** | смотреть свысока на | insep | Don't look down on people who earn less. | антоним: look up to |
 | 9 | **look out for** | присматривать за; быть начеку | insep | Look out for pickpockets. / Can you look out for my parcel? | |

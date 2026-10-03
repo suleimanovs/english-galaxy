@@ -18,4 +18,4 @@
 | 10 | **make of** | думать о; составить мнение о | insep | What do you make of his speech? | |
 | 11 | **make for** | направиться к | insep | We made for the exit. | |
 | 12 | **make for** | способствовать | insep | Good planning makes for a good trip. | |
-| 13 | **make off (with)** | удрать (с чем-то) | intrans / insep | The thieves made off with the jewellery. | |
+| 13 | **make off (with)** | удрать (с чем-то) | intrans / insep | The thieves made off with the jewelry. | |

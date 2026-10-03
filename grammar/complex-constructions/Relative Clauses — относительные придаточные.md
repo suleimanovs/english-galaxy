@@ -57,7 +57,7 @@ Relative Clauses (относительные придаточные) это пр
 
 - The book **(that) I recommended** is great. — Книга, которую я рекомендовал, отличная. (I recommended the book — местоимение = дополнение, можно убрать)
 - The man **(who/that) she married** is very kind. — Мужчина, за которого она вышла замуж, очень добрый.
-- Is this the film **(that) you were talking about**? — Это тот фильм, о котором ты говорил?
+- Is this the movie **(that) you were talking about**? — Это тот фильм, о котором ты говорил?
 
 Если местоимение — подлежащее, его нельзя опустить:
 
@@ -130,4 +130,4 @@ Whose используется для людей и вещей, заменяет
 | **Запятые** | Нет | Да |
 | **That** | Можно использовать | Нельзя |
 | **Опущение** | Можно (если дополнение) | Нельзя |
-| **Пример** | The film that I saw was great. | Titanic, which I saw last week, was great. |
+| **Пример** | The movie that I saw was great. | Titanic, which I saw last week, was great. |

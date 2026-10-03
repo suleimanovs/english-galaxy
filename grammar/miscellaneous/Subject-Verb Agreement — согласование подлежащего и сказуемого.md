@@ -24,7 +24,7 @@
 
 | Пример | Глагол | Почему |
 |---|---|---|
-| Bread and butter **is** my favourite breakfast. | ед. ч. | Одно блюдо |
+| Bread and butter **is** my favorite breakfast. | ед. ч. | Одно блюдо |
 | Fish and chips **is** popular in the UK. | ед. ч. | Одно блюдо |
 | The singer and songwriter **is** here. | ед. ч. | Один человек (и певец, и автор) |
 | The singer and **the** songwriter **are** here. | мн. ч. | Два человека (артикль повторён) |
@@ -125,7 +125,7 @@
 **Всегда единственное:** news, mathematics, physics, politics (как дисциплина)
 
 - The news **is** shocking.
-- Mathematics **is** my favourite subject.
+- Mathematics **is** my favorite subject.
 
 ---
 

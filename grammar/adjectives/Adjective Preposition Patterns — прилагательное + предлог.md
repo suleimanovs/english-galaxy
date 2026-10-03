@@ -44,7 +44,7 @@
 | scared of ★ | бояться | Are you scared **of** the dark? |
 | short of | не хватает | We're short **of** time. |
 | sick of / tired of ★ | надоело | I'm sick **of** waiting. |
-| ashamed of ★ | стыдиться | She's ashamed **of** her behaviour. |
+| ashamed of ★ | стыдиться | She's ashamed **of** her behavior. |
 | typical of | типично для | That's typical **of** him. |
 | guilty of | виновен в | He was found guilty **of** fraud. |
 
@@ -54,7 +54,7 @@
 
 | Прилагательное + at | Перевод | Пример |
 |---|---|---|
-| good at ★ | хорош в | She's good **at** maths. |
+| good at ★ | хорош в | She's good **at** math. |
 | bad at ★ | плох в | I'm bad **at** cooking. |
 | brilliant at | блестящ в | He's brilliant **at** chess. |
 | hopeless at | безнадёжен в | I'm hopeless **at** singing. |
@@ -149,7 +149,7 @@
 | different from ★ | отличаться от | English is different **from** Russian. |
 | absent from | отсутствовать | He was absent **from** class. |
 | safe from | в безопасности от | We're safe **from** the storm here. |
-| far from | далеко от | The hotel is far **from** the centre. |
+| far from | далеко от | The hotel is far **from** the center. |
 
 ---
 
@@ -204,7 +204,7 @@
 |---|---|---|
 | интересоваться **чем-то** (тв. пад.) | interested **about** history ✗ | interested **in** history ✓ |
 | бояться **чего-то** (род. пад.) | afraid **from** dogs ✗ | afraid **of** dogs ✓ |
-| хорош **в** чём-то | good **in** maths ✗ | good **at** maths ✓ |
+| хорош **в** чём-то | good **in** math ✗ | good **at** math ✓ |
 | женат **на** ком-то | married **with** a doctor ✗ | married **to** a doctor ✓ |
 | отличается **от** чего-то | different **to** / different **than** (BR/US разногласие, но OF — точно нет) → | different **from** ✓ (наиболее универсально) |
 | злиться **на** кого-то | angry **on** me ✗ | angry **with** me ✓ |
@@ -272,7 +272,7 @@
 |---|---|
 | I'm interested about history. | I'm interested **in** history. |
 | She's afraid from dogs. | She's afraid **of** dogs. |
-| He's good in maths. | He's good **at** maths. |
+| He's good in math. | He's good **at** math. |
 | I'm married with a doctor. | I'm married **to** a doctor. |
 | It's different of yours. | It's different **from** yours. |
 | She's angry on me. | She's angry **with** me. |

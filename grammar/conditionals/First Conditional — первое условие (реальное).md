@@ -53,7 +53,7 @@ If + Present Simple  ,  will + V (base form)
 | Главная часть | Оттенок | Пример |
 |---|---|---|
 | will + V | уверенный результат | If she studies, she will pass. |
-| can + V | возможность | If you practise, you can improve. |
+| can + V | возможность | If you practice, you can improve. |
 | may / might + V | менее уверенный результат | If it rains, we might cancel it. |
 | should + V | рекомендация | If you feel ill, you should see a doctor. |
 | imperative | инструкция, просьба | If you see him, tell him to call me. |

@@ -13,7 +13,7 @@
 | 5 | **put off** | отпугнуть; оттолкнуть | sep | Don't let his manner put you off. / The bad reviews put me off going. | |
 | 6 | **put up** | повесить | sep | Put up a poster. | |
 | 7 | **put up** | приютить | sep | Can you put me up for the night? | |
-| 8 | **put up with** | мириться с; терпеть | insep | I can't put up with this noise any longer. | неразделяемый; ~~put this behaviour up with~~ ✗ |
+| 8 | **put up with** | мириться с; терпеть | insep | I can't put up with this noise any longer. | неразделяемый; ~~put this behavior up with~~ ✗ |
 | 9 | **put down** | положить | sep | Put down your phone. / Put down the bag. | |
 | 10 | **put down** | усыпить (животное) | sep | The vet had to put the cat down. | |
 | 11 | **put down** | унизить | sep | He's always putting her down in front of others. | |

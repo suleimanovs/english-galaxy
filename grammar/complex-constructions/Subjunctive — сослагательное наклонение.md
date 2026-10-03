@@ -152,7 +152,7 @@ Subjunctive сохранился в нескольких фиксированн�
 | **Suffice** it to say... | Достаточно сказать... | Suffice it to say, it didn't go well. |
 | **So be it.** | Да будет так. / Пусть так и будет. | "We have no choice." — "So be it." |
 | **Heaven forbid** | Боже упаси / Не дай Бог | Heaven forbid he finds out. |
-| **Far be it** from me... | Далеко мне до того, чтобы... | Far be it from me to criticise. |
+| **Far be it** from me... | Далеко мне до того, чтобы... | Far be it from me to criticize. |
 
 [!] Эти выражения используются целиком, как готовые блоки. Их не нужно «строить» — их нужно просто знать и узнавать.
 

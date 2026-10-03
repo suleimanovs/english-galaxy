@@ -58,7 +58,7 @@ Will  +  подлежащее  +  have been  +  глагол-ing?
 Аналог случая «следы процесса» из других Perfect Continuous времён, но о будущем.
 
 - When I finish this marathon, I will have been running for five hours — I'll be exhausted. — Когда я закончу этот марафон, я буду бежать уже пять часов — буду полностью измотан.
-- By the time she gets home, she will have been travelling for 20 hours. — К тому времени, как она доберётся домой, она будет в дороге уже 20 часов.
+- By the time she gets home, she will have been traveling for 20 hours. — К тому времени, как она доберётся домой, она будет в дороге уже 20 часов.
 
 ---
 

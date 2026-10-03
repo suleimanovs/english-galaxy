@@ -45,7 +45,7 @@
 | show | demonstrate, indicate | показать |
 | seem | appear | казаться |
 | enough | sufficient, adequate | достаточно |
-| try | attempt, endeavour | попытаться |
+| try | attempt, endeavor | попытаться |
 | use | utilize, employ | использовать |
 | tell | inform, notify | сообщить |
 | say sorry | apologize | извиниться |

@@ -11,7 +11,7 @@ Ought to выражает **моральную обязанность, сове�
 Подлежащее  +  ought not to (oughtn't to)  +  V (base form)
 ```
 
-- You ought to apologise. — Тебе следует извиниться.
+- You ought to apologize. — Тебе следует извиниться.
 - She ought to see a doctor. — Ей следует обратиться к врачу.
 - He oughtn't to speak to her like that. — Ему не следует так разговаривать с ней.
 - Ought I to tell him? — Мне следует ему сказать?
@@ -56,7 +56,7 @@ Ought to чаще, чем should, несёт оттенок морального
 
 | Неправильно | Правильно |
 |---|---|
-| You ought apologise. | You ought to apologise. |
+| You ought apologize. | You ought to apologize. |
 | She ought see a doctor. | She ought to see a doctor. |
 
 Ошибка 2: Путать ought to и should — они взаимозаменяемы в большинстве случаев, но ought to несёт более выраженный моральный оттенок.

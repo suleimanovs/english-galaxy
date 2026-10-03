@@ -31,8 +31,8 @@ If + Past Perfect  ,  would + V (base form)
 If + Past Simple  ,  would have + V3
 ```
 
-- If I were more organised, I wouldn't have missed the deadline. — Если бы я был более организованным, я бы не пропустил дедлайн. (я неорганизованный → поэтому пропустил)
-- If she weren't so stubborn, she would have apologised by now. — Если бы она не была такой упрямой, она бы уже извинилась.
+- If I were more organized, I wouldn't have missed the deadline. — Если бы я был более организованным, я бы не пропустил дедлайн. (я неорганизованный → поэтому пропустил)
+- If she weren't so stubborn, she would have apologized by now. — Если бы она не была такой упрямой, она бы уже извинилась.
 - If he spoke better English, he would have got the job. — Если бы он лучше говорил по-английски, он бы получил эту работу. (сейчас плохо говорит → не получил)
 - If I didn't trust him, I wouldn't have told him the secret. — Если бы я ему не доверял, я бы не рассказал ему секрет. (я доверяю → рассказал)
 
@@ -59,7 +59,7 @@ If + Past Simple  ,  would have + V3
 | Неправильно | Правильно |
 |---|---|
 | If I had studied medicine, I would have been a doctor now. (Third — но результат в настоящем) | If I had studied medicine, I would be a doctor now. |
-| If I were more organised, I wouldn't miss the deadline. (Second — но результат уже в прошлом) | If I were more organised, I wouldn't have missed the deadline. |
+| If I were more organized, I wouldn't miss the deadline. (Second — но результат уже в прошлом) | If I were more organized, I wouldn't have missed the deadline. |
 
 Ошибка 2: Would в if-clause
 

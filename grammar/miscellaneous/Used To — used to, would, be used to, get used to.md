@@ -16,7 +16,7 @@
 - She **used to** live in Paris. — Раньше она жила в Париже. (сейчас нет)
 - We **used to** go camping every summer. — Раньше мы ходили в поход каждое лето.
 - He **used to** be very shy. — Раньше он был очень застенчивым.
-- There **used to** be a cinema here. — Раньше здесь был кинотеатр.
+- There **used to** be a movie theater here. — Раньше здесь был кинотеатр.
 
 **Отрицание и вопрос:**
 

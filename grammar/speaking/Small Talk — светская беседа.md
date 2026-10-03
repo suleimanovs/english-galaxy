@@ -70,7 +70,7 @@ Follow-up:
 | Выходные/отпуск | Got any plans for the weekend? / Been anywhere nice recently? / Are you going away this summer? |
 | Работа (общее) | What do you do? / How's work going? / Busy at the moment? |
 | Еда | Have you tried this? It's really good. / Do you know any good restaurants around here? / Are you a coffee or tea person? |
-| Хобби | Do you follow any sports? / What do you do in your free time? / Seen any good films lately? |
+| Хобби | Do you follow any sports? / What do you do in your free time? / Seen any good movies lately? |
 | Текущие события | Did you see that [нейтральная новость]? / Have you heard about [событие]? |
 | Местность | Do you live nearby? / How long have you been in [город]? / What's the best thing about living here? |
 

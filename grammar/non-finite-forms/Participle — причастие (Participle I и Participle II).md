@@ -55,7 +55,7 @@
 
 Present Participle используется для образования всех Continuous-форм — это его самая частая роль, хотя технически здесь он выступает частью сказуемого, а не самостоятельным причастием.
 
-- She is working. / They were sleeping. / He will be travelling.
+- She is working. / They were sleeping. / He will be traveling.
 
 ---
 

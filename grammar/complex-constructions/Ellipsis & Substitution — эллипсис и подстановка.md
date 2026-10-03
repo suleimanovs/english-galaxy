@@ -47,7 +47,7 @@
 | I **hope so**. | Надеюсь, да. | "Will you get the job?" — "I **hope so**." |
 | I **believe so**. | Полагаю, да. | "Is she coming?" — "I **believe so**." |
 | I **expect so**. | Ожидаю, что да. | "Will they win?" — "I **expect so**." |
-| I'm **afraid so**. | Боюсь, что да. | "Is it cancelled?" — "I'm **afraid so**." |
+| I'm **afraid so**. | Боюсь, что да. | "Is it canceled?" — "I'm **afraid so**." |
 | I **suppose so**. | Наверное, да. | "Should we wait?" — "I **suppose so**." |
 
 **Отрицательные формы:**

@@ -67,8 +67,8 @@
 - **Under no circumstances** should you sign this contract. — Ни при каких обстоятельствах не следует подписывать этот договор.
 - **Little** did he know that she was already there. — Он и не подозревал, что она уже была там.
 - **Not since** the war had the city seen such destruction. — Со времён войны город не видел такого разрушения.
-- **Not once** did he apologise. — Ни разу он не извинился.
-- **Only if** you practise every day will you improve. — Только если ты будешь практиковаться каждый день, ты улучшишься.
+- **Not once** did he apologize. — Ни разу он не извинился.
+- **Only if** you practice every day will you improve. — Только если ты будешь практиковаться каждый день, ты улучшишься.
 - **Only later** did we discover the truth. — Только позже мы узнали правду.
 
 **Hardly / Scarcely / Barely / No sooner — особый случай:**

@@ -71,7 +71,7 @@
 | 40 | **do over** | переделать | sep | The essay was terrible — do it over. | AmE |
 | 41 | **dress up** | нарядиться | intrans / sep | She dressed up for the party. / Kids love dressing up as superheroes. | |
 | 42 | **drop off** | высадить | sep | Drop me off at the station. | |
-| 43 | **drop off** | задремать | intrans | He dropped off during the film. | |
+| 43 | **drop off** | задремать | intrans | He dropped off during the movie. | |
 | 44 | **drop off** | уменьшиться | intrans | Sales dropped off in winter. | |
 | 45 | **drop out (of)** | бросить (учёбу) | intrans / insep | He dropped out of university after one year. | |
 
@@ -82,7 +82,7 @@
 | # | Фразовый глагол | Перевод | Тип | Пример | Заметки |
 |---|---|---|---|---|---|
 | 46 | **eat out** | есть вне дома | intrans | Let's eat out tonight. | |
-| 47 | **end up** | оказаться (в итоге) | intrans | We ended up staying until midnight. / He ended up in hospital. | |
+| 47 | **end up** | оказаться (в итоге) | intrans | We ended up staying until midnight. / He ended up in the hospital. | |
 
 ---
 
@@ -149,8 +149,8 @@
 | 83 | **let down** | подвести; разочаровать | sep | Don't let me down. / I felt really let down. | |
 | 84 | **let in** | впустить | sep | Let me in! It's cold outside. | |
 | 85 | **lie down** | прилечь | intrans | I need to lie down for a minute. | |
-| 86 | **line up** | выстроиться в очередь; выстроить | intrans / sep | People lined up outside the shop. / Line up the chairs. | |
-| 87 | **live up to** | оправдать (ожидания) | insep | The film didn't live up to expectations. | |
+| 86 | **line up** | выстроиться в очередь; выстроить | intrans / sep | People lined up outside the store. / Line up the chairs. | |
+| 87 | **live up to** | оправдать (ожидания) | insep | The movie didn't live up to expectations. | |
 | 88 | **log in / on** | войти в систему | intrans | Log in with your username and password. | |
 | 89 | **log out / off** | выйти из системы | intrans | Don't forget to log out. | |
 
@@ -211,7 +211,7 @@
 | 117 | **rip off** | обмануть (завысить цену) | sep | That shop ripped me off. / What a rip-off! | |
 | 118 | **rule out** | исключить (возможность) | sep | Police have ruled out foul play. | |
 | 119 | **sell out** | распродать всё | intrans / sep | The concert sold out in minutes. / The tickets are sold out. | |
-| 120 | **save up** | накопить | intrans / sep | I'm saving up for a holiday. / She saved up enough for a car. | |
+| 120 | **save up** | накопить | intrans / sep | I'm saving up for a vacation. / She saved up enough for a car. | |
 | 121 | **see off** | проводить (в дорогу) | sep | We went to the airport to see her off. | |
 | 122 | **send off** | отправить (письмо, посылку) | sep | I sent off the application yesterday. | |
 | 123 | **settle down** | осесть; успокоиться | intrans | He settled down and started a family. / Settle down, class! | |
@@ -226,7 +226,7 @@
 | 132 | **speak up** | говорить громче; высказаться | intrans | Speak up, I can't hear you. / Don't be afraid to speak up. | |
 | 133 | **speed up** | ускорить(ся) | intrans / sep | Can you speed up? / This will speed up the process. | |
 | 134 | **stand for** | означать | insep | What does NASA stand for? | |
-| 135 | **stand for** | терпеть | insep | I won't stand for this behaviour. | |
+| 135 | **stand for** | терпеть | insep | I won't stand for this behavior. | |
 | 136 | **stand out** | выделяться | intrans | Her red dress made her stand out in the crowd. | |
 | 137 | **stand up** | встать | intrans | Please stand up. | |
 | 138 | **stand up** | не прийти на свидание | sep | He stood me up — I waited for an hour. | |

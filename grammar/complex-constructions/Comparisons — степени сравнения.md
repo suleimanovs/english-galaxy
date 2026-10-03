@@ -76,7 +76,7 @@
 
 **Двойная сравнительная степень — the...the (чем...тем):**
 
-- **The more** you practise, **the better** you become. — Чем больше ты практикуешься, тем лучше становишься.
+- **The more** you practice, **the better** you become. — Чем больше ты практикуешься, тем лучше становишься.
 - **The harder** she works, **the more** she earns. — Чем усерднее она работает, тем больше зарабатывает.
 - **The older** I get, **the more** I appreciate simple things. — Чем старше я становлюсь, тем больше ценю простые вещи.
 - **The sooner**, **the better**. — Чем раньше, тем лучше.

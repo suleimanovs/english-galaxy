@@ -28,7 +28,7 @@ Can и Could — самые универсальные модальные гла
 **2. Возможность в настоящем или общая возможность**
 
 - It can get very cold here in winter. — Здесь зимой может быть очень холодно. (общая возможность)
-- Travelling can be expensive. — Путешествия могут быть дорогими.
+- Traveling can be expensive. — Путешествия могут быть дорогими.
 - Stress can cause health problems. — Стресс может вызывать проблемы со здоровьем.
 
 **3. Разрешение (неформальное)**
@@ -72,7 +72,7 @@ Can и Could — самые универсальные модальные гла
 
 **3. Возможность в настоящем или будущем (гипотетическая)**
 
-- We could go to the cinema tonight. — Мы могли бы пойти в кино сегодня вечером.
+- We could go to the movies tonight. — Мы могли бы пойти в кино сегодня вечером.
 - That could be the answer. — Это могло бы быть ответом.
 - You could try calling him. — Ты мог бы попробовать позвонить ему.
 
@@ -87,7 +87,7 @@ Can и Could — самые универсальные модальные гла
 **5. Предположение (менее уверенное, чем may)**
 
 - He could be at work. — Возможно, он на работе.
-- That noise could be the neighbours. — Этот шум, возможно, соседи.
+- That noise could be the neighbors. — Этот шум, возможно, соседи.
 
 ---
 

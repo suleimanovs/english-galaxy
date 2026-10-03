@@ -14,10 +14,10 @@
 | create | creation / creativity | create | creative | creatively |
 | success | success | succeed | successful | successfully |
 | danger | danger | endanger | dangerous | dangerously |
-| organise | organisation | organise | organised | — |
+| organize | organization | organize | organized | — |
 | decide | decision | decide | decisive | decisively |
 
-Зная *danger*, легко понять *dangerous* и *dangerously*. Зная *organise*, легко догадаться об *organisation* и *organised*. Это и есть словообразование в действии.
+Зная *danger*, легко понять *dangerous* и *dangerously*. Зная *organize*, легко догадаться об *organization* и *organized*. Это и есть словообразование в действии.
 
 ---
 
@@ -49,7 +49,7 @@
 | **co-** | совместно, вместе | cooperate, co-worker, co-founder, coordinate |
 | **ex-** | бывший | ex-wife, ex-president; но: export (другое значение) |
 | **self-** | само-, себя | self-confident, self-employed, self-control |
-| **anti-** | против-, анти- | anti-social, antibiotics, anticlockwise |
+| **anti-** | против-, анти- | anti-social, antibiotics, counterclockwise |
 | **pro-** | за, в пользу | pro-government; также: promote, produce (другие значения) |
 
 [!] Префикс **ex-** в значении «бывший» всегда пишется через дефис: *ex-wife, ex-president, ex-boss*. В словах типа *export, explain, expect* это другой латинский префикс с другим значением.
@@ -101,10 +101,10 @@
 
 | Суффикс | Значение | Примеры |
 |---|---|---|
-| **-ise / -ize** | придать качество, сделать | organise, realise, modernise, summarise, recognise, apologise |
+| **-ize** (брит. -ise) | придать качество, сделать | organize, realize, modernize, summarize, recognize, apologize |
 | **-en** | сделать каким-то | widen, shorten, strengthen, lighten, deepen, darken, soften |
 
-[!] В британском английском предпочтителен суффикс **-ise** (*organise, realise*), в американском — **-ize** (*organize, realize*). Оба варианта правильны, но важно не смешивать их в одном тексте. Исключение: слова *advise, surprise, exercise* — в них -ise не суффикс, а часть корня, поэтому они пишутся одинаково в обоих вариантах.
+[!] В американском английском — суффикс **-ize** (*organize, realize*), в британском чаще **-ise** (*organise, realise*). В этом хранилище везде американский **-ize**. Оба варианта правильны, но важно не смешивать их в одном тексте. Исключение: слова *advise, surprise, exercise* — в них -ise не суффикс, а часть корня, поэтому они пишутся одинаково в обоих вариантах.
 
 ---
 
@@ -146,7 +146,7 @@
 |---|---|---|
 | email | to email | Can you **email** me the file? |
 | water | to water | He's **watering** the plants. |
-| fish | to fish | We went **fishing** at the weekend. |
+| fish | to fish | We went **fishing** on the weekend. |
 | plan | to plan | Let's **plan** the trip together. |
 | ship | to ship | The order was **shipped** yesterday. |
 
@@ -164,7 +164,7 @@
 
 | Прилагательное | Глагол | Пример |
 |---|---|---|
-| empty | to empty | Please **empty** the bin. |
+| empty | to empty | Please **empty** the trash. |
 | calm | to calm | Try to **calm** yourself down. |
 | better | to better | She wants to **better** herself. |
 
@@ -225,9 +225,9 @@
 
 Ошибка 5: Смешение -ise/-ize в одном тексте
 
-Выберите один вариант и придерживайтесь его. В академическом письме в британских университетах — **-ise**. В американском контексте — **-ize**. Главное — последовательность.
+Выберите один вариант и придерживайтесь его. В американском контексте (и в этом хранилище) — **-ize**; -ise понадобится только в британском академическом письме. Главное — последовательность.
 
 | Неправильно (смешение) | Правильно |
 |---|---|
-| organise... then we need to organize | organise... then we need to **organise** |
+| organise... then we need to organize | organize... then we need to **organize** |
 | realize... we should recognise | realize... we should **recognize** |

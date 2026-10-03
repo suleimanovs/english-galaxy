@@ -15,7 +15,7 @@
 
 **2. Противопоставление (Contrast)** — явное или подразумеваемое:
 - *It wasn't the noise that bothered me — it was the smell.* — Меня раздражал не шум, а запах.
-- *What I need is a holiday, not advice.* — Мне нужен отпуск, а не советы.
+- *What I need is a vacation, not advice.* — Мне нужен отпуск, а не советы.
 
 **3. Уточнение/исправление (Correction)** — когда говорящий поправляет неверное предположение:
 - A: *"Tom called you."* — B: *"It wasn't Tom who called — it was Mike."* — Звонил не Том, а Майк.
@@ -61,7 +61,7 @@ It  +  is/was  +  выделенный элемент  +  who/that/where/when  +
 
 *Время (когда):*
 - **It was** in 1969 **that** humans first landed on the Moon. — Именно в 1969 году люди впервые высадились на Луну.
-- **It was** yesterday **that** I realised my mistake. — Именно вчера я осознал свою ошибку.
+- **It was** yesterday **that** I realized my mistake. — Именно вчера я осознал свою ошибку.
 - **It was** only after the meeting **that** we understood the plan. — Мы поняли план только после совещания.
 
 *Место (где):*
@@ -91,7 +91,7 @@ What-cleft выделяет **новую, самую важную информа
 
 **Базовые примеры:**
 
-- **What** I need **is** a holiday. — То, что мне нужно, — это отпуск.
+- **What** I need **is** a vacation. — То, что мне нужно, — это отпуск.
 - **What** she said **was** shocking. — То, что она сказала, было шокирующим.
 - **What** happened **was** completely unexpected. — То, что произошло, было совершенно неожиданным.
 - **What** annoys me **is** his attitude. — Что меня раздражает — это его отношение.
@@ -241,7 +241,7 @@ Cleft — это инструмент, и, как любой инструмен�
 | She helped me. | **It was she** who helped me. | кто помог |
 | The noise bothers me. | **What** bothers me **is** the noise. | что раздражает |
 | He called, nothing more. | **All** he did **was** call. | минимальность действия |
-| I like her sense of humour. | **The thing** I like about her **is** her sense of humour. | что именно нравится |
+| I like her sense of humor. | **The thing** I like about her **is** her sense of humor. | что именно нравится |
 | They met in Rome. | **It was in Rome that** they met. | где именно |
 | She left because she was tired. | **It was because she was tired that** she left. | причина |
 
@@ -281,7 +281,7 @@ Cleft — это инструмент, и, как любой инструмен�
 
 | Неуместно | Естественно |
 |---|---|
-| What I did was go to the shop and what I bought was milk. | I went to the shop and bought milk. |
+| What I did was go to the store and what I bought was milk. | I went to the store and bought milk. |
 | It was yesterday that I had breakfast. | I had breakfast yesterday. |
 
 > Правило: используйте cleft только тогда, когда есть **контраст**, **исправление** или **осознанный акцент**. Если предложение понятно и без выделения — cleft лишний.

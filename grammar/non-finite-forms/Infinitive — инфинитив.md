@@ -33,7 +33,7 @@ Bare infinitive:  work, go, see, understand
 
 - I want to learn Spanish. — Я хочу учить испанский.
 - She decided to quit her job. — Она решила уволиться.
-- He refused to apologise. — Он отказался извиниться.
+- He refused to apologize. — Он отказался извиниться.
 - They managed to finish on time. — Им удалось закончить вовремя.
 - She promised to call. — Она обещала позвонить.
 - I can't afford to buy it. — Я не могу себе позволить это купить.
@@ -51,7 +51,7 @@ Bare infinitive:  work, go, see, understand
 
 To-infinitive отвечает на вопрос «зачем?» — это очень частое употребление.
 
-- I went to the shop to buy milk. — Я пошёл в магазин, чтобы купить молоко.
+- I went to the store to buy milk. — Я пошёл в магазин, чтобы купить молоко.
 - She studies hard to get good grades. — Она усердно учится, чтобы получать хорошие оценки.
 - He called to tell me the news. — Он позвонил, чтобы сообщить мне новость.
 - We left early to avoid the traffic. — Мы вышли пораньше, чтобы избежать пробок.
@@ -125,7 +125,7 @@ To-infinitive отвечает на вопрос «зачем?» — это оч
 
 Только to-infinitive: want, hope, expect, plan, decide, refuse, offer, promise, agree, manage, fail, afford, need (в значении «нуждаться»).
 
-Только герундий: enjoy, avoid, finish, suggest, consider, admit, deny, mind, keep, practise, imagine, miss, risk, can't help.
+Только герундий: enjoy, avoid, finish, suggest, consider, admit, deny, mind, keep, practice, imagine, miss, risk, can't help.
 
 Оба варианта (смысл меняется): remember, forget, stop, try, regret, mean.
 

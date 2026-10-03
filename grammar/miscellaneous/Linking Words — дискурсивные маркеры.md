@@ -91,7 +91,7 @@
 | Слово | Пример |
 |---|---|
 | **first / firstly** | **First**, let me explain the background. |
-| **then / next / after that** | **Then**, we analysed the data. |
+| **then / next / after that** | **Then**, we analyzed the data. |
 | **finally / lastly** | **Finally**, we presented our conclusions. |
 | **meanwhile / in the meantime** | **Meanwhile**, the other team was working on... |
 | **eventually** | **Eventually**, we found a solution. |

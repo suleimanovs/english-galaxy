@@ -27,7 +27,7 @@ There  +  is/are  +  подлежащее  +  (место/время)
 | Время | Форма | Пример |
 |---|---|---|
 | Present Simple | there is / are | There **is** a park nearby. |
-| Past Simple | there was / were | There **was** a cinema here. |
+| Past Simple | there was / were | There **was** a movie theater here. |
 | Future Simple | there will be | There **will be** a meeting tomorrow. |
 | Present Perfect | there has / have been | There **have been** many changes. |
 | Modal | there must / can / should be | There **must be** a mistake. |

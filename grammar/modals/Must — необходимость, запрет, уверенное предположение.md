@@ -39,7 +39,7 @@ Mustn't — это строгий запрет: нельзя делать, эт�
 Must в значении предположения означает, что говорящий почти уверен — это логический вывод из имеющихся фактов. Степень уверенности около 95%.
 
 - She must be at home — the lights are on. — Она, должно быть, дома — свет горит.
-- He must be exhausted — he's been travelling for 20 hours. — Он, должно быть, измотан — он в дороге уже 20 часов.
+- He must be exhausted — he's been traveling for 20 hours. — Он, должно быть, измотан — он в дороге уже 20 часов.
 - You've been walking all day — you must be hungry. — Ты ходил весь день — ты, должно быть, голоден.
 - That must be the new teacher. — Это, должно быть, новый учитель.
 
@@ -58,7 +58,7 @@ Must в значении предположения означает, что г�
 | | Must | Have to |
 |---|---|---|
 | **Источник** | Говорящий сам считает нужным / внутренняя необходимость | Внешние обстоятельства, правила, закон |
-| **Пример** | I must call my mum. (я сам чувствую необходимость) | I have to pay taxes. (закон требует) |
+| **Пример** | I must call my mom. (я сам чувствую необходимость) | I have to pay taxes. (закон требует) |
 | **Пример** | You must try this! (я настаиваю) | You have to show your passport at the border. (правило) |
 | **Прошедшее** | had to (must нет прошедшего в этом значении) | had to |
 | **Будущее** | will have to | will have to |

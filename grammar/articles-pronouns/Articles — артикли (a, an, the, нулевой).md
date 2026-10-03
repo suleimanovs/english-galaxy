@@ -58,7 +58,7 @@
 **2. Единственный в своём роде — только один существует:**
 - **the Sun**, **the Moon**, **the Earth**, **the sky**, **the universe**
 - **the President** (конкретной страны в данном контексте)
-- **the Internet**, **the radio**, **the cinema** (как понятие)
+- **the Internet**, **the radio**, **the movies** (как понятие)
 
 **3. Когда из контекста ясно, о чём речь:**
 - Can you close **the door**? — Закрой дверь. (ту, что в этой комнате)

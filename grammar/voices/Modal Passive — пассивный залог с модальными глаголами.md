@@ -76,7 +76,7 @@
 
 **Значение:** разрешение (официальный контекст); вероятность в настоящем или будущем.
 
-- Applications **may be submitted** online or by post. — Заявления можно подавать онлайн или по почте.
+- Applications **may be submitted** online or by mail. — Заявления можно подавать онлайн или по почте.
 - The policy **may be revised** in the future. — Политика может быть пересмотрена в будущем.
 - He **may be promoted** this year. — Его, возможно, повысят в этом году.
 - Personal data **may not be stored** without consent. — Персональные данные не могут храниться без согласия.
@@ -154,7 +154,7 @@
 |---|---|---|
 | **can** | They can fix it. | It **can be fixed**. |
 | **could** | They could see it. | It **could be seen**. |
-| **may** | They may cancel the event. | The event **may be cancelled**. |
+| **may** | They may cancel the event. | The event **may be canceled**. |
 | **might** | They might change the plan. | The plan **might be changed**. |
 | **must** | You must finish the report. | The report **must be finished**. |
 | **should** | You should clean the room. | The room **should be cleaned**. |

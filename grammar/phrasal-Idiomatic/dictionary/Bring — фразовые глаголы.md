@@ -12,7 +12,7 @@
 | 4 | **bring back** | вернуть | sep | Bring back my book. | |
 | 5 | **bring back** | вызвать воспоминания | sep | This song brings back memories. | |
 | 6 | **bring in** | ввести (закон, правило) | sep | The government brought in new regulations. | |
-| 7 | **bring in** | приносить (доход) | sep | The shop brings in £5,000 a month. | |
+| 7 | **bring in** | приносить (доход) | sep | The store brings in $5,000 a month. | |
 | 8 | **bring out** | выпустить (продукт) | sep | They brought out a new model. | кто-то выпускает; ср. come out (что-то выходит) |
 | 9 | **bring out** | выявить | sep | He brings out the best in people. | |
 | 10 | **bring about** | вызвать; привести к | sep | What brought about the change? | |

@@ -23,13 +23,13 @@
 
 Большую группу глаголов всегда сопровождает герундий. Их нужно знать — правила нет.
 
-Глаголы с герундием: enjoy, avoid, finish, suggest, consider, admit, deny, mind, keep, practise, imagine, miss, risk, can't help, give up, put off, look forward to, can't stand, feel like, involve, delay, recommend, dislike, mention, resist, justify, regret (о прошлом), remember (о прошлом), forget (о прошлом), stop (прекратить), try (в значении «попробовать как метод»).
+Глаголы с герундием: enjoy, avoid, finish, suggest, consider, admit, deny, mind, keep, practice, imagine, miss, risk, can't help, give up, put off, look forward to, can't stand, feel like, involve, delay, recommend, dislike, mention, resist, justify, regret (о прошлом), remember (о прошлом), forget (о прошлом), stop (прекратить), try (в значении «попробовать как метод»).
 
 - I enjoy swimming in the sea. — Мне нравится плавать в море.
 - She avoids eating sugar. — Она избегает употребления сахара.
 - He finished writing the report. — Он закончил писать отчёт.
 - They suggested going to a restaurant. — Они предложили пойти в ресторан.
-- I can't stand waiting in queues. — Я терпеть не могу стоять в очередях.
+- I can't stand waiting in line. — Я терпеть не могу стоять в очереди.
 - She gave up smoking two years ago. — Два года назад она бросила курить.
 - I'm looking forward to seeing you. — Я с нетерпением жду встречи с тобой.
 - He denied stealing the money. — Он отрицал, что украл деньги.
@@ -58,7 +58,7 @@
 
 Когда действие — тема предложения, оно выражается герундием.
 
-- Swimming is my favourite sport. — Плавание — мой любимый вид спорта.
+- Swimming is my favorite sport. — Плавание — мой любимый вид спорта.
 - Smoking is bad for your health. — Курение вредно для здоровья.
 - Learning a language takes time. — Изучение языка требует времени.
 - Making mistakes is part of the process. — Совершать ошибки — часть процесса.

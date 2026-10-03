@@ -20,14 +20,14 @@
 
 | Тема | Примеры вопросов |
 |---|---|
-| Home | Do you live in a house or a flat? What's your favourite room? |
+| Home | Do you live in a house or an apartment? What's your favorite room? |
 | Work/Study | What do you do? What do you like about it? Would you like to change your job? |
 | Hometown | Where are you from? What do you like about your city? Has it changed recently? |
 | Daily routine | What do you usually do in the morning? Do you prefer mornings or evenings? |
 | Hobbies | What do you do in your free time? Have you taken up any new hobbies recently? |
-| Food | What's your favourite food? Do you prefer eating at home or in restaurants? |
+| Food | What's your favorite food? Do you prefer eating at home or in restaurants? |
 | Weather | What's the weather like in your country? Do you prefer hot or cold weather? |
-| Travel | Do you like travelling? Where did you go on your last holiday? |
+| Travel | Do you like traveling? Where did you go on your last vacation? |
 | Reading | Do you enjoy reading? What kind of books do you like? |
 | Music | What kind of music do you listen to? Can you play an instrument? |
 | Technology | How often do you use your phone? Has technology changed your life? |

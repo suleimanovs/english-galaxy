@@ -40,7 +40,7 @@ Shall и Should формально связаны — should является п
 - You should drink more water. — Тебе следует пить больше воды.
 - She should talk to her manager about this. — Ей стоит поговорить об этом со своим руководителем.
 - You shouldn't work so hard — you'll burn out. — Тебе не стоит так много работать — ты выгоришь.
-- Should I apologise to him? — Мне стоит извиниться перед ним?
+- Should I apologize to him? — Мне стоит извиниться перед ним?
 
 **2. Обязанность и ожидание — то, что правильно или ожидается**
 
@@ -125,4 +125,4 @@ Must — сильная обязанность. Should — мягкий сове
 | must | очень сильно | внутренняя необходимость, строгая обязанность | You must wear a helmet. |
 | have to | сильно | внешняя необходимость, правила | You have to show your ID. |
 | should | мягко | совет, рекомендация, ожидание | You should drink more water. |
-| ought to | мягко | моральная обязанность (= should) | You ought to apologise. |
+| ought to | мягко | моральная обязанность (= should) | You ought to apologize. |

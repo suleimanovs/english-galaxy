@@ -56,7 +56,7 @@
 
 Наречия, которые комментируют всё предложение целиком, часто стоят в начале и отделяются запятой. Они выражают отношение говорящего, связь с предыдущим высказыванием или общую оценку.
 
-- **Unfortunately**, the project was cancelled. — К сожалению, проект был отменён.
+- **Unfortunately**, the project was canceled. — К сожалению, проект был отменён.
 - **Obviously**, we need to reconsider our approach. — Очевидно, нам нужно пересмотреть наш подход.
 - **Frankly**, I don't think this will work. — Честно говоря, я не думаю, что это сработает.
 - **Apparently**, no one was informed about the change. — По всей видимости, никто не был проинформирован об изменении.
@@ -298,7 +298,7 @@ slightly  →  fairly  →  quite  →  rather  →  pretty  →  very  →  ext
 | | | The door swung **wide** open. — Дверь распахнулась настежь. |
 | | | He was **wide** awake. — Он был совершенно не сонный. |
 | **widely** | широко (в переносном смысле, о распространённости) | This method is **widely** used. — Этот метод широко используется. |
-| | | He has **widely** travelled. — Он много путешествовал. |
+| | | He has **widely** traveled. — Он много путешествовал. |
 | | | The book is **widely** regarded as a classic. — Книга повсеместно считается классикой. |
 | | | Opinions on this issue **widely** differ. — Мнения по этому вопросу сильно расходятся. |
 
@@ -379,7 +379,7 @@ slightly  →  fairly  →  quite  →  rather  →  pretty  →  very  →  ext
 
 | Неправильно | Правильно |
 |---|---|
-| The film was too interesting. (нет проблемы) | The film was **very** interesting. |
+| The movie was too interesting. (нет проблемы) | The movie was **very** interesting. |
 | It's very hot to go out. | It's **too** hot to go out. |
 
 Ошибка 5: Неправильный порядок нескольких наречий
