@@ -54,3 +54,26 @@ I suppose it is a fair price
 declare - провозглашать, обьявлять
 
 The country declared independence
+
+---
+
+involve - предполагать, подразумевать
+
+This project involves lots of work
+
+---
+
+prove - доказывать
+
+He wanna prove that he is right
+
+---
+
+report - докладывать, сообщать
+
+It was reported in the news
+
+---
+
+park - парков
+
