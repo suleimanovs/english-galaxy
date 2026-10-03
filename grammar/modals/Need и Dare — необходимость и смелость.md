@@ -21,7 +21,7 @@ Need  +  подлежащее  +  V?
 
 - You needn't worry — everything is fine. — Тебе не нужно беспокоиться — всё хорошо.
 - She needn't come if she doesn't want to. — Ей не нужно приходить, если она не хочет.
-- Need I say more? — Мне нужно говорить больше? (риторический вопрос)
+- Need I say more? — Нужно ли говорить что-то ещё? (риторический вопрос)
 - Needn't he tell her? — Ему не нужно говорить ей? (формально)
 
 > [!note]

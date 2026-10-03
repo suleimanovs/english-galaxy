@@ -122,7 +122,7 @@ V3 используется в образовании Perfect-форм и пас
 
 | Герундий (существительное) | Present Participle (описание) |
 |---|---|
-| Swimming is good for you. (плавание — тема) | The swimming child looked happy. (плавающий — описание) |
+| Swimming is good for you. (плавание — тема) | The sleeping child looked happy. (спящий — описание) |
 | I enjoy reading. (чтение — дополнение) | She sat there, reading quietly. (читая — обстоятельство) |
 
 Ошибка 2: Висячее причастие

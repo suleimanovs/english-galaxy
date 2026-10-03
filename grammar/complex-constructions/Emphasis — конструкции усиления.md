@@ -47,7 +47,7 @@ tags: [grammar, complex]
 
 **2. At all — усиление отрицания:**
 
-- I don't mind **at all**. — Мне совсем не возражаю.
+- I don't mind **at all**. — Я совсем не против.
 - She didn't help **at all**. — Она совсем не помогла.
 - Is there any chance **at all**? — Есть ли хоть какой-то шанс?
 
@@ -92,7 +92,7 @@ tags: [grammar, complex]
 | Sit down. | **Do** sit down! | Emphatic imperative |
 | I agree. | I **absolutely** agree. | Наречие |
 | I saw it. | I **myself** saw it. | Возвратное местоимение |
-| I need this book. | **This** is the **very** book I need. | Very + cleft |
+| I need this book. | **This** is the **very** book I need. | very = «именно этот» |
 
 ---
 

@@ -43,7 +43,7 @@ tags: [grammar, articles]
 | **Позиция** | All + (the) + noun | The/a + whole + noun |
 | **С uncountable** | All (the) water | — (не используется) |
 | **С plural** | All (the) students | — (не используется) |
-| **С singular countable** | All the day / all day | The whole day |
+| **С singular countable** | all day / all the time | the whole day |
 
 - **All** (the) students passed. — Все студенты сдали.
 - **All** (the) money is gone. — Все деньги пропали.
@@ -152,4 +152,4 @@ tags: [grammar, articles]
 
 | Неправильно | Правильно |
 |---|---|
-| All day I was working. (допустимо) | I was working **all day**. / I was working **the whole day**. |
+| I was working all the day. | I was working **all day**. / I was working **the whole day**. |

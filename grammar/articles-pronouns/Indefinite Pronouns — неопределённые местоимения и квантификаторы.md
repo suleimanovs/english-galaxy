@@ -36,7 +36,7 @@ tags: [grammar, articles]
 
 - Is **anybody** home? — Кто-нибудь дома?
 - I can't find **anything**. — Я не могу ничего найти.
-- Have you been **anywhere** interesting? — Ты был где-нибудь интересном?
+- Have you been **anywhere** interesting? — Ты был где-нибудь в интересном месте?
 - If **anyone** calls, take a message. — Если кто-нибудь позвонит, запиши сообщение.
 
 **Any-** в утверждениях — значение «любой»:

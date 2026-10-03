@@ -67,7 +67,7 @@ Will  +  подлежащее  +  have  +  V3?
 
 С by + время и указанием продолжительности.
 
-- By next month, I will have been living here for ten years. — К следующему месяцу я буду жить здесь уже десять лет. (здесь пересекается с Future Perfect Continuous — подробнее в следующем файле)
+- By next month, I will have lived here for ten years. — К следующему месяцу я проживу здесь уже десять лет. (с глаголами состояния — Future Perfect; для подчёркивания процесса — [[Future Perfect Continuous — will have been + ing]])
 - By the time she retires, she will have taught for 35 years. — К моменту выхода на пенсию она проработает учителем 35 лет.
 
 ---

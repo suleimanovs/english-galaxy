@@ -73,9 +73,9 @@ tags: [grammar, misc]
 | if | если | **If** it rains, I'll stay home. |
 | unless | если не | **Unless** you hurry, you'll be late. |
 | provided (that) | при условии что | I'll help **provided that** you try. |
-| as long as | пока, при условии что | Stay **as long as** you like. |
+| as long as | при условии что | You can stay **as long as** you're quiet. |
 | in case | на случай если | Take a jacket **in case** it gets cold. |
-| whether | независимо от того, или нет | Tell me **whether** you're coming. |
+| whether … or not | независимо от того, … или нет | I'm going **whether** you like it **or not**. |
 
 **Уступка (противопоставление):**
 

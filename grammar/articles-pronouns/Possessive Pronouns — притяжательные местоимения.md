@@ -103,7 +103,7 @@ tags: [grammar, articles]
 | The cat licked it's paw. | The cat licked its paw. |
 | Its a beautiful day. | It's a beautiful day. |
 
-Ошибка 3: Их vs there vs they're
+Ошибка 3: Their vs there vs they're
 
 Смежная путаница в письме:
 - **their** — притяжательное (их): *their house*

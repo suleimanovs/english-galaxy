@@ -87,7 +87,7 @@ Whose используется для людей и вещей, заменяет
 
 - The person **who I spoke to** was very helpful. — Человек, с которым я разговаривал, был очень полезен.
 - The company **that I applied for** didn't call back. — Компания, в которую я подал заявку, не перезвонила.
-- The hotel **where we stayed at** was excellent.
+- The hotel **where we stayed** was excellent. (не: *where we stayed at* — where уже содержит предлог)
 
 В формальном языке предлог переносится перед whom/which:
 

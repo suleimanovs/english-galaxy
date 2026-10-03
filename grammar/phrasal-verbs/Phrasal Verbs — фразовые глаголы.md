@@ -6,7 +6,7 @@ tags: [grammar, phrasal]
 ---
 > Фразовые глаголы (phrasal verbs) — это сочетание глагола с частицей (предлогом или наречием), которое создаёт совершенно новое значение, не выводимое из значений отдельных слов.
 
-Для русскоязычных студентов фразовые глаголы представляют особую сложность по двум причинам: во-первых, их значение нельзя угадать из составных частей — *break down* не имеет ничего общего с *break* («ломать») и *down* («вниз»); во-вторых, в русском языке нет грамматической аналогии этому явлению. Кроме того, у фразовых глаголов есть строгие правила — одни можно «разрывать» объектом, другие нет, и ошибка в этом сразу выдаёт нерусского носителя.
+Для русскоязычных студентов фразовые глаголы представляют особую сложность по двум причинам: во-первых, их значение нельзя угадать из составных частей — *break down* не имеет ничего общего с *break* («ломать») и *down* («вниз»); во-вторых, в русском языке нет грамматической аналогии этому явлению. Кроме того, у фразовых глаголов есть строгие правила — одни можно «разрывать» объектом, другие нет, и ошибка в этом сразу выдаёт неносителя.
 
 ---
 
@@ -126,7 +126,7 @@ She gave up.         ✓
 | Фразовый глагол | Перевод | Пример |
 |---|---|---|
 | work out | тренироваться | She works out every morning. |
-| work out | решиться; получиться | Everything worked out in the end. |
+| work out | уладиться; сложиться | Everything worked out in the end. |
 | work out | посчитать, вычислить | Can you work out the total cost? |
 | work on | работать над | He's working on a new project. |
 | work through | проработать (проблему) | We need to work through these issues. |
@@ -178,7 +178,7 @@ She gave up.         ✓
 | break down | сломаться; расплакаться; рухнуть | The car broke down. / She broke down in tears. |
 | sort out | решить проблему, разобраться | We need to sort out this situation. |
 | deal with | справляться с | How do you deal with stress? |
-| work out | решиться; получиться | I hope everything works out for you. |
+| work out | уладиться; сложиться | I hope everything works out for you. |
 | fall through | сорваться (о планах) | The deal fell through at the last minute. |
 | come up | возникнуть неожиданно | Something came up and I can't make it. |
 | run out of | заканчиваться (запасы) | We've run out of coffee. |
@@ -248,8 +248,8 @@ She gave up.         ✓
 
 | Дословный перевод (ошибка) | Правильный фразовый глагол |
 |---|---|
-| *make a child* (сделать ребёнка) в смысле «воспитать» | bring up a child |
-| *return* вместо «возникнуть неожиданно» | come up |
+| *educate a child* / *grow a child* в смысле «воспитать» | bring up / raise a child |
+| *something appeared* / *arose* вместо «возникнуть неожиданно» (о проблеме, деле) | something came up |
 | *meet accidentally* | run into / come across |
 | *continue* в значении «продолжай!» | carry on / go on |
 

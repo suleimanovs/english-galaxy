@@ -279,7 +279,7 @@ slightly  →  fairly  →  quite  →  rather  →  pretty  →  very  →  ext
 | **free** | бесплатно | You can download it **free**. — Это можно скачать бесплатно. |
 | | | Children travel **free** on this bus. — Дети едут в этом автобусе бесплатно. |
 | **freely** | свободно, без ограничений | You can speak **freely** here. — Здесь можно говорить свободно. |
-| | | Information **freely** available online. — Информация, свободно доступная в интернете. |
+| | | The information is **freely** available online. — Информация свободно доступна в интернете. |
 | | | She **freely** admitted her mistake. — Она открыто признала свою ошибку. |
 
 ---
@@ -306,7 +306,7 @@ slightly  →  fairly  →  quite  →  rather  →  pretty  →  very  →  ext
 | | | The door swung **wide** open. — Дверь распахнулась настежь. |
 | | | He was **wide** awake. — Он был совершенно не сонный. |
 | **widely** | широко (в переносном смысле, о распространённости) | This method is **widely** used. — Этот метод широко используется. |
-| | | He has **widely** traveled. — Он много путешествовал. |
+| | | He has traveled **widely**. — Он много путешествовал. |
 | | | The book is **widely** regarded as a classic. — Книга повсеместно считается классикой. |
 | | | Opinions on this issue **widely** differ. — Мнения по этому вопросу сильно расходятся. |
 

@@ -273,7 +273,7 @@ tags: [grammar, phrasal]
 | 160 | **wear out** | вымотать | sep | The long walk wore me out. | |
 | 161 | **wipe out** | уничтожить; стереть | sep | The flood wiped out the village. | |
 | 162 | **work out** | тренироваться | intrans | She works out every day. | |
-| 163 | **work out** | решиться; сложиться | intrans | Everything worked out fine. | |
+| 163 | **work out** | уладиться; сложиться | intrans | Everything worked out fine. | |
 | 164 | **work out** | посчитать; вычислить | sep | Work out the total. | |
 | 165 | **work on** | работать над | insep | He's working on a new project. | |
 | 166 | **wrap up** | завернуть | sep | Wrap up the gift. | |

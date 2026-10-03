@@ -128,7 +128,7 @@ It is + прилагательное + that + подлежащее + V (base for
 - I suggest that he **not go** there alone. — Я предлагаю, чтобы он не ходил туда один.
 - It is important that she **not be** late. — Важно, чтобы она не опоздала.
 - The doctor recommended that he **not drink** alcohol. — Врач рекомендовал ему не пить алкоголь.
-- The manager insisted that no one **not leave** before the meeting ends. — Менеджер настоял, чтобы никто не уходил до окончания собрания.
+- The manager insisted that no one **leave** before the meeting ends. — Менеджер настоял, чтобы никто не уходил до окончания собрания.
 - They requested that he **not contact** the witnesses. — Они попросили, чтобы он не связывался со свидетелями.
 
 ---
@@ -206,4 +206,4 @@ Subjunctive сохранился в нескольких фиксированн�
 | If I was you... | If I **were** you... |
 | I wish I was taller. | I wish I **were** taller. |
 | She acts as if she was in charge. | She acts as if she **were** in charge. |
-| It's time he was more careful. | It's time he **were** more careful. |
+| It's time he **is** more careful. | It's time he **was** more careful. (после it's time — Past Simple; were — книжный вариант) |

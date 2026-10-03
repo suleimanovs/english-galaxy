@@ -18,7 +18,7 @@ If + Present Simple  ,  Present Simple
 
 If-clause (условие) и main clause (результат) — оба в Present Simple. Порядок частей можно менять; если main clause стоит первым — запятая не нужна.
 
-- If you heat water to 100°C, it boils. — Если нагреть воду до 100°C, она закипит.
+- If you heat water to 100°C, it boils. — Если нагреть воду до 100°C, она кипит.
 - Water boils if you heat it to 100°C. — (без запятой, если условие в конце)
 - If it rains, the ground gets wet. — Если идёт дождь, земля намокает.
 - If you don't sleep enough, you feel tired. — Если не высыпаться, чувствуешь усталость.

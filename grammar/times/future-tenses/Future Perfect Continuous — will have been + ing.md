@@ -100,7 +100,7 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 | Future Perfect Simple (результат) | Future Perfect Continuous (процесс) |
 |---|---|
 | By Friday, I will have written the report. (отчёт будет готов) | By Friday, I will have been writing the report for a week. (пишу уже неделю) |
-| She will have read the book by Monday. (книга будет прочитана) | She will have been reading all weekend. (читала всё выходные) |
+| She will have read the book by Monday. (книга будет прочитана) | She will have been reading all weekend. (читала все выходные) |
 
 Ошибка 2: Будущее время в придаточном
 

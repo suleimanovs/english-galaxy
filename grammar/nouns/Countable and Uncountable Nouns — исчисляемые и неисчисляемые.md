@@ -24,7 +24,7 @@ tags: [grammar, nouns]
 
 - Только единственное число: water, music, information
 - Глагол всегда в единственном числе: The information **is** correct.
-- Квантификаторы: **much**, **little**, **a little**, **a great deal of**, **an amount of**
+- Квантификаторы: **much**, **little**, **a little**, **a great deal of**, **a large amount of**
 
 ---
 

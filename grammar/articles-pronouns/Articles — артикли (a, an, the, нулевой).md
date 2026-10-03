@@ -91,7 +91,7 @@ tags: [grammar, articles]
 | океаны и моря: the Pacific, the Black Sea | континенты: Europe, Asia, Africa |
 | группы островов: the Maldives, the Philippines | большинство стран: Russia, France, Japan |
 | страны с plural или republic/kingdom: the USA, the UK, the Netherlands, the Czech Republic | города: Moscow, Paris, London |
-| пустыни и полуострова: the Sahara, the Crimea | улицы: Oxford Street, Fifth Avenue |
+| пустыни и полуострова: the Sahara, the Gobi, the Iberian Peninsula | улицы: Oxford Street, Fifth Avenue |
 
 **7. Национальности как группа:**
 - **The French** are known for their cuisine. — Французы известны своей кухней.

@@ -20,7 +20,7 @@ tags: [grammar, complex]
 |---|---|
 | Прямой вопрос | Are you ready? / Did she call? |
 | So/Neither в кратком согласии | "I'm tired." — "So am I." |
-| After отрицательных наречий в начале предложения | Never have I seen this. |
+| После отрицательных наречий в начале предложения | Never have I seen this. |
 
 **Стилистическая (необязательная) инверсия** — автор выбирает её для эффекта: формальности, драматизма, книжного тона. Без инверсии предложение останется правильным, но потеряет акцент:
 
@@ -186,7 +186,7 @@ No sooner + had + подлежащее + V3 + than + Past Simple
 - So + прилагательное/наречие: *She is so talented.*
 - Such + существительное: *It was such a good film.*
 
-Эти конструкции **не** требуют инверсии в современном языке. В старой литературе можно встретить *So great was his anger that...* — здесь инверсия есть, но это архаичная и поэтическая конструкция, не входящая в современный стандарт.
+Эти конструкции **не** требуют инверсии в современном языке. В старой литературе можно встретить *So great was his anger that...* — здесь инверсия есть; такой вынос прилагательного (*So great was… / Such was…*) встречается и сегодня, но только в формальном и литературном стиле.
 
 ---
 
@@ -233,7 +233,7 @@ No sooner + had + подлежащее + V3 + than + Past Simple
 | После *because* | Because did he arrive late, he missed it. | Because he arrived late, he missed it. |
 | После *when* (придаточное) | When did she arrive, everyone clapped. | When she arrived, everyone clapped. |
 | В косвенной речи | He said that was he tired. | He said that he was tired. |
-| After *so* в значении «поэтому» | It was raining, so did we stay home. | It was raining, so we stayed home. |
+| После *so* в значении «поэтому» | It was raining, so did we stay home. | It was raining, so we stayed home. |
 
 > Главное правило: инверсия нужна **только** после конкретных выражений из списка выше, а также в прямых вопросах. Все остальные союзы и союзные слова (although, because, when, if в обычном предложении, so в значении «поэтому») инверсии **не требуют**.
 

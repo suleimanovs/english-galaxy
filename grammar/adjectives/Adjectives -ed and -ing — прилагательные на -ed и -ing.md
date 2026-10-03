@@ -40,8 +40,8 @@ tags: [grammar, adj]
 | relaxed — я расслаблен | relaxing — расслабляющий | relax |
 | depressed — я подавлен | depressing — удручающий | depress |
 | exhausted — я изнурён | exhausting — изнуряющий | exhaust |
-| fascinated — я очарован | fascinating — очаровательный | fascinate |
-| frustrated — я расстроен | frustrating — расстраивающий | frustrate |
+| fascinated — я увлечён, заворожён | fascinating — увлекательный, захватывающий | fascinate |
+| frustrated — я раздосадован, в отчаянии | frustrating — досадный, выводящий из себя | frustrate |
 | motivated — я мотивирован | motivating — мотивирующий | motivate |
 | overwhelmed — я подавлен | overwhelming — подавляющий | overwhelm |
 
@@ -53,7 +53,7 @@ tags: [grammar, adj]
 - This book is **interesting**. I'm very **interested** in it. — Книга интересная. Мне очень интересно.
 - The news was **shocking**. We were **shocked**. — Новости были шокирующие. Мы были шокированы.
 - The trip was **exhausting**. I'm **exhausted**. — Поездка была изнуряющей. Я изнурён.
-- His behavior is **annoying**. I'm **annoyed** with him. — Его поведение раздражает. Я раздражён на него.
+- His behavior is **annoying**. I'm **annoyed** with him. — Его поведение раздражает. Он меня раздражает.
 
 ---
 

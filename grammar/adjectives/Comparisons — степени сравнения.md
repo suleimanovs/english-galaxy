@@ -99,7 +99,7 @@ tags: [grammar, adj]
 **Усиление превосходной степени:**
 
 - She's **by far the best** student in the group. — Она безусловно лучшая студентка в группе.
-- This is **easily the most beautiful** place I've ever seen. — Это, пожалуй, самое красивое место, которое я когда-либо видел.
+- This is **easily the most beautiful** place I've ever seen. — Это, безусловно, самое красивое место, которое я когда-либо видел.
 
 ---
 

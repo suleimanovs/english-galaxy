@@ -90,7 +90,7 @@ If + Past Perfect  ,  would have + V3
 | If I knew earlier, I would have helped. | If I had known earlier, I would have helped. |
 | If she didn't miss the bus, she'd have been on time. | If she hadn't missed the bus, she would have been on time. |
 
-Ошибка 3: Путать'd как had и'd как would
+Ошибка 3: Путать 'd как had и 'd как would
 
 В разговорной речи обе формы выглядят одинаково — только контекст помогает разобраться.
 

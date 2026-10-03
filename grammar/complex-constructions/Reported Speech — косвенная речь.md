@@ -23,7 +23,7 @@ tags: [grammar, complex]
 | can | could |
 | may | might |
 | must | had to |
-| shall | would |
+| shall | would (будущее); should — в предложениях: *Shall I help?* → He asked if he **should** help |
 
 Примеры сдвига:
 

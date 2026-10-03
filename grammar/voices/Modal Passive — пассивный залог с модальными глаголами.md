@@ -58,7 +58,7 @@ tags: [grammar, voices]
 
 - All forms **must be completed** in full. — Все формы должны быть заполнены полностью.
 - The equipment **must be checked** before use. — Оборудование должно быть проверено перед использованием.
-- Seat belts **must be worn** at all times. — Ремни безопасности должны быть пристёгнуты в любое время.
+- Seat belts **must be worn** at all times. — Ремни безопасности должны быть пристёгнуты постоянно.
 - This information **must not be shared** with third parties. — Эта информация не должна передаваться третьим лицам.
 
 ---
@@ -70,7 +70,7 @@ tags: [grammar, voices]
 **Значение:** рекомендуется, ожидается, было бы правильно; мягче, чем must.
 
 - The report **should be submitted** by Monday. — Отчёт следует сдать к понедельнику.
-- Children **should be supervised** at all times. — Дети должны быть под наблюдением в любое время.
+- Children **should be supervised** at all times. — Дети должны постоянно быть под присмотром.
 - Conflicts **should be resolved** through dialogue. — Конфликты следует решать через диалог.
 - The results **should be verified** before publication. — Результаты следует проверить перед публикацией.
 
@@ -123,7 +123,7 @@ tags: [grammar, voices]
 
 - The offer **would be accepted** under different conditions. — Предложение было бы принято при других условиях.
 - More progress **would be made** with better funding. — Больший прогресс был бы достигнут при лучшем финансировании.
-- It **would be appreciated** if you could reply soon. — Было бы признательно, если бы вы ответили скоро.
+- It **would be appreciated** if you could reply soon. — Мы были бы признательны за скорый ответ.
 - The plan **would be improved** by adding more detail. — План был бы улучшен при добавлении большего количества деталей.
 
 ---
@@ -134,7 +134,7 @@ tags: [grammar, voices]
 
 **Значение:** моральная обязанность, то, что правильно или справедливо; близко к should, но с более сильным моральным оттенком.
 
-- People **ought to be treated** with respect. — Люди должны быть treated с уважением.
+- People **ought to be treated** with respect. — К людям следует относиться с уважением.
 - The truth **ought to be told**. — Правда должна быть рассказана.
 - Such mistakes **ought to be prevented**. — Такие ошибки должны быть предотвращены.
 - Workers **ought to be paid** fairly. — Работники должны получать справедливую оплату.

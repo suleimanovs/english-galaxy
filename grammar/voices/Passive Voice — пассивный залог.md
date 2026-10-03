@@ -147,7 +147,7 @@ Passive Voice (пассивный залог) это конструкция, п�
 |---|---|
 | The report write every week. | The report is written every week. |
 | The car stolen last night. | The car was stolen last night. |
-| The bridge build since last year. | The bridge has been built since last year. |
+| The bridge build last year. | The bridge **was built** last year. / The bridge **has been under construction** since last year. |
 
 Ошибка 2: Использовать have вместо be в пассиве
 

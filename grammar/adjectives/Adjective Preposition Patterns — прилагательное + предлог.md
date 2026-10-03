@@ -213,7 +213,7 @@ tags: [grammar, adj]
 | бояться **чего-то** (род. пад.) | afraid **from** dogs ✗ | afraid **of** dogs ✓ |
 | хорош **в** чём-то | good **in** math ✗ | good **at** math ✓ |
 | женат **на** ком-то | married **with** a doctor ✗ | married **to** a doctor ✓ |
-| отличается **от** чего-то | different **to** / different **than** (BR/US разногласие, но OF — точно нет) → | different **from** ✓ (наиболее универсально) |
+| отличается **от** чего-то | different **of** ✗ | different **from** ✓ (AmE также different **than**; different **to** — BrE) |
 | злиться **на** кого-то | angry **on** me ✗ | angry **with** me ✓ |
 | благодарен **за** что-то | grateful **about** your help ✗ | grateful **for** your help ✓ |
 | доволен **чем-то** | satisfied **about** ✗ | satisfied **with** ✓ |

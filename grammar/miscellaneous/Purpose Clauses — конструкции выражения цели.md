@@ -74,12 +74,12 @@ so as not to     +  V
 - He turned off his phone **so as not to** be disturbed. — Он выключил телефон, чтобы его не беспокоили.
 
 > [!note]
-> В разговорном американском английском можно услышать **not to** или даже **to not** (split infinitive), однако в письменном и формальном английском корректная форма — **in order not to** / **so as not to**. Форма *to not* считается неформальной и в академическом письме её следует избегать.
+> Простое **not to** (*Try not to be late*) — полностью стандартная форма в любом регистре. **In order not to / so as not to** звучат формальнее и подчёркивают цель. А вот **to not** (split infinitive: *He left to not miss the train*) — разговорный вариант, которого в письменной речи лучше избегать. Форма *to not* считается неформальной и в академическом письме её следует избегать.
 
 | Неформально (устная речь) | Формально (письменный язык) |
 |---|---|
 | Try to not be late. | Try **not to** be late. |
-| He left to not miss the train. | He left **in order not to** miss the train. |
+| He left to not miss the train. | He left **not to** miss the train. / He left **in order not to** miss the train. |
 
 ---
 
@@ -250,5 +250,5 @@ so as not to     +  V
 
 | Ситуация | Неправильно | Правильно |
 |---|---|---|
-| Одинаковые подлежащие | I study so that I can pass the exam. | I study **to pass** the exam. *(оба правильны, но to короче)* |
+| Одинаковые подлежащие | I study so that I can pass the exam. *(правильно, но длиннее)* | I study **to pass** the exam. *(естественнее)* |
 | Разные подлежащие | I explain it **to** you understand. | I explain it **so that you can** understand. |

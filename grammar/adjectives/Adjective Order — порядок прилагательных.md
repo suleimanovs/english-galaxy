@@ -30,7 +30,7 @@ tags: [grammar, adj]
 - a **beautiful long red silk** dress — (мнение + размер + цвет + материал)
 - an **expensive new Italian** car — (мнение + возраст + происхождение)
 - a **small black leather** bag — (размер + цвет + материал)
-- **ugly old square brown French wooden** boxes — (все категории)
+- **ugly big old square brown French wooden storage** boxes — (все восемь категорий)
 
 ---
 
@@ -70,5 +70,6 @@ tags: [grammar, adj]
 Ошибка 2: Запятые между прилагательными разных категорий
 
 Запятые ставятся **только** между прилагательными одной категории:
-- a tall, handsome man [OK — оба мнение/описание]
+- a kind, generous man ✓ (оба — мнение; между ними запятая)
+- a tall handsome man → естественнее **a handsome tall man** (мнение перед размером, без запятой)
 - a big red ball [OK — без запятой, разные категории]

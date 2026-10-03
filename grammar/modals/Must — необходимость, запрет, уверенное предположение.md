@@ -29,7 +29,8 @@ Must выражает обязанность, которая исходит от
 - I must call my parents — I haven't spoken to them in weeks. — Я должен позвонить родителям — я не разговаривал с ними несколько недель. (внутреннее ощущение)
 - You must try this cake — it's amazing! — Ты обязан попробовать этот торт — он потрясающий!
 - We must leave now or we'll miss the train. — Нам нужно уходить прямо сейчас, иначе опоздаем на поезд.
-- Students must submit their work by Friday. — Студенты должны сдать работу до пятницы.
+- I must finish this report today — I promised. — Я должен закончить отчёт сегодня, я обещал.
+- Students must submit their work by Friday. — Студенты должны сдать работу до пятницы. (письменные правила и инструкции: must звучит как требование автора правил)
 
 **2. Запрет — mustn't**
 
