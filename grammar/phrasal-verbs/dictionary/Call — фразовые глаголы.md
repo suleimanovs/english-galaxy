@@ -5,7 +5,7 @@ tags: [grammar, phrasal]
 ---
 Базовый глагол **call** — звонки, отмены и визиты.
 
-← [[Phrasal Verbs Dictionary — Introduction|Назад к словарю]]
+← [[Phrasal Verbs Dictionary Introduction|Назад к словарю]]
 
 ---
 

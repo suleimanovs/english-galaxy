@@ -1,8 +1,8 @@
 ---
 type: topic
-section: misc
+section: complex
 level: B2
-tags: [grammar, misc]
+tags: [grammar, complex]
 ---
 Косвенные просьбы и приказы (Reported Requests & Commands) — это часть косвенной речи (подробно разобрана в файле Reported Speech), но вынесена отдельно, потому что структура здесь принципиально отличается от косвенных утверждений и вопросов.
 

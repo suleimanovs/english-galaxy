@@ -5,7 +5,7 @@ tags: [grammar, phrasal]
 ---
 Базовый глагол **take** охватывает широкий спектр значений: от буквального «снять» до «взять на себя», «увлечься» и «пойти в кого-то».
 
-← [[Phrasal Verbs Dictionary — Introduction|Назад к словарю]]
+← [[Phrasal Verbs Dictionary Introduction|Назад к словарю]]
 
 ---
 

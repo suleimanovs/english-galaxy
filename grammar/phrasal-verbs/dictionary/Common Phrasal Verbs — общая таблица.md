@@ -5,7 +5,7 @@ tags: [grammar, phrasal]
 ---
 Фразовые глаголы, у которых базовый глагол образует до 4 вариаций. Сгруппированы по базовому глаголу в алфавитном порядке.
 
-← [[Phrasal Verbs Dictionary — Introduction|Назад к словарю]]
+← [[Phrasal Verbs Dictionary Introduction|Назад к словарю]]
 
 ---
 

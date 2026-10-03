@@ -5,7 +5,7 @@ tags: [grammar, phrasal]
 ---
 Базовый глагол **fall** — падение, разрушение и неожиданные ситуации.
 
-← [[Phrasal Verbs Dictionary — Introduction|Назад к словарю]]
+← [[Phrasal Verbs Dictionary Introduction|Назад к словарю]]
 
 ---
 

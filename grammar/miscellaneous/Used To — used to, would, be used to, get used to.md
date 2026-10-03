@@ -62,12 +62,12 @@ tags: [grammar, misc]
 
 > [!note]
 > **Would нельзя использовать с глаголами состояния** (be, have, like, know, live, believe, want):
-- I **used to** live in Moscow. [OK]
+- I **used to** live in Moscow. ✓
 - *I **would** live in Moscow.* ✗
 
 > [!note]
 > **Would** обычно требует предварительного контекста — вводной фразы вроде *When I was a child...*, *Every summer...*:
-- When I was young, I **would** spend hours playing outside. [OK]
+- When I was young, I **would** spend hours playing outside. ✓
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 type: topic
-section: complex
+section: adj
 level: A2
-tags: [grammar, complex]
+tags: [grammar, adj]
 ---
 Сравнения (Comparisons) в английском передают отношения «больше/меньше», «так же как» и «самый». У прилагательных и наречий есть три степени сравнения: положительная (big), сравнительная (bigger) и превосходная (biggest).
 

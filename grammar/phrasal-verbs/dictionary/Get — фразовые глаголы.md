@@ -5,7 +5,7 @@ tags: [grammar, phrasal]
 ---
 Базовый глагол **get** — один из самых продуктивных в английском. С разными частицами образует более десятка фразовых глаголов с совершенно разными значениями.
 
-← [[Phrasal Verbs Dictionary — Introduction|Назад к словарю]]
+← [[Phrasal Verbs Dictionary Introduction|Назад к словарю]]
 
 ---
 

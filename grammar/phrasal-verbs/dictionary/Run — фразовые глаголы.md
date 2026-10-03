@@ -5,7 +5,7 @@ tags: [grammar, phrasal]
 ---
 Базовый глагол **run** — движение, столкновения и исчерпание ресурсов.
 
-← [[Phrasal Verbs Dictionary — Introduction|Назад к словарю]]
+← [[Phrasal Verbs Dictionary Introduction|Назад к словарю]]
 
 ---
 

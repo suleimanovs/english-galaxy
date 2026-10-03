@@ -5,7 +5,7 @@ tags: [grammar, phrasal]
 ---
 Базовый глагол **give** — отдача, уступка и распределение в разных контекстах.
 
-← [[Phrasal Verbs Dictionary — Introduction|Назад к словарю]]
+← [[Phrasal Verbs Dictionary Introduction|Назад к словарю]]
 
 ---
 

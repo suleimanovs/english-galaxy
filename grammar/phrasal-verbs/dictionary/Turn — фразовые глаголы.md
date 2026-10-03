@@ -5,7 +5,7 @@ tags: [grammar, phrasal]
 ---
 Базовый глагол **turn** описывает изменения направления, состояния и переключения. Один из самых «электрических» глаголов — часто связан с включением/выключением.
 
-← [[Phrasal Verbs Dictionary — Introduction|Назад к словарю]]
+← [[Phrasal Verbs Dictionary Introduction|Назад к словарю]]
 
 ---
 

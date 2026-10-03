@@ -5,7 +5,7 @@ tags: [grammar, phrasal]
 ---
 Базовый глагол **bring** связан с доставкой, возвращением и вызыванием (темы, эмоции, изменения).
 
-← [[Phrasal Verbs Dictionary — Introduction|Назад к словарю]]
+← [[Phrasal Verbs Dictionary Introduction|Назад к словарю]]
 
 ---
 

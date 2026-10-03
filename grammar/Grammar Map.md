@@ -13,17 +13,17 @@ tags: [grammar, resources]
 
 | Раздел | Введение |
 | --- | --- |
-| Времена | [[Времена в английском]] · [[Present Tenses Introduction — Настоящие времена\|Настоящие]] · [[Past Tenses Introduction - Прошедшие времена\|Прошедшие]] · [[Future Tenses Introduction\|Будущие]] · [[Future Additional Introduction\|Будущее без will]] |
+| Времена | [[Времена в английском]] · [[Present Tenses Introduction — Настоящие времена\|Настоящие]] · [[Past Tenses Introduction — Прошедшие времена\|Прошедшие]] · [[Future Tenses Introduction\|Будущие]] · [[Future Additional Introduction\|Будущее без will]] |
 | Артикли и местоимения | [[Articles and Pronouns Introduction]] |
 | Существительные | [[Nouns Introduction]] |
 | Прилагательные | [[Adjectives Introduction]] |
 | Модальные глаголы | [[Modals Introduction]] |
 | Неличные формы | [[Non-Finite Forms Introduction]] |
-| Залог | [[Voice Introduction]] |
+| Залог | [[Voices Introduction]] |
 | Условные предложения | [[Conditionals Introduction]] |
 | Сложные конструкции | [[Complex Constructions Introduction]] |
 | Разное | [[Miscellaneous Introduction]] |
-| Фразовые глаголы | [[Complex Introduction\|Phrasal Verbs Introduction]] · [[Phrasal Verbs Dictionary — Introduction\|Словарь]] · [[Particles Reference\|Частицы]] |
+| Фразовые глаголы | [[Phrasal Verbs Introduction\|Phrasal Verbs Introduction]] · [[Phrasal Verbs Dictionary Introduction\|Словарь]] · [[Particles Reference\|Частицы]] |
 | Произношение | [[Pronunciation Introduction]] |
 | Разговорная речь | [[Speaking Introduction]] |
 | Письмо | [[Writing Introduction]] |
@@ -60,7 +60,7 @@ tags: [grammar, resources]
 | [[Present Perfect — Настоящее совершённое время]] | Времена |
 | [[Countable and Uncountable Nouns — исчисляемые и неисчисляемые]] | Существительные |
 | [[Possessive Case — притяжательный падеж ('s vs of)]] | Существительные |
-| [[Comparisons — степени сравнения]] | Сложные конструкции |
+| [[Comparisons — степени сравнения]] | Прилагательные |
 | [[Adjectives -ed and -ing — прилагательные на -ed и -ing]] | Прилагательные |
 | [[Reflexive Pronouns — возвратные местоимения]] | Местоимения |
 | [[Must — необходимость, запрет, уверенное предположение]] | Модальные |
@@ -117,7 +117,7 @@ tags: [grammar, resources]
 | [[Participle — причастие (Participle I и Participle II)]] | Неличные формы |
 | [[Causative — have, get something done]] | Сложные конструкции |
 | [[Embedded Questions — косвенные вопросы]] | Сложные конструкции |
-| [[Reported Requests — косвенные просьбы и приказы]] | Разное |
+| [[Reported Requests — косвенные просьбы и приказы]] | Сложные конструкции |
 | [[Ought To — моральная обязанность]] | Модальные |
 | [[Need и Dare — необходимость и смелость]] | Модальные |
 | [[Purpose Clauses — конструкции выражения цели]] | Разное |

@@ -78,18 +78,18 @@ Subject + Verb + Object + Manner + Place + Time
 > [!note]
 > Не между глаголом и дополнением:
 - *She speaks fluently English.* ✗
-- She speaks English fluently. [OK]
+- She speaks English fluently. ✓
 
 **4. Наречия места — тот же запрет: не между глаголом и дополнением:**
 
 > [!note]
 > Наречие места (here, there, abroad, upstairs и т.д.) не может вставать между глаголом и его прямым дополнением:
 - *She took abroad her children.* ✗
-- She took her children **abroad**. [OK]
+- She took her children **abroad**. ✓
 - *He put outside the trash can.* ✗
-- He put the trash can **outside**. [OK]
+- He put the trash can **outside**. ✓
 - *They sent there the package.* ✗
-- They sent the package **there**. [OK]
+- They sent the package **there**. ✓
 
 Дополнение должно стоять между глаголом и наречием места, а не наоборот.
 
@@ -219,9 +219,9 @@ Subject + Verb + Object + Manner + Place + Time
 > [!note]
 > Типичная ошибка — сохранять инверсию во вложенном вопросе:
 - *I wonder where **is he**.* ✗
-- I wonder where **he is**. [OK]
+- I wonder where **he is**. ✓
 - *Tell me what **does she do**.* ✗
-- Tell me what **she does**. [OK]
+- Tell me what **she does**. ✓
 
 **Конструкция с whether / if:**
 - Do you know **whether she is coming**? (не: *whether is she coming*)

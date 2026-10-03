@@ -5,7 +5,7 @@ tags: [grammar, phrasal]
 ---
 Базовый глагол **go** — один из самых частотных. С разными частицами охватывает движение, изменения, события и решения.
 
-← [[Phrasal Verbs Dictionary — Introduction|Назад к словарю]]
+← [[Phrasal Verbs Dictionary Introduction|Назад к словарю]]
 
 ---
 

@@ -5,7 +5,7 @@ tags: [grammar, phrasal]
 ---
 Базовый глагол **come** — один из самых многозначных. Фразовые глаголы с come описывают появление, возникновение, возвращение и неожиданные ситуации.
 
-← [[Phrasal Verbs Dictionary — Introduction|Назад к словарю]]
+← [[Phrasal Verbs Dictionary Introduction|Назад к словарю]]
 
 ---
 
