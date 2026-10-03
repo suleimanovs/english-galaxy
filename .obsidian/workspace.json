@@ -4,47 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "fdf7a83684f7e150",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "53cf881757d2d3e1",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "nYgMqOdc1Yk",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=nYgMqOdc1Yk"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    },
-                    "v": 1
-                  }
-                }
-              },
-              "icon": "youtube",
-              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 41"
-            }
-          }
-        ]
-      },
-      {
         "id": "cd4cb0735fcb712a",
         "type": "tabs",
         "children": [
@@ -121,12 +80,12 @@
               "title": "Файловый менеджер"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 378.7353820800781,
-    "collapsed": true
+    "width": 378.7353820800781
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -246,6 +205,8 @@
   },
   "active": "5628e3ef0240c145",
   "lastOpenFiles": [
+    "playlists/learn-5000-english-words/Lesson 40.md",
+    "playlists/learn-5000-english-words/Lesson 41 (237-241).md",
     "grammar/complex-constructions/Reported Requests — косвенные просьбы и приказы.md",
     "grammar/adjectives/Comparisons — степени сравнения.md",
     "grammar/voices/Voices Introduction.md",
@@ -271,9 +232,7 @@
     "grammar/phrasal-verbs/Particles Reference.md",
     "grammar/phrasal-verbs/Phrasal Verbs Anki.md",
     "grammar/phrasal-verbs/Phrasal Verbs Introduction.md",
-    "grammar/phrasal-verbs/Phrasal Verbs — фразовые глаголы.md",
     "grammar/phrasal-verbs",
-    "grammar/times/past-tenses/Past Tenses Introduction — Прошедшие времена.md",
     "grammar/times/future-tenses",
     "grammar/grammar-sections.json",
     "playlists/english-galaxy-titanium-course/B1",
