@@ -1,3 +1,8 @@
+---
+type: reference
+section: phrasal
+tags: [grammar, phrasal]
+---
 Базовый глагол **break** описывает разрушение, прекращение и прорывы — как физические, так и метафорические.
 
 ← [[Phrasal Verbs Dictionary — Introduction|Назад к словарю]]

@@ -1,3 +1,9 @@
+---
+type: topic
+section: speaking
+level: all
+tags: [grammar, speaking]
+---
 > Умение вести дискуссию на английском — отдельный навык. Англоязычная культура ценит hedging (смягчение), indirect language (непрямые формулировки) и structured argumentation (структурированную аргументацию). Русская прямолинейность воспринимается как агрессия.
 
 ---

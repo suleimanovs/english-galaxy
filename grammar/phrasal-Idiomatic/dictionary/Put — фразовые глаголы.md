@@ -1,3 +1,8 @@
+---
+type: reference
+section: phrasal
+tags: [grammar, phrasal]
+---
 Базовый глагол **put** — один из самых разнообразных. Фразовые глаголы с put связаны с размещением, откладыванием, терпением и выражением.
 
 ← [[Phrasal Verbs Dictionary — Introduction|Назад к словарю]]

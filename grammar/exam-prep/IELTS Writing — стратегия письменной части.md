@@ -1,3 +1,9 @@
+---
+type: topic
+section: exam
+level: all
+tags: [grammar, exam]
+---
 > Writing — часть IELTS, которая вызывает больше всего проблем у русскоязычных. Здесь пошаговые шаблоны для Task 1 и Task 2.
 
 ---

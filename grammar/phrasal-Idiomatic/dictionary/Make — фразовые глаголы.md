@@ -1,3 +1,8 @@
+---
+type: reference
+section: phrasal
+tags: [grammar, phrasal]
+---
 Базовый глагол **make** — создание, компенсация и понимание.
 
 ← [[Phrasal Verbs Dictionary — Introduction|Назад к словарю]]

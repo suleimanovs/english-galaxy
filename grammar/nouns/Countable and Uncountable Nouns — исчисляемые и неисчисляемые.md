@@ -1,3 +1,9 @@
+---
+type: topic
+section: nouns
+level: A2
+tags: [grammar, nouns]
+---
 В английском все существительные делятся на **исчисляемые** (countable) и **неисчисляемые** (uncountable). Это деление определяет выбор артикля, квантификатора (many/much, few/little) и формы глагола.
 
 ---

@@ -1,3 +1,8 @@
+---
+type: hub
+section: resources
+tags: [grammar, resources]
+---
 # Grammar Map — по уровням
 
 > В отличие от [[Grammar Navigator]] (по темам) и [[Grammar Reader]] (чтение внутри), здесь грамматика сгруппирована по уровням CEFR: от A1 до C1. Это поможет понять, что учить на каком этапе.

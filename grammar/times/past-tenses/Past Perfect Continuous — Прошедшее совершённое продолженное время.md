@@ -1,3 +1,9 @@
+---
+type: topic
+section: times
+level: B2
+tags: [grammar, times]
+---
 Past Perfect Continuous это время для описания действия, которое **продолжалось в течение некоторого времени до определённого момента в прошлом**. Акцент — на процессе и его продолжительности, а не на результате.
 
 Это зеркало Present Perfect Continuous, только сдвинутое в прошлое. Если Present Perfect Continuous говорит «действие шло до сейчас», то Past Perfect Continuous говорит «действие шло до того момента в прошлом».

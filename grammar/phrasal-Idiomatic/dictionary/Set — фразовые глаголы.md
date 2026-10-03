@@ -1,3 +1,8 @@
+---
+type: reference
+section: phrasal
+tags: [grammar, phrasal]
+---
 Базовый глагол **set** — установка, начало и выделение. Часто связан с запуском процессов и путешествиями.
 
 ← [[Phrasal Verbs Dictionary — Introduction|Назад к словарю]]

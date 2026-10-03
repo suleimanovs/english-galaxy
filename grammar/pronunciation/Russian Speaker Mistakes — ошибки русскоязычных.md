@@ -1,3 +1,9 @@
+---
+type: topic
+section: pronunciation
+level: all
+tags: [grammar, pronunciation]
+---
 > Топ ошибок в произношении, которые выдают русскоязычного. Каждая ошибка с объяснением, почему она происходит, и как исправить. Все транскрипции — американские (General American, GA).
 
 ---

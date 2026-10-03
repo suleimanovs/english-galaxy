@@ -1,4 +1,7 @@
 ---
+type: hub
+section: resources
+tags: [grammar, hub]
 cssclasses: [grammar-reader-page]
 ---
 

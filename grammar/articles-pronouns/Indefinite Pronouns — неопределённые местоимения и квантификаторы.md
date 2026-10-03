@@ -1,3 +1,9 @@
+---
+type: topic
+section: articles
+level: B1
+tags: [grammar, articles]
+---
 Неопределённые местоимения (Indefinite Pronouns) указывают на неопределённые лица, предметы или количества. Сюда входят составные местоимения (somebody, anything, nowhere), а также квантификаторы (much, many, few, little, some, any).
 
 ---

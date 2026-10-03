@@ -1,3 +1,9 @@
+---
+type: topic
+section: misc
+level: B1
+tags: [grammar, misc]
+---
 Связующие слова и дискурсивные маркеры (Linking Words / Discourse Markers) делают речь связной и логичной. Базовые союзы (and, but, because) разобраны в [[Conjunctions — союзы]] — здесь фокус на **продвинутых связках**: however, moreover, therefore, nevertheless и др.
 
 ---

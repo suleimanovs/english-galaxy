@@ -1,3 +1,9 @@
+---
+type: topic
+section: complex
+level: B1
+tags: [grammar, complex]
+---
 Relative Clauses (относительные придаточные) это придаточные предложения, которые **уточняют или описывают существительное** в главном предложении. Они присоединяются с помощью относительных местоимений: who, which, that, whose, where, when, why.
 
 ---

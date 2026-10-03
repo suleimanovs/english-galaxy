@@ -1,3 +1,9 @@
+---
+type: topic
+section: complex
+level: B2
+tags: [grammar, complex]
+---
 Каузативная конструкция (Causative) используется, когда **кто-то другой выполняет действие за нас** — мы организовали или заказали это. Главная конструкция: **have/get something done**.
 
 ---

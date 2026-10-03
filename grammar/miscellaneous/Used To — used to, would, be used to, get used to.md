@@ -1,3 +1,9 @@
+---
+type: topic
+section: misc
+level: B1
+tags: [grammar, misc]
+---
 Конструкции **used to**, **would**, **be used to** и **get used to** все связаны с привычками, но относятся к разным временам и ситуациям. Их часто путают из-за внешнего сходства.
 
 ---

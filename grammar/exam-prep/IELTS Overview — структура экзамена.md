@@ -1,3 +1,9 @@
+---
+type: topic
+section: exam
+level: all
+tags: [grammar, exam]
+---
 > IELTS (International English Language Testing System) — самый распространённый экзамен для иммиграции, учёбы и работы за рубежом. Есть два модуля: Academic (учёба) и General Training (иммиграция/работа). Reading и Writing отличаются, Listening и Speaking одинаковые.
 
 ---

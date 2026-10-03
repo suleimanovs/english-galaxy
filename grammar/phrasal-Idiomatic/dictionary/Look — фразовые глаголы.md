@@ -1,3 +1,8 @@
+---
+type: reference
+section: phrasal
+tags: [grammar, phrasal]
+---
 Базовый глагол **look** — чемпион по фразовым глаголам в сфере заботы, поиска и отношения к людям. Все неразделяемые (кроме look up).
 
 ← [[Phrasal Verbs Dictionary — Introduction|Назад к словарю]]

@@ -1,3 +1,9 @@
+---
+type: topic
+section: articles
+level: B1
+tags: [grammar, articles]
+---
 Определители (Determiners) — слова, стоящие перед существительным и уточняющие, о чём именно идёт речь: каждый, все, оба, либо один, либо другой. Сюда входят: **each, every, all, whole, both, either, neither**.
 
 ---

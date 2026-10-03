@@ -1,3 +1,8 @@
+---
+type: reference
+section: phrasal
+tags: [grammar, phrasal]
+---
 > Фразовые глаголы учатся в Anki через общую панель [[Anki Decks]] (вкладка **Phrasal Verbs**, колода `EG — Phrasal Verbs`). Здесь только сводка по трекеру и ссылки — отдельного экспортёра у фразовых глаголов больше нет, чтобы не плодить вторую колоду и расходящиеся теги.
 
 ← [[Complex Introduction|Назад к разделу]] · [[Phrasal Verbs Dictionary — Introduction|Словарь]] · [[Particles Reference|Частицы]]
