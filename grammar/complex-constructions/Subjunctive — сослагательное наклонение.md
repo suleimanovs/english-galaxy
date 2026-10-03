@@ -207,3 +207,10 @@ Subjunctive сохранился в нескольких фиксированн�
 | I wish I was taller. | I wish I **were** taller. |
 | She acts as if she was in charge. | She acts as if she **were** in charge. |
 | It's time he **is** more careful. | It's time he **was** more careful. (после it's time — Past Simple; were — книжный вариант) |
+
+---
+
+#### См. также
+- [[Second Conditional — второе условие (нереальное настоящее)]]
+- [[Wish Constructions — конструкции с wish]]
+- ← [[Complex Constructions Introduction|Назад к разделу: Сложные конструкции]]

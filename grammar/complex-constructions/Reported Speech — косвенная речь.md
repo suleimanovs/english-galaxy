@@ -200,3 +200,11 @@ tags: [grammar, complex]
 |---|---|
 | She said "I am here" → She said she was here. | She said she was there. |
 | He said "I'll do it today" → He said he would do it today. | He said he would do it that day. |
+
+---
+
+#### См. также
+- [[Reported Requests — косвенные просьбы и приказы]]
+- [[Embedded Questions — косвенные вопросы]]
+- [[Future in the Past — будущее в прошедшем]]
+- ← [[Complex Constructions Introduction|Назад к разделу: Сложные конструкции]]

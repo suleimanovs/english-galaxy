@@ -121,3 +121,11 @@ Future in the Past — способ выразить **будущее с точ�
 |---|---|
 | She said she is going to leave. | She said she **was going to** leave. |
 | They told us they are going to help. | They told us they **were going to** help. |
+
+---
+
+#### См. также
+- [[Reported Speech — косвенная речь]]
+- [[Will и Would — будущее, вежливость, привычки]]
+- [[Second Conditional — второе условие (нереальное настоящее)]]
+- ← [[Future Additional Introduction|Назад к разделу: Дополнительные формы будущего]]

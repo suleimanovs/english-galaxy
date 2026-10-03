@@ -164,3 +164,11 @@ Noun clause раскрывает содержание абстрактного �
 
 - I know **that** she left. (= Я знаю, что она ушла — факт.)
 - I know **what** she said. (= Я знаю, что она сказала — содержание.)
+
+---
+
+#### См. также
+- [[Embedded Questions — косвенные вопросы]]
+- [[Relative Clauses — относительные придаточные]]
+- [[There Is, It Is — вводные конструкции]]
+- ← [[Complex Constructions Introduction|Назад к разделу: Сложные конструкции]]

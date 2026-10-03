@@ -201,3 +201,11 @@ Did  +  подлежащее  +  глагол (base form)?
 | **Сигналы** | yesterday, last week, ago, in 2010 | just, already, yet, ever, for, since |
 | **Пример** | I saw that film last Tuesday. | I've seen that film. |
 | **Вопрос** | Did you see it on Saturday? | Have you seen it? |
+
+---
+
+#### См. также
+- [[Present Perfect — Настоящее совершённое время]]
+- [[Past Continuous — Прошедшее продолженное время]]
+- [[Used To — used to, would, be used to, get used to]]
+- ← [[Past Tenses Introduction — Прошедшие времена|Назад к разделу: Прошедшие времена]]

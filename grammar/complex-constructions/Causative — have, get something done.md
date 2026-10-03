@@ -206,3 +206,10 @@ have +  человек  +  V (без to)
 |---|---|
 | I had him **to fix** the tap. | I had him **fix** the tap. (без to!) |
 | She had the assistant **to book** tickets. | She had the assistant **book** tickets. |
+
+---
+
+#### См. также
+- [[Passive Voice — пассивный залог]]
+- [[Participle — причастие (Participle I и Participle II)]]
+- ← [[Complex Constructions Introduction|Назад к разделу: Сложные конструкции]]

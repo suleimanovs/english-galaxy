@@ -118,3 +118,10 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 | Future Continuous | will be + V-ing | Процесс в определённый момент будущего | She will be working at 9 PM. |
 | Future Perfect | will have + V3 | Завершится до момента в будущем | She will have finished by 9 PM. |
 | Future Perfect Continuous | will have been + V-ing | Процесс, продолжавшийся до момента в будущем | She will have been working for 3 hours by 9 PM. |
+
+---
+
+#### См. также
+- [[Future Perfect — will have + V3]]
+- [[Present Perfect Continuous — Настоящее совершённое продолженное время]]
+- ← [[Future Tenses Introduction|Назад к разделу: Будущие времена]]

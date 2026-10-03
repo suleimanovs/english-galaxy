@@ -298,3 +298,10 @@ Cleft — это инструмент, и, как любой инструмен�
 |---|---|
 | What we need **is** more volunteers and resources. | What we need **are** more volunteers and resources. *(или: What we need is more support — ед.ч.)* |
 | What I like **are** her honesty. | What I like **is** her honesty. |
+
+---
+
+#### См. также
+- [[Emphasis — конструкции усиления]]
+- [[Inversion — инверсия]]
+- ← [[Complex Constructions Introduction|Назад к разделу: Сложные конструкции]]

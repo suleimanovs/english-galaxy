@@ -143,3 +143,10 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 | **Пример** | I've written three emails. | I've been writing emails all morning. |
 | **Пример** | She has read the book. | She has been reading for two hours. |
 | **Пример** | I've drunk three cups of coffee. | I've been drinking coffee since this morning. |
+
+---
+
+#### См. также
+- [[Present Perfect — Настоящее совершённое время]]
+- [[Past Perfect Continuous — Прошедшее совершённое продолженное время]]
+- ← [[Present Tenses Introduction — Настоящие времена|Назад к разделу: Настоящие времена]]

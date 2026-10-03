@@ -108,3 +108,11 @@ If + Past Perfect  ,  would have + V3
 | **Main clause** | would + V | would have + V3 |
 | **Пример** | If I had money, I would travel. | If I had had money, I would have traveled. |
 | **Подтекст** | денег нет сейчас | денег не было тогда, поехать не удалось |
+
+---
+
+#### См. также
+- [[Second Conditional — второе условие (нереальное настоящее)]]
+- [[Mixed Conditionals — смешанные условия]]
+- [[Past Perfect — Прошедшее совершённое время]]
+- ← [[Conditionals Introduction|Назад к разделу: Условные предложения]]

@@ -257,3 +257,11 @@ Has   +  he / she / it        +  глагол V3?
 | **Сигналы** | just, already, yet, ever, for, since | yesterday, last week, ago, in 2010 |
 | **Пример** | I've seen that film. | I saw that film last Tuesday. |
 | **Вопрос** | Have you seen it? | Did you see it on Saturday? |
+
+---
+
+#### См. также
+- [[Past Simple — Прошедшее простое время]]
+- [[Present Perfect Continuous — Настоящее совершённое продолженное время]]
+- [[Past Perfect — Прошедшее совершённое время]]
+- ← [[Present Tenses Introduction — Настоящие времена|Назад к разделу: Настоящие времена]]

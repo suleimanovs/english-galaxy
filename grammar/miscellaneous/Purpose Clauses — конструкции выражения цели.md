@@ -252,3 +252,10 @@ so as not to     +  V
 |---|---|---|
 | Одинаковые подлежащие | I study so that I can pass the exam. *(правильно, но длиннее)* | I study **to pass** the exam. *(естественнее)* |
 | Разные подлежащие | I explain it **to** you understand. | I explain it **so that you can** understand. |
+
+---
+
+#### См. также
+- [[Infinitive — инфинитив]]
+- [[Tenses in Adverbial Clauses — времена в придаточных предложениях]]
+- ← [[Miscellaneous Introduction|Назад к разделу: Разное]]

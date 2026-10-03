@@ -123,3 +123,10 @@ tags: [grammar, articles]
 | the students books | the students' books |
 | Johns car | John's car |
 | the childrens room | the children's room |
+
+---
+
+#### См. также
+- [[Possessive Case — притяжательный падеж ('s vs of)]]
+- [[Reflexive Pronouns — возвратные местоимения]]
+- ← [[Articles and Pronouns Introduction|Назад к разделу: Артикли и Местоимения]]

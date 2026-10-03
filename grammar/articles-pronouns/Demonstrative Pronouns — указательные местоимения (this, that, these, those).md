@@ -114,3 +114,10 @@ tags: [grammar, articles]
 | **Выбор** | **This** one or **that** one? | Where's the book? — **It's** on the table. |
 | **Первое упоминание** | What's **this**? | — |
 | **Повторное упоминание** | — | I bought a car. **It** is red. |
+
+---
+
+#### См. также
+- [[Articles — артикли (a, an, the, нулевой)]]
+- [[Determiners — определители (each, every, all, whole, both, either, neither)]]
+- ← [[Articles and Pronouns Introduction|Назад к разделу: Артикли и Местоимения]]

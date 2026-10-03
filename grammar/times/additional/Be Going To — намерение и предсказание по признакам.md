@@ -133,3 +133,10 @@ Going to требует правильной формы глагола be — am
 | **Решение** | Прямо сейчас | До момента речи | Заранее организовано (время, место) |
 | **Предсказание** | По мнению / ощущению | По видимым признакам | — |
 | **Пример** | I'll call you later. | I'm going to call him about the job. | I'm calling him at 3 PM tomorrow. |
+
+---
+
+#### См. также
+- [[Future Simple — will]]
+- [[Present Continuous для будущего — конкретные договорённости]]
+- ← [[Future Additional Introduction|Назад к разделу: Дополнительные формы будущего]]

@@ -159,3 +159,10 @@ tags: [grammar, nouns]
 |---|---|
 | *People is friendly here.* | People **are** friendly here. |
 | *a people* (в значении «человек») | **a person** |
+
+---
+
+#### См. также
+- [[Countable and Uncountable Nouns — исчисляемые и неисчисляемые]]
+- [[Subject-Verb Agreement — согласование подлежащего и сказуемого]]
+- ← [[Nouns Introduction|Назад к разделу: Существительные]]

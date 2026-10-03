@@ -159,3 +159,10 @@ Follow-up:
 - Tell me about it! (= я тебя понимаю, у меня так же)
 - That makes sense.
 ```
+
+---
+
+#### См. также
+- [[Functional Phrases — функциональные фразы]]
+- [[Questions — типы вопросов]]
+- ← [[Speaking Introduction|Назад к разделу: Разговорная речь]]

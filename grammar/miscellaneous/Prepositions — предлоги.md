@@ -551,3 +551,10 @@ capable OF (не «to»):       He's capable of more.
   through = сквозь (объём)       → drive through the city
   across  = поперёк (поверхность)→ swim across the river
 ```
+
+---
+
+#### См. также
+- [[Adjective Preposition Patterns — прилагательное + предлог]]
+- [[Articles — артикли (a, an, the, нулевой)]]
+- ← [[Miscellaneous Introduction|Назад к разделу: Разное]]

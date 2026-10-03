@@ -167,3 +167,11 @@ tags: [grammar, speaking]
 | В ресторане | Could we have a table for two? / I'll have the... / Could I get the check, please? (AmE; bill — British) / Is the tip included? |
 | Заказать кофе | Can I get a flat white, please? / Could I have a latte to go? / For here or to go? |
 | Проблема с заказом | Excuse me, I think there's been a mix-up. / This isn't what I ordered. / I'm afraid this is cold. |
+
+---
+
+#### См. также
+- [[Opinions and Discussion — мнения и дискуссия]]
+- [[Small Talk — светская беседа]]
+- [[Formal vs Informal — регистры речи]]
+- ← [[Speaking Introduction|Назад к разделу: Разговорная речь]]

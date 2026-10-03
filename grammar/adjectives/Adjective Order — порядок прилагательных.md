@@ -73,3 +73,11 @@ tags: [grammar, adj]
 - a kind, generous man ✓ (оба — мнение; между ними запятая)
 - a tall handsome man → естественнее **a handsome tall man** (мнение перед размером, без запятой)
 - a big red ball [OK — без запятой, разные категории]
+
+---
+
+#### См. также
+- [[Comparisons — степени сравнения]]
+- [[Adjectives -ed and -ing — прилагательные на -ed и -ing]]
+- [[Word Order — порядок слов]]
+- ← [[Adjectives Introduction|Назад к разделу: Прилагательные]]

@@ -102,7 +102,7 @@ To-infinitive отвечает на вопрос «зачем?» — это оч
 - We watched them play. — Мы наблюдали, как они играют.
 
 > [!note]
-> Разница: *I saw him cross the street* (bare infinitive — весь процесс) vs *I saw him crossing the street* (V-ing — процесс в момент). Подробнее в файле Participle.
+> Разница: *I saw him cross the street* (bare infinitive — весь процесс) vs *I saw him crossing the street* (V-ing — процесс в момент). Подробнее в [[Participle — причастие (Participle I и Participle II)|файле Participle]].
 
 **3. После let и make (в значении «заставить»)**
 
@@ -129,7 +129,7 @@ To-infinitive отвечает на вопрос «зачем?» — это оч
 
 **Сигнальные глаголы — после них to-infinitive или герундий**
 
-Это один из самых важных и сложных моментов. Одни глаголы требуют to-infinitive, другие — герундий (-ing), третьи допускают оба варианта (иногда с изменением смысла). Полный разбор — в файле Gerund.
+Это один из самых важных и сложных моментов. Одни глаголы требуют to-infinitive, другие — герундий (-ing), третьи допускают оба варианта (иногда с изменением смысла). Полный разбор — в [[Gerund — герундий|файле Gerund]].
 
 Только to-infinitive: want, hope, expect, plan, decide, refuse, offer, promise, agree, manage, fail, afford, need (в значении «нуждаться»).
 
@@ -172,3 +172,11 @@ To-infinitive отвечает на вопрос «зачем?» — это оч
 
 - *I saw him leave.* — Я видел, как он ушёл. (видел весь момент ухода, факт)
 - *I saw him leaving.* — Я видел, как он уходил. (застал в процессе)
+
+---
+
+#### См. также
+- [[Gerund — герундий]]
+- [[Purpose Clauses — конструкции выражения цели]]
+- [[Causative — have, get something done]]
+- ← [[Non-Finite Forms Introduction|Назад к разделу: Неличные формы]]

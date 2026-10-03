@@ -125,3 +125,11 @@ Unless означает «если только не» — условие отр
 | **Main clause** | will + V | would + V |
 | **Пример** | If it rains, I'll stay home. | If it rained, I would stay home. |
 | **Подтекст** | Это вполне может случиться | Это маловероятно или невозможно |
+
+---
+
+#### См. также
+- [[Zero Conditional — нулевое условие]]
+- [[Second Conditional — второе условие (нереальное настоящее)]]
+- [[Tenses in Adverbial Clauses — времена в придаточных предложениях]]
+- ← [[Conditionals Introduction|Назад к разделу: Условные предложения]]

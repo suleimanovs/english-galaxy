@@ -121,3 +121,11 @@ Emphatic do работает только с **Present Simple** и **Past Simple
 - Я же тебе говорил! — I **did** tell you!
 - Она ведь знает! — She **does** know!
 - Ты же обещал! — You **did** promise!
+
+---
+
+#### См. также
+- [[Cleft Sentences — расщеплённые предложения]]
+- [[Inversion — инверсия]]
+- [[Reflexive Pronouns — возвратные местоимения]]
+- ← [[Complex Constructions Introduction|Назад к разделу: Сложные конструкции]]

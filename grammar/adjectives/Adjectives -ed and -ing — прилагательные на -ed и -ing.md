@@ -88,3 +88,10 @@ tags: [grammar, adj]
 | The movie was bored. | The movie was boring. |
 | This task is tired. | This task is tiring. |
 | The situation was confused. | The situation was confusing. |
+
+---
+
+#### См. также
+- [[Participle — причастие (Participle I и Participle II)]]
+- [[Adjective Order — порядок прилагательных]]
+- ← [[Adjectives Introduction|Назад к разделу: Прилагательные]]

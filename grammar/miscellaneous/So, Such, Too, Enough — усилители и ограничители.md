@@ -142,3 +142,10 @@ tags: [grammar, misc]
 | She's **too** beautiful. | Она слишком красивая. [чрезмерно, проблема] |
 | The food is **very** good. | Еда очень вкусная. [хорошо] |
 | The food is **too** good. | Еда слишком вкусная. [подозрительно хорошо?] |
+
+---
+
+#### См. также
+- [[Adverbs — наречия]]
+- [[Comparisons — степени сравнения]]
+- ← [[Miscellaneous Introduction|Назад к разделу: Разное]]

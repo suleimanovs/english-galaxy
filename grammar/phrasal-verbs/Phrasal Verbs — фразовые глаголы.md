@@ -265,3 +265,11 @@ She gave up.         ✓
 | look after | заботиться о | Can you look after my cat? |
 | look into | расследовать | The police are looking into it. |
 | look out | осторожно! | Look out! There's a car coming. |
+
+---
+
+#### См. также
+- [[Particles Reference]]
+- [[Common Phrasal Verbs — общая таблица]]
+- [[Formal vs Informal — регистры речи]]
+- ← [[Phrasal Verbs Introduction|Назад к разделу: Фразовые глаголы]]

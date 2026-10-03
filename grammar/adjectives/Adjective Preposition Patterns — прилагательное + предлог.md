@@ -284,3 +284,10 @@ tags: [grammar, adj]
 | I'm married with a doctor. | I'm married **to** a doctor. |
 | It's different of yours. | It's different **from** yours. |
 | She's angry on me. | She's angry **with** me. |
+
+---
+
+#### См. также
+- [[Prepositions — предлоги]]
+- [[Adjectives -ed and -ing — прилагательные на -ed и -ing]]
+- ← [[Adjectives Introduction|Назад к разделу: Прилагательные]]

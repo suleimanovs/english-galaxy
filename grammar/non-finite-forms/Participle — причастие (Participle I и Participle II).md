@@ -154,3 +154,12 @@ V3 используется в образовании Perfect-форм и пас
 | **Пример** | a crying baby, running water | a broken window, boiled eggs |
 | **Как обстоятельство** | одновременное действие | предшествующее действие или причина |
 | **Пример** | Walking home, she called him. | Exhausted, she went to bed. |
+
+---
+
+#### См. также
+- [[Gerund — герундий]]
+- [[Adjectives -ed and -ing — прилагательные на -ed и -ing]]
+- [[Causative — have, get something done]]
+- [[Relative Clauses — относительные придаточные]]
+- ← [[Non-Finite Forms Introduction|Назад к разделу: Неличные формы]]

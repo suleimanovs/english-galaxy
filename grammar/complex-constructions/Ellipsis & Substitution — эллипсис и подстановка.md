@@ -162,3 +162,10 @@ tags: [grammar, complex]
 |---|---|
 | "Can you swim?" — "Yes, I can swim." | "Can you swim?" — "Yes, I **can**." |
 | "Do you like it?" — "Yes, I like it." | "Do you like it?" — "Yes, I **do**." |
+
+---
+
+#### См. также
+- [[Inversion — инверсия]]
+- [[Questions — типы вопросов]]
+- ← [[Complex Constructions Introduction|Назад к разделу: Сложные конструкции]]

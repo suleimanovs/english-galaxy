@@ -177,3 +177,10 @@ we NEED to TALK about what HAPpened YESterday.
 | going to | gonna | только в речи, не на письме |
 | want to | wanna | только в речи, не на письме |
 | have got to | gotta | только в речи, не на письме |
+
+---
+
+#### См. также
+- [[Word Stress — ударение в словах]]
+- [[IELTS Speaking — стратегия устной части]]
+- ← [[Pronunciation Introduction|Назад к разделу: Произношение]]

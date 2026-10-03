@@ -85,7 +85,7 @@ If it rains (not: will rain), I'll stay home.
 Unless you hurry, we'll miss the train.
 ```
 
-Подробнее — в файле по условным предложениям (Conditionals).
+Подробнее — [[Conditionals Introduction|раздел «Условные предложения»]].
 
 ---
 
@@ -104,7 +104,7 @@ Unless you hurry, we'll miss the train.
 - She left early so that she **could** avoid the traffic.
 - I wrote it down so that I **wouldn't** forget.
 
-Подробнее — в файле по придаточным цели (Purpose Clauses).
+Подробнее — [[Purpose Clauses — конструкции выражения цели]].
 
 ---
 
@@ -184,3 +184,11 @@ Unless you hurry, we'll miss the train.
 
 > [!note]
 > Запомните три главных союза-ловушки, после которых will никогда не ставится: **when**, **until**, **as soon as**. Они встречаются чаще всего и чаще всего провоцируют ошибку.
+
+---
+
+#### См. также
+- [[First Conditional — первое условие (реальное)]]
+- [[Purpose Clauses — конструкции выражения цели]]
+- [[Future Simple — will]]
+- ← [[Miscellaneous Introduction|Назад к разделу: Разное]]

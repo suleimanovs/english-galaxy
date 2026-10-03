@@ -116,3 +116,10 @@ tags: [grammar, articles]
 | **Функция** | Принадлежность | Действие на себя / усиление |
 | **Формы** | my, your, his, her, its, our, their / mine, yours... | myself, yourself, himself, herself, itself, ourselves, yourselves, themselves |
 | **Пример** | This is my book. | I hurt myself. |
+
+---
+
+#### См. также
+- [[Possessive Pronouns — притяжательные местоимения]]
+- [[Emphasis — конструкции усиления]]
+- ← [[Articles and Pronouns Introduction|Назад к разделу: Артикли и Местоимения]]

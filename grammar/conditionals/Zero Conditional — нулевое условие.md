@@ -85,3 +85,10 @@ If-clause (условие) и main clause (результат) — оба в Pre
 | **If-clause** | Present Simple | Present Simple |
 | **Main clause** | Present Simple | will + V |
 | **Пример** | If you freeze water, it becomes ice. | If it rains tomorrow, I'll stay home. |
+
+---
+
+#### См. также
+- [[First Conditional — первое условие (реальное)]]
+- [[Tenses in Adverbial Clauses — времена в придаточных предложениях]]
+- ← [[Conditionals Introduction|Назад к разделу: Условные предложения]]

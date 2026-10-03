@@ -163,3 +163,10 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 | **Сигналы** | yesterday, ago, last week, in 2010 | while, at that moment, at 9 PM, all day |
 | **Пример** | She called me at 9. | She was sleeping at 9. |
 | **В паре** | прерывающее действие | фоновое действие |
+
+---
+
+#### См. также
+- [[Past Simple — Прошедшее простое время]]
+- [[Past Perfect Continuous — Прошедшее совершённое продолженное время]]
+- ← [[Past Tenses Introduction — Прошедшие времена|Назад к разделу: Прошедшие времена]]

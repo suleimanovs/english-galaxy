@@ -243,3 +243,10 @@ February: в американском первая r обычно произно
 | aluminium / aluminum | /ˌæljəˈmɪniəm/ | aluminum /əˈlumənəm/ — другое написание и 4 слога |
 
 Правописание тоже американское: color, center, favorite, theater, traveling, organize, gray.
+
+---
+
+#### См. также
+- [[English Sounds — звуки английского]]
+- [[Sentence Stress and Intonation — интонация]]
+- ← [[Pronunciation Introduction|Назад к разделу: Произношение]]

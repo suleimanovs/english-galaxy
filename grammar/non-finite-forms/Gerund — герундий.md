@@ -6,7 +6,7 @@ tags: [grammar, nonfinite]
 ---
 Герундий (Gerund) это **форма глагола на -ing, которая функционирует как существительное**. Она называет действие или процесс как понятие — не привязывая его к конкретному времени или лицу.
 
-Внешне герундий выглядит так же, как Present Participle (тоже -ing), но выполняет другую роль. Participle описывает процесс (She is reading — она читает). Герундий называет действие как предмет речи (Reading is my hobby — чтение — моё хобби). Подробнее о разграничении — в файле Participle.
+Внешне герундий выглядит так же, как Present Participle (тоже -ing), но выполняет другую роль. Participle описывает процесс (She is reading — она читает). Герундий называет действие как предмет речи (Reading is my hobby — чтение — моё хобби). Подробнее о разграничении — в [[Participle — причастие (Participle I и Participle II)|файле Participle]].
 
 ---
 
@@ -175,3 +175,11 @@ not + герундий
 | **После модальных** | Никогда | Всегда (bare infinitive) |
 | **Типичные глаголы** | enjoy, avoid, finish, mind, suggest | want, hope, decide, refuse, manage |
 | **Пример** | I enjoy reading. | I want to read. |
+
+---
+
+#### См. также
+- [[Infinitive — инфинитив]]
+- [[Participle — причастие (Participle I и Participle II)]]
+- [[Used To — used to, would, be used to, get used to]]
+- ← [[Non-Finite Forms Introduction|Назад к разделу: Неличные формы]]

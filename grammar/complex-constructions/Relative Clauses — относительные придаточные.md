@@ -137,3 +137,10 @@ Whose используется для людей и вещей, заменяет
 | **That** | Можно использовать | Нельзя |
 | **Опущение** | Можно (если дополнение) | Нельзя |
 | **Пример** | The movie that I saw was great. | Titanic, which I saw last week, was great. |
+
+---
+
+#### См. также
+- [[Noun Clauses — придаточные существительные]]
+- [[Participle — причастие (Participle I и Participle II)]]
+- ← [[Complex Constructions Introduction|Назад к разделу: Сложные конструкции]]

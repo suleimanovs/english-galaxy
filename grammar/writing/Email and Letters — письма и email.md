@@ -198,3 +198,10 @@ Sincerely,
 | Отсутствие Subject в email | Всегда писать чёткий Subject |
 | "With best wishes" в деловом письме | Best regards / Sincerely |
 | Слишком длинные абзацы | 3-5 предложений на абзац максимум |
+
+---
+
+#### См. также
+- [[Formal vs Informal — регистры речи]]
+- [[Functional Phrases — функциональные фразы]]
+- ← [[Writing Introduction|Назад к разделу: Письмо]]

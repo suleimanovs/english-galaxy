@@ -153,3 +153,10 @@ tags: [grammar, articles]
 | Неправильно | Правильно |
 |---|---|
 | I was working all the day. | I was working **all day**. / I was working **the whole day**. |
+
+---
+
+#### См. также
+- [[Indefinite Pronouns — неопределённые местоимения и квантификаторы]]
+- [[Subject-Verb Agreement — согласование подлежащего и сказуемого]]
+- ← [[Articles and Pronouns Introduction|Назад к разделу: Артикли и Местоимения]]

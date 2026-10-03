@@ -121,3 +121,10 @@ Future Continuous в вопросе звучит мягче и деликатн�
 | **Акцент** | Факт, событие, решение | Процесс в определённый момент будущего |
 | **Пример** | I'll call you at 9. | I'll be working at 9 — call me later. |
 | **Вопрос** | Will you come? (просьба/предложение) | Will you be coming? (нейтральный вопрос о планах) |
+
+---
+
+#### См. также
+- [[Future Simple — will]]
+- [[Future Perfect — will have + V3]]
+- ← [[Future Tenses Introduction|Назад к разделу: Будущие времена]]

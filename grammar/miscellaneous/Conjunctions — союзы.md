@@ -141,3 +141,11 @@ tags: [grammar, misc]
 | **Позиция** | Внутри предложения | Чаще в начале нового предложения |
 | **Примеры** | and, but, because, although | however, therefore, furthermore |
 | **Пример** | She was tired **but** continued. | She was tired. **However**, she continued. |
+
+---
+
+#### См. также
+- [[Linking Words — дискурсивные маркеры]]
+- [[Tenses in Adverbial Clauses — времена в придаточных предложениях]]
+- [[First Conditional — первое условие (реальное)]]
+- ← [[Miscellaneous Introduction|Назад к разделу: Разное]]

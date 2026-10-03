@@ -162,3 +162,11 @@ Embedded question (косвенный вопрос) — это вопрос, в�
 |---|---|
 | *It depends on **if** he agrees.* | It depends on **whether** he agrees. |
 | ***If** she'll come is uncertain.* | **Whether** she'll come is uncertain. |
+
+---
+
+#### См. также
+- [[Questions — типы вопросов]]
+- [[Noun Clauses — придаточные существительные]]
+- [[Reported Speech — косвенная речь]]
+- ← [[Complex Constructions Introduction|Назад к разделу: Сложные конструкции]]

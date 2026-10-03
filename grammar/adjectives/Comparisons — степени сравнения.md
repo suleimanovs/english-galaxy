@@ -172,3 +172,11 @@ tags: [grammar, adj]
 | the...the | пропорциональная зависимость | The more you read, the smarter you get. |
 | much / far + -er | усиление | She is much taller. |
 | by far the most | абсолютное превосходство | She is by far the best. |
+
+---
+
+#### См. также
+- [[Adverbs — наречия]]
+- [[So, Such, Too, Enough — усилители и ограничители]]
+- [[Adjective Order — порядок прилагательных]]
+- ← [[Adjectives Introduction|Назад к разделу: Прилагательные]]

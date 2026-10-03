@@ -117,3 +117,12 @@ Second Conditional делает просьбы мягче и вежливее.
 | **Main clause** | would + V | would have + V3 |
 | **Пример** | If I had money, I would travel. | If I had had money, I would have traveled. |
 | **Подтекст** | денег нет сейчас | денег не было тогда, и я не поехал |
+
+---
+
+#### См. также
+- [[First Conditional — первое условие (реальное)]]
+- [[Third Conditional — третье условие (нереальное прошлое)]]
+- [[Wish Constructions — конструкции с wish]]
+- [[Subjunctive — сослагательное наклонение]]
+- ← [[Conditionals Introduction|Назад к разделу: Условные предложения]]

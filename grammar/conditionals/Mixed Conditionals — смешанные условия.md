@@ -87,3 +87,10 @@ If + Past Simple  ,  would have + V3
 | Third | Past Perfect | would have + V3 | Нереальное прошлое |
 | Mixed 1 | Past Perfect | would + V | Прошлое условие → настоящий результат |
 | Mixed 2 | Past Simple | would have + V3 | Настоящее условие → прошлый результат |
+
+---
+
+#### См. также
+- [[Second Conditional — второе условие (нереальное настоящее)]]
+- [[Third Conditional — третье условие (нереальное прошлое)]]
+- ← [[Conditionals Introduction|Назад к разделу: Условные предложения]]

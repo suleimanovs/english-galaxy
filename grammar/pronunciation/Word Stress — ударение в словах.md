@@ -223,3 +223,10 @@ overCOME, underSTAND, outperFORM, overSLEEP
 | address (сущ.) | ADdress /ˈædrɛs/ (GA) | aDDRESS (так в UK; глагол to adDRESS — на втором везде) |
 | advertisement | adverTISEment (GA) | adVERtisement (так в UK) |
 | adult | ADult / aDULT (оба верны) | — |
+
+---
+
+#### См. также
+- [[Sentence Stress and Intonation — интонация]]
+- [[English Sounds — звуки английского]]
+- ← [[Pronunciation Introduction|Назад к разделу: Произношение]]

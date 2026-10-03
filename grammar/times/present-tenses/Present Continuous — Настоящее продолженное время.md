@@ -143,7 +143,7 @@ Are + you/we/they + глагол-ing?
 
 Глаголы состояния (stative verbs) почти никогда не используются в форме -ing, потому что они описывают состояние, а не активное действие. Состояние нельзя «продолжать в процессе» — оно просто есть.
 
-Полный список stative verbs с объяснениями — в файле Present Simple. Здесь — только примеры ошибок:
+Полный список stative verbs с объяснениями — в [[Present Simple — Настоящее простое время|файле Present Simple]]. Здесь — только примеры ошибок:
 
 | Неправильно | Правильно |
 |---|---|
@@ -227,3 +227,11 @@ Are + you/we/they + глагол-ing?
 | **Сигналы** | always, every day, never, usually | now, at the moment, currently |
 | **Вспомог. глагол** | do / does | am / is / are |
 | **Форма** | V / V+s | V-ing |
+
+---
+
+#### См. также
+- [[Present Simple — Настоящее простое время]]
+- [[Present Continuous для будущего — конкретные договорённости]]
+- [[Participle — причастие (Participle I и Participle II)]]
+- ← [[Present Tenses Introduction — Настоящие времена|Назад к разделу: Настоящие времена]]

@@ -143,7 +143,7 @@ tags: [grammar, misc]
 | early | early |
 
 > [!note]
-> *Lately* и *late* — разные слова с разными значениями: *She arrived late* (поздно) vs *I haven't seen him lately* (в последнее время). Подробнее — в теме «Adverbs».
+> *Lately* и *late* — разные слова с разными значениями: *She arrived late* (поздно) vs *I haven't seen him lately* (в последнее время). Подробнее — в [[Adverbs — наречия|теме «Adverbs»]].
 
 ---
 
@@ -243,3 +243,10 @@ tags: [grammar, misc]
 |---|---|
 | organise... then we need to organize | organize... then we need to **organize** |
 | realize... we should recognise | realize... we should **recognize** |
+
+---
+
+#### См. также
+- [[Adverbs — наречия]]
+- [[Adjectives -ed and -ing — прилагательные на -ed и -ing]]
+- ← [[Miscellaneous Introduction|Назад к разделу: Разное]]

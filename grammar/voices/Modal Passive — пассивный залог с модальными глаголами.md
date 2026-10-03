@@ -281,3 +281,11 @@ Modal Passive особенно характерен для официальны�
 | It should been done yesterday. | It should **have been** done yesterday. |
 | The work must been finished. | The work must **have been** finished. |
 | It could been avoided. | It could **have been** avoided. |
+
+---
+
+#### См. также
+- [[Passive Voice — пассивный залог]]
+- [[Must — необходимость, запрет, уверенное предположение]]
+- [[Can и Could — умение, возможность, разрешение]]
+- ← [[Voices Introduction|Назад к разделу: Залог]]

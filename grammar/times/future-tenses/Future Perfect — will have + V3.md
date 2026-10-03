@@ -130,3 +130,10 @@ Will  +  подлежащее  +  have  +  V3?
 | **Точка отсчёта** | Момент в прошлом | Момент в будущем |
 | **Пример** | She had left by the time I arrived. | She will have left by the time I arrive. |
 | **Логика** | прошлое → другое прошлое | будущее завершится → до другого будущего |
+
+---
+
+#### См. также
+- [[Future Perfect Continuous — will have been + ing]]
+- [[Past Perfect — Прошедшее совершённое время]]
+- ← [[Future Tenses Introduction|Назад к разделу: Будущие времена]]

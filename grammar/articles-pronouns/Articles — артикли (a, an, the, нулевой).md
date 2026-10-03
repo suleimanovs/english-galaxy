@@ -190,3 +190,10 @@ tags: [grammar, articles]
 | **Смысл** | Один из многих, новый | Конкретный, известный, единственный | Обобщение, имена, языки |
 | **Упоминание** | Первое | Повторное или известное | — |
 | **Пример** | I saw a dog. | The dog ran away. | Dogs are friendly. |
+
+---
+
+#### См. также
+- [[Countable and Uncountable Nouns — исчисляемые и неисчисляемые]]
+- [[Determiners — определители (each, every, all, whole, both, either, neither)]]
+- ← [[Articles and Pronouns Introduction|Назад к разделу: Артикли и Местоимения]]

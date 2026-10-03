@@ -4,7 +4,7 @@ section: complex
 level: B2
 tags: [grammar, complex]
 ---
-Косвенные просьбы и приказы (Reported Requests & Commands) — это часть косвенной речи (подробно разобрана в файле Reported Speech), но вынесена отдельно, потому что структура здесь принципиально отличается от косвенных утверждений и вопросов.
+Косвенные просьбы и приказы (Reported Requests & Commands) — это часть косвенной речи (подробно разобрана в [[Reported Speech — косвенная речь|файле Reported Speech]]), но вынесена отдельно, потому что структура здесь принципиально отличается от косвенных утверждений и вопросов.
 
 Для просьб и приказов не используется сдвиг времён через глагольную форму — вместо этого применяется **to-infinitive**.
 
@@ -97,3 +97,10 @@ told / asked / ordered / warned + объект + not to + V
 |---|---|
 | She suggested me to try again. | She suggested trying again. / She suggested that I try again. |
 | He suggested to go for a walk. | He suggested going for a walk. |
+
+---
+
+#### См. также
+- [[Reported Speech — косвенная речь]]
+- [[Infinitive — инфинитив]]
+- ← [[Complex Constructions Introduction|Назад к разделу: Сложные конструкции]]

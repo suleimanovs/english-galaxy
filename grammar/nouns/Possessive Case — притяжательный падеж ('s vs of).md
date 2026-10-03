@@ -127,3 +127,10 @@ tags: [grammar, nouns]
 |---|---|
 | *my mothers car* | my **mother's** car |
 | *the worlds population* | the **world's** population |
+
+---
+
+#### См. также
+- [[Possessive Pronouns — притяжательные местоимения]]
+- [[Plural Forms — множественное число]]
+- ← [[Nouns Introduction|Назад к разделу: Существительные]]

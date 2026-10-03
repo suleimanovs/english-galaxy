@@ -137,3 +137,10 @@ wish + would + V
 | wish + Past Simple | Настоящее | Нереальное желание о сейчас | I wish I knew. |
 | wish + Past Perfect | Прошлое | Сожаление о прошлом | I wish I had known. |
 | wish + would + V | Настоящее/будущее | Раздражение, желание изменить поведение | I wish you would stop. |
+
+---
+
+#### См. также
+- [[Second Conditional — второе условие (нереальное настоящее)]]
+- [[Subjunctive — сослагательное наклонение]]
+- ← [[Conditionals Introduction|Назад к разделу: Условные предложения]]

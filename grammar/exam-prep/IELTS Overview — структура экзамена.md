@@ -191,3 +191,10 @@ Section 3: длинный текст (как в Academic)
 | Читать статьи из The New York Times, The Atlantic, National Geographic, The Economist | Reading: привыкнуть к академическому стилю |
 | Учить collocations, а не отдельные слова | Lexical Resource: examiners ценят natural English |
 | Знать linking words и использовать их | Coherence & Cohesion: самый быстрый способ поднять балл |
+
+---
+
+#### См. также
+- [[IELTS Writing — стратегия письменной части]]
+- [[IELTS Speaking — стратегия устной части]]
+- ← [[Exam Prep Introduction|Назад к разделу: Экзамены]]

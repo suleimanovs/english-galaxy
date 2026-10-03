@@ -203,3 +203,11 @@ A: Yes, I think they probably do, and there are several reasons for this.
 | Паузы для перевода в голове | Снижает Fluency | Думать на английском, не переводить |
 | "I don't know" как ответ | Нет данных для оценки | "That's a tough question, but I'd say..." |
 | Только Present Simple | Снижает Grammatical Range | Сознательно использовать разные времена |
+
+---
+
+#### См. также
+- [[Opinions and Discussion — мнения и дискуссия]]
+- [[Sentence Stress and Intonation — интонация]]
+- [[IELTS Overview — структура экзамена]]
+- ← [[Exam Prep Introduction|Назад к разделу: Экзамены]]

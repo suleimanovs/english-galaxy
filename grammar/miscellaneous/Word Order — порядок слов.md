@@ -343,3 +343,12 @@ It  +  глагол  +  прилагательное/существительн�
 | She took abroad her children. | She took her children **abroad**. |
 | He sent there the letter. | He sent the letter **there**. |
 | They left outside the dog. | They left the dog **outside**. |
+
+---
+
+#### См. также
+- [[Adverbs — наречия]]
+- [[Questions — типы вопросов]]
+- [[Embedded Questions — косвенные вопросы]]
+- [[Adjective Order — порядок прилагательных]]
+- ← [[Miscellaneous Introduction|Назад к разделу: Разное]]

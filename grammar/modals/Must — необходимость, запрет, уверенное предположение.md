@@ -124,3 +124,11 @@ Must в значении предположения означает, что г�
 | should | Совет, рекомендация | You should see a doctor. |
 | mustn't | Строгий запрет | You mustn't park here. |
 | don't have to | Отсутствие необходимости | You don't have to come. |
+
+---
+
+#### См. также
+- [[Need и Dare — необходимость и смелость]]
+- [[Shall и Should — предложения, советы, обязанность]]
+- [[Ought To — моральная обязанность]]
+- ← [[Modals Introduction|Назад к разделу: Модальные глаголы]]

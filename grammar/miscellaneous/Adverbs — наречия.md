@@ -397,3 +397,12 @@ slightly  →  fairly  →  quite  →  rather  →  pretty  →  very  →  ext
 |---|---|
 | She sang last night beautifully at the concert. | She sang **beautifully at the concert last night**. |
 | He arrived yesterday quickly to the office. | He arrived **quickly at the office yesterday**. |
+
+---
+
+#### См. также
+- [[Word Order — порядок слов]]
+- [[Comparisons — степени сравнения]]
+- [[So, Such, Too, Enough — усилители и ограничители]]
+- [[Word Formation — словообразование]]
+- ← [[Miscellaneous Introduction|Назад к разделу: Разное]]

@@ -167,3 +167,10 @@ berry / very, best / vest, boat / vote, ban / van
 
 **/ l / vs / r /:**
 light / right, long / wrong, lead / read, fly / fry, glass / grass, collect / correct
+
+---
+
+#### См. также
+- [[Russian Speaker Mistakes — ошибки русскоязычных]]
+- [[Word Stress — ударение в словах]]
+- ← [[Pronunciation Introduction|Назад к разделу: Произношение]]

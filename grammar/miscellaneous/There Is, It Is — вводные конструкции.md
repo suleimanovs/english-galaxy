@@ -154,3 +154,10 @@ There  +  is/are  +  подлежащее  +  (место/время)
 |---|---|
 | It's important study. | It's important **to** study. |
 | It's easy make mistakes. | It's easy **to** make mistakes. |
+
+---
+
+#### См. также
+- [[Subject-Verb Agreement — согласование подлежащего и сказуемого]]
+- [[Noun Clauses — придаточные существительные]]
+- ← [[Miscellaneous Introduction|Назад к разделу: Разное]]

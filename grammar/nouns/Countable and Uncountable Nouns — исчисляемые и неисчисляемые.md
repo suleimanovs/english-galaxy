@@ -150,3 +150,11 @@ tags: [grammar, nouns]
 | accommodation | жильё (варианты жилья) |
 | evidence | доказательства |
 | traffic | транспорт (машины) |
+
+---
+
+#### См. также
+- [[Plural Forms — множественное число]]
+- [[Indefinite Pronouns — неопределённые местоимения и квантификаторы]]
+- [[Articles — артикли (a, an, the, нулевой)]]
+- ← [[Nouns Introduction|Назад к разделу: Существительные]]

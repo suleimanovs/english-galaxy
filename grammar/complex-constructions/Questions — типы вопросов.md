@@ -183,3 +183,11 @@ Do you know + if/whether + Subject + Verb?
 | She speaks French, isn't it? | She speaks French, doesn't she? |
 | They went there, didn't they go? | They went there, didn't they? |
 | I am right, amn't I? | I am right, aren't I? |
+
+---
+
+#### См. также
+- [[Embedded Questions — косвенные вопросы]]
+- [[Word Order — порядок слов]]
+- [[Inversion — инверсия]]
+- ← [[Complex Constructions Introduction|Назад к разделу: Сложные конструкции]]

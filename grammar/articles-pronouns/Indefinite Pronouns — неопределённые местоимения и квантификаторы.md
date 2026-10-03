@@ -172,3 +172,10 @@ tags: [grammar, articles]
 | Everyone are here. | Everyone is here. |
 | Everything were ready. | Everything was ready. |
 | Everybody have left. | Everybody has left. |
+
+---
+
+#### См. также
+- [[Determiners — определители (each, every, all, whole, both, either, neither)]]
+- [[Countable and Uncountable Nouns — исчисляемые и неисчисляемые]]
+- ← [[Articles and Pronouns Introduction|Назад к разделу: Артикли и Местоимения]]

@@ -140,3 +140,11 @@ tags: [grammar, writing]
 4. В эссе и академических текстах — всегда formal.
 5. На работе с коллегами — semi-formal (если культура компании не диктует иное).
 6. Phrasal verbs нормальны в semi-formal, но в formal лучше заменять на латинские аналоги.
+
+---
+
+#### См. также
+- [[Email and Letters — письма и email]]
+- [[Phrasal Verbs — фразовые глаголы]]
+- [[Linking Words — дискурсивные маркеры]]
+- ← [[Writing Introduction|Назад к разделу: Письмо]]

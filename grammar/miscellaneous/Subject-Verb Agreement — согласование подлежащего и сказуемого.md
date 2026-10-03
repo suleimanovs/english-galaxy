@@ -262,3 +262,11 @@ all, any, more, most, some, none — см. раздел «None of / Some of» в
 | Неправильно | Правильно |
 |---|---|
 | *The teacher, as well as the students, **were** present.* | The teacher, as well as the students, **was** present. |
+
+---
+
+#### См. также
+- [[Plural Forms — множественное число]]
+- [[There Is, It Is — вводные конструкции]]
+- [[Determiners — определители (each, every, all, whole, both, either, neither)]]
+- ← [[Miscellaneous Introduction|Назад к разделу: Разное]]

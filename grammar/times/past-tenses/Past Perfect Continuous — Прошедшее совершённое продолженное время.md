@@ -134,3 +134,10 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 | Past Continuous | was/were + V-ing | Процесс в определённый момент прошлого | She was working at 9 PM. |
 | Past Perfect | had + V3 | Действие, завершившееся до другого момента в прошлом | She had worked there for years before she quit. |
 | Past Perfect Continuous | had been + V-ing | Процесс, продолжавшийся до момента в прошлом | She had been working for hours when I arrived. |
+
+---
+
+#### См. также
+- [[Past Perfect — Прошедшее совершённое время]]
+- [[Present Perfect Continuous — Настоящее совершённое продолженное время]]
+- ← [[Past Tenses Introduction — Прошедшие времена|Назад к разделу: Прошедшие времена]]
