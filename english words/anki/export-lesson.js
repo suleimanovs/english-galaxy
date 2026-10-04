@@ -7,25 +7,26 @@
 //   3. adds the note to Anki via AnkiConnect with tags: egw_<word>, english-galaxy, <Lesson_file_name>
 //   4. [x] (учу)  → stays a new card                      → tracker status "learning"
 //      [ ] (знаю) → setDueDate "30-60!" (random 1–2 months, sets interval too) → tracker status "known"
-//   5. appends a row to word-tracker.csv (skips words that are already there)
+//   5. appends a row to word-tracker.csv
+//
+// Repeated words (the word is already in the tracker / deck):
+//   • same meaning            → only the lesson tag is added to the existing note, nothing else changes
+//   • a new meaning           → MERGE into the existing note: the new sense is appended to the back
+//                               ("огонь, пожар; увольнять" → numbered list), one example sentence of the
+//                               new sense replaces the last sentence on the front, the lesson tag is added,
+//                               the tracker row is updated. If the line is [x] and the card was "known",
+//                               the card is reset to new (forgetCards) so the new sense gets learned.
+//   One word = one note; never two notes for one spelling.
 //
 // IPA + sentences come from a JSON data file: { "word": { "ipa": "/…/", "s": ["**word** …", "…", "…"] } }
+// (for a merge only s[0] is used — write it for the NEW sense).
 //
 // Usage:
 //   node export-lesson.js "<lesson.md>" <data.json> [--dry-run] [--known-days 30-60]
 
 const fs   = require('fs');
 const path = require('path');
-
-const ANKI_DIR   = __dirname;
-const AUDIO_DIR  = path.join(ANKI_DIR, 'audio');
-const CSV_PATH   = path.join(ANKI_DIR, 'word-tracker.csv');
-const ANKI_URL   = 'http://localhost:8765';
-const ANKI_DECK  = 'EG — All Words';
-const ANKI_MODEL = 'Простая';
-const STYLE      = { bg: '#f8fafc', accent: '#64748b' };   // egw row of card-styles.csv
-const TTS_DELAY_MS = 1200;
-const FIELDS     = ['word','ipa','translation','filename','exportedAt','status','knownAt','s1','s2','s3','note'];
+const L    = require('./card-lib.js');
 
 // ─── ARGS ────────────────────────────────────────────────────────────────────
 const argv = process.argv.slice(2);
@@ -37,22 +38,6 @@ const [lessonPath, dataPath] = positional;
 if (!lessonPath || !dataPath) {
   console.error('Usage: node export-lesson.js "<lesson.md>" <data.json> [--dry-run] [--known-days 30-60]');
   process.exit(1);
-}
-
-// ─── HELPERS ─────────────────────────────────────────────────────────────────
-const today = () => new Date().toISOString().split('T')[0];
-const sleep = ms => new Promise(r => setTimeout(r, ms));
-const slugOf = w => w.toLowerCase().replace(/[^a-z0-9]/g, '_').replace(/_+/g, '_').replace(/^_|_$/g, '');
-const tagOf  = w => 'egw_' + w.toLowerCase().replace(/[^a-z0-9]/g, '_');
-const bold   = s => s.replace(/\*\*(.+?)\*\*/g, '<b>$1</b>');
-const escCsv = s => (s || '').replace(/\r/g, '').replace(/\n/g, '\\n').replace(/\|/g, ' ');
-
-async function anki(action, params = {}) {
-  const res = await fetch(ANKI_URL, { method: 'POST', headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ action, version: 6, params }) });
-  const { result, error } = await res.json();
-  if (error) throw new Error(`AnkiConnect [${action}]: ${error}`);
-  return result;
 }
 
 // ─── LESSON ──────────────────────────────────────────────────────────────────
@@ -69,115 +54,95 @@ function parseLesson(file) {
   return out;
 }
 
-// ─── TRACKER CSV ─────────────────────────────────────────────────────────────
-function readTracker() {
-  const text = fs.readFileSync(CSV_PATH, 'utf8');
-  const lines = text.split('\n');
-  const header = lines[0].split('|').map(h => h.trim());
-  const words = new Set();
-  for (let i = 1; i < lines.length; i++) {
-    const w = lines[i].split('|')[0]?.trim();
-    if (w) words.add(w.toLowerCase());
-  }
-  return { header, words, endsWithNewline: text.endsWith('\n') };
-}
-
-function appendRow(tracker, row) {
-  const line = tracker.header.map(h => escCsv(row[h] ?? '')).join('|');
-  fs.appendFileSync(CSV_PATH, (tracker.endsWithNewline ? '' : '\n') + line + '\n', 'utf8');
-  tracker.endsWithNewline = true;
-  tracker.words.add(row.word.toLowerCase());
-}
-
-// ─── CARD ────────────────────────────────────────────────────────────────────
-function wrap(inner) {
-  return `<div class="eg-card eg-deck-egw" style="background:${STYLE.bg};border-left:4px solid ${STYLE.accent};padding:14px 16px;border-radius:8px;color:#1a1a1a">${inner}</div>`;
-}
-function buildFront(word, ipa, sentences, soundFile) {
-  const ipaHtml = ipa ? `<div class="ipa" style="color:#888;font-size:0.85em;margin-bottom:0.5em;font-family:monospace">${ipa}</div>` : '';
-  const ol = `<ol>${sentences.map(s => `<li>${bold(s)}</li>`).join('')}</ol>`;
-  const sound = soundFile ? `\n[sound:${soundFile}]` : '';
-  return wrap(`<div style="font-size:1.4em;font-weight:bold;margin-bottom:0.8em">${word}</div>${ipaHtml}${ol}${sound}`);
-}
-const buildBack = translation => wrap(`<div style="font-size:1.2em">${translation}</div>`);
-
-// ─── AUDIO ───────────────────────────────────────────────────────────────────
-async function getAudio(word) {
-  const filename = `eg_${slugOf(word)}.mp3`;
-  const filepath = path.join(AUDIO_DIR, filename);
-  let buf;
-  if (fs.existsSync(filepath) && fs.statSync(filepath).size > 100) {
-    buf = fs.readFileSync(filepath);
-  } else {
-    const url = `https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en&q=${encodeURIComponent(word)}`;
-    let lastErr;
-    for (let attempt = 1; attempt <= 3 && !buf; attempt++) {
-      try {
-        const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0' } });
-        if (!res.ok) throw new Error(`TTS HTTP ${res.status}`);
-        const b = Buffer.from(await res.arrayBuffer());
-        if (b.length < 100) throw new Error('TTS empty response');
-        buf = b;
-      } catch (err) { lastErr = err; await sleep(3000 * attempt); }
-    }
-    if (!buf) throw lastErr;
-    if (!dryRun) fs.writeFileSync(filepath, buf);
-    await sleep(TTS_DELAY_MS);   // Google TTS starts refusing after ~40 fast requests
-  }
-  return { filename, buf };
-}
-
 // ─── MAIN ────────────────────────────────────────────────────────────────────
 async function main() {
   const lessonName = path.basename(lessonPath, '.md');
   const lessonTag  = lessonName.replace(/\s+/g, '_');
   const entries = parseLesson(lessonPath);
   const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
-  const tracker = readTracker();
+  const tracker = L.readTracker();
 
+  // plan: add / merge / same
+  for (const e of entries) {
+    const ex = tracker.byWord.get(e.word.toLowerCase());
+    if (!ex) { e.mode = 'add'; continue; }
+    e.existing = ex;
+    e.newSenses = L.newSenses(e.translation, ex.translation);
+    e.mode = e.newSenses.length ? 'merge' : 'same';
+  }
+  const count = m => entries.filter(e => e.mode === m).length;
   console.log(`Lesson: ${lessonName}  (${entries.length} words, ${entries.filter(e => e.learn).length} учу / ${entries.filter(e => !e.learn).length} знаю)`);
+  console.log(`new: ${count('add')}   merge (new sense of a known word): ${count('merge')}   same meaning: ${count('same')}`);
   console.log(`Known words → setDueDate "${KNOWN_DAYS}!"${dryRun ? '   [DRY RUN]' : ''}\n`);
 
-  const missing = entries.filter(e => !data[e.word]);
+  const missing = entries.filter(e => e.mode !== 'same' && !data[e.word]);
   if (missing.length) { console.error('No data for: ' + missing.map(e => e.word).join(', ')); process.exit(1); }
 
   if (!dryRun) {
-    try { console.log(`AnkiConnect v${await anki('version')} ✓`); }
+    try { console.log(`AnkiConnect v${await L.anki('version')} ✓`); }
     catch { console.error('✗ Anki is not running (or AnkiConnect missing).'); process.exit(1); }
-    if (!(await anki('deckNames')).includes(ANKI_DECK)) await anki('createDeck', { deck: ANKI_DECK });
-    if (!(await anki('modelNames')).includes(ANKI_MODEL)) { console.error(`✗ model "${ANKI_MODEL}" not found`); process.exit(1); }
-    if (!fs.existsSync(AUDIO_DIR)) fs.mkdirSync(AUDIO_DIR, { recursive: true });
+    if (!(await L.anki('deckNames')).includes(L.ANKI_DECK)) await L.anki('createDeck', { deck: L.ANKI_DECK });
+    if (!(await L.anki('modelNames')).includes(L.ANKI_MODEL)) { console.error(`✗ model "${L.ANKI_MODEL}" not found`); process.exit(1); }
   }
 
-  let added = 0, known = 0, skipped = 0, errors = 0;
+  let added = 0, merged = 0, known = 0, same = 0, errors = 0;
 
   for (const e of entries) {
-    const { word, translation, learn } = e;
+    const { word, translation, learn, mode, existing } = e;
     const d = data[word];
     process.stdout.write(`  ${e.num}. ${learn ? '[x]' : '[ ]'} ${word.padEnd(16)} `);
 
-    if (tracker.words.has(word.toLowerCase())) { console.log('— already in tracker, skip'); skipped++; continue; }
-    if (dryRun) { console.log(`→ ${learn ? 'learning' : `known (${KNOWN_DAYS}d)`}  ${d.ipa}`); continue; }
+    if (dryRun) {
+      if (mode === 'same')  console.log(`= same meaning (${existing.translation}) → +tag only`);
+      if (mode === 'merge') console.log(`⇄ merge: "${existing.translation}" + "${e.newSenses.join(', ')}"${learn && existing.status === 'known' ? '  (reset to new)' : ''}`);
+      if (mode === 'add')   console.log(`+ ${learn ? 'learning' : `known (${KNOWN_DAYS}d)`}  ${d.ipa}`);
+      continue;
+    }
 
     try {
-      const dup = await anki('findNotes', { query: `deck:"${ANKI_DECK}" tag:${tagOf(word)}` });
-      let noteId;
-      if (dup.length) {
-        noteId = dup[0];
+      let noteId = await L.findNote(word);
+
+      if (mode === 'same') {
+        if (noteId) await L.anki('addTags', { notes: [noteId], tags: lessonTag });
+        console.log(`= same meaning, tag added`); same++; continue;
+      }
+
+      if (mode === 'merge') {
+        if (!noteId) throw new Error('row in tracker but no note in Anki');
+        const info = (await L.anki('notesInfo', { notes: [noteId] }))[0];
+        const newTr = `${existing.translation}; ${e.newSenses.join(', ')}`;
+        const sentences = [existing.s1, existing.s2, d.s[0]].filter(Boolean);
+        const ipa = existing.ipa || d.ipa || '';
+        await L.anki('updateNoteFields', { note: { id: noteId, fields: {
+          Front: L.buildFront(word, ipa, sentences, L.soundOf(info.fields.Front.value)),
+          Back:  L.buildBack(newTr, existing.note) } } });
+        await L.anki('addTags', { notes: [noteId], tags: lessonTag });
+        let reset = '';
+        if (learn && existing.status === 'known') {
+          await L.anki('forgetCards', { cards: await L.anki('findCards', { query: `nid:${noteId}` }) });
+          existing.status = 'learning'; existing.knownAt = ''; reset = ', reset to new';
+        }
+        Object.assign(existing, { translation: newTr, ipa, s1: sentences[0] || '', s2: sentences[1] || '', s3: sentences[2] || '' });
+        L.syncLessonTranslation(existing.filename, word, newTr, false);
+        console.log(`⇄ merged: + ${e.newSenses.join(', ')}${reset}`); merged++; continue;
+      }
+
+      // mode === 'add'
+      if (noteId) {
         process.stdout.write('note exists → ');
       } else {
         let soundFile = '';
         try {
-          const { filename, buf } = await getAudio(word);
-          await anki('storeMediaFile', { filename, data: buf.toString('base64') });
+          const { filename, buf } = await L.getAudio(word, dryRun);
+          await L.anki('storeMediaFile', { filename, data: buf.toString('base64') });
           soundFile = filename;
           process.stdout.write('🔊 ');
         } catch (err) { process.stdout.write(`(no audio: ${err.message}) `); }
 
-        noteId = await anki('addNote', { note: {
-          deckName: ANKI_DECK, modelName: ANKI_MODEL,
-          fields: { Front: buildFront(word, d.ipa, d.s, soundFile), Back: buildBack(translation) },
-          tags: [tagOf(word), 'english-galaxy', lessonTag],
+        noteId = await L.anki('addNote', { note: {
+          deckName: L.ANKI_DECK, modelName: L.ANKI_MODEL,
+          fields: { Front: L.buildFront(word, d.ipa, d.s, soundFile), Back: L.buildBack(translation, '') },
+          tags: [L.tagOf(word), 'english-galaxy', lessonTag],
           options: { allowDuplicate: false },
         } });
         added++;
@@ -185,22 +150,21 @@ async function main() {
 
       let status = 'learning', knownAt = '';
       if (!learn) {
-        const cards = await anki('findCards', { query: `nid:${noteId}` });
-        await anki('setDueDate', { cards, days: `${KNOWN_DAYS}!` });
-        status = 'known'; knownAt = today(); known++;
+        const cards = await L.anki('findCards', { query: `nid:${noteId}` });
+        await L.anki('setDueDate', { cards, days: `${KNOWN_DAYS}!` });
+        status = 'known'; knownAt = L.today(); known++;
       }
 
-      appendRow(tracker, {
-        word, ipa: d.ipa, translation, filename: lessonName, exportedAt: today(),
-        status, knownAt, s1: d.s[0], s2: d.s[1], s3: d.s[2], note: '',
-      });
+      L.addRow(tracker, { word, ipa: d.ipa, translation, filename: lessonName, exportedAt: L.today(),
+        status, knownAt, s1: d.s[0], s2: d.s[1], s3: d.s[2], note: '' });
       console.log(`✓ ${status}`);
     } catch (err) {
       console.log(`✗ ${err.message}`); errors++;
     }
   }
 
-  console.log(`\n═══ added: ${added}  known(${KNOWN_DAYS}d): ${known}  skipped: ${skipped}  errors: ${errors} ═══`);
+  if (!dryRun) L.writeTracker(tracker);
+  console.log(`\n═══ added: ${added}  merged: ${merged}  same: ${same}  known(${KNOWN_DAYS}d): ${known}  errors: ${errors} ═══`);
 }
 
 main().catch(e => { console.error(e); process.exit(1); });

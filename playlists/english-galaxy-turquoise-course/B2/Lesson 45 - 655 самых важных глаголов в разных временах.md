@@ -6,6 +6,15 @@
 condemn - осуждать
 
 What is this policiy condemned for?
+They are condemned for inefficiency and unprofessionalism
 
 ---
+
+note - отмечать 
+
+It should be noted that we can't be indifferent to what is going on 
+
+---
+
+be - быть
 

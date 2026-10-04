@@ -244,8 +244,10 @@
       "media-extended:Open media quick switcher": false
     }
   },
-  "active": "c8f6259384cfbe17",
+  "active": "61d3580538a5ff7c",
   "lastOpenFiles": [
+    "english words/anki/apply-word-edits.js",
+    "english words/anki/card-lib.js",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 45 - 655 самых важных глаголов в разных временах.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 44 - 655 самых важных глаголов в разных временах.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 43 - 655 самых важных глаголов в разных временах.md",
@@ -258,7 +260,6 @@
     "english words/anki/audio/eg_turn_to.mp3",
     "english words/anki/audio/eg_stand_in_for.mp3",
     "english words/anki/audio/eg_stand_back.mp3",
-    "english words/anki/audio/eg_set_aside.mp3",
     "grammar/exam-prep/Cambridge Exams Overview — B2 First, C1 Advanced, C2 Proficiency.md",
     "grammar/exam-prep/TOEFL iBT Overview — структура и стратегия.md",
     "grammar/writing/Texting and Chat — переписка в мессенджерах и соцсетях.md",
@@ -281,7 +282,6 @@
     "grammar/phrasal-verbs/dictionary/Set — фразовые глаголы.md",
     "grammar/phrasal-verbs/dictionary/Run — фразовые глаголы.md",
     "grammar/phrasal-verbs/dictionary/Put — фразовые глаголы.md",
-    "grammar/phrasal-verbs/dictionary/Phrasal Verbs Dictionary Introduction.md",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
