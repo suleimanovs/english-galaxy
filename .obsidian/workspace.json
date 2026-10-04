@@ -4,47 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "171efd3a208363fa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "af1d9f2462a21446",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "Apz70tDvB2E",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=Apz70tDvB2E"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    },
-                    "v": 1
-                  }
-                }
-              },
-              "icon": "youtube",
-              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 40"
-            }
-          }
-        ]
-      },
-      {
         "id": "34b77bbf117245bb",
         "type": "tabs",
         "children": [
@@ -246,10 +205,10 @@
   },
   "active": "61d3580538a5ff7c",
   "lastOpenFiles": [
+    "playlists/learn-5000-english-words/Lesson 40 (232-236).md",
     "playlists/learn-5000-english-words/Lesson 41 (237-241).md",
     "playlists/learn-5000-english-words/Lesson 36.md",
     "playlists/learn-5000-english-words/Lesson 37.md",
-    "playlists/learn-5000-english-words/Lesson 40 (232-236).md",
     "playlists/learn-5000-english-words/Lesson 39.md",
     "playlists/learn-5000-english-words/Lesson 44 (248-250).md",
     "playlists/learn-5000-english-words/Lesson 43 (245-247).md",
