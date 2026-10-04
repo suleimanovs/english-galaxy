@@ -153,7 +153,7 @@ Unless you hurry, we'll miss the train.
 
 #### Типичные ошибки русскоязычных
 
-**Ошибка 1 — will после союзов времени**
+##### Ошибка 1: will после союзов времени
 
 Самая частая ошибка: дословный перевод русского будущего времени.
 
@@ -164,7 +164,7 @@ Unless you hurry, we'll miss the train.
 | As soon as they **will arrive**, call me. | As soon as they **arrive**, call me. |
 | After you **will read** it, tell me. | After you **read** it, tell me. |
 
-**Ошибка 2 — Past Simple вместо Present Simple для будущего**
+##### Ошибка 2: Past Simple вместо Present Simple для будущего
 
 Иногда ученики, зная, что will нельзя, уходят в прошедшее время — это тоже неверно.
 
@@ -173,7 +173,7 @@ Unless you hurry, we'll miss the train.
 | When she **came** tomorrow... | When she **comes** tomorrow... |
 | After you **finished** the task... | After you **finish** the task... |
 
-**Ошибка 3 — игнорирование Present Perfect при акценте на завершённости**
+##### Ошибка 3: игнорирование Present Perfect при акценте на завершённости
 
 Когда важно подчеркнуть, что действие полностью завершится до следующего, лучше использовать Present Perfect, а не Present Simple.
 
