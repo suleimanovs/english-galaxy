@@ -94,6 +94,23 @@ Six people including us came to his birthday
 
 ---
 
+deny - отрицать 
+
+No one denies the significance of these achievements
+
+---
+
+suggest - предлагать
+
+What do you suggest doing in this situation?
+
+---
+
+remain - оставаться
+
+Whatever happens I will remain faithful to my principles and beliefs
+
+---
 
 
 
