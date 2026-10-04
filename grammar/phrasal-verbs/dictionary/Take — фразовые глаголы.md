@@ -33,4 +33,4 @@ tags: [grammar, phrasal]
 | 20 | **take down** | снять (со стены) | sep | They took down the poster. | |
 | 21 | **take apart** | разобрать (на части) | sep | He took apart the engine to find the problem. | |
 | 22 | **take to** | полюбить; привыкнуть к | insep | She took to him immediately. / He's taken to jogging every morning. | |
-| 23 | **take away** | забрать; унести | — | Please take away the dirty plates. | из Anki-трекера |
+| 23 | **take away** | забрать; унести | sep | Please take away the dirty plates. |  |

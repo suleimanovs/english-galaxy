@@ -20,8 +20,8 @@ tags: [grammar, phrasal]
 | 7 | **look up to** | уважать; восхищаться | insep | Children look up to their parents. | антоним: look down on |
 | 8 | **look down on** | смотреть свысока на | insep | Don't look down on people who earn less. | антоним: look up to |
 | 9 | **look out for** | присматривать за; быть начеку | insep | Look out for pickpockets. / Can you look out for my parcel? | |
-| 10 | **look ahead** | смотреть вперёд | — | We need to look ahead and plan. | из Anki-трекера |
-| 11 | **look around** | осмотреться | — | Let's look around the shop. | из Anki-трекера |
-| 12 | **look back** | оглянуться; вспоминать | — | When I look back, I have no regrets. | из Anki-трекера |
-| 13 | **look in** | заглянуть; навестить | — | I'll look in on my grandmother tomorrow. | из Anki-трекера |
-| 14 | **look through** | просмотреть; пролистать | — | She looked through the report carefully. | из Anki-трекера |
+| 10 | **look ahead** | смотреть вперёд | intrans | We need to look ahead and plan. |  |
+| 11 | **look around** | осмотреться | intrans / insep | Let's look around the store. |  |
+| 12 | **look back** | оглянуться; вспоминать | intrans | When I look back, I have no regrets. |  |
+| 13 | **look in** | заглянуть; навестить | intrans | I'll look in on my grandmother tomorrow. | look in on sb — навестить |
+| 14 | **look through** | просмотреть; пролистать | insep | She looked through the report carefully. |  |

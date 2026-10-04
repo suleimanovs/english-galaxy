@@ -20,4 +20,4 @@ tags: [grammar, phrasal]
 | 7 | **call on** | призвать | insep | The UN called on both sides to negotiate. | |
 | 8 | **call for** | требовать | insep | The situation calls for immediate action. | *This calls for a celebration!* |
 | 9 | **call for** | зайти за (кем-то) | insep | I'll call for you at 8. | BrE; AmE: pick you up / come by for you |
-| 10 | **call out** | вызвать; уличить | — | She called him out for his rude behaviour. | из Anki-трекера |
+| 10 | **call out** | вызвать; уличить | sep | She called him out for his rude behavior. |  |

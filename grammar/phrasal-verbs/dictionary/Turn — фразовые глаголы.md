@@ -28,4 +28,4 @@ tags: [grammar, phrasal]
 | 15 | **turn to** | обратиться к (за помощью) | insep | I turned to my friends for support. | ср. turn into (превратиться) |
 | 16 | **turn in** | лечь спать | intrans | I'm beat — I think I'll turn in early tonight. | AmE informal |
 | 17 | **turn in** | сдать (работу); сдать (преступника) | sep | Turn in your essays by Friday. / He turned himself in to the police. | AmE; = hand in |
-| 18 | **turn away** | отвернуться; отказать | — | They turned away hundreds of people. | из Anki-трекера |
+| 18 | **turn away** | отвернуться; отказать | sep / intrans | They turned away hundreds of people. |  |

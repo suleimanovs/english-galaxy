@@ -112,7 +112,7 @@ async function processDeck(deck, force = false) {
         if (cached) fs.unlinkSync(filepath);
         audioBuffer = await downloadAudio(ttsText, filepath);
         process.stdout.write('dl → ');
-        await sleep(100);
+        await sleep(1200);   // Google TTS refuses after ~40 fast requests
       }
 
       // Upload to Anki media
