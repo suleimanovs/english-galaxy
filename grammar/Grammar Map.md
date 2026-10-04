@@ -177,6 +177,7 @@ tags: [grammar, resources]
 | [[Resume and Cover Letter — резюме и сопроводительное письмо (US)]] | Письмо |
 | [[Paragraphs and Cohesion — абзац, связность, тема-рема]] | Письмо |
 | [[Reports, Reviews and Summaries — отчёты, рецензии, пересказ]] | Письмо |
+| [[Texting and Chat — переписка в мессенджерах и соцсетях]] | Письмо |
 | [[Speaking Introduction\|Speaking — разговорные шаблоны]] | Разговорная речь |
 | [[Functional Phrases — функциональные фразы]] | Разговорная речь |
 | [[Small Talk — светская беседа]] | Разговорная речь |
@@ -186,9 +187,11 @@ tags: [grammar, resources]
 | [[Fillers and Discourse Markers — слова-паразиты и маркеры живой речи]] | Разговорная речь |
 | [[Job Interview — собеседование на английском]] | Разговорная речь |
 | [[Phone and Video Calls — телефон и видеозвонки]] | Разговорная речь |
-| [[Exam Prep Introduction\|Подготовка к экзаменам (IELTS)]] | Экзамены |
+| [[Exam Prep Introduction\|Подготовка к экзаменам (IELTS, TOEFL, Cambridge)]] | Экзамены |
 | [[IELTS Overview — структура экзамена]] | Экзамены |
 | [[IELTS Writing — стратегия письменной части]] | Экзамены |
 | [[IELTS Speaking — стратегия устной части]] | Экзамены |
 | [[IELTS Listening and Reading — стратегия]] | Экзамены |
+| [[TOEFL iBT Overview — структура и стратегия]] | Экзамены |
+| [[Cambridge Exams Overview — B2 First, C1 Advanced, C2 Proficiency]] | Экзамены |
 | [[External Resources — внешние ресурсы]] | Ресурсы |

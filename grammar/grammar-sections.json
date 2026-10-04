@@ -839,6 +839,11 @@
           "en": "Reports, Reviews & Summaries",
           "ru": "отчёты, рецензии, пересказ",
           "file": "Reports, Reviews and Summaries — отчёты, рецензии, пересказ"
+        },
+        {
+          "en": "Texting & Chat",
+          "ru": "мессенджеры, Slack, сокращения",
+          "file": "Texting and Chat — переписка в мессенджерах и соцсетях"
         }
       ]
     },
@@ -869,6 +874,16 @@
           "en": "IELTS Listening & Reading",
           "ru": "стратегия",
           "file": "IELTS Listening and Reading — стратегия"
+        },
+        {
+          "en": "TOEFL iBT Overview",
+          "ru": "структура и стратегия",
+          "file": "TOEFL iBT Overview — структура и стратегия"
+        },
+        {
+          "en": "Cambridge Exams Overview",
+          "ru": "B2 First, C1 Advanced, C2 Proficiency",
+          "file": "Cambridge Exams Overview — B2 First, C1 Advanced, C2 Proficiency"
         }
       ]
     },
