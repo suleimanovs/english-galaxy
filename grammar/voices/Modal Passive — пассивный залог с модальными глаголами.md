@@ -248,7 +248,7 @@ Modal Passive особенно характерен для официальны�
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Пропуск be в конструкции
+##### Ошибка 1: Пропуск be в конструкции
 
 | Неправильно | Правильно |
 |---|---|
@@ -256,7 +256,7 @@ Modal Passive особенно характерен для официальны�
 | The room should cleaned. | The room should **be** cleaned. |
 | This can done easily. | This can **be** done easily. |
 
-Ошибка 2: Неправильная форма причастия
+##### Ошибка 2: Неправильная форма причастия
 
 | Неправильно | Правильно |
 |---|---|
@@ -264,7 +264,7 @@ Modal Passive особенно характерен для официальны�
 | The door can be open. | The door can be open**ed**. |
 | The form should be sign. | The form should be sign**ed**. |
 
-Ошибка 3: Активный залог там, где нужен пассивный
+##### Ошибка 3: Активный залог там, где нужен пассивный
 
 Когда деятель неизвестен или неважен:
 
@@ -274,7 +274,7 @@ Modal Passive особенно характерен для официальны�
 | They should inform the police. | The police **should be informed**. |
 | You can't use this room now. | This room **can't be used** now. |
 
-Ошибка 4: Путаница с have been в прошедшем пассиве
+##### Ошибка 4: Путаница с have been в прошедшем пассиве
 
 | Неправильно | Правильно |
 |---|---|

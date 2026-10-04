@@ -236,7 +236,7 @@ with + object + V-ing / V3 / предлог / прилагательное
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Висячее причастие
+##### Ошибка 1: Висячее причастие
 
 Подлежащее главного предложения не выполняет действие причастия.
 
@@ -246,14 +246,14 @@ with + object + V-ing / V3 / предлог / прилагательное
 | Having studied all night, the exam was easy. | Having studied all night, I found the exam easy. |
 | Being late, the teacher was angry with me. | Because I was late, the teacher was angry with me. |
 
-Ошибка 2: Простое причастие вместо перфектного при явном предшествовании
+##### Ошибка 2: Простое причастие вместо перфектного при явном предшествовании
 
 | Неправильно | Правильно |
 |---|---|
 | Finishing university, he moved to New York. | Having finished university, he moved to New York. / After finishing university… |
 | Losing his job, he had been unemployed for a year. | Having lost his job, he had been unemployed for a year. |
 
-Ошибка 3: V-ing вместо V3 в пассивном значении
+##### Ошибка 3: V-ing вместо V3 в пассивном значении
 
 Русское «написанная книга» и «пишущий человек» различаются суффиксами; в английском тоже: активное -ing, пассивное V3.
 
@@ -263,21 +263,21 @@ with + object + V-ing / V3 / предлог / прилагательное
 | The products making in China… | The products made in China… |
 | Shocking by the news, she cried. | Shocked by the news, she cried. |
 
-Ошибка 4: Сокращение придаточного, где местоимение — дополнение
+##### Ошибка 4: Сокращение придаточного, где местоимение — дополнение
 
 | Неправильно | Правильно |
 |---|---|
 | The man meeting yesterday was nice. | The man I met yesterday was nice. |
 | The movie watching last night was boring. | The movie we watched last night was boring. |
 
-Ошибка 5: Калька русского деепричастия с «не» и «будучи»
+##### Ошибка 5: Калька русского деепричастия с «не» и «будучи»
 
 | Неестественно | Естественно |
 |---|---|
 | Being not ready, we waited. | Not being ready, we waited. (not перед причастием) |
 | Being a student, I was poor. (допустимо, но тяжеловесно в речи) | As a student, I was poor. / When I was a student, I was poor. |
 
-Ошибка 6: Запятая и порядок слов
+##### Ошибка 6: Запятая и порядок слов
 
 Начальный причастный оборот отделяется запятой; конечный — запятой, если он относится ко всему предложению, и без запятой, если это определение к существительному.
 
@@ -286,7 +286,7 @@ with + object + V-ing / V3 / предлог / прилагательное
 | Having finished the report she left. | Having finished the report, she left. |
 | I saw a man, standing by the door. (определение) | I saw a man standing by the door. |
 
-Ошибка 7: Переизбыток причастных оборотов в разговоре
+##### Ошибка 7: Переизбыток причастных оборотов в разговоре
 
 | Звучит как перевод | Естественно в речи |
 |---|---|

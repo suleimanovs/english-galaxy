@@ -214,7 +214,7 @@ be on the brink of + сущ.      →  на краю (катастрофы, во
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Be about to с указанием времени
+##### Ошибка 1: Be about to с указанием времени
 
 «Я собираюсь уехать завтра» — по-русски «собираюсь» годится для любого будущего, но *be about to* означает «вот-вот», и слово *tomorrow* с ним несовместимо.
 
@@ -223,7 +223,7 @@ be on the brink of + сущ.      →  на краю (катастрофы, во
 | I'm about to go to Chicago tomorrow. | I'm going to Chicago tomorrow. / I'm going to go to Chicago tomorrow. |
 | We're about to move next year. | We're going to move next year. |
 
-Ошибка 2: Present Simple для личных планов
+##### Ошибка 2: Present Simple для личных планов
 
 Русское «Я еду в Нью-Йорк в пятницу» дословно переводится настоящим временем, но в английском личный план — это Present Continuous или going to.
 
@@ -233,21 +233,21 @@ be on the brink of + сущ.      →  на краю (катастрофы, во
 | We have dinner with the Smiths tonight. | We're having dinner with the Smiths tonight. |
 | She meets her lawyer tomorrow. | She's meeting her lawyer tomorrow. |
 
-Ошибка 3: Will для расписания
+##### Ошибка 3: Will для расписания
 
 | Неправильно | Правильно |
 |---|---|
 | The train will leave at 9 every morning. | The train leaves at 9 every morning. |
 | What time will the movie start? (о сеансе) | What time does the movie start? |
 
-Ошибка 4: Be due to как «из-за» и наоборот
+##### Ошибка 4: Be due to как «из-за» и наоборот
 
 | Неправильно | Правильно |
 |---|---|
 | The train is due to the weather late. | The train is late due to the weather. |
 | The flight is due to arrive because of 6. | The flight is due to arrive at 6. |
 
-Ошибка 5: Be to в бытовом разговоре
+##### Ошибка 5: Be to в бытовом разговоре
 
 *I am to go to the store* звучит как приказ самому себе. В быту — *I have to / I need to / I'm going to*.
 
@@ -256,7 +256,7 @@ be on the brink of + сущ.      →  на краю (катастрофы, во
 | I am to buy milk today. | I need to buy milk today. |
 | We are to meet at the café. | We're meeting at the café. |
 
-Ошибка 6: Not about to понято буквально
+##### Ошибка 6: Not about to понято буквально
 
 | Фраза | Неправильное понимание | Реальный смысл |
 |---|---|---|

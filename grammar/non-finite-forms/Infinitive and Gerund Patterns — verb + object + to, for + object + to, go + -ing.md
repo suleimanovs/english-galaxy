@@ -255,7 +255,7 @@ subject + need / want + -ing     =   need to be + V3
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Придаточное с that вместо object + to-infinitive
+##### Ошибка 1: Придаточное с that вместо object + to-infinitive
 
 Главная ошибка раздела. Русское «хочу, чтобы ты…» переводится не через *that*, а через дополнение + инфинитив.
 
@@ -266,7 +266,7 @@ subject + need / want + -ing     =   need to be + V3
 | I would like that everyone is here at 9. | I'd like everyone to be here at 9. |
 | He expects that I pay. (допустимо, но тяжело) | He expects me to pay. |
 
-Ошибка 2: To после make, let, see, hear
+##### Ошибка 2: To после make, let, see, hear
 
 | Неправильно | Правильно |
 |---|---|
@@ -275,7 +275,7 @@ subject + need / want + -ing     =   need to be + V3
 | I saw him to leave. | I saw him leave. |
 | My mom doesn't let me to stay out late. | My mom doesn't let me stay out late. |
 
-Ошибка 3: Пропущенное for перед деятелем инфинитива
+##### Ошибка 3: Пропущенное for перед деятелем инфинитива
 
 | Неправильно | Правильно |
 |---|---|
@@ -283,28 +283,28 @@ subject + need / want + -ing     =   need to be + V3
 | It's hard me to say. | It's hard for me to say. |
 | It's too late we to go. | It's too late for us to go. |
 
-Ошибка 4: Инфинитив вместо герундия после go
+##### Ошибка 4: Инфинитив вместо герундия после go
 
 | Неправильно | Правильно |
 |---|---|
 | Let's go to shop. | Let's go shopping. |
 | We went to swim yesterday. (= пошли с целью поплавать, грамматично, но не идиоматично) | We went swimming yesterday. |
 
-Ошибка 5: Would like + -ing
+##### Ошибка 5: Would like + -ing
 
 | Неправильно | Правильно |
 |---|---|
 | I would like going home. | I would like to go home. |
 | Would you like dancing? | Would you like to dance? |
 
-Ошибка 6: Объектное местоимение в именительном падеже
+##### Ошибка 6: Объектное местоимение в именительном падеже
 
 | Неправильно | Правильно |
 |---|---|
 | I want he to help me. | I want him to help me. |
 | It's easy for they to say. | It's easy for them to say. |
 
-Ошибка 7: Say вместо tell с инфинитивом
+##### Ошибка 7: Say вместо tell с инфинитивом
 
 *Say* не принимает дополнение + инфинитив.
 

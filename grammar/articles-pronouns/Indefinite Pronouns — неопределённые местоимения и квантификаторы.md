@@ -128,7 +128,7 @@ tags: [grammar, articles]
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Двойное отрицание
+##### Ошибка 1: Двойное отрицание
 
 В английском **одно отрицание** на предложение:
 
@@ -138,7 +138,7 @@ tags: [grammar, articles]
 | She didn't go nowhere. | She didn't go anywhere. / She went nowhere. |
 | Nobody didn't come. | Nobody came. |
 
-Ошибка 2: Some в вопросах (когда нужен any)
+##### Ошибка 2: Some в вопросах (когда нужен any)
 
 | Неправильно | Правильно |
 |---|---|
@@ -148,7 +148,7 @@ tags: [grammar, articles]
 > [!note]
 > Но: *Would you like some tea?* [OK — это предложение, ожидаем «да»]
 
-Ошибка 3: Much/many путаница
+##### Ошибка 3: Much/many путаница
 
 | Неправильно | Правильно |
 |---|---|
@@ -156,7 +156,7 @@ tags: [grammar, articles]
 | There isn't much people. | There aren't many people. |
 | How many money? | How much money? |
 
-Ошибка 4: Few vs a few — пропуск оттенка
+##### Ошибка 4: Few vs a few — пропуск оттенка
 
 | Фраза | Значение |
 |---|---|
@@ -165,7 +165,7 @@ tags: [grammar, articles]
 | There's **little** we can do. | Мы почти ничего не можем сделать |
 | There's **a little** we can do. | Кое-что мы можем сделать |
 
-Ошибка 5: Everyone/everything с множественным числом глагола
+##### Ошибка 5: Everyone/everything с множественным числом глагола
 
 | Неправильно | Правильно |
 |---|---|

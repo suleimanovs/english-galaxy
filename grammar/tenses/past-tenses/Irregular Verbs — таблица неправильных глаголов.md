@@ -254,7 +254,7 @@ V3 (past participle) →  Present/Past Perfect (have gone), Passive (was bought)
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Правильное окончание -ed у неправильного глагола
+##### Ошибка 1: Правильное окончание -ed у неправильного глагола
 
 Логика «все глаголы берут -ed» тянет за собой формы *teached, buyed, goed*. Их нужно просто выучить.
 
@@ -264,7 +264,7 @@ V3 (past participle) →  Present/Past Perfect (have gone), Passive (was bought)
 | I buyed a new phone. | I bought a new phone. |
 | She catched the ball. | She caught the ball. |
 
-Ошибка 2: V2 вместо V3 после have / has / had
+##### Ошибка 2: V2 вместо V3 после have / has / had
 
 | Неправильно | Правильно |
 |---|---|
@@ -273,7 +273,7 @@ V3 (past participle) →  Present/Past Perfect (have gone), Passive (was bought)
 | Have you ever saw a whale? | Have you ever seen a whale? |
 | He had took the money. | He had taken the money. |
 
-Ошибка 3: Двойное обозначение прошедшего времени после did / didn't
+##### Ошибка 3: Двойное обозначение прошедшего времени после did / didn't
 
 Вспомогательный глагол *did* уже несёт прошедшее время — основной глагол остаётся в V1.
 
@@ -283,7 +283,7 @@ V3 (past participle) →  Present/Past Perfect (have gone), Passive (was bought)
 | Did you saw him? | Did you see him? |
 | She didn't understood. | She didn't understand. |
 
-Ошибка 4: V3 вместо V2 в простом прошедшем
+##### Ошибка 4: V3 вместо V2 в простом прошедшем
 
 | Неправильно | Правильно |
 |---|---|
@@ -291,7 +291,7 @@ V3 (past participle) →  Present/Past Perfect (have gone), Passive (was bought)
 | We done it last week. | We did it last week. |
 | He begun to cry. | He began to cry. |
 
-Ошибка 5: Чтение форм по буквам
+##### Ошибка 5: Чтение форм по буквам
 
 | Неправильно | Правильно |
 |---|---|
@@ -300,7 +300,7 @@ V3 (past participle) →  Present/Past Perfect (have gone), Passive (was bought)
 | bought как «боугт» | /bɔt/ |
 | knew как «кнью» | /nu/ |
 
-Ошибка 6: Смешение lie / lay и rise / raise
+##### Ошибка 6: Смешение lie / lay и rise / raise
 
 | Неправильно | Правильно |
 |---|---|

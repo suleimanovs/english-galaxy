@@ -151,7 +151,7 @@ tags: [grammar, articles]
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Пропуск the там, где он нужен
+##### Ошибка 1: Пропуск the там, где он нужен
 
 | Неправильно | Правильно |
 |---|---|
@@ -159,7 +159,7 @@ tags: [grammar, articles]
 | She is best student in class. | She is the best student in the class. |
 | Can you close door? | Can you close the door? |
 
-Ошибка 2: Лишний the там, где нужен нулевой артикль
+##### Ошибка 2: Лишний the там, где нужен нулевой артикль
 
 | Неправильно | Правильно |
 |---|---|
@@ -168,13 +168,13 @@ tags: [grammar, articles]
 | She speaks the English. | She speaks English. |
 | He plays the football. | He plays football. |
 
-Ошибка 3: a/an вместо the при повторном упоминании
+##### Ошибка 3: a/an вместо the при повторном упоминании
 
 | Неправильно | Правильно |
 |---|---|
 | I have a cat. A cat is very playful. | I have a cat. The cat is very playful. |
 
-Ошибка 4: a/an с профессией через be — пропуск артикля
+##### Ошибка 4: a/an с профессией через be — пропуск артикля
 
 | Неправильно | Правильно |
 |---|---|

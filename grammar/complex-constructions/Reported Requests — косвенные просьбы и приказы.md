@@ -77,21 +77,21 @@ told / asked / ordered / warned + объект + not to + V
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: That + сдвиг времён для приказов
+##### Ошибка 1: That + сдвиг времён для приказов
 
 | Неправильно | Правильно |
 |---|---|
 | She told me that I sit down. | She told me to sit down. |
 | He asked me that I help him. | He asked me to help him. |
 
-Ошибка 2: Said вместо told для приказов с объектом
+##### Ошибка 2: Said вместо told для приказов с объектом
 
 | Неправильно | Правильно |
 |---|---|
 | She said me to sit down. | She told me to sit down. |
 | He said us to leave. | He told us to leave. |
 
-Ошибка 3: Suggest + to-infinitive
+##### Ошибка 3: Suggest + to-infinitive
 
 | Неправильно | Правильно |
 |---|---|

@@ -350,7 +350,7 @@ slightly  →  fairly  →  quite  →  rather  →  pretty  →  very  →  ext
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Прилагательное вместо наречия
+##### Ошибка 1: Прилагательное вместо наречия
 
 | Неправильно | Правильно |
 |---|---|
@@ -362,7 +362,7 @@ slightly  →  fairly  →  quite  →  rather  →  pretty  →  very  →  ext
 > [!note]
 > *I feel good* — правильно: feel здесь глагол-связка, после него прилагательное. *She sings well* — наречие после глагола действия.
 
-Ошибка 2: Неправильное место наречия частотности
+##### Ошибка 2: Неправильное место наречия частотности
 
 | Неправильно | Правильно |
 |---|---|
@@ -370,7 +370,7 @@ slightly  →  fairly  →  quite  →  rather  →  pretty  →  very  →  ext
 | I drink never coffee. | I **never** drink coffee. |
 | He has gone often there. | He has **often** gone there. |
 
-Ошибка 3: Путаница в парах с разными значениями
+##### Ошибка 3: Путаница в парах с разными значениями
 
 | Неправильно | Правильно |
 |---|---|
@@ -380,7 +380,7 @@ slightly  →  fairly  →  quite  →  rather  →  pretty  →  very  →  ext
 | The method is **wide** used. | The method is **widely** used. |
 | I am **deep** grateful. | I am **deeply** grateful. |
 
-Ошибка 4: Too vs Very
+##### Ошибка 4: Too vs Very
 
 - *very* — усиление без негативного оттенка: *very good*
 - *too* — «слишком», подразумевает проблему: *too hot to eat*
@@ -390,7 +390,7 @@ slightly  →  fairly  →  quite  →  rather  →  pretty  →  very  →  ext
 | The movie was too interesting. (нет проблемы) | The movie was **very** interesting. |
 | It's very hot to go out. | It's **too** hot to go out. |
 
-Ошибка 5: Неправильный порядок нескольких наречий
+##### Ошибка 5: Неправильный порядок нескольких наречий
 
 | Неправильно | Правильно |
 |---|---|

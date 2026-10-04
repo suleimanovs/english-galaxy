@@ -93,7 +93,7 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Путать с Future Perfect Simple
+##### Ошибка 1: Путать с Future Perfect Simple
 
 Ключевой вопрос тот же — результат или процесс/продолжительность?
 
@@ -102,7 +102,7 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 | By Friday, I will have written the report. (отчёт будет готов) | By Friday, I will have been writing the report for a week. (пишу уже неделю) |
 | She will have read the book by Monday. (книга будет прочитана) | She will have been reading all weekend. (читала все выходные) |
 
-Ошибка 2: Будущее время в придаточном
+##### Ошибка 2: Будущее время в придаточном
 
 | Неправильно | Правильно |
 |---|---|

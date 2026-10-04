@@ -72,7 +72,7 @@ If + Past Perfect  ,  would have + V3
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Would have в if-clause
+##### Ошибка 1: Would have в if-clause
 
 Как и в других условных, would никогда не стоит в if-clause.
 
@@ -81,7 +81,7 @@ If + Past Perfect  ,  would have + V3
 | If I would have known, I'd have told you. | If I had known, I'd have told you. |
 | If she would have studied, she'd have passed. | If she had studied, she would have passed. |
 
-Ошибка 2: Past Simple вместо Past Perfect в if-clause
+##### Ошибка 2: Past Simple вместо Past Perfect в if-clause
 
 Третье условие требует именно Past Perfect в if-clause — не Past Simple.
 
@@ -90,7 +90,7 @@ If + Past Perfect  ,  would have + V3
 | If I knew earlier, I would have helped. | If I had known earlier, I would have helped. |
 | If she didn't miss the bus, she'd have been on time. | If she hadn't missed the bus, she would have been on time. |
 
-Ошибка 3: Путать 'd как had и 'd как would
+##### Ошибка 3: Путать 'd как had и 'd как would
 
 В разговорной речи обе формы выглядят одинаково — только контекст помогает разобраться.
 

@@ -183,7 +183,7 @@ Should + S + V ... / Were + S + to V ... / Had + S + V3 ...  — инверси�
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Двойное отрицание с unless
+##### Ошибка 1: Двойное отрицание с unless
 
 Unless уже содержит «не». В русском «если не поторопишься» хочется перевести дословно с отрицанием — не нужно.
 
@@ -192,7 +192,7 @@ Unless уже содержит «не». В русском «если не по�
 | Unless you don't hurry, you'll be late. | Unless you hurry, you'll be late. |
 | I won't go unless he doesn't apologize. | I won't go unless he apologizes. |
 
-Ошибка 2: In case вместо if
+##### Ошибка 2: In case вместо if
 
 В русском «на случай если» и «если» легко смешиваются. **In case** — предосторожность заранее, **if** — условие.
 
@@ -201,14 +201,14 @@ Unless уже содержит «не». В русском «если не по�
 | I'll call you in case I'm late. (хотел сказать «если опоздаю») | I'll call you if I'm late. |
 | Take money in case you want to buy something. — ✓ (беру на всякий случай) | — |
 
-Ошибка 3: Even if вместо even though (и наоборот)
+##### Ошибка 3: Even if вместо even though (и наоборот)
 
 | Неправильно | Правильно |
 |---|---|
 | Even if it was raining, we went out. (факт) | Even though it was raining, we went out. |
 | Even though it rains tomorrow, I'll go. (гипотеза) | Even if it rains tomorrow, I'll go. |
 
-Ошибка 4: Will после unless / as long as / provided
+##### Ошибка 4: Will после unless / as long as / provided
 
 Все эти союзы ведут себя как if: будущее выражается Present Simple.
 
@@ -217,7 +217,7 @@ Unless уже содержит «не». В русском «если не по�
 | Unless it will rain, we'll go. | Unless it rains, we'll go. |
 | As long as you will help, we'll finish. | As long as you help, we'll finish. |
 
-Ошибка 5: Сокращённое отрицание при инверсии
+##### Ошибка 5: Сокращённое отрицание при инверсии
 
 | Неправильно | Правильно |
 |---|---|

@@ -255,16 +255,14 @@ Cleft — это инструмент, и, как любой инструмен�
 
 #### Типичные ошибки русскоязычных
 
-**Ошибка 1: Неправильный порядок слов в what-cleft**
-
+##### Ошибка 1: Неправильный порядок слов в what-cleft
 | Неправильно | Правильно |
 |---|---|
 | What is I need is a break. | **What** I need **is** a break. |
 | What I need a break. | **What** I need **is** a break. |
 | What need I is rest. | **What** I need **is** rest. |
 
-**Ошибка 2: Who/that путаница в it-cleft**
-
+##### Ошибка 2: Who/that путаница в it-cleft
 Для людей можно **who** или **that**, для остального — только **that**:
 
 | Неправильно | Правильно |
@@ -272,8 +270,7 @@ Cleft — это инструмент, и, как любой инструмен�
 | It was the weather **who** ruined the trip. | It was the weather **that** ruined the trip. |
 | It was yesterday **who** everything changed. | It was yesterday **that** everything changed. |
 
-**Ошибка 3: Несогласование времени**
-
+##### Ошибка 3: Несогласование времени
 Время в *it is/was* должно соответствовать времени события:
 
 | Неправильно | Правильно |
@@ -281,8 +278,7 @@ Cleft — это инструмент, и, как любой инструмен�
 | It **is** John who broke the window yesterday. | It **was** John who broke the window yesterday. |
 | It **was** here that she works every day. | It **is** here that she works every day. |
 
-**Ошибка 4: Cleft везде без причины**
-
+##### Ошибка 4: Cleft везде без причины
 Студент выучил cleft и начинает вставлять его в каждое предложение. Это делает текст тяжёлым и неестественным.
 
 | Неуместно | Естественно |
@@ -292,8 +288,7 @@ Cleft — это инструмент, и, как любой инструмен�
 
 > Правило: используйте cleft только тогда, когда есть **контраст**, **исправление** или **осознанный акцент**. Если предложение понятно и без выделения — cleft лишний.
 
-**Ошибка 5: Неправильное согласование глагола в what-cleft**
-
+##### Ошибка 5: Неправильное согласование глагола в what-cleft
 | Неправильно | Правильно |
 |---|---|
 | What we need **is** more volunteers and resources. | What we need **are** more volunteers and resources. *(или: What we need is more support — ед.ч.)* |

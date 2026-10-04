@@ -170,7 +170,7 @@ Subjunctive сохранился в нескольких фиксированн�
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Добавление -s в третьем лице
+##### Ошибка 1: Добавление -s в третьем лице
 
 | Неправильно | Правильно |
 |---|---|
@@ -178,14 +178,14 @@ Subjunctive сохранился в нескольких фиксированн�
 | It's important that she is here. | It's important that she **be** here. |
 | They demanded that he resigns. | They demanded that he **resign**. |
 
-Ошибка 2: Использование don't/doesn't для отрицания
+##### Ошибка 2: Использование don't/doesn't для отрицания
 
 | Неправильно | Правильно |
 |---|---|
 | I suggest that he doesn't go. | I suggest that he **not go**. |
 | It's important that she doesn't be late. | It's important that she **not be** late. |
 
-Ошибка 3: Was вместо were после if/wish
+##### Ошибка 3: Was вместо were после if/wish
 
 | Менее формально (допустимо в разговорной речи) | Формально правильно |
 |---|---|

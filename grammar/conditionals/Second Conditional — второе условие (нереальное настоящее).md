@@ -82,7 +82,7 @@ Second Conditional делает просьбы мягче и вежливее.
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Would в if-clause
+##### Ошибка 1: Would в if-clause
 
 В русском «если бы я знал» — оба глагола в одной форме. В английском would никогда не стоит в if-clause.
 
@@ -92,7 +92,7 @@ Second Conditional делает просьбы мягче и вежливее.
 | If she would know, she'd tell us. | If she knew, she'd tell us. |
 | If it would be warmer, I'd go out. | If it were warmer, I'd go out. |
 
-Ошибка 2: Was вместо were в формальном контексте
+##### Ошибка 2: Was вместо were в формальном контексте
 
 В письменном языке и в конструкции If I were you — только were.
 
@@ -101,7 +101,7 @@ Second Conditional делает просьбы мягче и вежливее.
 | If I was you, I'd leave. | If I were you, I'd leave. |
 | If she was here, she'd know. | If she were here, she'd know. |
 
-Ошибка 3: Путать First и Second Conditional
+##### Ошибка 3: Путать First и Second Conditional
 
 - *If I win the lottery, I'll buy a house.* — вполне возможно, First Conditional.
 - *If I won the lottery, I would buy a house.* — маловероятно, просто фантазия, Second Conditional.

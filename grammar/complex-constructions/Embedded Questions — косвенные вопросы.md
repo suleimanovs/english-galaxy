@@ -122,8 +122,7 @@ Embedded question (косвенный вопрос) — это вопрос, в�
 
 #### Типичные ошибки русскоязычных
 
-**Ошибка 1: Вопросительный порядок слов**
-
+##### Ошибка 1: Вопросительный порядок слов
 Главная ошибка — перенос инверсии из прямого вопроса.
 
 | Неправильно | Правильно |
@@ -132,8 +131,7 @@ Embedded question (косвенный вопрос) — это вопрос, в�
 | *Can you tell me how much **does** it cost?* | Can you tell me how much it **costs**? |
 | *She asked when **will** we arrive.* | She asked when we **would** arrive. |
 
-**Ошибка 2: Лишний вопросительный знак**
-
+##### Ошибка 2: Лишний вопросительный знак
 | Неправильно | Правильно |
 |---|---|
 | *I wonder where he is**?*** | I wonder where he is**.** |
@@ -141,23 +139,20 @@ Embedded question (косвенный вопрос) — это вопрос, в�
 
 Вопросительный знак — только если **главное** предложение является вопросом.
 
-**Ошибка 3: Do/does/did в embedded question**
-
+##### Ошибка 3: Do/does/did в embedded question
 | Неправильно | Правильно |
 |---|---|
 | *Tell me what **did** he say.* | Tell me what he **said**. |
 | *I wonder where **does** she work.* | I wonder where she **works**. |
 | *Do you know what time **does** the train leave?* | Do you know what time the train **leaves**? |
 
-**Ошибка 4: Пропуск whether/if в yes/no embedded questions**
-
+##### Ошибка 4: Пропуск whether/if в yes/no embedded questions
 | Неправильно | Правильно |
 |---|---|
 | *I don't know **he is** coming.* | I don't know **if / whether** he is coming. |
 | *She asked **can** I help.* | She asked **if / whether** I **could** help. |
 
-**Ошибка 5: If вместо whether после предлогов и в позиции подлежащего**
-
+##### Ошибка 5: If вместо whether после предлогов и в позиции подлежащего
 | Неправильно | Правильно |
 |---|---|
 | *It depends on **if** he agrees.* | It depends on **whether** he agrees. |

@@ -116,7 +116,7 @@ tags: [grammar, adj]
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Двойная сравнительная степень
+##### Ошибка 1: Двойная сравнительная степень
 
 | Неправильно | Правильно |
 |---|---|
@@ -125,14 +125,14 @@ tags: [grammar, adj]
 | the most fastest | the fastest |
 | more worse | worse |
 
-Ошибка 2: Пропуск the перед превосходной степенью
+##### Ошибка 2: Пропуск the перед превосходной степенью
 
 | Неправильно | Правильно |
 |---|---|
 | She is best student in class. | She is the best student in the class. |
 | This is most interesting book. | This is the most interesting book. |
 
-Ошибка 3: Путать than и then
+##### Ошибка 3: Путать than и then
 
 - **than** — для сравнения: *She is taller than him.*
 - **then** — для времени или последовательности: *First we ate, then we walked.*
@@ -141,7 +141,7 @@ tags: [grammar, adj]
 |---|---|
 | She is taller then him. | She is taller than him. |
 
-Ошибка 4: Неправильные формы неправильных прилагательных
+##### Ошибка 4: Неправильные формы неправильных прилагательных
 
 | Неправильно | Правильно |
 |---|---|
@@ -150,7 +150,7 @@ tags: [grammar, adj]
 | the most good | the best |
 | the most bad | the worst |
 
-Ошибка 5: As...as с неправильным порядком
+##### Ошибка 5: As...as с неправильным порядком
 
 В конструкции as...as второе as — обязательно.
 

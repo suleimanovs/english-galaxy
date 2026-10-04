@@ -141,7 +141,7 @@ Will  +  подлежащее  +  глагол (base form)?
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Will для заранее запланированных действий
+##### Ошибка 1: Will для заранее запланированных действий
 
 Will не используется для личных планов и договорённостей, которые уже были организованы заранее. Для этого — Present Continuous или going to.
 
@@ -150,14 +150,14 @@ Will не используется для личных планов и дого�
 | I will meet John tomorrow at 6. (если договорились заранее) | I'm meeting John tomorrow at 6. |
 | We will have a party on Saturday. (всё организовано) | We're having a party on Saturday. |
 
-Ошибка 2: Будущее время в придаточных после when, if, after и т.д.
+##### Ошибка 2: Будущее время в придаточных после when, if, after и т.д.
 
 | Неправильно | Правильно |
 |---|---|
 | Call me when you will get home. | Call me when you get home. |
 | If she will be late, we'll start without her. | If she is late, we'll start without her. |
 
-Ошибка 3: Путаница will и going to
+##### Ошибка 3: Путаница will и going to
 
 Will — спонтанное решение или предсказание по мнению. Going to — намерение или предсказание по видимым признакам.
 

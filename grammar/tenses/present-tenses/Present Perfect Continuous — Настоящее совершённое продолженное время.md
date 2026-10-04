@@ -112,7 +112,7 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Не использовать это время вообще
+##### Ошибка 1: Не использовать это время вообще
 
 В русском «Я учу английский три года» — просто настоящее. Многие так и переводят дословно через Present Simple, что неверно.
 
@@ -122,7 +122,7 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 | She works here since January. | She has been working here since January. |
 | How long do you wait? | How long have you been waiting? |
 
-Ошибка 2: Путать с Present Perfect Simple
+##### Ошибка 2: Путать с Present Perfect Simple
 
 Ключевой вопрос: что важнее — результат или процесс?
 

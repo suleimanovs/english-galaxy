@@ -127,8 +127,7 @@ Noun clause раскрывает содержание абстрактного �
 
 #### Типичные ошибки русскоязычных
 
-**Ошибка 1: Вопросительный порядок слов в noun clause**
-
+##### Ошибка 1: Вопросительный порядок слов в noun clause
 В русском порядок слов в придаточном может совпадать с вопросом. В английском — нет.
 
 | Неправильно | Правильно |
@@ -137,15 +136,13 @@ Noun clause раскрывает содержание абстрактного �
 | *Tell me what **did** he say.* | Tell me what he **said**. |
 | *I wonder **is** he coming.* | I wonder **whether** he **is** coming. |
 
-**Ошибка 2: If вместо whether в неположенных местах**
-
+##### Ошибка 2: If вместо whether в неположенных местах
 | Неправильно | Правильно |
 |---|---|
 | ***If** we go is up to you.* | **Whether** we go is up to you. |
 | *It depends on **if** she agrees.* | It depends on **whether** she agrees. |
 
-**Ошибка 3: Пропуск that после существительных**
-
+##### Ошибка 3: Пропуск that после существительных
 В appositive clauses that обычно **не опускается**:
 
 | Неестественно | Правильно |
@@ -153,8 +150,7 @@ Noun clause раскрывает содержание абстрактного �
 | *The fact he lied...* | The fact **that** he lied... |
 | *The idea we could fail...* | The idea **that** we could fail... |
 
-**Ошибка 4: Путаница what и that**
-
+##### Ошибка 4: Путаница what и that
 | Неправильно | Правильно | Почему |
 |---|---|---|
 | ***What** he is smart is obvious.* | **That** he is smart is obvious. | that = факт; what = «то, что» (конкретная вещь) |

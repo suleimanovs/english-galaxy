@@ -216,7 +216,7 @@ Subject + linking verb + ADJECTIVE
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Возвратное местоимение после feel (калька с «чувствую себя»)
+##### Ошибка 1: Возвратное местоимение после feel (калька с «чувствую себя»)
 
 | Неправильно | Правильно |
 |---|---|
@@ -224,7 +224,7 @@ Subject + linking verb + ADJECTIVE
 | ✗ She feels herself better today. | ✓ She feels better today. |
 | ✗ I feel myself comfortable here. | ✓ I feel comfortable here. |
 
-Ошибка 2: Наречие после глагола-связки
+##### Ошибка 2: Наречие после глагола-связки
 
 | Неправильно | Правильно |
 |---|---|
@@ -232,7 +232,7 @@ Subject + linking verb + ADJECTIVE
 | ✗ The soup tastes deliciously. | ✓ The soup tastes delicious. |
 | ✗ It sounds strangely. | ✓ It sounds strange. |
 
-Ошибка 3: Very с неградуируемым прилагательным
+##### Ошибка 3: Very с неградуируемым прилагательным
 
 | Неправильно | Правильно |
 |---|---|
@@ -241,7 +241,7 @@ Subject + linking verb + ADJECTIVE
 | ✗ very freezing | ✓ freezing / very cold |
 | ✗ very unique (в письме) | ✓ unique / truly unique |
 
-Ошибка 4: Множественное число внутри составного прилагательного
+##### Ошибка 4: Множественное число внутри составного прилагательного
 
 | Неправильно | Правильно |
 |---|---|
@@ -249,7 +249,7 @@ Subject + linking verb + ADJECTIVE
 | ✗ a two-weeks vacation | ✓ a two-week vacation |
 | ✗ a 500-pages book | ✓ a 500-page book |
 
-Ошибка 5: Дефис после глагола или его отсутствие перед существительным
+##### Ошибка 5: Дефис после глагола или его отсутствие перед существительным
 
 | Неправильно | Правильно |
 |---|---|
@@ -257,7 +257,7 @@ Subject + linking verb + ADJECTIVE
 | ✗ The author is well-known. (спорно, лучше) | ✓ The author is well known. |
 | ✗ a highly-qualified specialist | ✓ a highly qualified specialist |
 
-Ошибка 6: Неправильная конструкция после прилагательного
+##### Ошибка 6: Неправильная конструкция после прилагательного
 
 | Неправильно | Правильно |
 |---|---|
@@ -266,7 +266,7 @@ Subject + linking verb + ADJECTIVE
 | ✗ I'm sure in his honesty. | ✓ I'm sure of his honesty. |
 | ✗ She was the first who arrived. (громоздко) | ✓ She was the first to arrive. |
 
-Ошибка 7: -ly прилагательные как наречия
+##### Ошибка 7: -ly прилагательные как наречия
 
 | Неправильно | Правильно |
 |---|---|

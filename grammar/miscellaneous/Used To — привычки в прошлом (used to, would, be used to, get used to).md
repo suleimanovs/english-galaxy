@@ -118,21 +118,21 @@ tags: [grammar, misc]
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Used to + V-ing (смешение конструкций)
+##### Ошибка 1: Used to + V-ing (смешение конструкций)
 
 | Неправильно | Правильно |
 |---|---|
 | I used to smoking. | I **used to** smoke. (привычка в прошлом) |
 | | I **am used to** smoking. (привык к курению) |
 
-Ошибка 2: Be used to + V (base form вместо V-ing)
+##### Ошибка 2: Be used to + V (base form вместо V-ing)
 
 | Неправильно | Правильно |
 |---|---|
 | I am used to get up early. | I am used to **getting** up early. |
 | She is used to work hard. | She is used to **working** hard. |
 
-Ошибка 3: Would с глаголами состояния
+##### Ошибка 3: Would с глаголами состояния
 
 | Неправильно | Правильно |
 |---|---|
@@ -140,7 +140,7 @@ tags: [grammar, misc]
 | She would have long hair. | She **used to** have long hair. |
 | He would like chocolate. | He **used to** like chocolate. |
 
-Ошибка 4: Use to без did в прошедшем времени
+##### Ошибка 4: Use to без did в прошедшем времени
 
 | Неправильно | Правильно |
 |---|---|

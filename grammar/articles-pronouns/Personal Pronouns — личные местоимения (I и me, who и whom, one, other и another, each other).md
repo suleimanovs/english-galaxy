@@ -189,7 +189,7 @@ tags: [grammar, articles]
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Именительный падеж после глагола или предлога
+##### Ошибка 1: Именительный падеж после глагола или предлога
 
 | Неправильно | Правильно |
 |---|---|
@@ -197,14 +197,14 @@ tags: [grammar, articles]
 | Between you and I, it's a bad idea. | Between you and me, it's a bad idea. |
 | This is for he. | This is for him. |
 
-Ошибка 2: Me в подлежащем
+##### Ошибка 2: Me в подлежащем
 
 | Неправильно | Правильно |
 |---|---|
 | Me and my friend went to the movies. | My friend and I went to the movies. |
 | Him and her are married. | He and she are married. (лучше: They're married.) |
 
-Ошибка 3: Пропуск it там, где в русском нет подлежащего
+##### Ошибка 3: Пропуск it там, где в русском нет подлежащего
 
 | Неправильно | Правильно |
 |---|---|
@@ -212,7 +212,7 @@ tags: [grammar, articles]
 | Is important to be on time. | It's important to be on time. |
 | Is raining. | It's raining. |
 
-Ошибка 4: An another / other вместо another
+##### Ошибка 4: An another / other вместо another
 
 | Неправильно | Правильно |
 |---|---|
@@ -220,14 +220,14 @@ tags: [grammar, articles]
 | I want other cup of coffee. | I want another cup of coffee. |
 | Some like it, the others don't. (о людях вообще) | Some like it, others don't. |
 
-Ошибка 5: Whom в разговорном вопросе и who после предлога на письме
+##### Ошибка 5: Whom в разговорном вопросе и who после предлога на письме
 
 | Стиль | Естественно | Неестественно |
 |---|---|---|
 | Разговор | Who did you talk to? | Whom did you talk to? |
 | Формальное письмо | To whom should I address the letter? | To who should I address the letter? |
 
-Ошибка 6: Themselves / each other
+##### Ошибка 6: Themselves / each other
 
 | Неправильно | Правильно |
 |---|---|

@@ -104,28 +104,28 @@ tags: [grammar, misc]
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Despite + придаточное (нужно although)
+##### Ошибка 1: Despite + придаточное (нужно although)
 
 | Неправильно | Правильно |
 |---|---|
 | Despite she was tired, she continued. | Although she was tired, she continued. |
 | Despite that it rained, we went out. | Although it rained... / Despite the rain... |
 
-Ошибка 2: Because вместо because of перед существительным
+##### Ошибка 2: Because вместо because of перед существительным
 
 | Неправильно | Правильно |
 |---|---|
 | She was late because the traffic. | She was late because of the traffic. |
 | Because the rain, the match was canceled. | Because of the rain... / Because it rained... |
 
-Ошибка 3: Запятая перед and, but, or в коротких предложениях
+##### Ошибка 3: Запятая перед and, but, or в коротких предложениях
 
 В русском перед «но» всегда запятая. В английском запятая перед but/and/or ставится только если части предложения достаточно длинные или самостоятельные. В коротких конструкциях запятая не нужна.
 
 - *She's tired **but** happy.* — запятая не нужна.
 - *She had worked all day, **but** she refused to give up.* — запятая уместна.
 
-Ошибка 4: So и because в одном предложении
+##### Ошибка 4: So и because в одном предложении
 
 | Неправильно | Правильно |
 |---|---|

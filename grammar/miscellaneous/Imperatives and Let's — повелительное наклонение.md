@@ -218,7 +218,7 @@ tags: [grammar, misc]
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: To после Don't или Let's
+##### Ошибка 1: To после Don't или Let's
 
 После don't и let's — только базовая форма глагола без to.
 
@@ -228,7 +228,7 @@ tags: [grammar, misc]
 | Let's to go home. | Let's go home. |
 | Please to sit down. | Please sit down. |
 
-Ошибка 2: Калька «пойдём гулять» → Let's go to walk
+##### Ошибка 2: Калька «пойдём гулять» → Let's go to walk
 
 Русское «пойти + инфинитив» в английском передаётся **go + -ing** или просто глаголом.
 
@@ -239,7 +239,7 @@ tags: [grammar, misc]
 | Let's go to shop. | Let's go shopping. |
 | Let's go to eat. | Let's go eat. / Let's grab a bite. |
 
-Ошибка 3: Отрицание без don't
+##### Ошибка 3: Отрицание без don't
 
 | Неправильно | Правильно |
 |---|---|
@@ -247,14 +247,14 @@ tags: [grammar, misc]
 | No be late. | Don't be late. |
 | Let's don't go. | Let's not go. |
 
-Ошибка 4: Will / shall в предложении Let's
+##### Ошибка 4: Will / shall в предложении Let's
 
 | Неправильно | Правильно |
 |---|---|
 | Let's will go. | Let's go. |
 | Let's go, yes? | Let's go, okay? |
 
-Ошибка 5: Голый императив с незнакомцами и в сервисе
+##### Ошибка 5: Голый императив с незнакомцами и в сервисе
 
 Грамматически верно, но звучит грубо.
 
@@ -265,7 +265,7 @@ tags: [grammar, misc]
 | Repeat, please. | Could you say that again? / Sorry? |
 | Sit, please. (гостю) | Have a seat. / Please, sit down. |
 
-Ошибка 6: You в начале как в русском «ты сядь» — звучит грубее, чем кажется
+##### Ошибка 6: You в начале как в русском «ты сядь» — звучит грубее, чем кажется
 
 | Что хотели сказать | Нейтрально | С you (нажим / раздражение) |
 |---|---|---|

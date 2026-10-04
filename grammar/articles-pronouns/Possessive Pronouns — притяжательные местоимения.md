@@ -88,7 +88,7 @@ tags: [grammar, articles]
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Путать притяжательное прилагательное и местоимение
+##### Ошибка 1: Путать притяжательное прилагательное и местоимение
 
 | Неправильно | Правильно |
 |---|---|
@@ -96,14 +96,14 @@ tags: [grammar, articles]
 | The car is her. | The car is hers. |
 | Is this pen your? | Is this pen yours? |
 
-Ошибка 2: Its vs it's
+##### Ошибка 2: Its vs it's
 
 | Неправильно | Правильно |
 |---|---|
 | The cat licked it's paw. | The cat licked its paw. |
 | Its a beautiful day. | It's a beautiful day. |
 
-Ошибка 3: Their vs there vs they're
+##### Ошибка 3: Their vs there vs they're
 
 Смежная путаница в письме:
 - **their** — притяжательное (их): *their house*
@@ -116,7 +116,7 @@ tags: [grammar, articles]
 | Their is a problem. | There is a problem. |
 | There coming tomorrow. | They're coming tomorrow. |
 
-Ошибка 4: Апостроф в притяжательном падеже
+##### Ошибка 4: Апостроф в притяжательном падеже
 
 | Неправильно | Правильно |
 |---|---|

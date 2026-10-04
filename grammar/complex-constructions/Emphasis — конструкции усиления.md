@@ -98,7 +98,7 @@ tags: [grammar, complex]
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Do/does/did + V-s (двойная маркировка)
+##### Ошибка 1: Do/does/did + V-s (двойная маркировка)
 
 | Неправильно | Правильно |
 |---|---|
@@ -106,7 +106,7 @@ tags: [grammar, complex]
 | I did called you. | I did **call** you. |
 | He does likes it. | He does **like** it. |
 
-Ошибка 2: Do с другими временами (кроме Simple)
+##### Ошибка 2: Do с другими временами (кроме Simple)
 
 Emphatic do работает только с **Present Simple** и **Past Simple**:
 
@@ -115,7 +115,7 @@ Emphatic do работает только с **Present Simple** и **Past Simple
 | I do am trying. | I **am** trying. / I really **am** trying. |
 | She does has finished. | She **has** finished. / She has **indeed** finished. |
 
-Ошибка 3: Перевод русского «же» / «ведь» — не всегда do
+##### Ошибка 3: Перевод русского «же» / «ведь» — не всегда do
 
 В русском «я же говорил!» усиление через частицу. В английском — через do:
 - Я же тебе говорил! — I **did** tell you!

@@ -160,7 +160,7 @@ you / we / they      +  were / weren't
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Пропуск to be
+##### Ошибка 1: Пропуск to be
 
 В русском нет связки в настоящем времени, поэтому её забывают.
 
@@ -171,7 +171,7 @@ you / we / they      +  were / weren't
 | They from Russia. | They are from Russia. |
 | It cold today. | It is cold today. |
 
-Ошибка 2: Лишний to be с обычным глаголом
+##### Ошибка 2: Лишний to be с обычным глаголом
 
 Обратная ошибка — to be ставят перед смысловым глаголом по инерции.
 
@@ -184,7 +184,7 @@ you / we / they      +  were / weren't
 
 Обрати внимание: **agree** — это глагол, а не прилагательное, поэтому *I am agree* невозможно. То же с *I am afraid* (здесь afraid — прилагательное, to be нужен) против *I fear* (глагол).
 
-Ошибка 3: Do с to be
+##### Ошибка 3: Do с to be
 
 | Неправильно | Правильно |
 |---|---|
@@ -192,7 +192,7 @@ you / we / they      +  were / weren't
 | She doesn't be here. | She isn't here. |
 | Did you were at home? | Were you at home? |
 
-Ошибка 4: Сокращение в кратком ответе
+##### Ошибка 4: Сокращение в кратком ответе
 
 | Неправильно | Правильно |
 |---|---|
@@ -200,7 +200,7 @@ you / we / they      +  were / weren't
 | Yes, she's. | Yes, she is. |
 | Yes, they're. | Yes, they are. |
 
-Ошибка 5: Путаница was / were
+##### Ошибка 5: Путаница was / were
 
 | Неправильно | Правильно |
 |---|---|
@@ -208,7 +208,7 @@ you / we / they      +  were / weren't
 | They was at home. | They were at home. |
 | We wasn't ready. | We weren't ready. |
 
-Ошибка 6: Возраст, голод, холод через have
+##### Ошибка 6: Возраст, голод, холод через have
 
 По-русски «мне 20 лет», «мне холодно», «я голоден» — но по-английски всё это через to be.
 

@@ -178,7 +178,7 @@ tags: [grammar, complex]
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Не делать сдвиг времён
+##### Ошибка 1: Не делать сдвиг времён
 
 | Неправильно | Правильно |
 |---|---|
@@ -186,21 +186,21 @@ tags: [grammar, complex]
 | He told me he will come. | He told me he would come. |
 | She said she has finished. | She said she had finished. |
 
-Ошибка 2: Вопросительный порядок слов в косвенном вопросе
+##### Ошибка 2: Вопросительный порядок слов в косвенном вопросе
 
 | Неправильно | Правильно |
 |---|---|
 | She asked where did he go. | She asked where he had gone. |
 | He asked if was she coming. | He asked if she was coming. |
 
-Ошибка 3: Said вместо told с указанием собеседника
+##### Ошибка 3: Said вместо told с указанием собеседника
 
 | Неправильно | Правильно |
 |---|---|
 | She said me to sit down. | She told me to sit down. |
 | He said us the news. | He told us the news. |
 
-Ошибка 4: Не менять местоимения и обстоятельства
+##### Ошибка 4: Не менять местоимения и обстоятельства
 
 | Неправильно | Правильно |
 |---|---|

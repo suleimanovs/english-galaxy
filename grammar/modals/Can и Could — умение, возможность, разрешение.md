@@ -126,21 +126,21 @@ Can и Could — самые универсальные модальные гла
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: To после can / could
+##### Ошибка 1: To после can / could
 
 | Неправильно | Правильно |
 |---|---|
 | She can to swim. | She can swim. |
 | I could to help you. | I could help you. |
 
-Ошибка 2: Could для конкретного успешного действия в прошлом
+##### Ошибка 2: Could для конкретного успешного действия в прошлом
 
 | Неправильно | Правильно |
 |---|---|
 | I could escape from the building. (конкретный момент) | I managed to escape from the building. |
 | She could find her keys after an hour of searching. | She managed to find her keys. / She was able to find her keys. |
 
-Ошибка 3: Can вместо could для вежливых просьб
+##### Ошибка 3: Can вместо could для вежливых просьб
 
 Can уместен в разговорной речи, но could — вежливее и нейтральнее в формальных ситуациях.
 

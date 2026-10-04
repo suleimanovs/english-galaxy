@@ -203,7 +203,7 @@ the rich         =  rich people (in general)
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Предлог из русского после существительного
+##### Ошибка 1: Предлог из русского после существительного
 
 | Неправильно | Правильно |
 |---|---|
@@ -215,7 +215,7 @@ the rich         =  rich people (in general)
 | ✗ the answer on the question | ✓ the answer **to** the question |
 | ✗ attitude to work (понятно, но лучше) | ✓ attitude **toward** work |
 
-Ошибка 2: Множественное число у первого существительного
+##### Ошибка 2: Множественное число у первого существительного
 
 | Неправильно | Правильно |
 |---|---|
@@ -224,7 +224,7 @@ the rich         =  rich people (in general)
 | ✗ a three-years-old child | ✓ a three-year-old child |
 | ✗ a books shelf | ✓ a bookshelf |
 
-Ошибка 3: Of вместо noun + noun (калька с родительного падежа)
+##### Ошибка 3: Of вместо noun + noun (калька с родительного падежа)
 
 | Неправильно | Правильно |
 |---|---|
@@ -233,7 +233,7 @@ the rich         =  rich people (in general)
 | ✗ a teacher of history | ✓ a history teacher |
 | ✗ the door of the kitchen | ✓ the kitchen door |
 
-Ошибка 4: The + adjective с -s или в единственном числе
+##### Ошибка 4: The + adjective с -s или в единственном числе
 
 | Неправильно | Правильно |
 |---|---|
@@ -242,7 +242,7 @@ the rich         =  rich people (in general)
 | ✗ He is a rich. | ✓ He is a rich man. / He is rich. |
 | ✗ the Frenchs, the Chineses | ✓ the French, the Chinese |
 
-Ошибка 5: Обратный порядок слов в сочетании существительных
+##### Ошибка 5: Обратный порядок слов в сочетании существительных
 
 | Неправильно | Правильно |
 |---|---|

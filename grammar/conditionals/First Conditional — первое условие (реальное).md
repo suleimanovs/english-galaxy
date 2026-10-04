@@ -89,7 +89,7 @@ If + Present Simple  ,  will + V (base form)
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Will в if-clause
+##### Ошибка 1: Will в if-clause
 
 Самая распространённая ошибка — в русском «если пойдёт дождь» переводится с будущим, в английском после if нужен Present Simple.
 
@@ -99,14 +99,14 @@ If + Present Simple  ,  will + V (base form)
 | If she will come, tell me. | If she comes, tell me. |
 | If you will help me, I'll be grateful. | If you help me, I'll be grateful. |
 
-Ошибка 2: Путать First и Second Conditional
+##### Ошибка 2: Путать First и Second Conditional
 
 First — реальная ситуация (может случиться). Second — нереальная или маловероятная (гипотеза).
 
 - *If I win the lottery, I'll buy a house.* — First: реально, я мог бы выиграть.
 - *If I won the lottery, I would buy a house.* — Second: маловероятно, просто фантазия.
 
-Ошибка 3: Путать unless и if not
+##### Ошибка 3: Путать unless и if not
 
 Unless означает «если только не» — условие отрицательное само по себе, добавлять not не нужно.
 

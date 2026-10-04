@@ -63,7 +63,7 @@ If-clause (условие) и main clause (результат) — оба в Pre
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Future Simple вместо Present Simple в главной части
+##### Ошибка 1: Future Simple вместо Present Simple в главной части
 
 В русском «если нагреть воду, она закипит» — будущее время. В английском Zero Conditional — оба глагола в Present Simple.
 

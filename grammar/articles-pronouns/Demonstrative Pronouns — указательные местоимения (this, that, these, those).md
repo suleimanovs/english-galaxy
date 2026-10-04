@@ -82,7 +82,7 @@ tags: [grammar, articles]
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: This/that без согласования по числу
+##### Ошибка 1: This/that без согласования по числу
 
 | Неправильно | Правильно |
 |---|---|
@@ -90,14 +90,14 @@ tags: [grammar, articles]
 | That people are strange. | Those people are strange. |
 | These is my friend. | This is my friend. |
 
-Ошибка 2: It вместо this/that при представлении
+##### Ошибка 2: It вместо this/that при представлении
 
 | Неправильно | Правильно |
 |---|---|
 | It is John speaking. (по телефону) | This is John speaking. |
 | It is my colleague, Tom. | This is my colleague, Tom. |
 
-Ошибка 3: Пропуск this/that — в русском можно опустить «этот»
+##### Ошибка 3: Пропуск this/that — в русском можно опустить «этот»
 
 | Неправильно | Правильно |
 |---|---|

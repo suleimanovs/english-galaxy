@@ -119,7 +119,7 @@ V3 используется в образовании Perfect-форм и пас
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Путать Present Participle (V-ing) с герундием
+##### Ошибка 1: Путать Present Participle (V-ing) с герундием
 
 Внешне одинаковы, роль разная. Герундий — это существительное (называет действие). Причастие — это прилагательное или наречие (описывает).
 
@@ -128,20 +128,20 @@ V3 используется в образовании Perfect-форм и пас
 | Swimming is good for you. (плавание — тема) | The sleeping child looked happy. (спящий — описание) |
 | I enjoy reading. (чтение — дополнение) | She sat there, reading quietly. (читая — обстоятельство) |
 
-Ошибка 2: Висячее причастие
+##### Ошибка 2: Висячее причастие
 
 | Неправильно | Правильно |
 |---|---|
 | Driving home, the rain started. | Driving home, I got caught in the rain. |
 | Exhausted by work, the sofa looked very inviting. | Exhausted by work, I found the sofa very inviting. |
 
-Ошибка 3: Путать V-ing и V3 в роли определения
+##### Ошибка 3: Путать V-ing и V3 в роли определения
 
 - a writing letter ✗ — такого нет
 - a written letter ✓ — написанное письмо (V3, пассивное)
 - a sleeping child ✓ — спящий ребёнок (V-ing, активное)
 
-Ошибка 4: Путать «have something done» с обычным перфектом
+##### Ошибка 4: Путать «have something done» с обычным перфектом
 
 - *I have cut my hair.* — Я сам постригся.
 - *I had my hair cut.* — Меня постригли (в парикмахерской).

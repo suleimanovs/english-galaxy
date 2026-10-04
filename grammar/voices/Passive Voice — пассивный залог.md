@@ -139,7 +139,7 @@ Passive Voice (пассивный залог) это конструкция, п�
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Неправильная форма be в нужном времени
+##### Ошибка 1: Неправильная форма be в нужном времени
 
 Самая частая ошибка — поставить be не в том времени или вообще пропустить его.
 
@@ -149,7 +149,7 @@ Passive Voice (пассивный залог) это конструкция, п�
 | The car stolen last night. | The car was stolen last night. |
 | The bridge build last year. | The bridge **was built** last year. / The bridge **has been under construction** since last year. |
 
-Ошибка 2: Использовать have вместо be в пассиве
+##### Ошибка 2: Использовать have вместо be в пассиве
 
 В русском «машина была украдена» и «машина имеет быть украденной» — только первое. В английском пассив строится через be, не have.
 
@@ -158,7 +158,7 @@ Passive Voice (пассивный залог) это конструкция, п�
 | The car has stolen. | The car was stolen. / The car has been stolen. |
 | The window have broken. | The window has been broken. |
 
-Ошибка 3: Пассив там, где по смыслу нужен активный
+##### Ошибка 3: Пассив там, где по смыслу нужен активный
 
 Под влиянием официального русского стиля некоторые используют пассив там, где в английском предпочтительнее активный.
 
@@ -167,7 +167,7 @@ Passive Voice (пассивный залог) это конструкция, п�
 | A decision was made by the committee to approve the budget. | The committee decided to approve the budget. |
 | The problem was solved by him very quickly. | He solved the problem very quickly. |
 
-Ошибка 4: Пропуск by при необходимости указать деятеля
+##### Ошибка 4: Пропуск by при необходимости указать деятеля
 
 Если деятель важен для смысла — by нельзя пропускать.
 

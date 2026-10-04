@@ -151,14 +151,14 @@ must / may / might / could / can't / couldn't  +  have  +  V3
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Mustn't для отрицательного предположения
+##### Ошибка 1: Mustn't для отрицательного предположения
 
 | Неправильно | Правильно |
 |---|---|
 | She mustn't be at home — the lights are off. | She can't be at home — the lights are off. |
 | He mustn't have seen us. | He can't have seen us. |
 
-Ошибка 2: Прошедшее время самого модального глагола
+##### Ошибка 2: Прошедшее время самого модального глагола
 
 Русское «он должен был забыть» тянет сказать *he musted* или *he had to forget*, но для предположения о прошлом работает только have + V3.
 
@@ -167,7 +167,7 @@ must / may / might / could / can't / couldn't  +  have  +  V3
 | She had to forget about it. (в смысле «наверное, забыла») | She must have forgotten about it. |
 | He must forgot his keys. | He must have forgotten his keys. |
 
-Ошибка 3: Could вместо can't для «не мог»
+##### Ошибка 3: Could вместо can't для «не мог»
 
 Русское «не мог» без контекста путает: *couldn't* в значении «не сумел» (способность) и *couldn't have* в значении «не может быть, чтобы» (вывод).
 
@@ -175,7 +175,7 @@ must / may / might / could / can't / couldn't  +  have  +  V3
 |---|---|
 | He couldn't do it — he was in another city. (о выводе) | He couldn't have done it — he was in another city. |
 
-Ошибка 4: Maybe вместо may be
+##### Ошибка 4: Maybe вместо may be
 
 Maybe — наречие «может быть», отдельное слово в начале предложения. May be — модальный глагол + be.
 
@@ -184,7 +184,7 @@ Maybe — наречие «может быть», отдельное слово 
 | She maybe at work. | She may be at work. / Maybe she's at work. |
 | It may be he's right. | Maybe he's right. / He may be right. |
 
-Ошибка 5: Will вместо must для уверенного вывода
+##### Ошибка 5: Will вместо must для уверенного вывода
 
 «Это, наверное, Джон» — не предсказание, а вывод, поэтому must, а не will.
 

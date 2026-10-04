@@ -82,7 +82,7 @@ tags: [grammar, articles]
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Лишнее возвратное местоимение
+##### Ошибка 1: Лишнее возвратное местоимение
 
 | Неправильно | Правильно |
 |---|---|
@@ -90,7 +90,7 @@ tags: [grammar, articles]
 | She washed herself her hands. | She washed her hands. |
 | He concentrated himself on the task. | He concentrated on the task. |
 
-Ошибка 2: Обычное местоимение вместо возвратного
+##### Ошибка 2: Обычное местоимение вместо возвратного
 
 | Неправильно | Правильно |
 |---|---|
@@ -98,7 +98,7 @@ tags: [grammar, articles]
 | He looked at him in the mirror. | He looked at himself in the mirror. |
 | They enjoyed them at the party. | They enjoyed themselves at the party. |
 
-Ошибка 3: Путать by myself и alone
+##### Ошибка 3: Путать by myself и alone
 
 Оба значат «один», но с разным акцентом:
 - *by myself* — акцент на самостоятельности (без чьей-либо помощи)

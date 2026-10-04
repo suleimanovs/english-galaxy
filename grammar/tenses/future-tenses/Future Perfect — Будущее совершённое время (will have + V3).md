@@ -96,7 +96,7 @@ Will  +  подлежащее  +  have  +  V3?
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Не использовать это время вообще
+##### Ошибка 1: Не использовать это время вообще
 
 В русском «К пятнице я закончу» — просто будущее. В английском, когда важно подчеркнуть завершённость к моменту, нужен Future Perfect.
 
@@ -105,7 +105,7 @@ Will  +  подлежащее  +  have  +  V3?
 | I will finish by Friday. | I will have finished by Friday. |
 | She will leave before you arrive. | She will have left before you arrive. |
 
-Ошибка 2: Будущее время в придаточном после by the time, when, before
+##### Ошибка 2: Будущее время в придаточном после by the time, when, before
 
 После этих союзов в придаточном — Present Simple, не will.
 
@@ -114,7 +114,7 @@ Will  +  подлежащее  +  have  +  V3?
 | By the time you will arrive, I will have left. | By the time you arrive, I will have left. |
 | Before she will finish, we will have already eaten. | Before she finishes, we will have already eaten. |
 
-Ошибка 3: Неправильная форма V3
+##### Ошибка 3: Неправильная форма V3
 
 Та же проблема, что в Present Perfect и Past Perfect — незнание третьей формы неправильных глаголов.
 

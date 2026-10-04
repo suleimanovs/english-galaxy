@@ -112,7 +112,7 @@ tags: [grammar, misc]
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: So + существительное (нужен such)
+##### Ошибка 1: So + существительное (нужен such)
 
 | Неправильно | Правильно |
 |---|---|
@@ -120,21 +120,21 @@ tags: [grammar, misc]
 | She's so nice person. | She's **such** a nice person. |
 | They're so good friends. | They're **such** good friends. |
 
-Ошибка 2: Such + прилагательное без существительного (нужен so)
+##### Ошибка 2: Such + прилагательное без существительного (нужен so)
 
 | Неправильно | Правильно |
 |---|---|
 | I'm such tired. | I'm **so** tired. |
 | It was such cold. | It was **so** cold. |
 
-Ошибка 3: Enough перед прилагательным
+##### Ошибка 3: Enough перед прилагательным
 
 | Неправильно | Правильно |
 |---|---|
 | He's enough old to vote. | He's old **enough** to vote. |
 | It's enough warm. | It's warm **enough**. |
 
-Ошибка 4: Too вместо very (too = негативный)
+##### Ошибка 4: Too вместо very (too = негативный)
 
 | Фраза | Значение |
 |---|---|

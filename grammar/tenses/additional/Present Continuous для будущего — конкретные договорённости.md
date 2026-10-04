@@ -73,7 +73,7 @@ You/We/They  +  are  +  глагол-ing
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Will вместо Present Continuous для уже организованных планов
+##### Ошибка 1: Will вместо Present Continuous для уже организованных планов
 
 В русском всё это переводится будущим временем одинаково. В английском важно: если уже организовано — Present Continuous.
 
@@ -83,7 +83,7 @@ You/We/They  +  are  +  глагол-ing
 | Билет куплен, рейс забронирован | I will fly to Paris on Friday. | I'm flying to Paris on Friday. |
 | Вечеринка организована | We will have a party on Saturday. | We're having a party on Saturday. |
 
-Ошибка 2: Present Continuous для далёкого или абстрактного будущего
+##### Ошибка 2: Present Continuous для далёкого или абстрактного будущего
 
 Present Continuous для будущего работает только для ближайшего будущего с конкретными деталями. Для далёкого или абстрактного будущего — will или going to.
 

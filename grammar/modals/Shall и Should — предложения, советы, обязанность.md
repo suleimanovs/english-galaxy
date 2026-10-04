@@ -127,14 +127,14 @@ Shall I / Shall we  +  V?                 — предложение, иници
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: To после should
+##### Ошибка 1: To после should
 
 | Неправильно | Правильно |
 |---|---|
 | You should to see a doctor. | You should see a doctor. |
 | She shouldn't to work so hard. | She shouldn't work so hard. |
 
-Ошибка 2: Must вместо should для советов
+##### Ошибка 2: Must вместо should для советов
 
 Must — сильная обязанность. Should — мягкий совет. В разговорной речи must для советов звучит грубо и категорично.
 
@@ -143,7 +143,7 @@ Must — сильная обязанность. Should — мягкий сове
 | You must see a doctor. (звучит как приказ) | You should see a doctor. |
 | You must try this restaurant. | You should try this restaurant. |
 
-Ошибка 3: Не использовать should have для сожаления/критики
+##### Ошибка 3: Не использовать should have для сожаления/критики
 
 В русском «надо было сделать» переводится просто прошедшим. В английском нужен should have + V3.
 

@@ -98,7 +98,7 @@ wish + would + V
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Present Simple после wish вместо Past Simple
+##### Ошибка 1: Present Simple после wish вместо Past Simple
 
 В русском «Жаль, что я не знаю» — настоящее время. В английском после wish — Past Simple.
 
@@ -107,21 +107,21 @@ wish + would + V
 | I wish I know the answer. | I wish I knew the answer. |
 | She wishes she has more time. | She wishes she had more time. |
 
-Ошибка 2: Past Simple после wish вместо Past Perfect для сожаления о прошлом
+##### Ошибка 2: Past Simple после wish вместо Past Perfect для сожаления о прошлом
 
 | Неправильно | Правильно |
 |---|---|
 | I wish I studied harder. (сожаление о прошлом) | I wish I had studied harder. |
 | She wishes she didn't say that. | She wishes she hadn't said that. |
 
-Ошибка 3: Путать wish и hope
+##### Ошибка 3: Путать wish и hope
 
 | Неправильно | Правильно |
 |---|---|
 | I wish you'll come to the party. (реальная надежда) | I hope you'll come to the party. |
 | I hope I had more money. (нереальное желание) | I wish I had more money. |
 
-Ошибка 4: I wish I would — нельзя использовать would о себе в значении желания
+##### Ошибка 4: I wish I would — нельзя использовать would о себе в значении желания
 
 | Неправильно | Правильно |
 |---|---|

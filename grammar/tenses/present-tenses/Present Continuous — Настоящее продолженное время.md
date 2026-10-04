@@ -169,7 +169,7 @@ Are + you/we/they + глагол-ing?
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Present Simple вместо Present Continuous для того, что происходит прямо сейчас
+##### Ошибка 1: Present Simple вместо Present Continuous для того, что происходит прямо сейчас
 
 По-русски «Что ты делаешь?» и «Я читаю» — одна фраза и для привычки, и для действия в эту секунду. В английском это разные конструкции, и путать их нельзя.
 
@@ -179,7 +179,7 @@ Are + you/we/they + глагол-ing?
 | I read a book now. | I'm reading a book now. |
 | She writes an email at the moment. | She's writing an email at the moment. |
 
-Ошибка 2: Stative verbs в Continuous
+##### Ошибка 2: Stative verbs в Continuous
 
 Прямое следствие перевода с русского — в русском «Я понимаю», «Я знаю», «Я думаю» — обычные глаголы без ограничений. В английском know, understand, think (в значении «считать») — stative.
 
@@ -189,14 +189,14 @@ Are + you/we/they + глагол-ing?
 | She is knowing the answer. | She knows the answer. |
 | He is believing in God. | He believes in God. |
 
-Ошибка 3: Present Continuous для постоянных фактов
+##### Ошибка 3: Present Continuous для постоянных фактов
 
 | Неправильно | Правильно |
 |---|---|
 | Water is boiling at 100 degrees. | Water boils at 100 degrees. |
 | The Sun is rising in the east. | The Sun rises in the east. |
 
-Ошибка 4: Неправильное написание -ing формы
+##### Ошибка 4: Неправильное написание -ing формы
 
 Самые частые: не удваивать согласную, оставлять -e, писать -ieing вместо -ying.
 

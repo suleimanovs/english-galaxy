@@ -415,7 +415,7 @@ capable OF (не «to»):       He's capable of more.
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Дословный перевод предлогов
+##### Ошибка 1: Дословный перевод предлогов
 
 | Неправильно | Правильно |
 |---|---|
@@ -428,7 +428,7 @@ capable OF (не «to»):       He's capable of more.
 | He's good in tennis. | He's good **at** tennis. |
 | It depends of you. | It depends **on** you. |
 
-Ошибка 2: In vs On vs At для места и времени
+##### Ошибка 2: In vs On vs At для места и времени
 
 | Неправильно | Правильно |
 |---|---|
@@ -440,7 +440,7 @@ capable OF (не «to»):       He's capable of more.
 | in a bus stop | at a bus stop |
 | on the night | at night |
 
-Ошибка 3: For / Since / During
+##### Ошибка 3: For / Since / During
 
 | Неправильно | Правильно |
 |---|---|
@@ -449,7 +449,7 @@ capable OF (не «to»):       He's capable of more.
 | I didn't sleep for the night. | I didn't sleep **during** the night. |
 | She's been sick since a week. | She's been sick **for** a week. |
 
-Ошибка 4: Different than вместо different from
+##### Ошибка 4: Different than вместо different from
 
 | Неправильно | Правильно |
 |---|---|
@@ -458,7 +458,7 @@ capable OF (не «to»):       He's capable of more.
 > [!note]
 > В американском английском *different than* встречается, но *different from* — стандартная форма в обоих вариантах.
 
-Ошибка 5: Транспорт
+##### Ошибка 5: Транспорт
 
 | Неправильно | Правильно |
 |---|---|

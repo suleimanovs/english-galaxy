@@ -208,7 +208,7 @@ so as not to     +  V
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: For to + V (прямой перевод «для того чтобы»)
+##### Ошибка 1: For to + V (прямой перевод «для того чтобы»)
 
 | Неправильно | Правильно |
 |---|---|
@@ -216,21 +216,21 @@ so as not to     +  V
 | She studies **for to get** good grades. | She studies **to get** good grades. |
 | He called me **for to ask** a question. | He called me **to ask** a question. |
 
-Ошибка 2: For + infinitive вместо to-infinitive
+##### Ошибка 2: For + infinitive вместо to-infinitive
 
 | Неправильно | Правильно |
 |---|---|
 | I came here **for help** you. | I came here **to help** you. |
 | She ran **for catch** the bus. | She ran **to catch** the bus. |
 
-Ошибка 3: For + -ing для действия человека (нужен to-infinitive)
+##### Ошибка 3: For + -ing для действия человека (нужен to-infinitive)
 
 | Неправильно | Правильно |
 |---|---|
 | I went to the store **for buying** milk. | I went to the store **to buy** milk. |
 | She called him **for telling** the news. | She called him **to tell** him the news. |
 
-Ошибка 4: To-infinitive при разных подлежащих (нужен so that)
+##### Ошибка 4: To-infinitive при разных подлежащих (нужен so that)
 
 | Неправильно | Правильно |
 |---|---|
@@ -238,7 +238,7 @@ so as not to     +  V
 | He repeated it **to I remember**. | He repeated it **so that I would** remember. |
 | She left early **to we could** start. | She left early **so that we could** start. |
 
-Ошибка 5: So that + will в прошедшем контексте (нужен would)
+##### Ошибка 5: So that + will в прошедшем контексте (нужен would)
 
 | Неправильно | Правильно |
 |---|---|
@@ -246,7 +246,7 @@ so as not to     +  V
 | He explained it so that they **will** understand. | He explained it so that they **would** understand. |
 | I hid it so that she **will** not find it. | I hid it so that she **wouldn't** find it. |
 
-Ошибка 6: Смешение to и so that при одинаковых подлежащих с модальным глаголом
+##### Ошибка 6: Смешение to и so that при одинаковых подлежащих с модальным глаголом
 
 | Ситуация | Неправильно | Правильно |
 |---|---|---|

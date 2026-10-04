@@ -132,7 +132,7 @@ not + герундий
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: To-infinitive вместо герундия после глаголов, требующих -ing
+##### Ошибка 1: To-infinitive вместо герундия после глаголов, требующих -ing
 
 | Неправильно | Правильно |
 |---|---|
@@ -141,7 +141,7 @@ not + герундий
 | He suggested to go to a café. | He suggested going to a café. |
 | I can't stand to wait. | I can't stand waiting. |
 
-Ошибка 2: To-infinitive после предлогов
+##### Ошибка 2: To-infinitive после предлогов
 
 В русском после предлога может стоять инфинитив: «перед тем чтобы уйти». В английском после предлога — только герундий.
 
@@ -151,7 +151,7 @@ not + герундий
 | I'm interested in to learn Japanese. | I'm interested in learning Japanese. |
 | Before to leave, check the windows. | Before leaving, check the windows. |
 
-Ошибка 3: Путаница с to в роли предлога vs частицы инфинитива
+##### Ошибка 3: Путаница с to в роли предлога vs частицы инфинитива
 
 | Конструкция | Форма | Пример |
 |---|---|---|
@@ -159,7 +159,7 @@ not + герундий
 | be used to | герундий (to = предлог) | I'm used to waking up early. |
 | want to | to-infinitive (to = частица) | I want to wake up early. |
 
-Ошибка 4: Не учитывать смену смысла у remember, forget, stop, try
+##### Ошибка 4: Не учитывать смену смысла у remember, forget, stop, try
 
 - ✗ Remember to meet her — используй это только как напоминание о будущем.
 - ✗ I stopped to smoke — значит «остановился, чтобы покурить», не «бросил курить».

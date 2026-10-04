@@ -128,7 +128,7 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Past Simple вместо Past Continuous для фонового действия
+##### Ошибка 1: Past Simple вместо Past Continuous для фонового действия
 
 В русском «Я смотрел телевизор, когда она вошла» — оба глагола в одной форме. В английском фоновое действие (смотрел) — Past Continuous, а прерывающее (вошла) — Past Simple.
 
@@ -137,7 +137,7 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 | I watched TV when she entered. | I was watching TV when she entered. |
 | He read a book when I called. | He was reading a book when I called. |
 
-Ошибка 2: Past Continuous для последовательных действий
+##### Ошибка 2: Past Continuous для последовательных действий
 
 Если действия происходили одно за другим, а не одновременно — нужен Past Simple, не Continuous.
 
@@ -145,7 +145,7 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 |---|---|
 | I was coming home, was making dinner and was watching TV. | I came home, made dinner and watched TV. |
 
-Ошибка 3: Stative verbs в Continuous
+##### Ошибка 3: Stative verbs в Continuous
 
 | Неправильно | Правильно |
 |---|---|

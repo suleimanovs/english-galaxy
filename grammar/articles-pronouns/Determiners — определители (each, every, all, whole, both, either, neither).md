@@ -125,7 +125,7 @@ tags: [grammar, articles]
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Every с of
+##### Ошибка 1: Every с of
 
 | Неправильно | Правильно |
 |---|---|
@@ -134,21 +134,21 @@ tags: [grammar, articles]
 > [!note]
 > **Every** не используется с **of**. Для «каждый из» — **each of**.
 
-Ошибка 2: Both / neither / either с множественным глаголом (neither/either)
+##### Ошибка 2: Both / neither / either с множественным глаголом (neither/either)
 
 | Неправильно | Правильно |
 |---|---|
 | Neither of them are ready. (разговорное — допустимо) | Neither of them **is** ready. (формально правильно) |
 | Either of the books are good. | Either of the books **is** good. |
 
-Ошибка 3: Neither + отрицательный глагол (двойное отрицание)
+##### Ошибка 3: Neither + отрицательный глагол (двойное отрицание)
 
 | Неправильно | Правильно |
 |---|---|
 | Neither of them didn't come. | Neither of them came. |
 | I don't like neither. | I like neither. / I don't like either. |
 
-Ошибка 4: All + singular без the
+##### Ошибка 4: All + singular без the
 
 | Неправильно | Правильно |
 |---|---|

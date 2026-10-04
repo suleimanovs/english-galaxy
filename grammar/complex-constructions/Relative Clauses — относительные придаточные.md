@@ -98,20 +98,20 @@ Whose используется для людей и вещей, заменяет
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Запятые в defining clauses
+##### Ошибка 1: Запятые в defining clauses
 
 | Неправильно | Правильно |
 |---|---|
 | The man, who called you, is my brother. (если man нужно уточнить) | The man who called you is my brother. |
 
-Ошибка 2: That в non-defining clauses
+##### Ошибка 2: That в non-defining clauses
 
 | Неправильно | Правильно |
 |---|---|
 | My sister, that lives in London, is visiting. | My sister, who lives in London, is visiting. |
 | The Eiffel Tower, that was built in 1889, is famous. | The Eiffel Tower, which was built in 1889, is famous. |
 
-Ошибка 3: Двойное подлежащее — повторение местоимения
+##### Ошибка 3: Двойное подлежащее — повторение местоимения
 
 В русском относительное предложение строится иначе, и иногда местоимение дублируется.
 
@@ -120,7 +120,7 @@ Whose используется для людей и вещей, заменяет
 | The woman who she lives next door is a doctor. | The woman who lives next door is a doctor. |
 | The book that I recommended it is out of stock. | The book that I recommended is out of stock. |
 
-Ошибка 4: Which вместо who для людей
+##### Ошибка 4: Which вместо who для людей
 
 | Неправильно | Правильно |
 |---|---|

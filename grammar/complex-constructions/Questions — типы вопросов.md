@@ -155,7 +155,7 @@ Do you know + if/whether + Subject + Verb?
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Прямой порядок слов в общем вопросе
+##### Ошибка 1: Прямой порядок слов в общем вопросе
 
 В русском вопрос строится интонацией, порядок слов не меняется. В английском нужна инверсия.
 
@@ -165,21 +165,21 @@ Do you know + if/whether + Subject + Verb?
 | She speaks English? | Does she speak English? |
 | He has finished? | Has he finished? |
 
-Ошибка 2: Do/does/did при вопросе к подлежащему
+##### Ошибка 2: Do/does/did при вопросе к подлежащему
 
 | Неправильно | Правильно |
 |---|---|
 | Who did call you? | Who called you? |
 | What did happen? | What happened? |
 
-Ошибка 3: Вопросительный порядок слов в косвенном вопросе
+##### Ошибка 3: Вопросительный порядок слов в косвенном вопросе
 
 | Неправильно | Правильно |
 |---|---|
 | Could you tell me where is the station? | Could you tell me where the station is? |
 | Do you know what time does it start? | Do you know what time it starts? |
 
-Ошибка 4: Неправильный тег
+##### Ошибка 4: Неправильный тег
 
 | Неправильно | Правильно |
 |---|---|

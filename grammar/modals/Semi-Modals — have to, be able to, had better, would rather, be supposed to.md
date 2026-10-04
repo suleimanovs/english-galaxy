@@ -194,7 +194,7 @@ Be supposed to описывает то, что **должно происходи
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Вопросы и отрицания с have to без do
+##### Ошибка 1: Вопросы и отрицания с have to без do
 
 По аналогии с must («Must I go?») хочется сказать *Have I to go?* — но have to требует вспомогательного глагола.
 
@@ -204,14 +204,14 @@ Be supposed to описывает то, что **должно происходи
 | She hasn't to pay. | She doesn't have to pay. |
 | Had you to wait? | Did you have to wait? |
 
-Ошибка 2: Must для прошедшего
+##### Ошибка 2: Must для прошедшего
 
 | Неправильно | Правильно |
 |---|---|
 | Yesterday I must stay late. | Yesterday I had to stay late. |
 | We must cancel the trip last week. | We had to cancel the trip last week. |
 
-Ошибка 3: Could вместо was able to для конкретного успеха
+##### Ошибка 3: Could вместо was able to для конкретного успеха
 
 «Он смог открыть дверь» — это конкретное удавшееся действие, а не общее умение.
 
@@ -220,7 +220,7 @@ Be supposed to описывает то, что **должно происходи
 | After an hour he could open the door. | After an hour he was able to open the door. |
 | We could catch the last train. (о конкретном случае) | We managed to catch the last train. / We were able to catch the last train. |
 
-Ошибка 4: To после had better и would rather
+##### Ошибка 4: To после had better и would rather
 
 | Неправильно | Правильно |
 |---|---|
@@ -228,14 +228,14 @@ Be supposed to описывает то, что **должно происходи
 | I'd rather to stay. | I'd rather stay. |
 | You had better not to tell him. | You had better not tell him. |
 
-Ошибка 5: Would rather + person + инфинитив
+##### Ошибка 5: Would rather + person + инфинитив
 
 | Неправильно | Правильно |
 |---|---|
 | I'd rather you to come tomorrow. | I'd rather you came tomorrow. |
 | I'd rather she doesn't know. | I'd rather she didn't know. |
 
-Ошибка 6: Be supposed to без be
+##### Ошибка 6: Be supposed to без be
 
 | Неправильно | Правильно |
 |---|---|

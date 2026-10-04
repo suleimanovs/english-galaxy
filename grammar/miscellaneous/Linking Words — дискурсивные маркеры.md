@@ -125,7 +125,7 @@ tags: [grammar, misc]
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: But вместо however/nevertheless (стиль)
+##### Ошибка 1: But вместо however/nevertheless (стиль)
 
 В формальном тексте but звучит слишком просто:
 
@@ -133,13 +133,13 @@ tags: [grammar, misc]
 |---|---|
 | The plan is good, but expensive. | The plan is good. **However**, it is expensive. |
 
-Ошибка 2: Moreover/furthermore в разговорной речи (слишком формально)
+##### Ошибка 2: Moreover/furthermore в разговорной речи (слишком формально)
 
 | Слишком формально | Естественно |
 |---|---|
 | I'm tired. Moreover, I'm hungry. (в разговоре) | I'm tired. **Besides**, I'm hungry. |
 
-Ошибка 3: Therefore / however как союз (с запятой вместо точки)
+##### Ошибка 3: Therefore / however как союз (с запятой вместо точки)
 
 | Неправильно | Правильно |
 |---|---|

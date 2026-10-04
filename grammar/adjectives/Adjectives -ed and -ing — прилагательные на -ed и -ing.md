@@ -72,7 +72,7 @@ tags: [grammar, adj]
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: -ing вместо -ed для описания чувств человека
+##### Ошибка 1: -ing вместо -ed для описания чувств человека
 
 | Неправильно | Правильно |
 |---|---|
@@ -81,7 +81,7 @@ tags: [grammar, adj]
 | We are exciting about the trip. | We are excited about the trip. |
 | He was surprising by the news. | He was surprised by the news. |
 
-Ошибка 2: -ed для неодушевлённых объектов
+##### Ошибка 2: -ed для неодушевлённых объектов
 
 | Неправильно | Правильно |
 |---|---|

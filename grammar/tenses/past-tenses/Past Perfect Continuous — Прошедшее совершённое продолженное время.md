@@ -106,7 +106,7 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Не использовать это время вообще
+##### Ошибка 1: Не использовать это время вообще
 
 В русском «Я работал три часа, когда она позвонила» — оба глагола в одной форме. В английском длительное предшествующее действие требует Past Perfect Continuous.
 
@@ -115,7 +115,7 @@ Stative verbs (know, love, want, understand, believe, own и др.) не исп�
 | I worked for three hours when she called. | I had been working for three hours when she called. |
 | She waited for an hour before the bus came. (если важна длительность) | She had been waiting for an hour before the bus came. |
 
-Ошибка 2: Путать с Past Perfect Simple
+##### Ошибка 2: Путать с Past Perfect Simple
 
 Ключевой вопрос тот же, что между Perfect и Perfect Continuous — результат или процесс?
 

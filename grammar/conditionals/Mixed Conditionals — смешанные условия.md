@@ -58,7 +58,7 @@ If + Past Simple  ,  would have + V3
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Применять стандартные типы там, где нужен смешанный
+##### Ошибка 1: Применять стандартные типы там, где нужен смешанный
 
 Если прошлое условие имеет настоящий результат — нельзя использовать чистый Second или Third Conditional.
 
@@ -67,7 +67,7 @@ If + Past Simple  ,  would have + V3
 | If I had studied medicine, I would have been a doctor now. (Third — но результат в настоящем) | If I had studied medicine, I would be a doctor now. |
 | If I were more organized, I wouldn't miss the deadline. (Second — но результат уже в прошлом) | If I were more organized, I wouldn't have missed the deadline. |
 
-Ошибка 2: Would в if-clause
+##### Ошибка 2: Would в if-clause
 
 Правило то же, что и для всех условных — would никогда не стоит в if-clause.
 

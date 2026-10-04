@@ -103,14 +103,14 @@ Would like — вежливая форма want. В предложениях и 
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: To после will / would
+##### Ошибка 1: To после will / would
 
 | Неправильно | Правильно |
 |---|---|
 | I will to help you. | I will help you. |
 | Would you to like some tea? | Would you like some tea? |
 
-Ошибка 2: Would для прошлых состояний
+##### Ошибка 2: Would для прошлых состояний
 
 Would не используется с глаголами состояния для прошлого — только used to.
 
@@ -119,7 +119,7 @@ Would не используется с глаголами состояния д�
 | I would know him very well back then. | I used to know him very well. |
 | She would have long hair. | She used to have long hair. |
 
-Ошибка 3: Will вместо would для вежливых просьб в формальном контексте
+##### Ошибка 3: Will вместо would для вежливых просьб в формальном контексте
 
 Will — нейтральная или разговорная просьба. Would — более вежливо и формально.
 

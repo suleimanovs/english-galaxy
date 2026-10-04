@@ -116,7 +116,7 @@ tags: [grammar, times]
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Глагол состояния в Continuous из-за слова «сейчас»
+##### Ошибка 1: Глагол состояния в Continuous из-за слова «сейчас»
 
 Слово «сейчас» автоматически тянет к Continuous. Но если глагол описывает состояние, Present Simple сохраняется даже с now, at the moment, right now.
 
@@ -127,7 +127,7 @@ tags: [grammar, times]
 | Are you understanding me? | Do you understand me? |
 | I am not believing you. | I don't believe you. |
 
-Ошибка 2: Have в Continuous в значении «иметь»
+##### Ошибка 2: Have в Continuous в значении «иметь»
 
 | Неправильно | Правильно |
 |---|---|
@@ -135,7 +135,7 @@ tags: [grammar, times]
 | She's having two brothers. | She has two brothers. |
 | Are you having a pen? | Do you have a pen? |
 
-Ошибка 3: Think в Simple в значении «обдумывать»
+##### Ошибка 3: Think в Simple в значении «обдумывать»
 
 Обратная ошибка — когда think означает процесс размышления, Continuous как раз нужен.
 
@@ -144,7 +144,7 @@ tags: [grammar, times]
 | What do you think about right now? (о процессе) | What are you thinking about right now? |
 | I think about changing jobs. (сейчас обдумываю) | I'm thinking about changing jobs. |
 
-Ошибка 4: Look / seem / sound в Continuous в значении «казаться»
+##### Ошибка 4: Look / seem / sound в Continuous в значении «казаться»
 
 | Неправильно | Правильно |
 |---|---|
@@ -152,7 +152,7 @@ tags: [grammar, times]
 | It is seeming strange. | It seems strange. |
 | That is sounding great. | That sounds great. |
 
-Ошибка 5: Can + глагол восприятия забыт
+##### Ошибка 5: Can + глагол восприятия забыт
 
 С see, hear, smell, feel в значении «воспринимать прямо сейчас» по-английски часто добавляют can — это естественнее, чем голый Simple, и точно лучше, чем Continuous.
 

@@ -205,7 +205,7 @@ Has   +  he / she / it        +  глагол V3?
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Past Simple вместо Present Perfect, когда результат важен сейчас
+##### Ошибка 1: Past Simple вместо Present Perfect, когда результат важен сейчас
 
 В русском «я потерял» — просто прошедшее, без разницы актуален результат сейчас или нет. В английском это разные времена.
 
@@ -217,7 +217,7 @@ Has   +  he / she / it        +  глагол V3?
 > [!note]
 > В американском английском Past Simple с *just, already, yet* — норма: *Did you eat yet? I already saw it. He just left.* Это не ошибка. Британцы в тех же фразах чаще выберут Present Perfect (*Have you eaten yet?*). Экзамены (IELTS) принимают оба варианта.
 
-Ошибка 2: Present Perfect с конкретным указателем прошлого
+##### Ошибка 2: Present Perfect с конкретным указателем прошлого
 
 Если в предложении есть *yesterday, last week, in 2015, two days ago, when I was a child* — нужен Past Simple. Present Perfect никогда не сочетается с конкретным временем прошлого.
 
@@ -227,7 +227,7 @@ Has   +  he / she / it        +  глагол V3?
 | She has called me last night. | She called me last night. |
 | We have visited Paris in 2019. | We visited Paris in 2019. |
 
-Ошибка 3: Неправильная форма Past Participle
+##### Ошибка 3: Неправильная форма Past Participle
 
 | Неправильно | Правильно |
 |---|---|
@@ -236,7 +236,7 @@ Has   +  he / she / it        +  глагол V3?
 | We have goed there. | We have been there. |
 | He has thinked about it. | He has thought about it. |
 
-Ошибка 4: «Я живу здесь 10 лет» — ловушка для русскоязычных
+##### Ошибка 4: «Я живу здесь 10 лет» — ловушка для русскоязычных
 
 В русском это Present — «живу». Кажется, что нужен Present Simple: *I live here for 10 years*. Но в английском ситуация, которая **началась в прошлом и продолжается сейчас** — это Present Perfect, а не Present Simple.
 

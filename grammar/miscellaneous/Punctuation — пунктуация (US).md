@@ -193,7 +193,7 @@ tags: [grammar, misc]
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Запятая перед that / what / if по русской привычке
+##### Ошибка 1: Запятая перед that / what / if по русской привычке
 
 | Неправильно | Правильно |
 |---|---|
@@ -201,7 +201,7 @@ tags: [grammar, misc]
 | She asked, if I was ready. | She asked if I was ready. |
 | I don't know, what to do. | I don't know what to do. |
 
-Ошибка 2: Русские кавычки, двоеточие и тире при прямой речи
+##### Ошибка 2: Русские кавычки, двоеточие и тире при прямой речи
 
 | Неправильно | Правильно |
 |---|---|
@@ -209,7 +209,7 @@ tags: [grammar, misc]
 | — Are you ready? — she asked. | "Are you ready?" she asked. |
 | She called it "a mistake". | She called it "a mistake." |
 
-Ошибка 3: Апостроф во множественном числе и its / it's
+##### Ошибка 3: Апостроф во множественном числе и its / it's
 
 | Неправильно | Правильно |
 |---|---|
@@ -218,14 +218,14 @@ tags: [grammar, misc]
 | Its a good idea. | It's a good idea. |
 | the Smith's house (о семье) | the Smiths' house |
 
-Ошибка 4: Comma splice — два предложения через запятую без союза
+##### Ошибка 4: Comma splice — два предложения через запятую без союза
 
 | Неправильно | Правильно |
 |---|---|
 | It was late, we went home. | It was late, so we went home. / It was late; we went home. / It was late. We went home. |
 | I love this city, it never sleeps. | I love this city; it never sleeps. |
 
-Ошибка 5: Дефис после глагола и тире с пробелами
+##### Ошибка 5: Дефис после глагола и тире с пробелами
 
 | Неправильно | Правильно |
 |---|---|
@@ -233,7 +233,7 @@ tags: [grammar, misc]
 | a highly-paid job | a highly paid job |
 | She left — without a word. (US книжный стиль) | She left—without a word. |
 
-Ошибка 6: Заглавные буквы по русским правилам
+##### Ошибка 6: Заглавные буквы по русским правилам
 
 | Неправильно | Правильно |
 |---|---|

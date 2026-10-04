@@ -229,36 +229,31 @@ all, any, more, most, some, none — см. раздел «None of / Some of» в
 
 #### Типичные ошибки русскоязычных
 
-**Ошибка 1: Согласование с ближайшим словом вместо подлежащего**
-
+##### Ошибка 1: Согласование с ближайшим словом вместо подлежащего
 | Неправильно | Правильно | Почему |
 |---|---|---|
 | *The list of items **are** long.* | The list of items **is** long. | list = ед. ч. |
 | *One of my friends **live** in London.* | One of my friends **lives** in London. | one = ед. ч. |
 
-**Ошибка 2: Множественное число после everyone/everybody**
-
+##### Ошибка 2: Множественное число после everyone/everybody
 | Неправильно | Правильно |
 |---|---|
 | *Everyone **are** ready.* | Everyone **is** ready. |
 | *Nobody **know** the answer.* | Nobody **knows** the answer. |
 
-**Ошибка 3: A number of с единственным числом**
-
+##### Ошибка 3: A number of с единственным числом
 | Неправильно | Правильно |
 |---|---|
 | *A number of students **was** absent.* | A number of students **were** absent. |
 | *The number of complaints **are** rising.* | The number of complaints **is** rising. |
 
-**Ошибка 4: News, information, advice с множественным числом**
-
+##### Ошибка 4: News, information, advice с множественным числом
 | Неправильно | Правильно |
 |---|---|
 | *The news **are** good.* | The news **is** good. |
 | *This information **are** useful.* | This information **is** useful. |
 
-**Ошибка 5: As well as / together with как and**
-
+##### Ошибка 5: As well as / together with как and
 | Неправильно | Правильно |
 |---|---|
 | *The teacher, as well as the students, **were** present.* | The teacher, as well as the students, **was** present. |

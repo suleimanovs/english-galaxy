@@ -94,8 +94,7 @@ tags: [grammar, nouns]
 
 #### Типичные ошибки русскоязычных
 
-**Ошибка 1: Использование множественного числа с неисчисляемыми**
-
+##### Ошибка 1: Использование множественного числа с неисчисляемыми
 В русском «советы», «мебели», «информации» — нормальные формы. В английском — нет.
 
 | Неправильно | Правильно |
@@ -106,8 +105,7 @@ tags: [grammar, nouns]
 | *She has long hairs.* | She has **long hair**. |
 | *We had good weathers.* | We had **good weather**. |
 
-**Ошибка 2: Артикль a/an с неисчисляемыми**
-
+##### Ошибка 2: Артикль a/an с неисчисляемыми
 | Неправильно | Правильно |
 |---|---|
 | *a knowledge* | **knowledge** / **some knowledge** |
@@ -115,8 +113,7 @@ tags: [grammar, nouns]
 | *a luggage* | **a piece of luggage** |
 | *a homework* | **homework** / **some homework** |
 
-**Ошибка 3: Неправильный квантификатор**
-
+##### Ошибка 3: Неправильный квантификатор
 | Неправильно | Правильно | Почему |
 |---|---|---|
 | *much books* | **many** books | books — countable |
@@ -124,8 +121,7 @@ tags: [grammar, nouns]
 | *few water* | **little** water | water — uncountable |
 | *less people* | **fewer** people | people — countable |
 
-**Ошибка 4: Глагол во множественном числе после неисчисляемого**
-
+##### Ошибка 4: Глагол во множественном числе после неисчисляемого
 | Неправильно | Правильно |
 |---|---|
 | *The news are good.* | The news **is** good. |

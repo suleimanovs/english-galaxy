@@ -141,7 +141,7 @@ To-infinitive отвечает на вопрос «зачем?» — это оч
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: to после модальных глаголов
+##### Ошибка 1: to после модальных глаголов
 
 В русском «я могу делать» — глагол с инфинитивом без всяких частиц. В английском после модальных to не нужен.
 
@@ -151,7 +151,7 @@ To-infinitive отвечает на вопрос «зачем?» — это оч
 | You must to leave now. | You must leave now. |
 | I should to call him. | I should call him. |
 
-Ошибка 2: Герундий вместо to-infinitive и наоборот
+##### Ошибка 2: Герундий вместо to-infinitive и наоборот
 
 | Неправильно | Правильно |
 |---|---|
@@ -159,14 +159,14 @@ To-infinitive отвечает на вопрос «зачем?» — это оч
 | She decided leaving. | She decided to leave. |
 | He refused helping. | He refused to help. |
 
-Ошибка 3: Пропуск to в конструкции цели
+##### Ошибка 3: Пропуск to в конструкции цели
 
 | Неправильно | Правильно |
 |---|---|
 | I went there buy some food. | I went there to buy some food. |
 | She called tell me the news. | She called to tell me the news. |
 
-Ошибка 4: Путаница с глаголами восприятия
+##### Ошибка 4: Путаница с глаголами восприятия
 
 После see, hear, watch + объект можно использовать и bare infinitive, и V-ing, но смысл разный.
 

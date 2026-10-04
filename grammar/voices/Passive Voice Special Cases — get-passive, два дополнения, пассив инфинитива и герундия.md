@@ -208,42 +208,42 @@ The car needs washing.  =  The car needs to be washed.
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Потерянный предлог у фразового глагола
+##### Ошибка 1: Потерянный предлог у фразового глагола
 
 | Неправильно | Правильно |
 |---|---|
 | The children were looked by a nanny. | The children were looked after by a nanny. |
 | He was laughed by everyone. | He was laughed at by everyone. |
 
-Ошибка 2: To после need с пассивным -ing
+##### Ошибка 2: To после need с пассивным -ing
 
 | Неправильно | Правильно |
 |---|---|
 | The car needs to wash. | The car needs washing. / The car needs to be washed. |
 | My phone needs to repair. | My phone needs repairing. / My phone needs to be repaired. |
 
-Ошибка 3: Активный инфинитив вместо пассивного
+##### Ошибка 3: Активный инфинитив вместо пассивного
 
 | Неправильно | Правильно |
 |---|---|
 | I don't want to disturb. (в смысле «чтобы меня не беспокоили») | I don't want to be disturbed. |
 | There is a lot of work to do by Friday. (если делать будут не «вы») | There is a lot of work to be done by Friday. |
 
-Ошибка 4: Безличный пассив с that после подлежащего-лица
+##### Ошибка 4: Безличный пассив с that после подлежащего-лица
 
 | Неправильно | Правильно |
 |---|---|
 | He is said that he is rich. | It is said that he is rich. / He is said to be rich. |
 | She is believed that she left. | It is believed that she left. / She is believed to have left. |
 
-Ошибка 5: With вместо by для деятеля
+##### Ошибка 5: With вместо by для деятеля
 
 | Неправильно | Правильно |
 |---|---|
 | This book was written with Hemingway. | This book was written by Hemingway. |
 | The house was built with my grandfather. | The house was built by my grandfather. |
 
-Ошибка 6: Пассив с двумя дополнениями через русскую кальку
+##### Ошибка 6: Пассив с двумя дополнениями через русскую кальку
 
 | Неправильно | Правильно |
 |---|---|

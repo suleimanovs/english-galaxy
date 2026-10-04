@@ -94,14 +94,14 @@ Dare  +  подлежащее  +  V?
 
 #### Типичные ошибки русскоязычных
 
-Ошибка 1: Путать needn't have и didn't need to
+##### Ошибка 1: Путать needn't have и didn't need to
 
 | Ситуация | Правильный вариант |
 |---|---|
 | Ты купил билеты, но оказалось, что вход бесплатный | You needn't have bought tickets. |
 | Ты знал заранее, что вход бесплатный, и не купил | You didn't need to buy tickets. |
 
-Ошибка 2: Смешивать модальную и смысловую форму
+##### Ошибка 2: Смешивать модальную и смысловую форму
 
 - ✗ She needs call him. → ✓ She needs to call him. (смысловой глагол — нужен to)
 - ✗ She doesn't need call him. → ✓ She doesn't need to call him.
