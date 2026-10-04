@@ -102,4 +102,8 @@ She said that she had been delayed at work
 
 apologise - извиняться
 
-She didn't apoligise
+She didn't apoligise to us for delay
+
+---
+
+
