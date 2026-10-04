@@ -69,3 +69,19 @@ hint at - намекать на
 What are you trying to hint at?
 
 ---
+
+resell - перепродавать
+
+If you don't like it you will always be able to resell it 
+
+---
+
+vote for - голосовать за
+
+Most people are going to vote for him
+
+---
+
+give up - бросить, сдаваться
+
+It was really difficult 
