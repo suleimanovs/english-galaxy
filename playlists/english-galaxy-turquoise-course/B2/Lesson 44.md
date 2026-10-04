@@ -29,5 +29,31 @@ I just wanna express my point of view
 
 boast - хвастаться
 
-He likes boasting about his achievments
+He likes boasting about his achievеments
+
+---
+
+redo - переделать
+
+I just wanna ask him to redo it
+
+---
+
+attend - посещать
+
+How many people attended the last meeting?
+
+---
+
+hire - нанимать
+
+Our boss is planning to hire two more employees
+
+---
+
+fulfil - выполнять
+
+Unfortunately, this promise hasn't been fulfilled yet
+
+---
 
