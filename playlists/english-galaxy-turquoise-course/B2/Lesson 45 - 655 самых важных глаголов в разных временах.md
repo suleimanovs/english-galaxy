@@ -26,5 +26,29 @@ contact - связаться с
 
 You can contact me by phone or email
 
+---
+
+divide into  - разделить на
+
+This sum of money was devited into four parts
+
+---
+
+refuse - отказываться
+
+I decided not to refuse such a generous offer
+
+---
+
+surpsise - удивлять
+
+It really surprises me that such things are still taking place
+
+---
+
+
+
+
+
 
 
