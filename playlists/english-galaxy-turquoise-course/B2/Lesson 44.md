@@ -57,3 +57,15 @@ Unfortunately, this promise hasn't been fulfilled yet
 
 ---
 
+admire - восхищаться
+
+I really admire her diligence, kindness, modesty and honesty
+I really admire his great kindness, hospitality, and constant readiness to help
+
+---
+
+hint at - намекать на
+
+What are you trying to hint at?
+
+---
