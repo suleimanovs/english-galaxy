@@ -11,6 +11,7 @@ tags: [grammar, pronunciation]
 [[Word Stress — ударение в словах]]
 [[Sentence Stress and Intonation — интонация]]
 [[Connected Speech — связная речь: linking, reductions, flap T]]
+[[Endings -s and -ed — произношение окончаний]]
 [[Russian Speaker Mistakes — ошибки русскоязычных]]
 
 **Краткий обзор раздела:**
@@ -21,4 +22,5 @@ tags: [grammar, pronunciation]
 | Ударение в словах | Ударение не предсказуемо, меняет значение (REcord /ˈrɛkərd/ — reCORD /rɪˈkɔrd/) |
 | Интонация | Русская интонация плоская; английская поднимается и падает по правилам |
 | Связная речь | Слова сливаются: pick it up → pi-ki-DUP, water → [ˈwɔɾər], want to → wanna |
+| Окончания -s / -ed | Три чтения каждого окончания; «work-ED» с гласной — главная ошибка; оглушение dogs → docs |
 | Ошибки русскоязычных | Оглушение конечных согласных, замена th на s/z/f, отсутствие schwa, «проглоченный» /r/ |

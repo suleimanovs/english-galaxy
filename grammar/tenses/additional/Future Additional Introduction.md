@@ -11,6 +11,7 @@ tags: [grammar, times]
 [[Be Going To — намерение и предсказание по признакам]]
 [[Present Continuous для будущего — конкретные договорённости]]
 [[Future in the Past — будущее в прошедшем]]
+[[Other Future Forms — be about to, be to, be due to, Present Simple для расписаний]]
 
 
 **Сравнительная таблица всех способов выражения будущего:**
@@ -25,3 +26,4 @@ tags: [grammar, times]
 | **Future Perfect** | will have + V3 | Завершится до момента в будущем | I'll have finished by Friday. |
 | **Future Perfect Continuous** | will have been + V-ing | Процесс будет длиться до момента в будущем | I'll have been waiting for an hour by then. |
 | **Future in the Past** | would + V / was going to + V | Будущее с точки зрения прошлого (косвенная речь) | He said he would come. / I was going to call you. |
+| **Другие формы** | be about to / be to / be due to / Present Simple | Вот-вот случится; официальный план; ожидаемое время; расписание | I'm about to leave. / The train is due at 6. / The flight leaves at 7. |

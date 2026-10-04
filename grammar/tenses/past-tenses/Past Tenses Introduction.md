@@ -12,6 +12,7 @@ tags: [grammar, times]
 [[Past Continuous — Прошедшее продолженное время]]
 [[Past Perfect — Прошедшее совершённое время]]
 [[Past Perfect Continuous — Прошедшее совершённое продолженное время]]
+[[Irregular Verbs — таблица неправильных глаголов]]
 
 
 **Итоговая таблица всех четырёх Past Tenses:**
@@ -22,3 +23,4 @@ tags: [grammar, times]
 | **Past Continuous** | was/were + V-ing | Процесс в определённый момент прошлого | She was working at 9 PM. |
 | **Past Perfect** | had + V3 | Действие, завершившееся до другого момента в прошлом | She had worked there for years before she quit. |
 | **Past Perfect Continuous** | had been + V-ing | Процесс, продолжавшийся до момента в прошлом | She had been working for hours when I arrived. |
+| **Irregular Verbs** (справочник) | V1 — V2 — V3 | Формы, которые нужно просто знать | go — went — gone |

@@ -96,6 +96,17 @@ Future in the Past — способ выразить **будущее с точ�
 
 ---
 
+#### Исключения и сложные случаи
+
+- **Сдвиг не нужен, если сказанное актуально.** *He said he will come tomorrow* — допустимо, пока «завтра» не наступило, особенно в AmE. См. [[Reported Speech — косвенная речь]].
+- **Would в условных и would-привычках — другое would.** *If I had money, I would travel* (условие), *Every summer we would go to the lake* (привычка) — не будущее в прошедшем. См. [[Second Conditional — второе условие (нереальное настоящее)]], [[Used To — привычки в прошлом (used to, would, be used to, get used to)]].
+- **Was going to = несбывшийся план.** *I was going to call you* почти всегда подразумевает «но не позвонил».
+- **Was about to / was to.** *I was about to leave when the phone rang* (вот-вот), *The meeting was to start at 9* (было запланировано). См. [[Other Future Forms — be about to, be to, be due to, Present Simple для расписаний]].
+- **Would have + V3 — будущее в прошедшем, которое не случилось.** *She said she would have finished by Friday* — только в косвенной речи; вне её это Third Conditional.
+- **Повествование.** В рассказах Future in the Past задаёт интригу: *He didn't know it then, but he would never see her again.*
+
+---
+
 #### Типичные ошибки русскоязычных
 
 Ошибка 1: Will в косвенной речи (без сдвига)

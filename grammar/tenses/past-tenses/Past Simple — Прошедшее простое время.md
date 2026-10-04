@@ -147,6 +147,17 @@ Did  +  подлежащее  +  глагол (base form)?
 
 ---
 
+#### Исключения и сложные случаи
+
+- **Was / were без did.** Глагол be в прошедшем образует вопросы и отрицания сам: *Were you tired? — No, I wasn't.* (не: *Did you be tired?*). Подробнее — [[Verb To Be — am, is, are, was, were]].
+- **Used to / would для привычек.** Регулярные действия прошлого часто передают не Past Simple, а *used to / would*: *I used to walk to school.* См. [[Used To — привычки в прошлом (used to, would, be used to, get used to)]].
+- **Past Simple там, где русский ждёт Present Perfect.** В AmE *I already ate / Did you finish yet?* — норма; Present Perfect точнее, но не обязателен.
+- **Произношение -ed.** /t/ после глухих (worked), /d/ после звонких и гласных (played), /ɪd/ только после t и d (wanted). Не «work-ED». См. [[Endings -s and -ed — произношение окончаний]].
+- **Неправильные глаголы с одинаковыми формами.** cut — cut — cut, put — put — put, read /rid/ — read /rɛd/ — read /rɛd/: форма видна только по контексту или произношению. Таблица — [[Irregular Verbs — таблица неправильных глаголов]].
+- **Вежливое «прошедшее» о настоящем.** *I wanted to ask you something. / Did you need help?* — Past Simple как смягчение, а не о прошлом.
+
+---
+
 #### Типичные ошибки русскоязычных
 
 Ошибка 1: Неправильная форма глагола в отрицании и вопросе

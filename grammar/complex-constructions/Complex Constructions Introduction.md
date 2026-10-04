@@ -11,6 +11,7 @@ tags: [grammar, complex]
 [[Reported Speech — косвенная речь]]
 [[Reported Requests — косвенные просьбы и приказы]]
 [[Questions — типы вопросов]]
+[[Question Tags and Short Answers — разделительные вопросы и краткие ответы]]
 [[Relative Clauses — относительные придаточные]]
 [[Inversion — инверсия]]
 [[Causative — каузатив (have, get something done)]]
@@ -29,6 +30,7 @@ tags: [grammar, complex]
 | Reported Speech | Сдвиг времён, изменение местоимений и обстоятельств |
 | Reported Requests | Косвенные просьбы и приказы через to-infinitive; told vs said; нет сдвига времён |
 | Questions | Порядок слов, вспомогательные глаголы, question tags |
+| Question Tags & Short Answers | Хвостик по вспомогательному глаголу; Yes, I do / No, I'm not; ответ на отрицательный вопрос |
 | Relative Clauses | Выбор who/which/that/whose, defining vs non-defining |
 | Inversion | Вынос отрицательного наречия в начало, формальный стиль |
 | Causative | Have/get something done — «заказать услугу», порядок слов |

@@ -45,6 +45,11 @@
           "file": "Past Simple — Прошедшее простое время"
         },
         {
+          "en": "Irregular Verbs",
+          "ru": "таблица V1–V2–V3 (AmE формы)",
+          "file": "Irregular Verbs — таблица неправильных глаголов"
+        },
+        {
           "en": "Past Continuous",
           "ru": "Прошедшее продолженное",
           "file": "Past Continuous — Прошедшее продолженное время"
@@ -88,6 +93,11 @@
           "en": "Present Cont. → будущее",
           "ru": "конкретные договорённости",
           "file": "Present Continuous для будущего — конкретные договорённости"
+        },
+        {
+          "en": "Other Future Forms",
+          "ru": "be about to, be to, be due to, расписания",
+          "file": "Other Future Forms — be about to, be to, be due to, Present Simple для расписаний"
         },
         {
           "en": "Future in the Past",
@@ -169,6 +179,11 @@
           "en": "Possessive Case",
           "ru": "'s и of",
           "file": "Possessive Case — притяжательный падеж ('s vs of)"
+        },
+        {
+          "en": "Noun Patterns",
+          "ru": "noun + preposition, noun + noun, the + adj",
+          "file": "Noun Patterns — noun + preposition, noun + noun, the + adjective"
         }
       ]
     },
@@ -199,6 +214,11 @@
           "en": "Comparisons",
           "ru": "степени сравнения",
           "file": "Comparisons — степени сравнения"
+        },
+        {
+          "en": "Adjective Extras",
+          "ru": "compound, gradable, adj + to / that",
+          "file": "Adjective Extras — compound adjectives, gradable vs non-gradable, adjective + to и that"
         }
       ]
     },
@@ -279,6 +299,16 @@
           "en": "Participle",
           "ru": "причастие I и II",
           "file": "Participle — причастие (Participle I и Participle II)"
+        },
+        {
+          "en": "Infinitive & Gerund Patterns",
+          "ru": "verb + object + to, for + object, go + -ing",
+          "file": "Infinitive and Gerund Patterns — verb + object + to, for + object + to, go + -ing"
+        },
+        {
+          "en": "Participle Clauses",
+          "ru": "having done, reduced relatives",
+          "file": "Participle Clauses — перфектное причастие, reduced relative clauses"
         }
       ]
     },
@@ -379,6 +409,11 @@
           "en": "Questions",
           "ru": "типы вопросов",
           "file": "Questions — типы вопросов"
+        },
+        {
+          "en": "Question Tags & Short Answers",
+          "ru": "isn't it? / Yes, I do.",
+          "file": "Question Tags and Short Answers — разделительные вопросы и краткие ответы"
         },
         {
           "en": "Relative Clauses",
@@ -509,6 +544,11 @@
           "en": "Punctuation (US)",
           "ru": "запятая, кавычки, апостроф, дефис",
           "file": "Punctuation — пунктуация (US)"
+        },
+        {
+          "en": "Spelling Rules",
+          "ru": "удвоение, -y/-ie, -e, US формы",
+          "file": "Spelling Rules — правила правописания (удвоение, -y, -e, US формы)"
         }
       ]
     },
@@ -561,6 +601,11 @@
           "file": "Call — фразовые глаголы"
         },
         {
+          "en": "Check",
+          "ru": "check in, check out, check on…",
+          "file": "Check — фразовые глаголы"
+        },
+        {
           "en": "Come",
           "ru": "come across, come up with, come back...",
           "file": "Come — фразовые глаголы"
@@ -591,6 +636,11 @@
           "file": "Go — фразовые глаголы"
         },
         {
+          "en": "Hang",
+          "ru": "hang out, hang up, hang in there…",
+          "file": "Hang — фразовые глаголы"
+        },
+        {
           "en": "Hold",
           "ru": "hold on, hold up, hold back…",
           "file": "Hold — фразовые глаголы"
@@ -609,6 +659,11 @@
           "en": "Make",
           "ru": "make up, make out, make for...",
           "file": "Make — фразовые глаголы"
+        },
+        {
+          "en": "Pass",
+          "ru": "pass away, pass out, pass up…",
+          "file": "Pass — фразовые глаголы"
         },
         {
           "en": "Pick",
@@ -686,6 +741,11 @@
           "file": "Connected Speech — связная речь: linking, reductions, flap T"
         },
         {
+          "en": "Endings -s / -ed",
+          "ru": "/s/ /z/ /ɪz/, /t/ /d/ /ɪd/",
+          "file": "Endings -s and -ed — произношение окончаний"
+        },
+        {
           "en": "Russian Speaker Mistakes",
           "ru": "ошибки русскоязычных",
           "file": "Russian Speaker Mistakes — ошибки русскоязычных"
@@ -724,6 +784,21 @@
           "en": "Describing Pictures & People",
           "ru": "описание картинок, людей, мест (IELTS Part 2)",
           "file": "Describing Pictures, People and Places — описание (IELTS Part 2)"
+        },
+        {
+          "en": "Fillers & Discourse Markers",
+          "ru": "um, like, you know, anyway…",
+          "file": "Fillers and Discourse Markers — слова-паразиты и маркеры живой речи"
+        },
+        {
+          "en": "Job Interview",
+          "ru": "STAR, типичные вопросы, зарплата",
+          "file": "Job Interview — собеседование на английском"
+        },
+        {
+          "en": "Phone & Video Calls",
+          "ru": "телефон, Zoom, voicemail",
+          "file": "Phone and Video Calls — телефон и видеозвонки"
         }
       ]
     },
@@ -754,6 +829,16 @@
           "en": "Resume & Cover Letter",
           "ru": "резюме и сопроводительное письмо (US)",
           "file": "Resume and Cover Letter — резюме и сопроводительное письмо (US)"
+        },
+        {
+          "en": "Paragraphs & Cohesion",
+          "ru": "абзац, связность, тема-рема",
+          "file": "Paragraphs and Cohesion — абзац, связность, тема-рема"
+        },
+        {
+          "en": "Reports, Reviews & Summaries",
+          "ru": "отчёты, рецензии, пересказ",
+          "file": "Reports, Reviews and Summaries — отчёты, рецензии, пересказ"
         }
       ]
     },

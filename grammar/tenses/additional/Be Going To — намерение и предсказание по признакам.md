@@ -99,6 +99,17 @@ Are  +  you/we/they  +  going to + глагол?
 
 ---
 
+#### Исключения и сложные случаи
+
+- **Going to go → going.** *I'm going to go to the store* грамматично, но в речи обычно сокращают: *I'm going to the store.*
+- **Gonna.** В разговорном AmE *going to* → *gonna* (/ˈɡʌnə/): *I'm gonna call him.* Только перед глаголом: *I'm gonna the store* ✗. На письме — не в деловых текстах.
+- **Was going to — несбывшееся намерение.** *I was going to call you, but I forgot.* Подробнее — [[Future in the Past — будущее в прошедшем]].
+- **Be going to vs Present Continuous.** Намерение без договорённости — going to (*I'm going to quit*); конкретная договорённость с людьми и временем — Present Continuous (*I'm meeting her at 6*). См. [[Present Continuous для будущего — конкретные договорённости]].
+- **Предсказание по признакам vs по мнению.** Тучи на небе — *It's going to rain*; личное мнение — *I think it'll rain.* В реальной речи границы размыты, оба варианта понятны.
+- **В придаточных времени — Present Simple.** *When I'm going to leave* ✗ → *When I leave, I'll call you.*
+
+---
+
 #### Типичные ошибки русскоязычных
 
 Ошибка 1: Путать going to и will

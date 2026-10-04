@@ -60,6 +60,17 @@ You/We/They  +  are  +  глагол-ing
 
 ---
 
+#### Исключения и сложные случаи
+
+- **Нужен маркер времени или контекст.** *I'm meeting John* без контекста = сейчас. *I'm meeting John tomorrow* = договорённость.
+- **Не для предсказаний и природных событий.** *It's raining tomorrow* ✗ → *It's going to rain tomorrow.* Present Continuous — только о том, что люди запланировали.
+- **Глаголы состояния.** *I'm knowing the answer tomorrow* ✗ → *I'll know the answer tomorrow.* См. [[Stative Verbs — глаголы состояния]].
+- **Расписания — Present Simple.** Официальное расписание (поезд, кино, семестр) — *The train leaves at 6*, личный план — *I'm leaving at 6.* См. [[Other Future Forms — be about to, be to, be due to, Present Simple для расписаний]].
+- **Going to и Present Continuous взаимозаменяемы для планов.** *I'm going to see the dentist on Monday ≈ I'm seeing the dentist on Monday*; второе подчёркивает, что запись уже есть.
+- **Отрицание = отказ.** *I'm not coming to the party* звучит как твёрдое решение, а не как прогноз.
+
+---
+
 #### Типичные ошибки русскоязычных
 
 Ошибка 1: Will вместо Present Continuous для уже организованных планов

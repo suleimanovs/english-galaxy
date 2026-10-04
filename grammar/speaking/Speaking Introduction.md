@@ -10,6 +10,9 @@ tags: [grammar, speaking]
 [[Opinions and Discussion — мнения и дискуссия]]
 [[Presentations and Storytelling — презентации и рассказ истории]]
 [[Describing Pictures, People and Places — описание (IELTS Part 2)]]
+[[Fillers and Discourse Markers — слова-паразиты и маркеры живой речи]]
+[[Job Interview — собеседование на английском]]
+[[Phone and Video Calls — телефон и видеозвонки]]
 
 **Краткий обзор раздела:**
 
@@ -20,3 +23,6 @@ tags: [grammar, speaking]
 | Мнения и дискуссия | Носители смягчают несогласие; прямое "нет" звучит резко |
 | Презентации и истории | Нужна структура (hook → 3 пункта → вывод) и живые времена в рассказе |
 | Описание картинок и людей | Говорить 2 минуты без пауз: что/где/кто/почему, speculation (looks like, might be) |
+| Fillers и маркеры речи | Молчание вместо um / well / you know звучит неестественно; like и literally — в меру |
+| Собеседование | Метод STAR, pitch «о себе», вопрос о зарплате, скромность не работает |
+| Телефон и видеозвонки | This is Anna (не I am); спеллинг имён; You're on mute; вежливое завершение |

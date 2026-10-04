@@ -23,6 +23,7 @@ tags: [grammar, misc]
 [[Imperatives and Let's — повелительное наклонение]]
 [[Numbers, Dates and Time — числительные, даты, время (US формат)]]
 [[Punctuation — пунктуация (US)]]
+[[Spelling Rules — правила правописания (удвоение, -y, -e, US формы)]]
 [[Inversion — инверсия]] *(см. раздел «Сложные конструкции» → [[Complex Constructions Introduction]])*
 
 
@@ -45,3 +46,4 @@ tags: [grammar, misc]
 | Imperatives & Let's | Приказы, просьбы, инструкции, let's | Don't + V (не: *don't to*); let's + V; вежливое смягчение |
 | Numbers, Dates & Time | Числа, даты (month/day/year), время, деньги, мили и фунты | hundred без -s; 3/5 = March 5; five thirty; a.m./p.m. |
 | Punctuation (US) | Запятая, кавычки, апостроф, дефис, тире | Точка внутри кавычек; serial comma; its vs it's; no comma before that |
+| Spelling Rules | Удвоение согласной, -y → -ie, немая -e, -s/-es, US формы | stopped/stoped; studies/studys; traveled (US); color, center, organize |

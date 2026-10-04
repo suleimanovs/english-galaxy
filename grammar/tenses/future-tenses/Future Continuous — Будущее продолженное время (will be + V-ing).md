@@ -92,6 +92,17 @@ Future Continuous в вопросе звучит мягче и деликатн�
 
 ---
 
+#### Исключения и сложные случаи
+
+- **Глаголы состояния не в Continuous.** *I'll know the result tomorrow* (не: *I'll be knowing*). Список — [[Stative Verbs — глаголы состояния]].
+- **Вежливый вопрос о планах.** *Will you be using the car tonight?* звучит мягче, чем *Will you use…?* — говорящий не давит, а узнаёт, что и так произойдёт.
+- **«Как само собой разумеющееся».** *I'll be seeing him on Monday anyway* — действие произойдёт в обычном порядке вещей, без специального решения.
+- **Future Continuous ≈ Present Continuous для планов.** *I'll be flying to Boston on Friday ≈ I'm flying to Boston on Friday*; первое чуть формальнее.
+- **Предположение о настоящем.** *Don't call now — she'll be sleeping.* Это не будущее, а догадка о том, что происходит сейчас.
+- **В придаточных времени — Present Continuous.** *While you're sleeping, I'll be working* (не: *while you will be sleeping*). См. [[Tenses in Adverbial Clauses — времена в придаточных предложениях]].
+
+---
+
 #### Типичные ошибки русскоязычных
 
 Ошибка 1: Не использовать это время там, где важен процесс в момент будущего

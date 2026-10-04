@@ -84,6 +84,16 @@ Will  +  подлежащее  +  have  +  V3?
 
 ---
 
+#### Исключения и сложные случаи
+
+- **Глаголы состояния: Perfect вместо Perfect Continuous.** *By June we will have lived here for ten years* (не: *will have been living* — хотя с live/work оба варианта допустимы, со know/have/be — только Perfect). См. [[Stative Verbs — глаголы состояния]].
+- **Предположение о прошлом.** *You will have heard the news by now* = «ты, наверное, уже слышал». Это уверенная догадка, а не будущее.
+- **By vs until.** *By Friday* (к пятнице, не позже) идёт с Future Perfect; *until Friday* (до пятницы, всё это время) — нет: *I'll be here until Friday.*
+- **В придаточных времени — Present Perfect.** *Call me when you have finished* (не: *when you will have finished*). См. [[Tenses in Adverbial Clauses — времена в придаточных предложениях]].
+- **Разговорная замена.** В речи американцы часто упрощают: *I'll finish by Friday* вместо *I'll have finished by Friday* — смысл сохраняется благодаря *by*.
+
+---
+
 #### Типичные ошибки русскоязычных
 
 Ошибка 1: Не использовать это время вообще

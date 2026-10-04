@@ -55,6 +55,7 @@ tags: [grammar, resources]
 | Тема | Раздел |
 | --- | --- |
 | [[Past Simple — Прошедшее простое время]] | Времена |
+| [[Irregular Verbs — таблица неправильных глаголов]] | Времена |
 | [[Past Continuous — Прошедшее продолженное время]] | Времена |
 | [[Future Simple — Будущее простое время (will)]] | Времена |
 | [[Be Going To — намерение и предсказание по признакам]] | Времена |
@@ -70,7 +71,9 @@ tags: [grammar, resources]
 | [[Shall и Should — предложения, советы, обязанность]] | Модальные |
 | [[Adverbs — наречия]] | Разное |
 | [[Conjunctions — союзы]] | Разное |
+| [[Question Tags and Short Answers — разделительные вопросы и краткие ответы]] | Сложные конструкции |
 | [[Numbers, Dates and Time — числительные, даты, время (US формат)]] | Разное |
+| [[Spelling Rules — правила правописания (удвоение, -y, -e, US формы)]] | Разное |
 | [[Zero Conditional — нулевое условие]] | Условные |
 | [[First Conditional — первое условие (реальное)]] | Условные |
 | [[Active Voice — активный залог]] | Залог |
@@ -90,11 +93,13 @@ tags: [grammar, resources]
 | [[Wish Constructions — конструкции с wish]] | Условные |
 | [[Infinitive — инфинитив]] | Неличные формы |
 | [[Gerund — герундий]] | Неличные формы |
+| [[Infinitive and Gerund Patterns — verb + object + to, for + object + to, go + -ing]] | Неличные формы |
 | [[Reported Speech — косвенная речь]] | Сложные конструкции |
 | [[Reported Requests — косвенные просьбы и приказы]] | Сложные конструкции |
 | [[Questions — типы вопросов]] | Сложные конструкции |
 | [[Relative Clauses — относительные придаточные]] | Сложные конструкции |
 | [[Indefinite Pronouns — неопределённые местоимения и квантификаторы]] | Местоимения |
+| [[Noun Patterns — noun + preposition, noun + noun, the + adjective]] | Существительные |
 | [[Determiners — определители (each, every, all, whole, both, either, neither)]] | Местоимения |
 | [[May и Might — разрешение, вероятность]] | Модальные |
 | [[Will и Would — будущее, вежливость, привычки]] | Модальные |
@@ -122,10 +127,12 @@ tags: [grammar, resources]
 | [[Future Perfect — Будущее совершённое время (will have + V3)]] | Времена |
 | [[Future Perfect Continuous — Будущее совершённое продолженное время (will have been + V-ing)]] | Времена |
 | [[Future in the Past — будущее в прошедшем]] | Времена |
+| [[Other Future Forms — be about to, be to, be due to, Present Simple для расписаний]] | Времена |
 | [[Third Conditional — третье условие (нереальное прошлое)]] | Условные |
 | [[Mixed Conditionals — смешанные условия]] | Условные |
 | [[If Alternatives — unless, as long as, provided, in case, even if, suppose]] | Условные |
 | [[Participle — причастие (Participle I и Participle II)]] | Неличные формы |
+| [[Participle Clauses — перфектное причастие, reduced relative clauses]] | Неличные формы |
 | [[Causative — каузатив (have, get something done)]] | Сложные конструкции |
 | [[Embedded Questions — косвенные вопросы]] | Сложные конструкции |
 | [[Ought To — моральная обязанность]] | Модальные |
@@ -135,6 +142,7 @@ tags: [grammar, resources]
 | [[Word Formation — словообразование]] | Разное |
 | [[Tenses in Adverbial Clauses — времена в придаточных предложениях]] | Разное |
 | [[Noun Clauses — придаточные существительные]] | Сложные конструкции |
+| [[Adjective Extras — compound adjectives, gradable vs non-gradable, adjective + to и that]] | Прилагательные |
 | [[Passive Voice Special Cases — get-passive, два дополнения, пассив инфинитива и герундия]] | Залог |
 
 ---
@@ -160,18 +168,24 @@ tags: [grammar, resources]
 | [[Word Stress — ударение в словах]] | Произношение |
 | [[Sentence Stress and Intonation — интонация]] | Произношение |
 | [[Connected Speech — связная речь: linking, reductions, flap T]] | Произношение |
+| [[Endings -s and -ed — произношение окончаний]] | Произношение |
 | [[Russian Speaker Mistakes — ошибки русскоязычных]] | Произношение |
 | [[Writing Introduction\|Writing — письмо, эссе, стиль]] | Письмо |
 | [[Essay Structure — структура эссе]] | Письмо |
 | [[Email and Letters — письма и email]] | Письмо |
 | [[Formal vs Informal — регистры речи]] | Письмо |
 | [[Resume and Cover Letter — резюме и сопроводительное письмо (US)]] | Письмо |
+| [[Paragraphs and Cohesion — абзац, связность, тема-рема]] | Письмо |
+| [[Reports, Reviews and Summaries — отчёты, рецензии, пересказ]] | Письмо |
 | [[Speaking Introduction\|Speaking — разговорные шаблоны]] | Разговорная речь |
 | [[Functional Phrases — функциональные фразы]] | Разговорная речь |
 | [[Small Talk — светская беседа]] | Разговорная речь |
 | [[Opinions and Discussion — мнения и дискуссия]] | Разговорная речь |
 | [[Presentations and Storytelling — презентации и рассказ истории]] | Разговорная речь |
 | [[Describing Pictures, People and Places — описание (IELTS Part 2)]] | Разговорная речь |
+| [[Fillers and Discourse Markers — слова-паразиты и маркеры живой речи]] | Разговорная речь |
+| [[Job Interview — собеседование на английском]] | Разговорная речь |
+| [[Phone and Video Calls — телефон и видеозвонки]] | Разговорная речь |
 | [[Exam Prep Introduction\|Подготовка к экзаменам (IELTS)]] | Экзамены |
 | [[IELTS Overview — структура экзамена]] | Экзамены |
 | [[IELTS Writing — стратегия письменной части]] | Экзамены |

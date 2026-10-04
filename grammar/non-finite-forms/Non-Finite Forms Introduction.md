@@ -11,6 +11,8 @@ tags: [grammar, nonfinite]
 [[Infinitive — инфинитив]]
 [[Gerund — герундий]]
 [[Participle — причастие (Participle I и Participle II)]]
+[[Infinitive and Gerund Patterns — verb + object + to, for + object + to, go + -ing]]
+[[Participle Clauses — перфектное причастие, reduced relative clauses]]
 
 
 **Сравнительная таблица неличных форм:**
@@ -22,3 +24,5 @@ tags: [grammar, nonfinite]
 | **Gerund** | V-ing | существительное (подлежащее, дополнение, после предлогов) | Swimming is fun. / I enjoy reading. |
 | **Present Participle** | V-ing | прилагательное или наречие (определение, обстоятельство) | a sleeping child / Walking home, she called him. |
 | **Past Participle** | V3 | прилагательное (определение), обстоятельство, пассив, перфект | a broken window / Exhausted, she slept. |
+| **Паттерны** (справочник) | want sb to, let sb V, for sb to, go + -ing | кто делает действие и какой формы требует глагол | I want him to stay. / Let me go. / It's easy for you to say. |
+| **Причастные обороты** (справочник) | Having done…, the man standing there | сокращение придаточных, формальный стиль | Having finished, she left. |

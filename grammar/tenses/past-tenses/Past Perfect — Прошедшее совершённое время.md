@@ -104,6 +104,17 @@ Had  +  подлежащее  +  V3?
 
 ---
 
+#### Исключения и сложные случаи
+
+- **Порядок ясен из союза — Past Perfect не обязателен.** *After she finished, she left* ≈ *After she had finished, she left.* С *before / after* американцы в речи часто обходятся Past Simple. Past Perfect обязателен там, где без него смысл меняется: *When I arrived, she left* (ушла после) vs *When I arrived, she had left* (уже ушла).
+- **Past Perfect не для «давно».** Он показывает предшествование другому прошлому моменту, а не древность события: *Dinosaurs lived millions of years ago* — Past Simple.
+- **Third Conditional и wish.** В *If I had known… / I wish I had known…* Past Perfect выражает нереальность, а не последовательность. См. [[Third Conditional — третье условие (нереальное прошлое)]], [[Wish Constructions — конструкции с wish]].
+- **Косвенная речь.** Present Perfect и Past Simple прямой речи переходят в Past Perfect: *«I lost my keys» → He said he had lost his keys.* Подробнее — [[Reported Speech — косвенная речь]].
+- **It was the first time + Past Perfect.** *It was the first time I had seen snow.* — устойчивая конструкция.
+- **Had had.** *I had had breakfast before I left* — два had подряд грамматичны: первое — вспомогательный, второе — смысловой.
+
+---
+
 #### Типичные ошибки русскоязычных
 
 Ошибка 1: Past Simple вместо Past Perfect для более раннего из двух событий

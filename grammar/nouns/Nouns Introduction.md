@@ -11,6 +11,7 @@ tags: [grammar, nouns]
 [[Countable and Uncountable Nouns — исчисляемые и неисчисляемые]]
 [[Plural Forms — множественное число]]
 [[Possessive Case — притяжательный падеж ('s vs of)]]
+[[Noun Patterns — noun + preposition, noun + noun, the + adjective]]
 
 
 **Краткий обзор раздела:**
@@ -20,3 +21,4 @@ tags: [grammar, nouns]
 | Countable & Uncountable | Определяет выбор артикля, much/many, some/any | Слова типа advice, furniture, information — неисчисляемые в английском, хотя в русском исчисляемые |
 | Plural Forms | Правильные и неправильные формы множественного числа | Нестандартные формы (children, feet, data); существительные только во множественном (scissors, pants) |
 | Possessive Case | 's для одушевлённых, of для неодушевлённых (с исключениями) | Выбор между 's и of; апостроф после s во множественном числе (the students' books) |
+| Noun Patterns | reason for, interest in; coffee cup; the rich | Предлог после существительного не как в русском; первое существительное в ед. ч.; the + adj = группа, мн. ч. |
