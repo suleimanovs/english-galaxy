@@ -46,9 +46,31 @@ It really surprises me that such things are still taking place
 
 ---
 
+fix - исправлять
 
+I will try to fix this problem right now 
 
+---
 
+announce - обьявлять 
+
+It was announced that the criminials had been arrested by the police
+
+---
+
+fire - уволнять
+
+One of the workers was fired 
+
+---
+
+emphasise - подчеркивать
+
+I'd like to emphasise that it deppends not only on us
+
+---
+
+attach - 
 
 
 
