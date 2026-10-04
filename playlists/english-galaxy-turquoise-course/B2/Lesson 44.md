@@ -17,5 +17,17 @@ These words are often quoted
 
 sign - подписывать
 
+He might refuse to sign this contract
 
+---
+
+express - выражать
+
+I just wanna express my point of view
+
+---
+
+boast - хвастаться
+
+He likes boasting about his achievments
 
