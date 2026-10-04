@@ -84,4 +84,22 @@ Most people are going to vote for him
 
 give up - бросить, сдаваться
 
-It was really difficult 
+It was very difficult for him but he managed to give up smoking
+
+---
+
+underpay - недоплачивать
+
+He often complains that he is underpayed 
+
+---
+
+delay - задердать, задержка
+
+She said that she had been delayed at work
+
+---
+
+apologise - извиняться
+
+She didn't apoligise
