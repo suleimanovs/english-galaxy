@@ -104,7 +104,12 @@ async function main() {
 
       if (mode === 'same') {
         if (noteId) await L.anki('addTags', { notes: [noteId], tags: lessonTag });
-        console.log(`= same meaning, tag added`); same++; continue;
+        let extra = '';
+        if (noteId && !learn && existing.status !== 'known') {   // now marked [ ] → treat as known
+          await L.anki('setDueDate', { cards: await L.anki('findCards', { query: `nid:${noteId}` }), days: `${KNOWN_DAYS}!` });
+          existing.status = 'known'; existing.knownAt = L.today(); known++; extra = `, now known (${KNOWN_DAYS}d)`;
+        }
+        console.log(`= same meaning, tag added${extra}`); same++; continue;
       }
 
       if (mode === 'merge') {
