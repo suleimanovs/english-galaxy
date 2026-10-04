@@ -70,7 +70,32 @@ I'd like to emphasise that it deppends not only on us
 
 ---
 
-attach - 
+attach - прикреплять, приложить
+
+I forgot to attach a copy of this document to my letter
+
+---
+
+envy - завидовать 
+
+I wouldn't envy these people in your place
+
+---
+
+destroy - уничтожать
+
+The house was destroyed by fire
+
+---
+
+include  - включать
+
+Six people including us came to his birthday
+
+---
+
+
+
 
 
 
