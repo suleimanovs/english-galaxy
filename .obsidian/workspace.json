@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Home Page"
             }
+          },
+          {
+            "id": "f65ea5c401428eab",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.14.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +205,6 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "markdown-importer:Импорт Markdown-файлов": false,
       "workspaces:Пространства": false,
       "obsidian-livesync:Show Log": false,
       "obsidian-livesync:Replicate": false,
@@ -202,7 +214,7 @@
       "media-extended:Open media quick switcher": false
     }
   },
-  "active": "61d3580538a5ff7c",
+  "active": "f65ea5c401428eab",
   "lastOpenFiles": [
     "english words/anki/audio/eg_visible.mp3",
     "english words/anki/audio/eg_revise.mp3",
