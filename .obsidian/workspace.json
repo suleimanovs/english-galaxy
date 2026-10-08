@@ -26,12 +26,15 @@
             "id": "f65ea5c401428eab",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.14.4"
+                "file": "playlists/english-galaxy-turquoise-course/B2/Lesson 45 - 655 самых важных глаголов в разных временах.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.14.4"
+              "icon": "lucide-file",
+              "title": "Lesson 45 - 655 самых важных глаголов в разных временах"
             }
           }
         ],
@@ -216,6 +219,14 @@
   },
   "active": "f65ea5c401428eab",
   "lastOpenFiles": [
+    "playlists/english-galaxy-turquoise-course/B2/Lesson 44 - 655 самых важных глаголов в разных временах.md",
+    "playlists/learn-5000-english-words/Lesson 39.md",
+    "playlists/learn-5000-english-words/Lesson 40 (232-236).md",
+    "playlists/learn-5000-english-words/Lesson 41 (237-241).md",
+    "playlists/learn-5000-english-words/Lesson 35 (204-205).md",
+    "playlists/learn-5000-english-words/Lesson 42 (242-244).md",
+    "playlists/learn-5000-english-words/Lesson 43 (245-247).md",
+    "playlists/learn-5000-english-words/Lesson 44 (248-250).md",
     "english words/anki/audio/eg_visible.mp3",
     "english words/anki/audio/eg_revise.mp3",
     "english words/anki/audio/eg_mortgage.mp3",
@@ -226,23 +237,14 @@
     "english words/anki/audio/eg_unnoticed.mp3",
     "english words/anki/audio/eg_unlucky.mp3",
     "english words/anki/audio/eg_tip.mp3",
-    "english words/anki/audio/eg_stuff.mp3",
     " linking, reductions, flap T.md",
-    "playlists/learn-5000-english-words/Lesson 40 (232-236).md",
-    "playlists/learn-5000-english-words/Lesson 41 (237-241).md",
     "playlists/learn-5000-english-words/Lesson 36.md",
     "playlists/learn-5000-english-words/Lesson 37.md",
-    "playlists/learn-5000-english-words/Lesson 39.md",
-    "playlists/learn-5000-english-words/Lesson 44 (248-250).md",
-    "playlists/learn-5000-english-words/Lesson 43 (245-247).md",
-    "playlists/learn-5000-english-words/Lesson 42 (242-244).md",
-    "playlists/learn-5000-english-words/Lesson 35 (204-205).md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 45 - 655 самых важных глаголов в разных временах.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 4 - 150 важных фразовых глаголов часть 4.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 14 - 320 зависимых предлогов.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 12 - 320 зависимых предлогов.md",
     "english words/anki/Anki Decks.md",
-    "playlists/english-galaxy-turquoise-course/B2/Lesson 44 - 655 самых важных глаголов в разных временах.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 43 - 655 самых важных глаголов в разных временах.md",
     "grammar/exam-prep/Cambridge Exams Overview — B2 First, C1 Advanced, C2 Proficiency.md",
     "grammar/exam-prep/TOEFL iBT Overview — структура и стратегия.md",
