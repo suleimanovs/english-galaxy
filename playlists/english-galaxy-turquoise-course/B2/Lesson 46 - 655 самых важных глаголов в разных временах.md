@@ -30,3 +30,15 @@ They should have warned me about it beforehand
 ---
 
 regard - считать(что-то чем-то)
+regard as 
+justly regarded as - по праву считается кем-то/чем-то
+She regards it as one of her duties
+He is justly regarded as one of the greatest scientists of all times
+
+---
+
+conclude - заключать / делать вывод
+
+To conclude I'd like to thank each of you for coming 
+
+---
