@@ -24,4 +24,10 @@ He persist in doing it.
 
 ---
 
-mislead 
+mislead - вводить в заблуждение
+deliberately - намеренно
+
+They deliberately wanted to mislead the public
+
+---
+
