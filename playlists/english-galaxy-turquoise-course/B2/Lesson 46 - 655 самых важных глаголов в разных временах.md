@@ -42,3 +42,22 @@ conclude - заключать / делать вывод
 To conclude I'd like to thank each of you for coming 
 
 ---
+
+ache - болеть
+
+It isn't surprising that your muscles can ache after such an intensive training
+
+---
+
+notify - уведомлять / оповещать
+
+I haven't been notified of these changes yet 
+
+---
+
+terminate  - закончиться
+
+This contract will terminate soon
+
+---
+
