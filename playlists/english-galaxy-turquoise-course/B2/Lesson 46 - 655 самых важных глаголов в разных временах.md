@@ -95,5 +95,13 @@ He doesn't really care what other people think about him.
 ---
 
 mark - отмечать
+anniversary -  годовщина
 
-How did you mark this 
+How did you mark this anniversary ?
+
+---
+
+measure - измерять
+efficiency  - эффективность
+
+It means that we need to measure our progress on a regular basis for more efficiency 
