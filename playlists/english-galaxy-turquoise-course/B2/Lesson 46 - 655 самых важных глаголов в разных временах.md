@@ -61,3 +61,21 @@ This contract will terminate soon
 
 ---
 
+drop - уронить
+
+accidentally - случайно
+by accident - случайно
+
+She accidentally dropped a glass of water but it didn't break
+
+---
+
+request - запросить
+
+They requested more information
+
+---
+
+communicate - общаться 
+
+My main aim is to communicate with foreigners 
