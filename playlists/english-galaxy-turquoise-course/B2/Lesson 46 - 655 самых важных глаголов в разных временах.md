@@ -105,3 +105,6 @@ measure - измерять
 efficiency  - эффективность
 
 It means that we need to measure our progress on a regular basis for more efficiency 
+
+---
+
