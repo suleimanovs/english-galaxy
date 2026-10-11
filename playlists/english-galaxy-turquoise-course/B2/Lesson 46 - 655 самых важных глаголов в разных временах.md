@@ -78,4 +78,22 @@ They requested more information
 
 communicate - общаться 
 
-My main aim is to communicate with foreigners 
+My main aim is to be able to communicate with foreigners using English.
+
+---
+
+get - получать
+
+You will get more advantages if you have a premium
+
+---
+
+care - заботиться
+
+He doesn't really care what other people think about him.
+
+---
+
+mark - отмечать
+
+How did you mark this 
