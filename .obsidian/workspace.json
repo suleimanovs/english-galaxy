@@ -4,47 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f5b8308e3995e54d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a6e8d546b121b222",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "gUZwtsCgenU",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=gUZwtsCgenU"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    },
-                    "v": 1
-                  }
-                }
-              },
-              "icon": "youtube",
-              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 38"
-            }
-          }
-        ]
-      },
-      {
         "id": "34b77bbf117245bb",
         "type": "tabs",
         "children": [
@@ -259,7 +218,7 @@
       "media-extended:Open media quick switcher": false
     }
   },
-  "active": "a6e8d546b121b222",
+  "active": "f65ea5c401428eab",
   "lastOpenFiles": [
     "playlists/learn-5000-english-words/Lesson 38.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 47.md",
