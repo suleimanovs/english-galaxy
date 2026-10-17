@@ -1,4 +1,4 @@
-**Дата изучения:** 11.10.2026
+**Дата изучения:** 17.10.2026
 **Видео:** https://www.youtube.com/watch?v=4j1CLeQaLlo
 
 ---
@@ -31,3 +31,24 @@ They deliberately wanted to mislead the public
 
 ---
 
+include - включать
+
+You should include more vegetables in your diet
+
+---
+exclude - исключатm
+
+I excluded sugar from my diet
+
+---
+
+realise - осозновать
+
+She realised that all her money had been stolen
+
+---
+
+win - выиграть
+win the competition
+
+I will
