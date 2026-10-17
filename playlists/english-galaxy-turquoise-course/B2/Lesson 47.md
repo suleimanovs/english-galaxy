@@ -106,4 +106,7 @@ She was so hungry that she almost fainted
 
 leave - оставаться
 
-There is too little time  
+There is too little time left
+There isn't  much time left
+
+---
