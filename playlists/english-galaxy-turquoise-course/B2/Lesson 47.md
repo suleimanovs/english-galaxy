@@ -80,4 +80,30 @@ You need to listen to real English speech more and imitate this pronunciation
 
 ---
 
-ki
+kid - шутить,  ребенок
+
+I'm not kidding 
+
+---
+
+joke - шутка, шутить
+
+I'm not joking 
+
+---
+
+knock at/on - стучать
+
+I hear that someone is knocking at the door
+
+---
+
+faint - упасть в обмарок
+
+She was so hungry that she almost fainted
+
+---
+
+leave - оставаться
+
+There is too little time  
