@@ -66,4 +66,18 @@ All this information is stored in this computer
 
 ---
 
-exceed - пр
+exceed - превосходить, превышать
+
+To be perfectly honest, - Если быть совершенно честным
+
+To be perfectly honest, the quality of these materials exceeded my expectations
+
+---
+
+imitate - подражать
+
+You need to listen to real English speech more and imitate this pronunciation 
+
+---
+
+ki
