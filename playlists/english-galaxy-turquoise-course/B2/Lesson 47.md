@@ -51,4 +51,19 @@ She realised that all her money had been stolen
 win - выиграть
 win the competition
 
-I will
+I will be very happy If i win the competition 
+
+---
+
+celebrate - праздновать, отмечать
+
+He asked me whether I was going to celebrate my birthday or not
+
+---
+store - хранитья
+
+All this information is stored in this computer
+
+---
+
+exceed - пр
