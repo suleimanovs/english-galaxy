@@ -4,22 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "a2935a4332211e5e",
+        "id": "a5cb8f6ffc072317",
         "type": "tabs",
         "children": [
           {
-            "id": "4b25e98010ef3e8e",
+            "id": "f5393687f5154a5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mx-url",
               "state": {
-                "file": "Home Page.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "4j1CLeQaLlo",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=4j1CLeQaLlo"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    },
+                    "v": 1
+                  }
+                }
               },
-              "icon": "lucide-file",
-              "title": "Home Page"
+              "icon": "youtube",
+              "title": "YouTube - 4j1CLeQaLlo"
             }
           }
         ]
@@ -239,13 +259,13 @@
       "media-extended:Open media quick switcher": false
     }
   },
-  "active": "4b25e98010ef3e8e",
+  "active": "f5393687f5154a5a",
   "lastOpenFiles": [
     "playlists/english-galaxy-turquoise-course/B2/Lesson 47.md",
     "playlists/learn-5000-english-words/Lesson 39 (223-231).md",
-    "playlists/english-galaxy-turquoise-course/B2/Lesson 46 - 655 самых важных глаголов в разных временах.md",
-    "Home Page.md",
     "playlists/learn-5000-english-words/Lesson 40 (232-236).md",
+    "Home Page.md",
+    "playlists/english-galaxy-turquoise-course/B2/Lesson 46 - 655 самых важных глаголов в разных временах.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 45 - 655 самых важных глаголов в разных временах.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 44 - 655 самых важных глаголов в разных временах.md",
     "playlists/learn-5000-english-words/Lesson 41 (237-241).md",
