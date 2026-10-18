@@ -71,4 +71,22 @@ This building hasn't been constructed yet
 
 judge - судить
 
-As they say don't judge and 
+As they say don't judge and you won't be judged
+
+---
+
+beat - бить, побить
+
+Surprising as it may seem he beat the World record
+
+---
+
+sacrifice - жертвовать
+
+Not everyone is ready to sacrifice their time and money for it
+
+---
+
+start - начинать
+
+If you are ready lets get stat
