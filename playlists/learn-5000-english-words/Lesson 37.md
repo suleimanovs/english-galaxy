@@ -27,4 +27,19 @@
 2909. [x] determination - решительностьб
 2910. [x] detrimental - вредный
 2911. [x] devoted - посвященный
-2912. [ ] genuinely - 
+2912. [x] genuinely - искренне
+2913. [ ] habit - привычка
+2914. [ ] noticeable - заметный
+2915. [x] rubbish - мусор
+2916. [x] somewhat - отчасти
+2917. [x] well-being благополучие
+2918. [ ] action - действие
+2919. [x] adjacent - примыкаюзий
+2920. [ ] argument - аргуменm
+2921. [x] assumption - предположение
+2922. [ ] based - основан
+2923. [x] considerable - значитьельный
+2924. [x] deprive - лишать
+2925. [x] hail - град
+2926. [x] liberty - свобода
+2927. [x] persist - упорствовать
