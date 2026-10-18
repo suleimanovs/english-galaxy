@@ -4,6 +4,47 @@
     "type": "split",
     "children": [
       {
+        "id": "228c283ad161fd83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bea9d89f2e0ff29b",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "jcbBi4EAfmY",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=jcbBi4EAfmY"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    },
+                    "v": 1
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Английский язык с нуля до продвинутого. Практический курс по приложению English Galaxy. B2. Урок 48"
+            }
+          }
+        ]
+      },
+      {
         "id": "34b77bbf117245bb",
         "type": "tabs",
         "children": [
@@ -28,13 +69,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "playlists/learn-5000-english-words/Lesson 38.md",
+                "file": "playlists/english-galaxy-turquoise-course/B2/Lesson 48 - 655 самых важных глаголов в разных временах.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 38"
+              "title": "Lesson 48 - 655 самых важных глаголов в разных временах"
             }
           }
         ],
@@ -220,6 +261,10 @@
   },
   "active": "f65ea5c401428eab",
   "lastOpenFiles": [
+    "playlists/english-galaxy-turquoise-course/B2/Lesson 48 - 655 самых важных глаголов в разных временах.md",
+    "playlists/english-galaxy-turquoise-course/B2/Lesson 47 - 655 самых важных глаголов в разных временах.md",
+    "playlists/english-galaxy-turquoise-course/B2/Lesson 46 - 655 самых важных глаголов в разных временах.md",
+    "playlists/learn-5000-english-words/Lesson 38.md",
     "english words/anki/audio/eg_vice_versa.mp3",
     "english words/anki/audio/eg_tone.mp3",
     "english words/anki/audio/eg_subscribed.mp3",
@@ -230,13 +275,9 @@
     "english words/anki/audio/eg_newsletter.mp3",
     "english words/anki/audio/eg_necessity.mp3",
     "english words/anki/audio/eg_innocence.mp3",
-    "english words/anki/audio/eg_hint.mp3",
-    "playlists/learn-5000-english-words/Lesson 38.md",
-    "playlists/english-galaxy-turquoise-course/B2/Lesson 47.md",
     "playlists/learn-5000-english-words/Lesson 39 (223-231).md",
     "playlists/learn-5000-english-words/Lesson 40 (232-236).md",
     "Home Page.md",
-    "playlists/english-galaxy-turquoise-course/B2/Lesson 46 - 655 самых важных глаголов в разных временах.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 45 - 655 самых важных глаголов в разных временах.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 44 - 655 самых важных глаголов в разных временах.md",
     "playlists/learn-5000-english-words/Lesson 41 (237-241).md",
