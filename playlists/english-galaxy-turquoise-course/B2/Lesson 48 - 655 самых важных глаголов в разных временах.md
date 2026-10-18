@@ -15,4 +15,23 @@ The internet is considered to be a very effective tool for advertising
 
 ---
 
-maintain - 
+maintain - поддерживать
+maintain correspondence - поддерживать переписку
+
+I maintain correspondence with him
+
+---
+land - приземляться
+
+The airplane hasn't landed yet 
+
+---
+
+conduct - проводить 
+
+This interview was conducted in English 
+
+---
+
+insist on - настоять на 
+
