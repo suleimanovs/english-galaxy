@@ -89,4 +89,30 @@ Not everyone is ready to sacrifice their time and money for it
 
 start - начинать
 
-If you are ready lets get stat
+If you are ready lets get started
+
+---
+
+greet - приветствовать 
+
+cheerfully - радостно
+
+He greeted us very cheerfully 
+
+---
+
+limit - ограничивать
+
+They tried to limit his freedom but they didn't succeed in doing it 
+
+---
+
+inspire - вдохновлять 
+
+This example really inspired him to start his own business
+
+---
+
+broaden - расширять
+
+It can help you to broaden your 
