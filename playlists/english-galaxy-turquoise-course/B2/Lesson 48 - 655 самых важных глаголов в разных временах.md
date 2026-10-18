@@ -51,4 +51,24 @@ I don't agree with the statement that the end justifies the means
 
 ---
 
-irriata
+irritate - раздражать
+
+It really irritates me that he never pays attention to it 
+
+---
+
+sadden - расстраивать
+
+I'd like to say that this fact saddens me greatly 
+
+---
+
+construct - строить, сооружатьб
+
+This building hasn't been constructed yet 
+
+---
+
+judge - судить
+
+As they say don't judge and 
