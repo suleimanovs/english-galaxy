@@ -35,3 +35,20 @@ This interview was conducted in English
 
 insist on - настоять на 
 
+My friends insist on going there
+
+---
+
+wonder - интересоваться
+
+I wonder why he was fired
+
+---
+justify - оправдывать
+the end justifies the means - уель оправдывает средства
+
+I don't agree with the statement that the end justifies the means
+
+---
+
+irriata
