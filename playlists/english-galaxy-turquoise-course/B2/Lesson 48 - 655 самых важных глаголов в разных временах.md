@@ -115,4 +115,4 @@ This example really inspired him to start his own business
 
 broaden - расширять
 
-It can help you to broaden your 
+It can help you to broaden your horizons and get some experience
