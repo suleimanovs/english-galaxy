@@ -41,4 +41,19 @@ He has been dating her for about five years
 
 annoy - раздражать
 
-What really annoys me is that he 
+What really annoys me is that he doesn't even try to change it
+
+---
+
+contradict - противоречить
+
+It can be seen very easily that their words contradict their actions
+
+---
+
+persuade - убеждать
+
+He persuaded her that it was really true
+
+---
+
