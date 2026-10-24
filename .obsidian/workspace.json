@@ -4,47 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "b6c7cd21099445ae",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8b45721ff8bf1789",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "FA5qZrnTKDE",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=FA5qZrnTKDE"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    },
-                    "v": 1
-                  }
-                }
-              },
-              "icon": "youtube",
-              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 37"
-            }
-          }
-        ]
-      },
-      {
         "id": "14f2e2082ddd19b3",
         "type": "tabs",
         "children": [
@@ -243,7 +202,7 @@
       "media-extended:Open media quick switcher": false
     }
   },
-  "active": "8b45721ff8bf1789",
+  "active": "6b8eb27eb993ece1",
   "lastOpenFiles": [
     "playlists/learn-5000-english-words/Lesson 37.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 49 - 655 самых важных глаголов в разных временах.md",

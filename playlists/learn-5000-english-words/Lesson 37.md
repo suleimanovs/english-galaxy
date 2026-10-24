@@ -73,6 +73,17 @@
 2955. [x] bet -  держать пари
 2956. [ ] bureacracy - бюрократия
 2957. [x] cease - прекратитью
-2958. [ ] compassion - сострадание
-2959. [ ] concerned - обеспокоен
-2960. [ ] corruption
+2958. [x] compassion - сострадание
+2959. [x] concerned - обеспокоен
+2960. [ ] corruption - коррупция
+2961. [x] disobedience - непослушание
+2962. [x] distinguish - отличать
+2963. [ ] eventusally - в конце концов
+2964. [ ] inequality - неравенство
+2965. [x] marvel - восхищаться
+2966. [ ] object - объект
+2967. [x] objection - возражение
+2968. [ ] rapidity - быстрота
+2969. [ ] teaching - преподование
+2970. [ ] unsurprisingly - неудивительно
+2971. [ ] wisdom - мудрость
