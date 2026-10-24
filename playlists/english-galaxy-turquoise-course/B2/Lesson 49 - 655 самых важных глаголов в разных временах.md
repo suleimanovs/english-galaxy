@@ -77,4 +77,20 @@ I'm gonna achieve this aim in any case
 
 apply - применять
 
-You need to think how you can apply this knowledges
+You need to think how you can apply this knowledge
+
+---
+
+concern - касаться
+
+As fas as my sister is concerned, she likes knitting and cooking 
+
+---
+load - грузить
+to be loaded with - быть загруженным чем-то
+
+He said that he was loaded with work
+
+---
+
+award - 
