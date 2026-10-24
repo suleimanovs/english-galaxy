@@ -6,6 +6,8 @@
 //   different senses are separated by "; ", synonyms of one sense by ", "
 //   e.g.  "огонь, пожар; увольнять"  → rendered as a numbered list  1. огонь, пожар  2. увольнять
 //   a single sense is rendered as plain text. Rare senses live in the `note` column ("реже: …").
+//   HARD LIMIT (user rule, 2026-10-24): at most 2 senses, each 1–2 words, NO parentheses on the back —
+//   usage patterns, synonyms, register marks and British/American notes all go to `note`.
 
 const fs   = require('fs');
 const path = require('path');
