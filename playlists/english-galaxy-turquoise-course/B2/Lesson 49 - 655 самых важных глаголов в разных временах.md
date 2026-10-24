@@ -125,4 +125,7 @@ He doesn't like it when he is criticised for no reason
 
 decrease - снижаться, уменшаться
 
-I tend to think that these prices 
+I tend to think that these prices won't decrease 
+
+---
+
