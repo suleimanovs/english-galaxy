@@ -131,9 +131,13 @@ I think you should apologise for interrupting him all the time
 place - размещать
 
 I can't place all the guests in my house 
+A new order has just been placed 
 
 ---
 
-The order was placed just now
+correct - исправлять
+
+Not all the mistakes haven't been corrected in this work yet
 
 ---
+
