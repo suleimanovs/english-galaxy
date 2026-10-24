@@ -20,3 +20,24 @@ My friend said that he had already subscribed to this channel
 
 ---
 
+promote - продвигать
+
+The company tries to do its best to promote this product
+
+---
+
+end - заканчиваться
+
+As the saying goes, all is well that ends well
+
+---
+
+obey - починяться
+
+If he lives here he must obey these rules
+
+---
+
+gather - собирать
+
+I really like gathering 
