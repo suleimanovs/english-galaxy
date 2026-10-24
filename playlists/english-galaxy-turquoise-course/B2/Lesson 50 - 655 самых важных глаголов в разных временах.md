@@ -40,4 +40,28 @@ If he lives here he must obey these rules
 
 gather - собирать
 
-I really like gathering 
+I really like gathering berries and mushrooms in summer
+
+---
+
+expire - истекать, окончиваться
+
+When the trial period expires you will have to buy a license key 
+
+----
+
+demand - требовать
+
+He demanded an explanation from them 
+
+---
+
+dig - копать, рыть
+
+The kid dug a very deep hole in the sand
+
+---
+
+bark - лаять
+
+The dog hasn't been 
