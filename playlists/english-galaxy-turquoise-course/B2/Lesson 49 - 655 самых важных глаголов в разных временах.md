@@ -107,3 +107,22 @@ When I aproached the house I saw that the fence was being painted
 
 prepare - готовиться
 
+His motto is to prepare for the worst and hope for the best
+
+---
+
+wish - желать, хотеть
+
+I wish I had such an opportunity 
+
+---
+
+criticise - критиковать
+
+He doesn't like it when he is criticised for no reason 
+
+---
+
+decrease - снижаться, уменшаться
+
+I tend to think that these prices 
