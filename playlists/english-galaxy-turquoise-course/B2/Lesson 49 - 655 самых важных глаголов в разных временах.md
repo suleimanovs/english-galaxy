@@ -57,3 +57,24 @@ He persuaded her that it was really true
 
 ---
 
+plan - планировать
+
+He is planning to retire next year
+
+---
+
+miss - опоздать, пропустить, скучать
+
+We need to hurry up, otherwise we can miss the buss 
+
+---
+
+achieve - достигать
+
+I'm gonna achieve this aim in any case
+
+---
+
+apply - применять
+
+You need to think how you can apply this knowledges
