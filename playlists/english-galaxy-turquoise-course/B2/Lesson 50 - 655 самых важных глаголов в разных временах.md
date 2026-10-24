@@ -64,4 +64,32 @@ The kid dug a very deep hole in the sand
 
 bark - лаять
 
-The dog hasn't been 
+The dog hasn't stopped barking yet 
+
+---
+
+resign - уволиться
+
+He was forced to resign from this post
+
+----
+
+pollute - загрязнять
+
+Moreover, it pollutes the enverionment greatly 
+
+---
+
+demonstrate - демонстрировать
+
+They player demonstrated a brilliant technique
+
+---
+
+defend - защищать
+
+He often says that we need to defend our rights 
+
+---
+
+confiscate - конфисковы
