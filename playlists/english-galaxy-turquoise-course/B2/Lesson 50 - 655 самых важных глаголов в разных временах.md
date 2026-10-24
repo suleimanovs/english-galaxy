@@ -112,4 +112,28 @@ I still can't understand why he quit this job
 
 bear - рождать, выносить
 
-She can't bear this kind of treatment because it is so 
+She can't bear this kind of treatment because it is so humiliating 
+
+---
+
+dream - мечтать
+
+She has always dreamt about traveling around the world
+
+----
+
+interrupt - прерывать, перебивать
+
+I think you should apologise for interrupting him all the time
+
+---
+
+place - размещать
+
+I can't place all the guests in my house 
+
+---
+
+The order was placed just now
+
+---
