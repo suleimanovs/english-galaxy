@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "14f2e2082ddd19b3",
+        "id": "bb01d2e9b071c5b3",
         "type": "tabs",
         "children": [
           {
-            "id": "6b8eb27eb993ece1",
+            "id": "9ec128aa5b4be1d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "playlists/learn-5000-english-words/Lesson 37.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lesson 37"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -85,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.7353820800781,
-    "collapsed": true
+    "width": 378.7353820800781
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -202,9 +196,9 @@
       "media-extended:Open media quick switcher": false
     }
   },
-  "active": "6b8eb27eb993ece1",
+  "active": "9ec128aa5b4be1d8",
   "lastOpenFiles": [
-    "playlists/learn-5000-english-words/Lesson 37.md",
+    "playlists/learn-5000-english-words/Lesson 37 (212-216).md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 49 - 655 самых важных глаголов в разных временах.md",
     "playlists/english-galaxy-turquoise-course/B2/Lesson 48 - 655 самых важных глаголов в разных временах.md",
     "playlists/learn-5000-english-words/Lesson 38 (217-222).md",
