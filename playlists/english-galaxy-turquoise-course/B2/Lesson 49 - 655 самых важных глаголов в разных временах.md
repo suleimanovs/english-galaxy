@@ -93,4 +93,17 @@ He said that he was loaded with work
 
 ---
 
-award - 
+award - награждать, награда
+
+She didn't expect that she would be awarded
+
+---
+
+approach - подходить, приблежаться
+
+When I aproached the house I saw that the fence was being painted
+
+---
+
+prepare - готовиться
+
