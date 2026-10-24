@@ -92,4 +92,24 @@ He often says that we need to defend our rights
 
 ---
 
-confiscate - конфисковы
+confiscate - конфисковывать
+
+Their property was confiscsted
+
+---
+
+do - делать, выполнять
+
+He does different kinds of exercises for stretching, endurance and agility 
+
+---
+
+quit - уволиться, бросить работу
+
+I still can't understand why he quit this job
+
+---
+
+bear - рождать, выносить
+
+She can't bear this kind of treatment because it is so 
