@@ -80,6 +80,10 @@ It dawned on me that - Меня осенило что, до меня дошло 
 
 It dawned on me that there was another possible solution to that problem
 It suddenly dawned on me how ridiculous all these comments were
+It gradually dawned on me that he had misunderstood me 
 
 ---
 
+face up to - смириться с чем-то
+
+a while - некоторое время 
