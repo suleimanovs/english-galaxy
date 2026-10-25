@@ -62,4 +62,8 @@ Let's get back to discussing this issue
 feel up to - чувствовать себя в настроений что
 to be perfectly honest - если быть до конца честным
 
-If 
+To be perfectly honest I don't feel up to going shopping today 
+To be perfectly frank I don't feel up to going to this concert
+
+---
+
