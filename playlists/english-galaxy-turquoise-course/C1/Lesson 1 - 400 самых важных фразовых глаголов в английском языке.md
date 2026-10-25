@@ -75,3 +75,11 @@ I'd like to point out that I decided to take up learning English more seriously
 
 ---
 
+dawn on - доходить до кого-то
+It dawned on me that - Меня осенило что, до меня дошло что
+
+It dawned on me that there was another possible solution to that problem
+It suddenly dawned on me how ridiculous all these comments were
+
+---
+
