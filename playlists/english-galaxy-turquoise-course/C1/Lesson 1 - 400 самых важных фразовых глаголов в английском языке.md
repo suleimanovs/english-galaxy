@@ -67,3 +67,11 @@ To be perfectly frank I don't feel up to going to this concert
 
 ---
 
+take up - начать заниматься
+As far as I'm concerned - что касается меня
+
+As far as I'm concerned I took up learning English a couple of years ago
+I'd like to point out that I decided to take up learning English more seriously 
+
+---
+
