@@ -43,3 +43,23 @@ I cling to the idea that this hard work will bear fruit one day
 stick to - придерживаться
 
 I stick to the point that this hard work will bear fruit one day
+
+---
+
+pay off - окупаться
+
+I cling to the idea that all this hard work will pay off in the end 
+
+---
+
+get back to - вернуться к 
+
+Let's get back to our last conversation!
+Let's get back to discussing this issue
+
+---
+
+feel up to - чувствовать себя в настроений что
+to be perfectly honest - если быть до конца честным
+
+If 
