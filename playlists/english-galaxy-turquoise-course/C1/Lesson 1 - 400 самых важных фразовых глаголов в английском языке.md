@@ -29,7 +29,17 @@ As it has already been pointed out, it's necessary to take drastic measures
 lay off - увольнять 
 
 The company laid off two hundred and fifty workers last year
-Over 
+Over two hundred workers were laid off due-to this economic crisis
 
 ---
 
+cling to - цепляться за, придерживаться
+bear fruit - приносить плоды
+
+I cling to the idea that this hard work will bear fruit one day
+
+---
+
+stick to - придерживаться
+
+I stick to the point that this hard work will bear fruit one day
