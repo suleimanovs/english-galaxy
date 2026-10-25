@@ -8,6 +8,7 @@ go on - происходить
 
 I can't figure out what is going on right now
 I'm currently trying to figure out how it all works - Я сейчас пытаюсь понять как все это работает
+When I got back home I tried to figure out what had happened
 
 ---
 
@@ -17,4 +18,11 @@ I'm currently trying to figure out how we can sort out this problem in a shorter
 
 ---
 
-When I came home 
+point out - отметить
+
+I'd like to point out that it is really worth doing
+First of all I'd like to point out the following
+
+---
+
+As it already was been seen
