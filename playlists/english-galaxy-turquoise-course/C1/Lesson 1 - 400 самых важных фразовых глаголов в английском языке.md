@@ -22,7 +22,14 @@ point out - отметить
 
 I'd like to point out that it is really worth doing
 First of all I'd like to point out the following
+As it has already been pointed out, it's necessary to take drastic measures
 
 ---
 
-As it already was been seen
+lay off - увольнять 
+
+The company laid off two hundred and fifty workers last year
+Over 
+
+---
+
