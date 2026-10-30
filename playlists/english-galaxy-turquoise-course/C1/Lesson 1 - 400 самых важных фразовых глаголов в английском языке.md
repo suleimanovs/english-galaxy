@@ -86,4 +86,15 @@ It gradually dawned on me that he had misunderstood me
 
 face up to - смириться с чем-то
 a while - некоторое время 
-not s
+not surprisingly - не удевительно
+
+Not surprisingly that this news was really shocking and it took her a while to face up to it
+
+---
+
+Money matters in our society 
+Money does matter in our society
+
+You need to face up to the fact that money does matter in our society 
+
+
