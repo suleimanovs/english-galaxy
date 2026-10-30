@@ -85,5 +85,5 @@ It gradually dawned on me that he had misunderstood me
 ---
 
 face up to - смириться с чем-то
-
 a while - некоторое время 
+not s
