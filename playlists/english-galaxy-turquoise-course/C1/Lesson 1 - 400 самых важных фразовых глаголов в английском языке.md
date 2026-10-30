@@ -90,11 +90,16 @@ not surprisingly - не удевительно
 
 Not surprisingly that this news was really shocking and it took her a while to face up to it
 
----
 
 Money matters in our society 
 Money does matter in our society
 
 You need to face up to the fact that money does matter in our society 
+They had to face up to the fact that he would never be able to work here
 
+---
 
+come up with - придумывать, придти в голову 
+
+I came up with a very interesting idea
+As it seems to me I came up with a absolutely fascinating 
