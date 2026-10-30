@@ -31,7 +31,23 @@ The deal fell through to his astonishment
 
 ---
 
-live up to my 
+live up to my expectations - оправдать мои ожидания
+
+The party didn't live up to my expectations
+
+Unfortunately this performance didn't live up to my expectations at all
+
+---
+
+turn down - отказаться от чего-то
+
+Frankly speaking i couldn't turn down such a fantastic job offer
+
+---
+
+It really strikes me that - меня дейсвительно поражает
+
+It really strikes me that they turned down such a i
 
 
 
