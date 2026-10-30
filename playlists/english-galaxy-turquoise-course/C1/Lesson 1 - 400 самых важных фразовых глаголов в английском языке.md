@@ -115,4 +115,10 @@ Undeniably it is a very good source of income because it pulls in plenty of mone
 ---
 churn out - выпускать в большом количестве, штамповать
 
-Being a very prolific writer she churns out twenty or thirty novels in a year
+Being a very prolific writer she churns out twenty or thirty novels yearly
+
+The factory churns out different toys but it seems to me their quality is far from being perfect
+This factory churns out different toys but as it seems to me their quality leaves a lot to be desired
+
+---
+
