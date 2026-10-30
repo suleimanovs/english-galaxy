@@ -43,12 +43,20 @@ turn down - отказаться от чего-то
 
 Frankly speaking i couldn't turn down such a fantastic job offer
 
----
-
 It really strikes me that - меня дейсвительно поражает
 
-It really strikes me that they turned down such a i
+It really strikes me that they turned down such an invitation 
 
+I dont have the faintest idea - у меня нет ни малейшего представления
 
+I dont have the slightest idea - у меня нет ни малейшего представления
 
+I don't have the faintest idea why she turned down this invitation 
 
+---
+
+brush up on - потянуть что-то
+
+I decided to brush up on my English before going to The United States
+
+---
