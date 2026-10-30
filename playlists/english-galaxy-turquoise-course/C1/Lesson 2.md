@@ -71,4 +71,17 @@ It suddenly occurred to me that I have already heard it somewhere
 
 spark off - вызывать что-то
 
-This new law sparked off plenty of protests 
+This new law sparked off numerous protests all the over country
+tough reforms - жесткие реформы
+Such tough reforms sparked off a series of protests 
+
+---
+
+
+account for - объяснять что-то
+
+How can you account for these sudden changes?
+Surprising as it may seem - Удивительно как это может показаться
+
+
+Surprising as it may seem no one could account for disapearing 
