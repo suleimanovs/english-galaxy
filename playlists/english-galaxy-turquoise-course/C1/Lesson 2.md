@@ -58,5 +58,17 @@ I don't have the faintest idea why she turned down this invitation
 brush up on - потянуть что-то
 
 I decided to brush up on my English before going to The United States
+If you need to brush up on your English you can use this application
 
 ---
+
+occur to - приходить в голову, казаться
+
+It occurs to me that it is absolutely wrong
+It suddenly occurred to me that I have already heard it somewhere
+
+---
+
+spark off - вызывать что-то
+
+This new law sparked off plenty of protests 
