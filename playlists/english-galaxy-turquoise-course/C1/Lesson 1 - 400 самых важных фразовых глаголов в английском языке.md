@@ -102,4 +102,15 @@ They had to face up to the fact that he would never be able to work here
 come up with - придумывать, придти в голову 
 
 I came up with a very interesting idea
-As it seems to me I came up with a absolutely fascinating 
+As it seems to me I came up with an absolutely fascinating idea
+As it seems to me I have just come up with an absolutely brilliant idea
+
+---
+
+pull in - зарабатывать
+
+I guess he pulls in plenty of money
+Undeniably it is a very good source of income because it pulls in
+
+---
+
