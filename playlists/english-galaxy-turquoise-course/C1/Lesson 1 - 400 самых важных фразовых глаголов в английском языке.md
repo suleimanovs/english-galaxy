@@ -110,7 +110,9 @@ As it seems to me I have just come up with an absolutely brilliant idea
 pull in - зарабатывать
 
 I guess he pulls in plenty of money
-Undeniably it is a very good source of income because it pulls in
+Undeniably it is a very good source of income because it pulls in plenty of money
 
 ---
+churn out - выпускать в большом количестве, штамповать
 
+Being a very prolific writer she churns out twenty or thirty novels in a year
