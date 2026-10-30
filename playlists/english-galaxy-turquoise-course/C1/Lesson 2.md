@@ -84,4 +84,23 @@ How can you account for these sudden changes?
 Surprising as it may seem - Удивительно как это может показаться
 
 
-Surprising as it may seem no one could account for disapearing 
+Surprising as it may seem no one could account for the disapearence of this money  
+
+---
+
+carried away - очарован 
+
+I was carried away by the beauty of this music
+
+
+---
+
+get on - жить, поживать
+
+How are you getting on?
+
+She is getting on very well
+I see that you are getting on pretty well
+
+---
+
