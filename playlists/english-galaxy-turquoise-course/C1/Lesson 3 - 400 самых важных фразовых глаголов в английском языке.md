@@ -54,4 +54,22 @@ The government decided to crack down on illegal immigration
 
 ---
 
-clamp
+clamp down on - покончить с чем-то
+
+It is hight time the government clamp down on corruption and bureaucracy 
+It is high time the government clamp down on gambling
+
+---
+dwell on - зацикливаться на чем-то
+
+If i were you I wouldn't dwell on the past
+
+---
+
+nod off - задремать
+
+He nodded off during the movie
+He nodded off during the meeting
+
+---
+
