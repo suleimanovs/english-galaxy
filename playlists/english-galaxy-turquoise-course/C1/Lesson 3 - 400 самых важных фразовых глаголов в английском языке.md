@@ -87,9 +87,13 @@ I'd like to run through these documents before signing them.
 ---
 
 work out - заниматься (физическими упражнениями)
+work iout - понимать(understand)
 
 He works out at the gym quite often/frequently
+He works out at the local gym once or twice a week
+I can't work out how it functions
+She can't work out how to use this application
+I can't work out how he managed to solve this task
 
 ---
 
-He works out at the local gym 
