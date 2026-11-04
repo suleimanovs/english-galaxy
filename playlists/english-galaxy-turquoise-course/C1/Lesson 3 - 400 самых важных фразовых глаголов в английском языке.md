@@ -40,4 +40,18 @@ Actually I came up against lots of problems
 ---
 
 get across - донести(мысль или точку зрения)
+get my point across - донести свою точку зрения
 
+I will try to get this message across 
+I will try to get my point across
+
+---
+
+crack down on - покончить с чем-то
+
+It is high time the government crack down on bureaucracy and corruption
+The government decided to crack down on illegal immigration
+
+---
+
+clamp
