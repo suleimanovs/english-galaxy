@@ -22,7 +22,22 @@ hold up - застрять, задержать
 
 I was held up in a traffic jam
 I was late for the meeting because I had been held up in a traffic jam
-I was announced that the flight would be hold up due to 
+I was announced that the flight would be held up because of the fog
 
 ---
+
+run up against - столкнуться с чем-то
+
+I ran up against different kinds of problems
+The company ran up against very hard fierce competition
+
+---
+
+come up against - столкнуться с чем-то
+
+Actually I came up against lots of problems 
+
+---
+
+get across - донести(мысль или точку зрения)
 
