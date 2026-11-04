@@ -73,3 +73,23 @@ He nodded off during the meeting
 
 ---
 
+doze off - задремать
+
+The lecrture was so boring that I dozed off
+He must have dozed off during the movie 
+
+---
+
+run through - просмотреть 
+
+I'd like to run through these documents before signing them.
+
+---
+
+work out - заниматься (физическими упражнениями)
+
+He works out at the gym quite often/frequently
+
+---
+
+He works out at the local gym 
