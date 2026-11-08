@@ -4,47 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "9ec8b92cf9a9b32a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fffdef6c3d51d3c9",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "_ZmtzST9IlM",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=_ZmtzST9IlM"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    },
-                    "v": 1
-                  }
-                }
-              },
-              "icon": "youtube",
-              "title": "ВЫУЧИ 5000 АНГЛИЙСКИХ СЛОВ СУПЕР ТРЕНИРОВКА АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ С НУЛЯ АНГЛИЙСКИЕ СЛОВА 36"
-            }
-          }
-        ]
-      },
-      {
         "id": "f3079e395132e804",
         "type": "tabs",
         "children": [
@@ -69,17 +28,52 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "playlists/learn-5000-english-words/Lesson 36 (206-211).md",
+                "file": "playlists/english-galaxy-turquoise-course/C1/Lesson 3 - 400 самых важных фразовых глаголов в английском языке.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 36 (206-211)"
+              "title": "Lesson 3 - 400 самых важных фразовых глаголов в английском языке"
+            }
+          },
+          {
+            "id": "cbe7d298d90a55b1",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "XNFqrkuC5bI",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=XNFqrkuC5bI"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    },
+                    "v": 1
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "YouTube - XNFqrkuC5bI"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.7353820800781,
-    "collapsed": true
+    "width": 378.7353820800781
   },
   "right": {
     "id": "99d03791a8a3422d",
@@ -259,10 +252,10 @@
       "media-extended:Open media quick switcher": false
     }
   },
-  "active": "fffdef6c3d51d3c9",
+  "active": "cbe7d298d90a55b1",
   "lastOpenFiles": [
-    "playlists/learn-5000-english-words/Lesson 36 (206-211).md",
     "playlists/english-galaxy-turquoise-course/C1/Lesson 3 - 400 самых важных фразовых глаголов в английском языке.md",
+    "playlists/learn-5000-english-words/Lesson 36 (206-211).md",
     "playlists/english-galaxy-turquoise-course/C1/Lesson 2 - 400 самых важных фразовых глаголов в английском языке.md",
     "Home Page.md",
     "playlists/english-galaxy-turquoise-course/C1/Lesson 1 - 400 самых важных фразовых глаголов в английском языке.md",
