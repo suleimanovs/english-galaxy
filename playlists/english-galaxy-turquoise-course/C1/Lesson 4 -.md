@@ -65,3 +65,20 @@ Their agreement fell apart in the end
 The deal fell apart because they didn't agree on the price
 
 ---
+
+hold back - сдерживать
+
+She was so dissapointed that she couldn't hold back her tears 
+
+---
+
+polish up - потянуть (например язык/предмет)
+
+I decided to polish up my English before going to England
+I suppose that you should polish up your Spanish before going to Spain
+
+---
+
+
+
+
