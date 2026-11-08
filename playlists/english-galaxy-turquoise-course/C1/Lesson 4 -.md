@@ -48,4 +48,20 @@ We need to speed up this process somehow
 
 slow down - притормозить
 
-He needs to sllow down because he is driving 
+He needs to slow down because he is driving too fast
+
+---
+
+think over - обдумывать
+
+I need to think it over 
+It will take me some time to think it over
+
+---
+
+fall apart - растроиться, не состояться
+
+Their agreement fell apart in the end 
+The deal 
+
+---
