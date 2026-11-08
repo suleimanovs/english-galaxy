@@ -22,5 +22,30 @@ call for - требовать чего-то
 vast experience - богатый/огромный опыт
 
 It calls for much more time and energy 
-This kind of job calls for more professional skills and vast experience in this area
+This kind of job calls for lots of professional skills and vast experience in this area
 
+---
+
+flick through - пролистать
+
+I decided to flick through the catalogue while I was waiting 
+
+---
+
+hold on - подождать
+
+Can you hold on a minute ?
+Could you hold on a second?
+Hold on a second, please!
+
+---
+
+speed up - ускорять
+
+We need to speed up this process somehow
+
+---
+
+slow down - притормозить
+
+He needs to sllow down because he is driving 
