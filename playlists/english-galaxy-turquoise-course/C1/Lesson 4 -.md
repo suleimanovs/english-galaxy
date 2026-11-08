@@ -62,6 +62,6 @@ It will take me some time to think it over
 fall apart - растроиться, не состояться
 
 Their agreement fell apart in the end 
-The deal 
+The deal fell apart because they didn't agree on the price
 
 ---
