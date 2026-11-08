@@ -79,6 +79,20 @@ I suppose that you should polish up your Spanish before going to Spain
 
 ---
 
+figure out - понимать
+work out - понимать
+make out - понимать
+
+I just can't make out how you find time for all these things
+
+---
+
+go in for - заниматься чем-то
+
+As you may have already guessed I go in for different kinds of sport
+As you might have already guessed I go in for sports
+
+---
 
 
 
