@@ -64,5 +64,27 @@
 3601. [x] plug in - подключиться к сети
 3602. [x] write off - списать
 3603. [x] put across - донести 
-3604. [ ] get across - донести
-3605. [ ] 
+3604. [x] get across - донести
+3605. [x] bumb into - наткнуться на
+3606. [x] run across - наткнуться на
+3607. [x] clamp down - подавить, расправиться с
+3608. [x] crack down -  подавить, расправиться с
+3609. [x] run through - пробежаться по
+3610. [x] hold up - застрять
+3611. [x] work out - заниматься, понять
+3612. [x] dwell on - останавливаться на
+3613. [x] doze off - задремать
+3614. [x] nod off - задремать
+3615. [x] run up against - столкнуться с 
+3616. [ ] battery - батарея
+3617. [x] vacuum cleaner - пылесос
+3618. [x] evasion - уклонение
+3619. [x] fierce - свирепый
+3620. [x] fog - тупан 
+3621. [x] former - бывший
+3622. [x] hairdryer - ен
+3623. [ ] immigration - иммиграция
+3624. [x] obstacle - препятсвие 
+3625. [x] protestor - протестующий
+3626. [x] riot - беспорядок
+3627. [ ] soak
