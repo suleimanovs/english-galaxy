@@ -189,7 +189,7 @@ now. So, yeah.
 #### См. также
 - [[Small Talk — светская беседа]]
 - [[Linking Words — дискурсивные маркеры]]
-- [[Connected Speech — связная речь: linking, reductions, flap T]]
+- [[Connected Speech — связная речь (linking, reductions, flap T)]]
 - [[Sentence Stress and Intonation — интонация]]
 - [[IELTS Speaking — стратегия устной части]]
 - [[Phone and Video Calls — телефон и видеозвонки]]

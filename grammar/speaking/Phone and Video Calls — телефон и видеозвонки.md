@@ -218,6 +218,6 @@ Thanks, talk soon.
 - [[Functional Phrases — функциональные фразы]]
 - [[Small Talk — светская беседа]]
 - [[Fillers and Discourse Markers — слова-паразиты и маркеры живой речи]]
-- [[Connected Speech — связная речь: linking, reductions, flap T]]
+- [[Connected Speech — связная речь (linking, reductions, flap T)]]
 - [[Email and Letters — письма и email]]
 - ← [[Speaking Introduction|Назад к разделу: Разговорная речь]]

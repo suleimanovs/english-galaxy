@@ -167,7 +167,7 @@ tags: [grammar, resources]
 | [[English Sounds — звуки английского]] | Произношение |
 | [[Word Stress — ударение в словах]] | Произношение |
 | [[Sentence Stress and Intonation — интонация]] | Произношение |
-| [[Connected Speech — связная речь: linking, reductions, flap T]] | Произношение |
+| [[Connected Speech — связная речь (linking, reductions, flap T)]] | Произношение |
 | [[Endings -s and -ed — произношение окончаний]] | Произношение |
 | [[Russian Speaker Mistakes — ошибки русскоязычных]] | Произношение |
 | [[Writing Introduction\|Writing — письмо, эссе, стиль]] | Письмо |

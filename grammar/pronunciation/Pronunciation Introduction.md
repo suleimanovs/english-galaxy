@@ -10,7 +10,7 @@ tags: [grammar, pronunciation]
 [[English Sounds — звуки английского]]
 [[Word Stress — ударение в словах]]
 [[Sentence Stress and Intonation — интонация]]
-[[Connected Speech — связная речь: linking, reductions, flap T]]
+[[Connected Speech — связная речь (linking, reductions, flap T)]]
 [[Endings -s and -ed — произношение окончаний]]
 [[Russian Speaker Mistakes — ошибки русскоязычных]]
 

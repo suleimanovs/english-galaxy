@@ -220,6 +220,6 @@ Yes/No/Not Given — то же самое, но о МНЕНИИ автора, а
 - [[IELTS Overview — структура экзамена]]
 - [[IELTS Speaking — стратегия устной части]]
 - [[IELTS Writing — стратегия письменной части]]
-- [[Connected Speech — связная речь: linking, reductions, flap T]]
+- [[Connected Speech — связная речь (linking, reductions, flap T)]]
 - [[Linking Words — дискурсивные маркеры]]
 - ← [[Exam Prep Introduction|Назад к разделу: Экзамены]]

@@ -134,7 +134,7 @@ tags: [grammar, pronunciation]
 В GA, когда основа кончается на /t/ после гласного, этот /t/ оказывается между гласными перед безударным слогом и превращается во flap [ɾ] — быстрый удар языка, похожий на русское «д»/«р»:
 
 - waited /ˈweɪɾɪd/, hated /ˈheɪɾɪd/, visited /ˈvɪzɪɾɪd/, invited /ɪnˈvaɪɾɪd/, created /kriˈeɪɾɪd/.
-- После /n/ flap не возникает, а /t/ в разговорной речи часто выпадает: wanted /ˈwɑnɪd/, painted /ˈpeɪnɪd/. Подробнее — в [[Connected Speech — связная речь: linking, reductions, flap T]].
+- После /n/ flap не возникает, а /t/ в разговорной речи часто выпадает: wanted /ˈwɑnɪd/, painted /ˈpeɪnɪd/. Подробнее — в [[Connected Speech — связная речь (linking, reductions, flap T)]].
 
 ##### Прилагательные с /ɪd/ вопреки правилу
 
@@ -218,7 +218,7 @@ tags: [grammar, pronunciation]
 
 #### См. также
 - [[English Sounds — звуки английского]]
-- [[Connected Speech — связная речь: linking, reductions, flap T]]
+- [[Connected Speech — связная речь (linking, reductions, flap T)]]
 - [[Russian Speaker Mistakes — ошибки русскоязычных]]
 - [[Present Simple — Настоящее простое время]]
 - [[Past Simple — Прошедшее простое время]]
