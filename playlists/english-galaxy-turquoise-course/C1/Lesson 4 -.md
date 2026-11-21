@@ -98,8 +98,9 @@ open up - открывать
 
 I am sure that this job will open up new opportunities for me 
 This English course opens up new horizons for students from every layer of society
+Amazing as it may seem , it opens up almost unlimited posibilities 
 
 ---
 
-Amazing as it may seem ,
+
 
