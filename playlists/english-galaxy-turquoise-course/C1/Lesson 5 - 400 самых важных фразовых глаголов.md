@@ -98,7 +98,15 @@ Based on my own life experience I can say it for sure that it isn't so easy to g
 
 ---
 
-rip off - обмануть, обман
+rip off - обмануть
+rip-off - обман
 
-Just a later he realised 
+
+he realised it only later that he had been ripped off
+Without any exaggeration it was a completely rip-off
+Actually it is a completely rip-off
+
+
+
+
 
