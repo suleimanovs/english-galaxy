@@ -55,6 +55,15 @@ It was decided to take on two more employees
 show off - выставлять себя на показ
 
 I don't like it when someone shows off
-She often shows off because she likes 
+She often shows off because she likes attracting people's attention 
 
 ---
+look in on - заглянуть к кому-то
+
+I will look in on you in an hour
+
+---
+
+drop in on - заглянуть к кому-то
+
+I will drop in on you on the way ho,e 
