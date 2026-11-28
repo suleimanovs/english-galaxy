@@ -85,3 +85,20 @@ It is a real pity that they are deprived of this kind of opportunity
 
 ----
 
+give in - уступить чему-то
+persistent - настойчивый
+
+They were so persistent that he gave in their demands
+
+---
+
+get ahead - добиваться успеха
+
+Based on my own life experience I can say it for sure that it isn't so easy to get ahead in this area
+
+---
+
+rip off - обмануть, обман
+
+Just a later he realised 
+
