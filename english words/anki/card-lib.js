@@ -27,7 +27,7 @@ const FIELDS     = ['word','ipa','translation','filename','exportedAt','status',
 const today  = () => new Date().toISOString().split('T')[0];
 const sleep  = ms => new Promise(r => setTimeout(r, ms));
 const slugOf = w => w.toLowerCase().replace(/[^a-z0-9]/g, '_').replace(/_+/g, '_').replace(/^_|_$/g, '');
-const tagOf  = w => 'egw_' + w.toLowerCase().replace(/[^a-z0-9]/g, '_');
+const tagOf  = w => 'egw_' + w.toLowerCase().replace(/[^a-z0-9-]/g, '_');   // hyphen kept: 'rip-off' ≠ 'rip off'
 const bold   = s => s.replace(/\*\*(.+?)\*\*/g, '<b>$1</b>');
 const escCsv = s => (s || '').replace(/\r/g, '').replace(/\n/g, '\\n').replace(/\|/g, ' ');
 
