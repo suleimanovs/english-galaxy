@@ -66,4 +66,16 @@ I will look in on you in an hour
 
 drop in on - заглянуть к кому-то
 
-I will drop in on you on the way ho,e 
+I will drop in on you on the way home
+
+---
+
+sell out - распродовать
+
+All the goods were sold out 
+All the tickets have already been sold out
+I was so disappointed to find out  that all the tickets had already been sold out 
+
+---
+
+
