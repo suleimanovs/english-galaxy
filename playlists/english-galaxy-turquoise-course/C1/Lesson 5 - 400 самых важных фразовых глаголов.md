@@ -39,3 +39,22 @@ It came to me as a real shock that his reckless drive ended in his death
 
 ---
 
+use up - израсходовать
+
+They have already used up all the money
+
+---
+
+take on - принимать на работу
+
+The company needs to take on new staff
+It was decided to take on two more employees
+
+---
+
+show off - выставлять себя на показ
+
+I don't like it when someone shows off
+She often shows off because she likes 
+
+---
