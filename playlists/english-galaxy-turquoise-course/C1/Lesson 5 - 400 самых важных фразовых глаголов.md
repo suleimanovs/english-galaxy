@@ -27,4 +27,15 @@ He must have bought up all these goods with a very good discount.
 end in - закончиться чем-то
 end in a draw - закончиться вничью
 
-As we found out later, the game was 
+As we found out later, the game end in a draw
+
+---
+
+It came to me as a real surprise that.. - Для меня стало настоящим сюрпризом что
+It came to me as a real shock that - Для меня стало настоящим шоком что
+
+It came to me as a real surprise that the game end in a draw
+It came to me as a real shock that his reckless drive ended in his death 
+
+---
+
