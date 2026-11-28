@@ -78,4 +78,10 @@ I was so disappointed to find out  that all the tickets had already been sold ou
 
 ---
 
+deprive of - лишать чего-то
+
+Unfortunately she was deprived of such an opportunity
+It is a real pity that they are deprived of this kind of opportunity
+
+----
 
